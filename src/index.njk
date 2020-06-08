@@ -1,0 +1,55 @@
+---
+data: tei
+layout: layout
+---
+
+<h2 class="ui top attached block header">
+  About
+</h2>
+<div class="ui attached segment">
+<p>This is a side project which searches all public GitHub repositories for files containing the string teiHeader, as a way of discovering TEI-encoded documents.</p>
+<p>Due to the limitations of the GitHub code search API, only 1000 results can be retrieved at a time. Once complete this site will add a new set of results every four hours. </p>
+</div>
+
+<h2 class="ui top attached block header">
+  Statistics
+</h2>
+<div class="ui three statistics attached segment">
+  <div class="statistic">
+    <div class="value">
+      {{tei.repoCount}}
+    </div>
+    <div class="label">
+      repositories
+    </div>
+  </div>
+  <div class="statistic">
+    <div class="value">
+      {{tei.docCount}}
+    </div>
+    <div class="label">
+      documents
+    </div>
+  </div>
+  <div class="statistic">
+    <div class="value">
+      ?
+    </div>
+    <div class="label">
+      languages
+    </div>
+  </div>
+</div>
+
+<div class="ui basic segment center aligned">
+<a href="/last-indexed/" class="ui massive teal button">Take me to the TEI &rsaquo;</a>
+</div>
+
+<h2 class="ui top attached block header">
+  Metadata
+</h2>
+<div class="ui attached segment">
+<p>Last updated: 30 May 2020</p>
+<p>Creator: <a href="https://twitter.com/dr_pda">@dr_pda</a></p>
+<p>Source code: <a href="https://github.com/philipallfrey/teihub">https://github.com/philipallfrey/teihub</a></p>
+</div>

@@ -1,0 +1,42 @@
+---
+layout: layout
+pagination:
+  data: repos
+  size: 10
+---
+{{ content | safe }}
+
+<table class="ui celled padded table">
+  <thead>
+    <tr>
+      <th>Last indexed</th>
+      <th>Repository</th>
+      <th>Description</th>
+      <th class="single line">Matching files</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for repo in pagination.items %}
+  <tr>
+    <td class="right aligned">{{repo.date}}</td>
+    <td><a href="{{repo.url}}">{{repo.name}}<a></td>
+    <td>{{repo.desc}}</td>
+    <td class="right aligned">{{repo.count}}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+  <tfoot>
+  </tfoot>
+</table>
+
+<nav class="ui basic segment">
+  <ol class="ui right floated buttons">
+    <li class="ui button">{% if page.url != pagination.href.first %}<a href="{{ pagination.href.first }}">&laquo;</a>{% else %}&laquo;{% endif %}</li>
+    <li class="ui button">{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&lsaquo;</a>{% else %}&lsaquo;{% endif %}</li>
+    {%- for pageEntry in pagination.pages %}
+    <li class="ui button"><a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>{{ loop.index }}</a></li>
+    {%- endfor %}
+    <li class="ui button">{% if pagination.href.next %}<a href="{{ pagination.href.next }}">&rsaquo;</a>{% else %}&rsaquo;{% endif %}</li>
+    <li class="ui button">{% if page.url != pagination.href.last %}<a href="{{ pagination.href.last }}">&raquo;</a>{% else %}&raquo;{% endif %}</li>
+  </ol>
+</nav>
