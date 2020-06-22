@@ -1,7 +1,121 @@
-//const latest = require('./latest');
-const repos = require('./repos');
+const latest = require('./latest');
+let faunadb = require('faunadb'),
+q = faunadb.query;
 
-module.exports = function() {
+let client = new faunadb.Client({ secret: process.env.FAUNADB_SERVER_SECRET })
+
+async function updateDatabase(){
+  //Get aggregate data from database
+  let allAggregates = await client.query(
+    q.Map(
+      q.Paginate(q.Match(q.Index("all_aggregates"))),
+      q.Lambda("x", q.Get(q.Var("x")))
+    )
+  )
+  .catch(err => {
+    console.log(err);
+    return;
+  });
+
+  //Put aggregate data into a Map, so it's easy to query by first letter
+  const aggregates = new Map();
+  allAggregates.data.forEach(item => {
+    aggregates.set(item.data.key, item.data.values);
+  });
+
+  //Now put latest data into database, and update aggregates
+  for(let repo of latest) {
+    //Get first letter of repo name
+    const aggregateKey = repo.name.slice(0,1);
+
+    //We have aggregate data for this letter
+    if(aggregates.has(aggregateKey)){
+      let aggregateData = aggregates.get(aggregateKey);
+      if( aggregateData[repo.name] !== undefined){
+        let repoData = aggregateData[repo.name];
+        //get full data from DB
+        const {data: repoDataResults} = await client.query(
+          q.Map(
+            q.Paginate(q.Match(q.Index('repos_search_by_name'), repo.name)),
+            q.Lambda("x", q.Get(q.Var("x")))
+          )
+        ).catch( err => {
+          //Doesn't exist in DB
+        });
+        if(repoDataResults.length > 0){
+          //merge lists of files
+          const filesFromDB = repoDataResults[0].data.files;
+          repo.files = [...new Set([...filesFromDB,...repo.files])];
+          //save back to DB
+          await client.query(
+            q.Replace(repoDataResults[0].ref, {data: repo})
+          ).catch(err => console.log(err));
+        } else {
+          await client.query(
+            q.Create('repos', {data: repo})
+          ).catch(err => console.log(err));
+        }
+        //update count for aggregate
+        repoData.count = repo.files.length
+        aggregateData[repo.name] = repoData;
+        aggregates.set(aggregateKey, aggregateData);
+      } else {
+        //No existing aggregate data for this repo name
+        //This also implies the current repo is not in the DB
+        //Just set both of them
+        await client.query(
+          q.Create('repos', {data: repo})
+        ).catch(err => console.log(err));
+
+        repo.count = repo.files.length;
+        delete repo.files;
+        aggregateData[repo.name] = repo;
+        aggregates.set(aggregateKey, aggregateData);
+      }
+    } else {
+      //No existing aggregate data for this letter
+      //This also implies the current repo is not in the DB
+      //Set them both
+      await client.query(
+        q.Create('repos', {data: repo})
+      );
+
+      repo.count = repo.files.length;
+      delete repo.files;
+      let aggregateData = {};
+      aggregateData[repo.name] = repo;
+      aggregates.set(aggregateKey, aggregateData);
+    }
+  }
+
+  //Now put aggregates back into database
+  let aggregatesArray = [];
+  aggregates.forEach( async (values, key) => {
+    aggregatesArray = [...aggregatesArray, ...Object.values(values)];
+    aggregatesArray.push(...Array.from(values));
+    const result = await client.query(
+      q.Paginate(q.Match(q.Index('aggregates_search_by_key'), key))
+    ).catch(async (err) => {
+      console.log(err);
+    });
+    if(result !== undefined && result.data.length > 0){
+      //Aggregate exists, replace old version
+      await client.query(
+        q.Replace(result.data[0], {data: {key:key, values:values}})
+      ).catch(err => console.log(err))
+    } else {
+      //Aggregate doesn't exist, create it
+      await client.query(
+        q.Create( 'aggregates', {data: {key: key, values: values}})
+      ).catch(err => console.log(err))
+    }
+  });
+
+  return aggregatesArray;
+}
+
+module.exports = async function() {
+  const repos = await updateDatabase();
   const repoCount = repos.length;
   const docCount = repos.reduce( (sum, current) => {
     return sum + current.count;
@@ -9,7 +123,7 @@ module.exports = function() {
 
   const matches = [...repos].sort((a, b) => b.count - a.count);
   const repository = [...repos].sort((a, b) => a.name.localeCompare(b.name));
-  console.log("matches", matches);
+
   return {
     repoCount: repoCount,
     docCount: docCount,
