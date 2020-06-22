@@ -2,7 +2,7 @@
 layout: layout
 pagination:
   data: repos
-  size: 10
+  size: 50
 ---
 {{ content | safe }}
 
@@ -18,7 +18,7 @@ pagination:
   <tbody>
   {% for repo in pagination.items %}
   <tr>
-    <td class="right aligned">{{repo.date}}</td>
+    <td class="right aligned">{{repo.date | date}}</td>
     <td><a href="{{repo.url}}">{{repo.name}}<a></td>
     <td>{{repo.desc}}</td>
     <td class="right aligned">{{repo.count}}</td>
