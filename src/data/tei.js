@@ -32,7 +32,6 @@ async function updateDatabase(){
     if(aggregates.has(aggregateKey)){
       let aggregateData = aggregates.get(aggregateKey);
       if( aggregateData[repo.name] !== undefined){
-        let repoData = aggregateData[repo.name];
         //get full data from DB
         const {data: repoDataResults} = await client.query(
           q.Map(
@@ -56,8 +55,9 @@ async function updateDatabase(){
           ).catch(err => console.log(err));
         }
         //update count for aggregate
-        repoData.count = repo.files.length
-        aggregateData[repo.name] = repoData;
+        repo.count = repo.files.length;
+        delete repo.files;
+        aggregateData[repo.name] = repo;
         aggregates.set(aggregateKey, aggregateData);
       } else {
         //No existing aggregate data for this repo name
@@ -121,13 +121,14 @@ module.exports = async function() {
     return sum + current.count;
   }, 0);
 
+  const lastIndexed = [...repos].sort((a, b) => b.date - a.date);
   const matches = [...repos].sort((a, b) => b.count - a.count);
   const repository = [...repos].sort((a, b) => a.name.localeCompare(b.name));
 
   return {
     repoCount: repoCount,
     docCount: docCount,
-    lastIndexed: repos,
+    lastIndexed: lastIndexed,
     matches: matches,
     repository: repository
   };
