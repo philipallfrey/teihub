@@ -1,0 +1,12 @@
+name: 'Find <teiheader>'
+description: 'Run code search on public repos for XML files containing teiheader'
+inputs:
+  token:  # id of input
+    description: 'GitHub token'
+    required: true
+outputs:
+  latest: # id of output
+    description: 'The 1000 most recently indexed XML files containing teiheader'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
