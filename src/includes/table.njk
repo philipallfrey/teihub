@@ -3,16 +3,19 @@ layout: layout
 pagination:
   data: repos
   size: 50
+indexedOrder: 'desc'
+repositoryOrder: 'asc'
+descriptionOrder: 'asc'
+matchesOrder: 'desc'
 ---
-{{ content | safe }}
 
 <table class="ui celled padded table">
   <thead>
     <tr>
-      <th>Last indexed</th>
-      <th>Repository</th>
-      <th>Description</th>
-      <th class="single line">Matching files</th>
+      <th><a class="single line {{'active' if active.indexed}}" href="/last-indexed/{{indexedOrder}}/">Last indexed</a></th>
+      <th><a class="{{'active' if active.repository}}" href="/repository/{{repositoryOrder}}/">Repository</a></th>
+      <th><a class="{{'active' if active.description}}" href="/description/{{descriptionOrder}}/">Description</a></th>
+      <th><a class="single line {{'active' if active.matches}}" href="/matches/{{matchesOrder}}/">Matching files</a></th>
     </tr>
   </thead>
   <tbody>

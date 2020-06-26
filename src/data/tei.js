@@ -121,6 +121,7 @@ module.exports = async function() {
     return sum + current.count;
   }, 0);
 
+  const description = [...repos].sort((a, b) => a.desc.localeCompare(b.desc));
   const lastIndexed = [...repos].sort((a, b) => b.date - a.date);
   const matches = [...repos].sort((a, b) => b.count - a.count);
   const repository = [...repos].sort((a, b) => a.name.localeCompare(b.name));
