@@ -127,10 +127,12 @@ module.exports = async function() {
   const repository = [...repos].sort((a, b) => a.name.localeCompare(b.name));
 
   return {
-    repoCount: repoCount,
+    date: repos[0].date,
+    description: description,
     docCount: docCount,
     lastIndexed: lastIndexed,
     matches: matches,
+    repoCount: repoCount,
     repository: repository
   };
 };
