@@ -16,8 +16,8 @@ jobs:
         fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
     - name: Get new results
       uses: ./.github/actions/get-new-results
-        with:
-          token: ${{ secrets.WORKFLOW_TOKEN }}
+      with:
+        token: ${{ secrets.WORKFLOW_TOKEN }}
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
