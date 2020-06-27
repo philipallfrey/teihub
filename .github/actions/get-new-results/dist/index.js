@@ -971,11 +971,8 @@ async function run() {
   //Create map for storing data
   const repos = new Map();
 
-  //Get and format current date
-  const date = new Date()
-    .toUTCString()
-    .replace(/[^,]+, /,'') //Strip day of week
-    .replace(/:\d{2} GMT/, ' UTC'); //strip seconds
+  //Get current date as millisecond timestamp
+  const date = new Date().getTime();
 
   //The Search Code API has a limit of 100 results per page and max 1000 results
   //Get the 1000 most recently indexed matches in batches of 100
