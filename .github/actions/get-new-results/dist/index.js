@@ -1012,7 +1012,7 @@ async function run() {
     const latest = [...repos.values()];
 
     //Write output to file
-    fs.writeFileSync(__dirname + '/../../../src/data/latest.js', `module.exports = ${JSON.stringify(latest)};`);
+    fs.writeFileSync(__dirname + '/../../../../src/data/latest.js', `module.exports = ${JSON.stringify(latest)};`);
 
     //Set output for use by next step
     //Not really necessary now I am writing to file
