@@ -3,11 +3,16 @@ const github = require('@actions/github');
 const { throttling } = require('@octokit/plugin-throttling');
 const fs = require('fs');
 
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
 async function run() {
   const token = core.getInput('token');
 
   //Get Octokit client for accessing GitHub API
   //Use throttling plugin to limit rate of requests
+  //Doesn't seem to work when run as a GitHub action
   const octokit = github.getOctokit(token, {
     throttle: {
       onRateLimit: (retryAfter, options) => {
@@ -38,6 +43,8 @@ async function run() {
   //Get the 1000 most recently indexed matches in batches of 100
   try {
     for(let i=1; i<=10; i++){
+      //Delay to avoid hitting abuse limit warning from GitHub API
+      await sleep(2000);
       const { data } = await octokit.search.code({
         q: 'teiheader+language:xml',
         sort: 'indexed',
@@ -70,7 +77,7 @@ async function run() {
     const latest = [...repos.values()];
 
     //Write output to file
-    fs.writeFileSync(__dirname + '/../src/data/latest.js', `module.exports = ${JSON.stringify(latest)};`);
+    fs.writeFileSync(__dirname + '/../../../src/data/latest.js', `module.exports = ${JSON.stringify(latest)};`);
 
     //Set output for use by next step
     //Not really necessary now I am writing to file
