@@ -7,7 +7,7 @@ layout: layout
   About
 </h2>
 <div class="ui attached segment">
-<p>This is a side project which searches all public GitHub repositories for files containing the string teiHeader, as a way of discovering TEI-encoded documents.</p>
+<p>This is a side project which searches all public GitHub repositories for files containing the string <code>teiHeader</code>, as a way of discovering TEI-encoded documents.</p>
 <p>Due to the limitations of the GitHub code search API, only 1000 results can be retrieved at a time. Once complete this site will add a new set of results every four hours. </p>
 </div>
 
@@ -53,4 +53,5 @@ layout: layout
 <p>Last updated: {{tei.date | date}}</p>
 <p>Creator: <a href="https://twitter.com/dr_pda">@dr_pda</a></p>
 <p>Source code: <a href="https://github.com/philipallfrey/teihub">https://github.com/philipallfrey/teihub</a></p>
+<p>Data: <a href="/teihub.json">JSON</a> ({{tei.dataSize}})</p>
 </div>

@@ -1,8 +1,25 @@
 const latest = require('./latest');
+const fs = require('fs');
 let faunadb = require('faunadb'),
 q = faunadb.query;
 
 let client = new faunadb.Client({ secret: process.env.FAUNADB_SERVER_SECRET })
+
+// Human-readable filesize function taken from https://github.com/hustcc/filesize.js/
+function filesize(bytes, fixed) {
+  bytes = Math.abs(bytes);
+
+  const { radix, unit } = { radix: 1024, unit: ['b', 'Kb', 'Mb', 'Gb', 'Tb', 'Pb', 'Eb', 'Zb', 'Yb'] };
+
+  let loop = 0;
+
+  // calculate
+  while (bytes >= radix) {
+    bytes /= radix;
+    ++loop;
+  }
+  return `${bytes.toFixed(fixed)} ${unit[loop]}`;
+}
 
 async function updateDatabase(){
   //Get aggregate data from database
@@ -132,7 +149,12 @@ module.exports = async function() {
   const matches = [...repos].sort((a, b) => b.count - a.count);
   const repository = [...repos].sort((a, b) => a.name.localeCompare(b.name));
 
+  //Write full dataset to file, to allow people to download
+  const repoString = JSON.stringify(repos);
+  fs.writeFileSync(__dirname + '/../../dist/teihub.json', repoString);
+
   return {
+    dataSize: filesize(repoString.length, 0),
     date: repos[0].date,
     description: description,
     docCount: docCount,
