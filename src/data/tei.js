@@ -151,7 +151,7 @@ module.exports = async function() {
 
   //Write full dataset to file, to allow people to download
   const repoString = JSON.stringify(repos);
-  fs.writeFileSync(__dirname + '/../../dist/teihub.json', repoString);
+  //fs.writeFileSync(__dirname + '/../../dist/teihub.json', repoString);
 
   return {
     dataSize: filesize(repoString.length, 0),
