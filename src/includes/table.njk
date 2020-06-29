@@ -22,7 +22,7 @@ matchesOrder: 'desc'
   {% for repo in pagination.items %}
   <tr>
     <td class="right aligned">{{repo.date | date}}</td>
-    <td><a href="{{repo.url}}">{{repo.name}}<a></td>
+    <td><a href="{{repo.url}}">{{repo.name | splitAtSlash | safe }}<a></td>
     <td>{{repo.desc}}</td>
     <td class="right aligned">{{repo.count}}</td>
   </tr>
