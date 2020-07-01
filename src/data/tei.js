@@ -157,7 +157,7 @@ module.exports = async function() {
 
   return {
     dataSize: filesize(repoString.length, 0),
-    date: repos[0].date,
+    date: lastIndexed[0].date,
     description: description,
     docCount: docCount,
     lastIndexed: lastIndexed,
