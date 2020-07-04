@@ -33,8 +33,11 @@ async function run() {
   //Create map for storing data
   const repos = new Map();
 
-  //Get current date as millisecond timestamp
-  const date = new Date().getTime();
+  //Get current date as timestamp with milliseconds set to zero
+  const date = Math.round(new Date().getTime()/1000)*1000;
+
+  //Use milliseconds to order results, since they don't contain a timestamp
+  let milliseconds = 1000;
 
   //The Search Code API has a limit of 100 results per page and max 1000 results
   //Get the 1000 most recently indexed matches in batches of 100
@@ -52,6 +55,7 @@ async function run() {
 
       //Extract just the information we need
       data.items.forEach( item => {
+        milliseconds--;
         const repoId = item.repository.id;
         if(repos.has(repoId)){
           let data = repos.get(repoId);
@@ -59,7 +63,7 @@ async function run() {
           repos.set(repoId, data);
         } else {
           const data = {
-            date: date,
+            date: date + milliseconds,
             name: item.repository.full_name,
             url: item.repository.html_url, // TODO omit this, because it's the name with a constant prefix
             desc: item.repository.description || '-',
