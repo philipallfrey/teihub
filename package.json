@@ -18,6 +18,7 @@
     "@actions/core": "^1.2.4",
     "@actions/github": "^3.0.0",
     "@octokit/plugin-throttling": "^3.2.2",
-    "faunadb": "^2.14.2"
+    "faunadb": "^2.14.2",
+    "twit": "^2.2.11"
   }
 }

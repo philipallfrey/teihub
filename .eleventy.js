@@ -11,14 +11,9 @@ module.exports = function(eleventyConfig) {
     return value.replace('/', '/&#8203;'); //Add zero-width space after / in repo name
   });
 
-  eleventyConfig.addPassthroughCopy("android-chrome-192x192.png");
-  eleventyConfig.addPassthroughCopy("android-chrome-512x512.png");
-  eleventyConfig.addPassthroughCopy("apple-touch-icon.png");
+  eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("browserconfig.xml");
-  eleventyConfig.addPassthroughCopy("favicon-16x16.png");
-  eleventyConfig.addPassthroughCopy("favicon-32x32.png");
-  eleventyConfig.addPassthroughCopy("mstile-150x150.png");
-  eleventyConfig.addPassthroughCopy("safari-pinned-tab.svg");
+  eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("site.webmanifest");
 
   return {
