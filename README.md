@@ -12,9 +12,9 @@ I figured I would need to query GitHub programmatically, and put the idea aside,
 
 ## Implementation
 The pipeline I have set up does four main things
-- At regular intervals ([.github/actions/workflows/update-results.yml](.github/actions/workflows/update-results.yml))
-- It queries the GitHub API for 1000 <code>teiHeader</code> results and saves the results to this repository ([src/data/latest.js](../src/data/latest.js))
-- They are imported to a database, which updates the list of matching repositories ([src/data/tei.js](../src/data/tei.js))
+- At regular intervals ([.github/workflows/update-results.yml](.github/workflows/update-results.yml))
+- It queries the GitHub API for 1000 <code>teiHeader</code> results and saves the results to this repository ([src/data/latest.js](src/data/latest.js))
+- They are imported to a database, which updates the list of matching repositories ([src/data/tei.js](src/data/tei.js))
 - The static website is rebuilt and deployed to hosting. (<code>npm run build</code>)
 
 ### Workflow
@@ -34,14 +34,14 @@ The workflow defines four steps:
 - Commit the changes to repo
 - Push the changes back to GitHub
 
-See [.github/actions/workflows/update-results.yml](.github/actions/workflows/update-results.yml)
+See [.github/workflows/update-results.yml](.github/workflows/update-results.yml)
 
 ### Query GitHub API
 I [wrote my own GitHub action](https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action) to query the [GitHub REST API v3](https://docs.github.com/en/rest) for files containing <code>teiHeader</code>, see [.github/actions/get-new-results](.github/actions/get-new-results).
 
 The configuration is defined in [action.yml](.github/actions/get-new-results/action.yml)
 
-The code in [index.js](.github/actions/get-new-results/index.js) uses the GitHub Octokit client, with a throttling plugin, to run the queries. (I had to add an additional delay between queries to avoid setting off an abuse limit error, because GitHub classes the code search is computationally expensive). The logic is
+The code in [index.js](.github/actions/get-new-results/index.js) uses the GitHub Octokit client, with a throttling plugin, to run the queries. (I had to add an additional delay between queries to avoid setting off an abuse limit error, because GitHub classes the code search as computationally expensive). The logic is
 - get 10 batches of 100 teiheader results ordered by most recently indexed
 - group the resulting files names by repository
 - write these aggregated results to a file in the working directory
