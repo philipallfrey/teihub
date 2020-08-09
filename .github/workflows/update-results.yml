@@ -15,6 +15,7 @@ jobs:
         persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
         fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
     - name: Get new results
+      id: results
       uses: ./.github/actions/get-new-results
       with:
         token: ${{ secrets.WORKFLOW_TOKEN }}
@@ -27,3 +28,13 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.WORKFLOW_TOKEN }}
+    - name: Tweet interesting repos
+      uses: ./.github/actions/tweet-interesting-repos
+      with:
+        access_token: ${{ secrets.ACCESS_TOKEN }}
+        access_token_secret: ${{ secrets.ACCESS_TOKEN_SECRET }}
+        consumer_key: ${{ secrets.CONSUMER_KEY }}
+        consumer_secret: ${{ secrets.CONSUMER_SECRET }}
+        faunadb_server_secret: ${{ secrets.FAUNADB_SERVER_SECRET }}
+        latest: ${{ steps.results.outputs.latest }}
+        token: ${{ secrets.WORKFLOW_TOKEN }}

@@ -1,0 +1,30 @@
+name: 'Tweet selected repo'
+description: 'Choose an interesting repo from results and tweet it'
+inputs:
+  token:
+    description: 'GitHub token'
+    required: true
+  latest:
+    description: 'Latest results from GitHub query'
+    required: true
+  consumer_key:
+    description: 'Twitter Consumer Key'
+    required: true
+  consumer_secret:
+    description: 'Twitter Consumer Secret'
+    required: true
+  access_token:
+    description: 'Twitter Access Token'
+    required: true
+  access_token_secret:
+    description: 'Twitter Access Token Secret'
+    required: true
+  faunadb_server_secret:
+    description: 'FaunaDB Server Secret'
+    required: true
+outputs:
+  tweet: # id of output
+    description: 'The text of the tweet'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
