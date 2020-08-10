@@ -1,6 +1,7 @@
 const core = require('@actions/core');
 const github = require('@actions/github');
 const { throttling } = require('@octokit/plugin-throttling');
+const fs = require('fs');
 const Twit = require('twit');
 let faunadb = require('faunadb'),
 q = faunadb.query;
@@ -11,8 +12,12 @@ async function run() {
   const consumer_key = core.getInput('consumer_key');
   const consumer_secret = core.getInput('consumer_secret');
   const faunadb_server_secret = core.getInput('faunadb_server_secret');
-  const latest = core.getInput('latest');
   const token = core.getInput('token');
+
+  // Get latest list of results from file.
+  // Can't use require because we compile index.js
+  const latestString = fs.readFileSync('../../../../src/data/latest.js','utf8');
+  const latest = JSON.parse(latestString.replace(/^module.exports = /,'').replace(/;$/,''));
 
   // Sort repos by interestingness, i.e. description length + number of files
   const repos = latest

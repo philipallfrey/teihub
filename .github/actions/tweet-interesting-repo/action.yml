@@ -4,9 +4,6 @@ inputs:
   token:
     description: 'GitHub token'
     required: true
-  latest:
-    description: 'Latest results from GitHub query'
-    required: true
   consumer_key:
     description: 'Twitter Consumer Key'
     required: true

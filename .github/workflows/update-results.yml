@@ -36,5 +36,4 @@ jobs:
         consumer_key: ${{ secrets.CONSUMER_KEY }}
         consumer_secret: ${{ secrets.CONSUMER_SECRET }}
         faunadb_server_secret: ${{ secrets.FAUNADB_SERVER_SECRET }}
-        latest: ${{ steps.results.outputs.latest }}
         token: ${{ secrets.WORKFLOW_TOKEN }}
