@@ -29,7 +29,7 @@ jobs:
       with:
         github_token: ${{ secrets.WORKFLOW_TOKEN }}
     - name: Tweet interesting repos
-      uses: ./.github/actions/tweet-interesting-repos
+      uses: ./.github/actions/tweet-interesting-repo
       with:
         access_token: ${{ secrets.ACCESS_TOKEN }}
         access_token_secret: ${{ secrets.ACCESS_TOKEN_SECRET }}
