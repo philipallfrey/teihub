@@ -16,7 +16,7 @@ async function run() {
 
   // Get latest list of results from file.
   // Can't use require because we compile index.js
-  const latestString = fs.readFileSync('../../../../src/data/latest.js','utf8');
+  const latestString = fs.readFileSync(__dirname + '/../../../../src/data/latest.js','utf8');
   const latest = JSON.parse(latestString.replace(/^module.exports = /,'').replace(/;$/,''));
 
   // Sort repos by interestingness, i.e. description length + number of files
