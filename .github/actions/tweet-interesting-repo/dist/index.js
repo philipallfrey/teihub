@@ -6507,7 +6507,7 @@ async function run() {
   // Get previously tweeted repos from database
   let client = new faunadb.Client({ secret: faunadb_server_secret });
   let {data: tweetedRepos} = await client.query(
-      q.Paginate(q.Match(q.Index("all_interesting_repos")))
+      q.Paginate(q.Match(q.Index("all_interesting_repos")), {size: 100000})
   )
   .catch(err => {
     console.log(err);
