@@ -68,26 +68,30 @@ function getLangs(doc){
 }
 
 function normaliseLangs(langs){
-  // Convert to lowercase and remove duplicates
-  langs = [...new Set(
-    langs.map( lang => lang.toLowerCase() )
-  )];
-
-  return langs.map( lang => {
-    // Remove script from language codes like tam-Latn or x-oldkhmer-Latn
-    const langComponents = lang.split('-');
-    lang = langComponents.length > 1 ? langComponents.slice(0,-1).join('-') : lang;
-    lang = lang.toLowerCase();
+  langs = langs
+    .map( lang => {
+    // Remove script from language codes like tam-Latn
+    const langComponents = lang.toLowerCase().split('-');
+    lang = langComponents[0];
+    // Preserve second part of code if first part is x, e.g. x-oldkhmer-Latn
+    if(langComponents.length > 1 && langComponents[0] === 'x'){
+      lang = `${langComponents[0]}-${langComponents[1]}`;
+    }
 
     switch (lang.length){
       case 2:
         return languages.alpha2ToAlpha3T(lang);
 
       case 3:
-      default:
         return lang;
+
+      default:
+        return '';
     }
-  })
+  });
+
+  // Remove duplicates and empty strings
+  return [...new Set( langs.filter(x => x) )];
 }
 
 function sleep(ms) {
