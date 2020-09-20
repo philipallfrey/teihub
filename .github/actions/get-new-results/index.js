@@ -172,7 +172,7 @@ async function run() {
 
     }
     // Get language for first file seen for each repo
-    await repos.forEach(async (repo, repoId) => {
+    for(let [repoId, repo] of repos ){
       const nameElements = repo.name.split('/');
 
       //Filter out e.g. ODD files which also have a <teiHeader>
@@ -195,7 +195,7 @@ async function run() {
       //Update repo data
       repo.langs = [...repo.langs, ...langs];
       repos.set(repoId, repo);
-    });
+    };
 
     //Convert the map to an array
     const latest = [...repos.values()];
