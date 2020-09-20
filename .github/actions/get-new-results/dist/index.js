@@ -1401,24 +1401,32 @@ async function run() {
 
       //Filter out e.g. ODD files which also have a <teiHeader>
       const files = repo.files.filter(x => x.endsWith('.xml'));
-      if(files.length === 0) return;
-      const path = files[0];
+      if(files.length > 0){
+        const path = files[0];
 
-      //Get file contents
-      const { data: result } = await octokit.repos.getContent({
-        owner: nameElements[0],
-        repo: nameElements[1],
-        path: path
-      });
+        //Get file contents
+        const results = await octokit.repos.getContent({
+          owner: nameElements[0],
+          repo: nameElements[1],
+          path: path
+        }).catch(err => {console.log("error getting contents", repo); return;});
 
-      //Parse xml for language info
-      const xml = Buffer.from(result.content, 'base64').toString()
-      const doc = xmldom.parseFromString(xml, 'text/xml');
-      const langs = normaliseLangs(getLangs(doc));
+        if(results){
+          const result = results.data;
 
-      //Update repo data
-      repo.langs = [...repo.langs, ...langs];
-      repos.set(repoId, repo);
+          //Parse xml for language info
+          const xml = Buffer.from(result.content, 'base64').toString()
+          const doc = xmldom.parseFromString(xml, 'text/xml');
+          const langs = normaliseLangs(getLangs(doc));
+
+          //Update repo data
+          repo.langs = repo.langs || [];
+          repo.langs = [...repo.langs, ...langs];
+          repos.set(repoId, repo);
+        } else {
+          console.log("Cannot fetch file from", repo.data.name);
+        }
+      }
     };
 
     //Convert the map to an array
