@@ -17,8 +17,11 @@
   "dependencies": {
     "@actions/core": "^1.2.4",
     "@actions/github": "^3.0.0",
+    "@cospired/i18n-iso-languages": "^2.1.2",
     "@octokit/plugin-throttling": "^3.2.2",
     "faunadb": "^2.14.2",
-    "twit": "^2.2.11"
+    "twit": "^2.2.11",
+    "xmldom": "^0.3.0",
+    "xpath": "0.0.29"
   }
 }
