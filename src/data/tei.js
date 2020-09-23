@@ -62,6 +62,9 @@ async function updateDatabase(){
           //merge lists of files
           const filesFromDB = repoDataResults[0].data.files;
           repo.files = [...new Set([...filesFromDB,...repo.files])];
+          //merge lists of languages
+          const langsFromDB = repoDataResults[0].data.langs || [];
+          repo.langs = [...new Set([...langsFromDB,...repo.langs])];
           //save back to DB
           await client.query(
             q.Replace(repoDataResults[0].ref, {data: repo})
@@ -137,6 +140,11 @@ module.exports = async function() {
   const docCount = repos.reduce( (sum, current) => {
     return sum + current.count;
   }, 0);
+  const langs = repos.reduce( (allLangs, current) => {
+    current.langs = current.langs || [];
+    return new Set([...allLangs, ...current.langs])
+  }, new Set());
+  const langCount = langs.size;
 
   const description = [...repos].sort((a, b) => {
     //Sort empty descriptions to end
@@ -161,6 +169,7 @@ module.exports = async function() {
     description: description,
     docCount: docCount,
     lastIndexed: lastIndexed,
+    langCount: langCount,
     matches: matches,
     repoCount: repoCount,
     repository: repository
