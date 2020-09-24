@@ -8,7 +8,7 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addFilter("splitAtSlash", function(value) {
-    return value.replace('/', '/&#8203;'); //Add zero-width space after / in repo name
+    return value.replace(/([/,._-])/gi, '$1&#8203;'); //Add zero-width space after / or other punctuation in repo name
   });
 
   eleventyConfig.addPassthroughCopy("assets");

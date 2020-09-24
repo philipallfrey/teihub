@@ -31,6 +31,29 @@ title: TEIhub
         font-family: 'Icons';
         padding-left: 0.5em;
       }
+      @media (max-width: 720px){
+        tr{
+          overflow: hidden;
+        }
+        td.langs{
+          float: left;
+          max-width: 75%
+        }
+        td.langs:before{
+          content: 'languages: ';
+          font-style: italic;
+          font-weight: normal;
+        }
+        td.files{
+          font-weight: bold;
+        }
+        td.files:before{
+          content: 'files: ';
+          font-style: italic;
+          font-weight: normal;
+        }
+
+      }
     </style>
     <title>{{ title }}</title>
   </head>

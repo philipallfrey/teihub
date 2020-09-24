@@ -151,7 +151,14 @@ module.exports = async function() {
     if(a.desc === '-') return 1;
     if(b.desc === '-') return -1;
     //Otherwise do case/diacritic insensitive sort
-    return a.desc.localeCompare(b.desc)
+    return a.desc.localeCompare(b.desc);
+  });
+  const language = [...repos].sort((a, b) => {
+    //Sort empty languages to end
+    if(a.langs.length === 0) return 1;
+    if(b.langs.length === 0) return -1;
+    //Otherwise do case/diacritic insensitive sort
+    return a.langs.join().localeCompare(b.langs.join());
   });
   const lastIndexed = [...repos].sort((a, b) => b.date - a.date);
   const matches = [...repos].sort((a, b) => b.count - a.count);
@@ -168,8 +175,9 @@ module.exports = async function() {
     date: lastIndexed[0].date,
     description: description,
     docCount: docCount,
-    lastIndexed: lastIndexed,
     langCount: langCount,
+    language: language,
+    lastIndexed: lastIndexed,
     matches: matches,
     repoCount: repoCount,
     repository: repository

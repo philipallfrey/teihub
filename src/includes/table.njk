@@ -6,6 +6,7 @@ pagination:
 indexedOrder: 'desc'
 repositoryOrder: 'asc'
 descriptionOrder: 'asc'
+languageOrder: 'asc'
 matchesOrder: 'desc'
 ---
 
@@ -15,6 +16,7 @@ matchesOrder: 'desc'
       <th><a class="single line {{'active' if active.indexed}}" href="/last-indexed/{{indexedOrder}}/">Last indexed</a></th>
       <th><a class="{{'active' if active.repository}}" href="/repository/{{repositoryOrder}}/">Repository</a></th>
       <th><a class="{{'active' if active.description}}" href="/description/{{descriptionOrder}}/">Description</a></th>
+      <th><a class="{{'active' if active.language}}" href="/language/{{languageOrder}}/">Languages</a></th>
       <th><a class="single line {{'active' if active.matches}}" href="/matches/{{matchesOrder}}/">Matching files</a></th>
     </tr>
   </thead>
@@ -24,7 +26,8 @@ matchesOrder: 'desc'
     <td class="right aligned">{{repo.date | date}}</td>
     <td><a href="{{repo.url}}">{{repo.name | splitAtSlash | safe }}<a></td>
     <td>{{repo.desc}}</td>
-    <td class="right aligned">{{repo.count}}</td>
+    <td class="langs">{% for lang in repo.langs %}{{ lang }}{{', ' if not loop.last}}{% else %}-{% endfor %}</td>
+    <td class="right aligned files">{{repo.count}}</td>
   </tr>
   {% endfor %}
   </tbody>
