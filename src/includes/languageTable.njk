@@ -1,0 +1,49 @@
+---
+layout: layout
+pagination:
+  data: langs
+  size: 50
+codeOrder: 'asc'
+countOrder: 'desc'
+---
+<h2 class="ui top attached block header">
+  Languages
+</h2>
+<div class="ui attached segment">
+<p>In an effort to make it easier to locate TEI-encoded texts in a particular language, I have recorded the <a href="https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes" target="_blank">ISO 639-2(T) language codes</a> for each repository where language(s) were clearly specified in TEI files.</p>
+  <p>Each time a repository appears in a batch of 1000 GitHub search results, I download the first .xml file and check whether a language is specified in any of the following ways, in order:</p>
+  <ol>
+    <li> <code>&lt;langUsage&gt;&lt;language id(ent)="xx(x)"&gt;...&lt;/language&gt;&lt;/langUsage&gt;</code></li>
+    <li> <code>&lt;text xml:lang="xx(x)"&gt;</code></li>
+    <li> <code>&lt;body xml:lang="xx(x)"&gt;</code></li>
+    <li> <code>&lt;textLang mainLang="xx(x)"&gt;</code>. While this technically applies to the language of the manuscript, not necessarily of the TEI file, it was often used in files where only a facsimile was provided in the body.</li>
+    <li> <code>&lt;TEI xml:lang="xx(x)"&gt;</code>, but only where the language code is not en, as I found this did not reliably match the language used in the rest of the file.</code></li>
+    <li> <code>xml:lang</code> on any element within body, excluding <code>&lt;foreign&gt;</code> tags</li>
+  </ol>
+
+  <p>Based on a sample of 500 repositories, approximately 40% declare a language in one of these ways. If the same repository appears in a different batch of search results, I apply the same algorithm to the first .xml file found in that search, and append any new languages to the end of the list. Repositories/files/languages are not currently removed from this database even if the underlying files are changed or removed from GitHub.</p>
+
+  <p>I have normalised all two or three character language codes to three-character ISO 639-2 codes (preferring the T variant where relevant), and excluded any invalid codes. I have also stripped out the script part from language codes if specified (e.g. <code>tam-Latn</code> becomes <code>tam</code> ).</p>
+
+
+</div>
+<table class="ui collapsing celled padded table">
+  <thead>
+    <tr>
+      <th><a class="{{'active' if active.code}}" href="/languages/code/{{codeOrder}}/">Language Code</a></th>
+      <th>Language Name</th>
+      <th><a class="{{'active' if active.count}}" href="/languages/count/{{countOrder}}/">Matching Repositories</a></th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for lang in pagination.items %}
+  <tr>
+    <td>{{lang.code}}</td>
+    <td>{{lang.name}}</td>
+    <td>{{lang.count}}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+  <tfoot>
+  </tfoot>
+</table>

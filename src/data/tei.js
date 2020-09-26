@@ -142,11 +142,33 @@ module.exports = async function() {
   const docCount = repos.reduce( (sum, current) => {
     return sum + current.count;
   }, 0);
+
   const langs = repos.reduce( (allLangs, current) => {
     current.langs = current.langs || [];
-    return new Set([...allLangs, ...current.langs])
-  }, new Set());
-  const langCount = langs.size;
+    current.langs.forEach(lang => {
+      if(!allLangs.has(lang)){
+        allLangs.set(lang, 1)
+      } else {
+        let count = allLangs.get(lang);
+        count++;
+        allLangs.set(lang, count);
+      }
+    })
+    return allLangs;
+  }, new Map());
+
+  const langObjects = [...langs.entries()]
+    .map(x => {
+      return {code: x[0], count: x[1], name: languages.getName(x[0], 'name')};
+    })
+
+  const langCounts = [...langObjects]
+    .sort((a, b) => b.count - a.count);
+
+  const langCodes = [...langObjects]
+    .sort((a, b) => a.code.localeCompare(b.code));
+
+  const languageCount = langs.size;
 
   const description = [...repos].sort((a, b) => {
     //Sort empty descriptions to end
@@ -177,7 +199,9 @@ module.exports = async function() {
     date: lastIndexed[0].date,
     description: description,
     docCount: docCount,
-    langCount: langCount,
+    langCodes: langCodes,
+    langCounts: langCounts,
+    languageCount: languageCount,
     language: language,
     lastIndexed: lastIndexed,
     matches: matches,
