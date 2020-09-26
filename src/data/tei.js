@@ -1,5 +1,7 @@
+const languages = require('../../lib/iso-639-2/iso-639-2.js');
 const latest = require('./latest');
 const fs = require('fs');
+
 let faunadb = require('faunadb'),
 q = faunadb.query;
 

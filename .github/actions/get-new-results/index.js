@@ -1,6 +1,6 @@
 const core = require('@actions/core');
 const github = require('@actions/github');
-const languages = require('@cospired/i18n-iso-languages');
+const languages = require('../../../lib/iso-639-2/iso-639-2.js');
 const { throttling } = require('@octokit/plugin-throttling');
 const fs = require('fs');
 const dom = require('xmldom').DOMParser;
@@ -75,15 +75,15 @@ function normaliseLangs(langs){
     lang = langComponents[0];
     // Preserve second part of code if first part is x, e.g. x-oldkhmer-Latn
     if(langComponents.length > 1 && langComponents[0] === 'x'){
-      lang = `${langComponents[0]}-${langComponents[1]}`;
+      return `${langComponents[0]}-${langComponents[1]}`;
     }
 
+    // Normalise to ISO 639-2T 3-letter code
+    // Ignore strings longer than 3 letters, probably incorrect input, e.g. greek
     switch (lang.length){
       case 2:
-        return languages.alpha2ToAlpha3T(lang);
-
       case 3:
-        return lang;
+        return languages.toAlpha3T(lang) || '';
 
       default:
         return '';

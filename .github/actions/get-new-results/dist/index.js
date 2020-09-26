@@ -307,13 +307,6 @@ exports.DOMParser = DOMParser;
 
 /***/ }),
 
-/***/ 6:
-/***/ (function(module) {
-
-module.exports = {"locale":"fi","languages":{"aa":"afar","ab":"abhaasi","ae":"avesta","af":"afrikaans","ak":"akan","am":"amhara","an":"aragonia","ar":"arabia","as":"assami","av":"avaari","ay":"aimara","az":"azeri","ba":"baškiiri","be":"valkovenäjä","bg":"bulgaria","bh":"bihari","bi":"bislama","bm":"bambara","bn":"bengali","bo":"tiibet","br":"bretoni","bs":"bosnia","ca":"katalaani","ce":"tšetšeeni","ch":"tšamorro","co":"korsika","cr":"cree","cs":"tšekki","cu":"kirkkoslaavi","cv":"tšuvassi","cy":"kymri","da":"tanska","de":"saksa","dv":"divehi","dz":"dzongkha","ee":"ewe","el":"kreikka","en":"englanti","eo":"esperanto","es":"espanja","et":"viro","eu":"baski","fa":"persia","ff":"fulani","fi":"suomi","fj":"fidži","fo":"fääri","fr":"ranska","fy":"länsifriisi","ga":"iiri","gd":"gaeli","gl":"galicia","gn":"guarani","gu":"gudžarati","gv":"manksi","ha":"hausa","he":"heprea","hi":"hindi","ho":"hiri-motu","hr":"kroatia","ht":"haiti","hu":"unkari","hy":"armenia","hz":"herero","ia":"interlingua","id":"indonesia","ie":"interlingue","ig":"igbo","ii":"sichuanin-yi","ik":"inupiaq","io":"ido","is":"islanti","it":"italia","iu":"inuktitut","ja":"japani","jv":"jaava","ka":"georgia","kg":"kongo","ki":"kikuju","kj":"kuanjama","kk":"kazakki","kl":"grönlanti","km":"khmer","kn":"kannada","ko":"korea","kr":"kanuri","ks":"kašmiri","ku":"kurdi","kv":"komi","kw":"korni","ky":"kirgiisi","la":"latina","lb":"luxemburg","lg":"ganda","li":"limburg","ln":"lingala","lo":"lao","lt":"liettua","lu":"katanganluba","lv":"latvia","mg":"malagassi","mh":"marshallese","mi":"maori","mk":"makedonia","ml":"malajalam","mn":"mongoli","mr":"marathi","ms":"malaiji","mt":"malta","my":"burma","na":"nauru","nb":"kirjanorja","nd":"pohjois-ndebele","ne":"nepali","ng":"ndonga","nl":"hollanti","nn":"uusnorja","no":"norja","nr":"etelä-ndebele","nv":"navajo","ny":"njandža","oc":"oksitaani","oj":"odžibwa","om":"oromo","or":"orija","os":"osseetti","pa":"pandžabi","pi":"paali","pl":"puola","ps":"paštu","pt":"portugali","qu":"ketšua","rm":"retoromaani","rn":"rundi","ro":"romania","ru":"venäjä","rw":"ruanda","sa":"sanskrit","sc":"sardi","sd":"sindhi","se":"pohjoissaame","sg":"sango","si":"sinhala","sk":"slovakki","sl":"sloveeni","sm":"samoa","sn":"šona","so":"somali","sq":"albania","sr":"serbia","ss":"swazi","st":"eteläsotho","su":"sunda","sv":"ruotsi","sw":"swahili","ta":"tamili","te":"telugu","tg":"tadžikki","th":"thai","ti":"tigrinja","tk":"turkmeeni","tl":"tagalog","tn":"tswana","to":"tonga","tr":"turkki","ts":"tsonga","tt":"tataari","tw":"twi","ty":"tahiti","ug":"uiguuri","uk":"ukraina","ur":"urdu","uz":"uzbekki","ve":"venda","vi":"vietnam","vo":"volapük","wa":"valloni","wo":"wolof","xh":"xhosa","yi":"jiddiš","yo":"joruba","za":"zhuang","zh":"kiina","zu":"zulu"}};
-
-/***/ }),
-
 /***/ 10:
 /***/ (function(__unusedmodule, exports, __webpack_require__) {
 
@@ -615,20 +608,6 @@ exports.throttling = throttling;
 /***/ (function(module) {
 
 module.exports = require("tls");
-
-/***/ }),
-
-/***/ 19:
-/***/ (function(module) {
-
-module.exports = {"locale":"sv","languages":{"aa":"afar","ab":"abchaziska","ae":"avestiska","af":"afrikaans","ak":"akan","am":"amhariska","an":"aragonska","ar":"arabiska","as":"assamesiska","av":"avariska","ay":"aymara","az":"azerbajdzjanska","ba":"basjkiriska","be":"vitryska","bg":"bulgariska","bh":"bihari","bi":"bislama","bm":"bambara","bn":"bengali","bo":"tibetanska","br":"bretonska","bs":"bosniska","ca":"katalanska","ce":"tjetjenska","ch":"chamorro","co":"korsikanska","cr":"cree","cs":"tjeckiska","cu":"kyrkslaviska","cv":"tjuvasjiska","cy":"kymriska","da":"danska","de":"tyska","dv":"divehi","dz":"dzongkha","ee":"ewe","el":"grekiska","en":"engelska","eo":"esperanto","es":"spanska","et":"estniska","eu":"baskiska","fa":"persiska","ff":"fula","fi":"finska","fj":"fijianska","fo":"färöiska","fr":"franska","fy":"frisiska","ga":"iriska","gd":"gaeliska","gl":"galiciska","gn":"guarani","gu":"gujarati","gv":"manniska","ha":"hausa","he":"hebreiska","hi":"hindi","ho":"hiri motu","hr":"kroatiska","ht":"haitisk kreol","hu":"ungerska","hy":"armeniska","hz":"herero","ia":"interlingua","id":"indonesiska","ie":"interlingue","ig":"igbo","ii":"Nuosu","ik":"iñupiaq","io":"ido","is":"isländska","it":"italienska","iu":"inuktitut","ja":"japanska","jv":"javanesiska","ka":"georgiska","kg":"kikongo","ki":"kikuyu","kj":"kwanyama","kk":"kazakiska","kl":"grönländska","km":"kambodjanska","kn":"kannada","ko":"koreanska","kr":"kanuri","ks":"kashmiri","ku":"kurdiska","kv":"komi","kw":"korniska","ky":"kirgiziska","la":"latin","lb":"luxemburgiska","lg":"luganda","li":"limburgiska","ln":"lingala","lo":"laotiska","lt":"litauiska","lu":"Luba-Katanga","lv":"lettiska","mg":"madagaskiska","mh":"marshallesiska","mi":"maori","mk":"makedonska","ml":"malayalam","mn":"mongoliska","mr":"marathi","ms":"malajiska","mt":"maltesiska","my":"burmesiska","na":"nauriska","nb":"norsk bokmål","nd":"North Ndebele","ne":"nepali","ng":"ndonga","nl":"nederländska","nn":"nynorsk","no":"norska","nr":"South Ndebele","nv":"navajo","ny":"nyanja","oc":"occitanska","oj":"ojibwa","om":"afan oromo","or":"oriya","os":"ossetiska","pa":"punjabi","pi":"pali","pl":"polska","ps":"pashto","pt":"portugisiska","qu":"quechua","rm":"rumantsch","rn":"kirundi","ro":"rumänska","ru":"ryska","rw":"kinyarwanda","sa":"sanskrit","sc":"sardiska","sd":"sindhi","se":"nordsamiska","sg":"sangho","si":"singalesiska","sk":"slovakiska","sl":"slovenska","sm":"samoanska","sn":"shona","so":"somaliska","sq":"albanska","sr":"serbiska","ss":"siswati","st":"sesotho","su":"sundanesiska","sv":"svenska","sw":"swahili","ta":"tamil","te":"telugu","tg":"tadzjikiska","th":"thailändska","ti":"tigrinska","tk":"turkmenska","tl":"tagalog","tn":"setswana","to":"tonganska","tr":"turkiska","ts":"tsonga","tt":"tatariska","tw":"twi","ty":"tahitiska","ug":"uiguriska","uk":"ukrainska","ur":"urdu","uz":"uzbekiska","ve":"venda","vi":"vietnamesiska","vo":"volapük","wa":"vallonska","wo":"wolof","xh":"xhosa","yi":"jiddisch","yo":"yoruba","za":"zhuang","zh":"kinesiska","zu":"zulu"}};
-
-/***/ }),
-
-/***/ 55:
-/***/ (function(module) {
-
-module.exports = {"locale":"nl","languages":{"aa":"Afar","ab":"Abchazisch","ae":"Avestisch","af":"Afrikaans","ak":"Akan","am":"Amhaars","an":"Aragonees","ar":"Arabisch","as":"Assamees","av":"Avaars","ay":"Aymara","az":"Azerbeidzjaans","ba":"Basjkiers","be":"Wit-Russisch","bg":"Bulgaars","bh":"Bihari","bi":"Bislama","bm":"Bambara","bn":"Bengaals","bo":"Tibetaans","br":"Bretons","bs":"Bosnisch","ca":"Catalaans","ce":"Tsjetsjeens","ch":"Chamorro","co":"Corsicaans","cr":"Cree","cs":"Tsjechisch","cu":"Kerkslavisch","cv":"Tsjoevasjisch","cy":"Welsh","da":"Deens","de":"Duits","dv":"Divehi","dz":"Dzongkha","ee":"Ewe","el":"Grieks","en":"Engels","eo":"Esperanto","es":"Spaans","et":"Estisch","eu":"Baskisch","fa":"Perzisch","ff":"Fula","fi":"Fins","fj":"Fijisch","fo":"Faeröers","fr":"Frans","fy":"Westerlauwers Fries","ga":"Iers","gd":"Schots-Gaelisch","gl":"Galicisch","gn":"Guaraní","gu":"Gujarati","gv":"Manx-Gaelisch","ha":"Hausa","he":"Hebreeuws","hi":"Hindi","ho":"Hiri Motu","hr":"Kroatisch","ht":"Haïtiaans Creools","hu":"Hongaars","hy":"Armeens","hz":"Herero","ia":"Interlingua","id":"Indonesisch","ie":"Interlingue","ig":"Igbo","ii":"Yi","ik":"Inupiak","io":"Ido","is":"IJslands","it":"Italiaans","iu":"Inuktitut","ja":"Japans","jv":"Javaans","ka":"Georgisch","kg":"Kongo","ki":"Gikuyu","kj":"Kwanyama","kk":"Kazachs","kl":"Groenlands","km":"Khmer","kn":"Kannada","ko":"Koreaans","kr":"Kanuri","ks":"Kasjmiri","ku":"Koerdisch","kv":"Zurjeens","kw":"Cornisch","ky":"Kirgizisch","la":"Latijn","lb":"Luxemburgs","lg":"Luganda","li":"Limburgs","ln":"Lingala","lo":"Laotiaans","lt":"Litouws","lu":"Luba-Katanga","lv":"Lets","mg":"Plateaumalagasi","mh":"Marshallees","mi":"Maori","mk":"Macedonisch","ml":"Malayalam","mn":"Mongools","mr":"Marathi","ms":"Maleis","mt":"Maltees","my":"Birmaans","na":"Nauruaans","nb":"Bokmål-Noors","nd":"Noord-Ndebele","ne":"Nepalees","ng":"Ndonga","nl":"Nederlands","nn":"Nynorsk","no":"Noors","nr":"Zuid-Ndebele","nv":"Navajo","ny":"Nyanja","oc":"Occitaans","oj":"Ojibweg","om":"Afaan Oromo","or":"Odia","os":"Ossetisch","pa":"Punjabi","pi":"Pali","pl":"Pools","ps":"Pasjtoe","pt":"Portugees","qu":"Quechua","rm":"Reto-Romaans","rn":"Kirundi","ro":"Roemeens","ru":"Russisch","rw":"Kinyarwanda","sa":"Sanskriet","sc":"Sardijns","sd":"Sindhi","se":"Noord-Samisch","sg":"Sango","si":"Singalees","sk":"Slowaaks","sl":"Sloveens","sm":"Samoaans","sn":"Shona","so":"Somalisch","sq":"Albanees","sr":"Servisch","ss":"Swazi","st":"Zuid-Sotho","su":"Soendanees","sv":"Zweeds","sw":"Swahili","ta":"Tamil","te":"Telugu","tg":"Tadzjieks","th":"Thai","ti":"Tigrinya","tk":"Turkmeens","tl":"Tagalog","tn":"Tswana","to":"Tongaans","tr":"Turks","ts":"Tsonga","tt":"Tataars","tw":"Twi","ty":"Tahitiaans","ug":"Oeigoers","uk":"Oekraïens","ur":"Urdu","uz":"Oezbeeks","ve":"Venda","vi":"Vietnamees","vo":"Volapük","wa":"Waals","wo":"Wolof","xh":"Xhosa","yi":"Jiddisch","yo":"Yoruba","za":"Zhuang","zh":"Chinese talen","zu":"Zoeloe"}};
 
 /***/ }),
 
@@ -1134,13 +1113,6 @@ module.exports = require("os");
 
 /***/ }),
 
-/***/ 90:
-/***/ (function(module) {
-
-module.exports = {"locale":"no","languages":{"aa":"afar","ab":"abkhasisk","ae":"avestisk","af":"afrikaans","ak":"akan","am":"amharisk","an":"aragonesisk","ar":"arabisk","as":"assamesisk","av":"avarisk","ay":"aymara","az":"aserbajdsjansk","ba":"basjkirsk","be":"hviterussisk","bg":"bulgarsk","bh":"bihari","bi":"bislama","bm":"bambara","bn":"bengali","bo":"tibetansk","br":"bretonsk","bs":"bosnisk","ca":"katalansk","ce":"tsjetsjensk","ch":"chamorro","co":"korsikansk","cr":"cree","cs":"tsjekkisk","cu":"kirkeslavisk","cv":"tsjuvasjisk","cy":"walisisk","da":"dansk","de":"tysk","dv":"dhivehi","dz":"dzongkha","ee":"ewe","el":"gresk","en":"engelsk","eo":"esperanto","es":"spansk","et":"estisk","eu":"baskisk","fa":"persisk","ff":"fulfulde","fi":"finsk","fj":"fijisk","fo":"færøysk","fr":"fransk","fy":"frisisk","ga":"irsk","gd":"skotsk gælisk","gl":"galisisk","gn":"guaraní","gu":"gujarati","gv":"mansk","ha":"hausa","he":"hebraisk","hi":"hindi","ho":"hiri motu","hr":"kroatisk","ht":"haitisk kreolsk","hu":"ungarsk","hy":"armensk","hz":"herero","ia":"interlingua","id":"indonesisk","ie":"interlingue","ig":"igbo","ii":"yi","ik":"inupiak","io":"ido","is":"islandsk","it":"italiensk","iu":"inuittisk","ja":"japansk","jv":"javanesisk","ka":"georgisk","kg":"kongo","ki":"kikuya","kj":"kwanyama","kk":"kasakhisk","kl":"grønlandsk","km":"khmer","kn":"kannada","ko":"koreansk","kr":"kanuri","ks":"kasjmiri","ku":"kurdisk","kv":"syrjensk","kw":"kornisk","ky":"kirgisisk","la":"latin","lb":"luxembourgsk","lg":"luganda","li":"limburgsk","ln":"lingala","lo":"laotisk","lt":"litauisk","lu":"luba-katanga","lv":"latvisk","mg":"gassisk","mh":"marshallesisk","mi":"maorisk","mk":"makedonsk","ml":"malayalam","mn":"mongolsk","mr":"marathi","ms":"malayisk","mt":"maltesisk","my":"burmesisk","na":"naurisk","nb":"bokmål","nd":"nord-ndebele","ne":"nepali","ng":"ndonga","nl":"nederlandsk","nn":"nynorsk","no":"norsk","nr":"sør-ndebele","nv":"navajo","ny":"chichewa","oc":"oksitansk","oj":"ojibwa","om":"oromo","or":"oriya","os":"ossetisk","pa":"punjabi","pi":"pali","pl":"polsk","ps":"pashto","pt":"portugisisk","qu":"quechua","rm":"retoromansk","rn":"kirundi","ro":"rumensk","ru":"russisk","rw":"kinyarwanda","sa":"sanskrit","sc":"sardisk","sd":"sindhi","se":"nordsamisk","sg":"sango","si":"singalesisk","sk":"slovakisk","sl":"slovensk","sm":"samoansk","sn":"shona","so":"somali","sq":"albansk","sr":"serbisk","ss":"swati","st":"sesotho","su":"sundanesisk","sv":"svensk","sw":"swahili","ta":"tamilsk","te":"telugu","tg":"tadsjikisk","th":"thai","ti":"tigrinya","tk":"turkmensk","tl":"tagalog","tn":"tswana","to":"tonganesisk","tr":"tyrkisk","ts":"tsonga","tt":"tatarsk","tw":"twi","ty":"tahitisk","ug":"uigurisk","uk":"ukrainsk","ur":"urdu","uz":"usbekisk","ve":"tshivenda","vi":"vietnamesisk","vo":"volapük","wa":"vallonsk","wo":"wolof","xh":"xhosa","yi":"jiddisk","yo":"joruba","za":"zhuang","zh":"kinesisk","zu":"zulu"}};
-
-/***/ }),
-
 /***/ 113:
 /***/ (function(module, __unusedexports, __webpack_require__) {
 
@@ -1224,7 +1196,7 @@ module.exports = (promise, onFinally) => {
 
 const core = __webpack_require__(600);
 const github = __webpack_require__(509);
-const languages = __webpack_require__(293);
+const languages = __webpack_require__(222);
 const { throttling } = __webpack_require__(10);
 const fs = __webpack_require__(747);
 const dom = __webpack_require__(5).DOMParser;
@@ -1299,15 +1271,15 @@ function normaliseLangs(langs){
     lang = langComponents[0];
     // Preserve second part of code if first part is x, e.g. x-oldkhmer-Latn
     if(langComponents.length > 1 && langComponents[0] === 'x'){
-      lang = `${langComponents[0]}-${langComponents[1]}`;
+      return `${langComponents[0]}-${langComponents[1]}`;
     }
 
+    // Normalise to ISO 639-2T 3-letter code
+    // Ignore strings longer than 3 letters, probably incorrect input, e.g. greek
     switch (lang.length){
       case 2:
-        return languages.alpha2ToAlpha3T(lang);
-
       case 3:
-        return lang;
+        return languages.toAlpha3T(lang) || '';
 
       default:
         return '';
@@ -1536,287 +1508,6 @@ function getUserAgent() {
 exports.getUserAgent = getUserAgent;
 //# sourceMappingURL=index.js.map
 
-
-/***/ }),
-
-/***/ 157:
-/***/ (function(__unusedmodule, exports, __webpack_require__) {
-
-"use strict";
-
-
-var codes = __webpack_require__(405);
-var registeredLocales = {};
-
-/*
- * All codes map to ISO 3166-1 alpha-2
- */
-var alpha2 = {},
-  alpha3T = {},
-  alpha3B = {},
-  invertedAlpha3B = {};
-
-codes.forEach(function(codeInformation) {
-  var s = codeInformation;
-  alpha2[s[0]] = s[1];
-  alpha3T[s[1]] = s[0];
-  alpha3B[s[2]] = s[0];
-  invertedAlpha3B[s[0]] = s[2];
-});
-
-function registerLocale(localeData) {
-  if (!localeData.locale) {
-    throw new TypeError('Missing localeData.locale');
-  }
-
-  if (!localeData.languages) {
-    throw new TypeError('Missing localeData.languages');
-  }
-
-  registeredLocales[localeData.locale] = localeData.languages;
-}
-
-exports.registerLocale = registerLocale;
-
-/*
- * @param code Alpha-3T code
- * @return Alpha-2 code or undefined
- */
-function alpha3TToAlpha2(code) {
-
-  return alpha3T[code];
-}
-exports.alpha3TToAlpha2 = alpha3TToAlpha2;
-
-/*
- * @param code Alpha-3B code
- * @return Alpha-2 code or undefined
- */
-function alpha3BToAlpha2(code) {
-
-  return alpha3B[code];
-}
-exports.alpha3BToAlpha2 = alpha3BToAlpha2;
-
-/*
- * @param code Alpha-2 code
- * @return Alpha-3T code or undefined
- */
-function alpha2ToAlpha3T(code) {
-
-  return alpha2[code];
-}
-exports.alpha2ToAlpha3T = alpha2ToAlpha3T;
-
-/*
- * @param code Alpha-2 code
- * @return Alpha-3B code or undefined
- */
-function alpha2ToAlpha3B(code) {
-
-  return invertedAlpha3B[code];
-}
-exports.alpha2ToAlpha3B = alpha2ToAlpha3B;
-
-/*
- * @param code ISO 639-1 alpha-2, ISO 639-2 alpha-3 T or B
- * @return ISO 639-2 alpha-3 T
- */
-function toAlpha3T(code) {
-  if (typeof code === "string") {
-    if(code.length === 2) {
-
-      return alpha2ToAlpha3T(code.toLowerCase());
-    }
-    if (code.length === 3) {
-
-      if( alpha3T[code.toLowerCase()] ) {
-
-        return code.toLowerCase();
-      }
-      if( alpha3BToAlpha2(code.toLowerCase()) ) {
-
-        return alpha2ToAlpha3T(alpha3BToAlpha2(code.toLowerCase()));
-      }
-    }
-  }
-
-  return undefined;
-}
-exports.toAlpha3T = toAlpha3T;
-
-/*
- * @param code ISO 639-1 alpha-2, ISO 639-2 alpha-3 T or B
- * @return ISO 639-2 alpha-3 B
- */
-function toAlpha3B(code) {
-  if (typeof code === "string") {
-    if(code.length === 2) {
-
-      return alpha2ToAlpha3B(code.toLowerCase());
-    }
-    if (code.length === 3) {
-
-      if( alpha3B[code.toLowerCase()] ) {
-
-        return code.toLowerCase();
-      }
-      if( alpha3T[code.toLowerCase()] ) {
-
-        return alpha2ToAlpha3B(alpha3TToAlpha2(code.toLowerCase()));
-      }
-    }
-  }
-
-  return undefined;
-}
-exports.toAlpha3B = toAlpha3B;
-
-/*
- * @param code ISO 639-1 alpha-2, ISO 639-2 alpha-3 T or B
- * @return ISO 639-1 alpha-2
- */
-function toAlpha2(code) {
-  if (typeof code === "string") {
-    if (code.length === 2) {
-
-      return code.toLowerCase();
-    }
-    if(code.length === 3) {
-
-      if ( alpha3B[code.toLowerCase()]) {
-
-        return alpha3BToAlpha2(code.toLowerCase());
-      }
-      if ( alpha3T[code.toLowerCase()]) {
-
-        return alpha3TToAlpha2(code.toLowerCase());
-      }
-    }
-  }
-
-  return undefined;
-}
-exports.toAlpha2 = toAlpha2;
-
-/*
- * @param code ISO 639-1 alpha-2, ISO 639-2 alpha-3 T or B
- * @param lang language for country name
- * @return name or undefined
- */
-exports.getName = function(code, lang) {
-  try {
-    var d = registeredLocales[lang.toLowerCase()];
-    return d[toAlpha2(code)];
-  } catch (err) {
-    return undefined;
-  }
-};
-
-/*
- * @param lang language for language names
- * @return Object of language code mapped to language name
- */
-exports.getNames = function(lang) {
-  var d = registeredLocales[lang.toLowerCase()];
-  if (d === undefined) {
-    return {};
-  }
-  return d;
-};
-
-/*
- * @param name name
- * @param lang language for language name
- * @return ISO 639-1 alpha-2 or undefined
- */
-exports.getAlpha2Code = function(name, lang) {
-  try {
-    var p, codenames = registeredLocales[lang.toLowerCase()];
-    for (p in codenames) {
-      if (codenames.hasOwnProperty(p)) {
-        if (codenames[p].toLowerCase() === name.toLowerCase()) {
-          return p;
-        }
-      }
-    }
-    return undefined;
-  } catch (err) {
-    return undefined;
-  }
-};
-
-/*
- * @return Object of alpha-2 codes mapped to alpha-3 T codes
- */
-exports.getAlpha2Codes = function() {
-  return alpha2;
-};
-
-/*
- * @param name name
- * @param lang language for country name
- * @return ISO 639-2 alpha-3 T or undefined
- */
-exports.getAlpha3TCode = function(name, lang) {
-  var alpha2 = this.getAlpha2Code(name, lang);
-  if (alpha2) {
-    return this.toAlpha3T(alpha2);
-  } else {
-    return undefined;
-  }
-};
-
-/*
- * @param name name
- * @param lang language for country name
- * @return ISO 639-2 alpha-3 B or undefined
- */
-exports.getAlpha3BCode = function(name, lang) {
-  var alpha2 = this.getAlpha2Code(name, lang);
-  if (alpha2) {
-    return this.toAlpha3B(alpha2);
-  } else {
-    return undefined;
-  }
-};
-
-/*
- * @return Object of alpha-3 T codes mapped to alpha-2 codes
- */
-exports.getAlpha3TCodes = function() {
-  return alpha3T;
-};
-
-/*
- * @return Object of alpha-3 B codes mapped to alpha-2 codes
- */
-exports.getAlpha3BCodes = function() {
-  return alpha3B;
-};
-
-/*
- * @return Array of supported languages
- */
-exports.langs = function() {
-  return Object.keys(registeredLocales);
-};
-
-/*
- * @param code ISO 639-1 alpha-2, 639-2 alpha-3 T or B code
- * @return Boolean
- */
-exports.isValid = function(code) {
-  return this.toAlpha3T(code) !== undefined;
-};
-
-
-/***/ }),
-
-/***/ 163:
-/***/ (function(module) {
-
-module.exports = {"locale":"da","languages":{"aa":"afar","ab":"abkhasisk","ae":"avestisk","af":"afrikaans","ak":"akan","am":"amharisk","an":"aragonisk","ar":"arabisk","as":"assamesisk","av":"avarisk","ay":"aymara","az":"aserbajdsjansk","ba":"basjkirsk","be":"hviderussisk","bg":"bulgarsk","bh":"bihari","bi":"bislama","bm":"bambara","bn":"bengali","bo":"tibetansk","br":"bretonsk","bs":"bosnisk","ca":"katalansk","ce":"tjetjensk","ch":"chamorro","co":"korsikansk","cr":"cree","cs":"tjekkisk","cu":"kirkeslavisk","cv":"tsjuvansk","cy":"walisisk","da":"dansk","de":"tysk","dv":"dhivehi","dz":"dzongkha","ee":"ewe","el":"græsk","en":"engelsk","eo":"esperanto","es":"spansk","et":"estisk","eu":"baskisk","fa":"persisk","ff":"fulfulde","fi":"finsk","fj":"fijisk","fo":"færøsk","fr":"fransk","fy":"frisisk","ga":"irsk","gd":"skotsk gælisk","gl":"galicisk","gn":"guaraní","gu":"gujarati","gv":"mansk","ha":"hausa","he":"hebraisk","hi":"hindi","ho":"hiri motu","hr":"kroatisk","ht":"haitisk kreolsk","hu":"ungarsk","hy":"armensk","hz":"herero","ia":"interlingua","id":"indonesisk","ie":"interlingue","ig":"ibo","ii":"yi","ik":"inupiak","io":"ido","is":"islandsk","it":"italiensk","iu":"inuittisk","ja":"japansk","jv":"javanesisk","ka":"georgisk","kg":"congolesisk","ki":"gikuyu","kj":"kwanyama","kk":"kasakhisk","kl":"kalaallisut","km":"khmer","kn":"kannada","ko":"koreansk","kr":"kanuri","ks":"kashmirisk","ku":"kurdisk","kv":"komi","kw":"kornisk","ky":"kirgisisk","la":"latin","lb":"letzeburgsk","lg":"luganda","li":"limburgisk","ln":"lingala","lo":"laotisk","lt":"litauisk","lu":"luba-katanga","lv":"lettisk","mg":"gassisk","mh":"marshallesisk","mi":"maoriski","mk":"makedonsk","ml":"malayalam","mn":"mongolsk","mr":"marathi","ms":"malajisk","mt":"maltesisk","my":"burmesisk","na":"naurisk","nb":"norsk bokmål","nd":"nord-ndebele","ne":"nepali","ng":"ndonga","nl":"hollandsk","nn":"nynorsk","no":"norsk","nr":"syd-ndebele","nv":"navajo","ny":"chichewa","oc":"occitansk","oj":"ojibwa","om":"oromo","or":"oriya","os":"ossetisk","pa":"punjabi","pi":"pali","pl":"polsk","ps":"pashto","pt":"portugisisk","qu":"quechua","rm":"rætoromansk","rn":"kirundi","ro":"rumænsk","ru":"russisk","rw":"kinyarwanda","sa":"sanskrit","sc":"sardisk","sd":"sindhi","se":"nordsamisk","sg":"sango","si":"singalesisk","sk":"slovakisk","sl":"slovensk","sm":"samoansk","sn":"shona","so":"somali","sq":"albansk","sr":"serbisk","ss":"swati","st":"sesotho","su":"sundanesisk","sv":"svensk","sw":"swahili","ta":"tamilsk","te":"telugu","tg":"tadtjikkisk","th":"thai","ti":"tigrinya","tk":"turkmensk","tl":"tagalog","tn":"tswana","to":"tonganesisk","tr":"tyrkisk","ts":"tsonga","tt":"tatarsk","tw":"twi","ty":"tahitisk","ug":"uighur","uk":"ukrainsk","ur":"urdu","uz":"usbekisk","ve":"venda","vi":"vietnamesisk","vo":"volapük","wa":"vallonsk","wo":"wolof","xh":"xhosa","yi":"jiddisch","yo":"yoruba","za":"zhuang","zh":"kinesisk","zu":"zulu"}};
 
 /***/ }),
 
@@ -3579,20 +3270,6 @@ exports.restEndpointMethods = restEndpointMethods;
 
 /***/ }),
 
-/***/ 182:
-/***/ (function(module) {
-
-module.exports = {"locale":"br","languages":{"aa":"Afareg","ab":"Abc'hazeg","ae":"Avesteg","af":"Afrikaneg","ak":"Akaneg","am":"Amhareg","an":"Aragoneg","ar":"Arabeg","as":"Asameg","av":"Avareg","ay":"Aymareg","az":"Azeri","ba":"Bachkireg","be":"Belaruseg","bg":"Bulgareg","bh":"Bihareg","bi":"Bislamaeg","bm":"Bambareg","bn":"Banglaeg","bo":"Tibeteg","br":"Brezhoneg","bs":"Bosnieg","ca":"Katalaneg","ce":"Tchetcheneg","ch":"Tchamoroueg","co":"Korseg","cr":"Kreeg","cs":"Tchekeg","cu":"Henslaveg an Iliz","cv":"Tchouvacheg","cy":"Kembraeg","da":"Daneg","de":"Alamaneg","dv":"Diheveg","dz":"Boutaneg (dzongkha)","ee":"Eweeg","el":"Gresianeg","en":"Saozneg","eo":"Esperanteg","es":"Spagnoleg","et":"Estoneg","eu":"Euskareg","fa":"Perseg","ff":"Fouleg","fi":"Finneg","fj":"Fidjieg","fo":"Faroeg","fr":"Galleg","fy":"Frizeg ar c'hornôg","ga":"Iwerzhoneg","gd":"Gouezeleg Skos","gl":"Galizeg","gn":"Gwaranieg","gu":"Goudjarateg","gv":"Manaveg","ha":"Haousaeg","he":"Hebraeg","hi":"Hindeg","ho":"Hirimotoueg","hr":"Kroateg","ht":"Kreol Haiti","hu":"Hungareg","hy":"Armenieg","hz":"Hereroeg","ia":"Interlingua","id":"Indonezeg","ie":"Interlingue","ig":"Igboeg","ii":"Yieg","ik":"Inupiaq","io":"Idoeg","is":"Islandeg","it":"Italianeg","iu":"Inuktitut","ja":"Japaneg","jv":"Javaeg","ka":"Jorjieg","kg":"Kongoeg","ki":"Kikuyu","kj":"Kuanyama","kk":"Kazac'heg","kl":"Kalaallisut","km":"Khmer","kn":"Kannadeg","ko":"Koreaneg","kr":"Kanuri","ks":"Kachmireg","ku":"Kurdeg","kv":"Komi","kw":"Kerneveureg","ky":"Kirghiz","la":"Latin","lb":"Luksembourgeg","lg":"Ganda","li":"Limbourgeg","ln":"Lingala","lo":"Laoeg","lt":"Lituaneg","lu":"Luba-Katanga","lv":"Latveg","mg":"Malagasieg","mh":"Marchalleg","mi":"Maorieg","mk":"Makedoneg","ml":"Malayalameg","mn":"Mongoleg","mr":"Marateg","ms":"Malayeg","mt":"Malteg","my":"Burmeg","na":"Naurueg","nb":"Novegeg (bokmål)","nd":"Ndebeleg an norzh","ne":"Nepaleg","ng":"Ndongeg","nl":"Izelvroeg","nn":"Norvegeg (nynorsk)","no":"Norvegeg","nr":"Ndebeleg ar su","nv":"Navac'hoeg","ny":"Thitcheweg","oc":"Okitaneg","oj":"Ojibweg","om":"Oromoeg","or":"Oriyeg","os":"Oseteg","pa":"Pandajabeg","pi":"Palieg","pl":"Poloneg","ps":"Pachtoueg","pt":"Portugaleg","qu":"Ketchwaeg","rm":"Romancheg","rn":"Roundieg","ro":"Roumaneg","ru":"Ruseg","rw":"Rwandeg","sa":"Sañskriteg","sc":"Sardinieg","sd":"Sindeg","se":"Samieg an norzh","sg":"Sangoeg","si":"Sinhaleg","sk":"Slovakeg","sl":"Sloveneg","sm":"Samoaeg","sn":"Choneg","so":"Somalieg","sq":"Albaneg","sr":"Serbeg","ss":"Swatieg","st":"Sothoeg","su":"Soundaneg","sv":"Svedeg","sw":"Swahilieg","ta":"Tamileg","te":"Telougoueg","tg":"Tadjikeg","th":"Taieg","ti":"Tigrinya","tk":"Turkmeneg","tl":"Tagalogeg","tn":"Tswana","to":"Tonga","tr":"Turkeg","ts":"Tsonga","tt":"Tatareg","tw":"Twieg","ty":"Tahitieg","ug":"Uighur","uk":"Ukraineg","ur":"Ourdoueg","uz":"Ouzbekeg","ve":"Vendeg","vi":"Vietnameg","vo":"Volapukeg","wa":"Walloneg","wo":"Wolofeg","xh":"Xhosaeg","yi":"Yidicheg","yo":"Yoroubeg","za":"Djouangeg","zh":"sinalunioù","zu":"Zouloueg"}};
-
-/***/ }),
-
-/***/ 187:
-/***/ (function(module) {
-
-module.exports = {"locale":"ru","languages":{"aa":"афарский","ab":"абхазский","ae":"авестийский","af":"африкаанс","ak":"аканский","am":"амхарский","an":"арагонский","ar":"арабский","as":"ассамский","av":"аварский","ay":"аймара","az":"азербайджанский","ba":"башкирский","be":"белорусский","bg":"болгарский","bh":"бихари","bi":"бислама","bm":"бамбара","bn":"бенгальский","bo":"тибетский","br":"бретонский","bs":"боснийский","ca":"каталанский","ce":"чеченский","ch":"чаморро","co":"корсиканский","cr":"кри","cs":"чешский","cu":"церковнославянский","cv":"чувашский","cy":"валлийский","da":"датский","de":"немецкий","dv":"мальдивский","dz":"дзонг-кэ","ee":"эве","el":"греческий (современный)","en":"английский","eo":"эсперанто","es":"испанский","et":"эстонский","eu":"баскский","fa":"персидский","ff":"фулах","fi":"финский","fj":"фиджийский","fo":"фарерский","fr":"французский","fy":"западный фризийский","ga":"ирландский","gd":"гаэльский","gl":"галицкий","gn":"гуарани","gu":"гуджарати","gv":"мэнский","ha":"хауса","he":"иврит (современный)","hi":"хинди","ho":"хири-моту","hr":"хорватский","ht":"гаитянский креольский","hu":"венгерский","hy":"армянский","hz":"гереро","ia":"интерлингва","id":"индонезийский","ie":"окциденталь","ig":"игбо","ii":"носу","ik":"инупиак","io":"идо","is":"исландский","it":"итальянский","iu":"инуктитут","ja":"японский","jv":"яванский","ka":"грузинский","kg":"конго","ki":"кикуйю","kj":"кваньяма","kk":"казахский","kl":"гренландский","km":"кхмерский язык","kn":"каннада","ko":"корейский","kr":"канури","ks":"кашмирский","ku":"курдский","kv":"коми","kw":"корнский","ky":"киргизский","la":"латинский язык","lb":"люксембургский","lg":"луганда","li":"лимбургский","ln":"лингала","lo":"лаосский","lt":"литовский","lu":"луба-катанга","lv":"латышский","mg":"малагасийский","mh":"маршалльский","mi":"маори","mk":"македонский","ml":"малаялам","mn":"монгольский","mr":"маратхи","ms":"малайский","mt":"мальтийский","my":"бирманский","na":"науруанский","nb":"букмол","nd":"северный ндебеле","ne":"непальский","ng":"ндонга","nl":"голландский","nn":"новонорвежский язык","no":"норвежский","nr":"южный ндебеле","nv":"навахо","ny":"ньянджа","oc":"окцитанский","oj":"оджибва","om":"оромо","or":"ория","os":"осетинский","pa":"панджаби","pi":"пали","pl":"польский","ps":"пушту","pt":"португальский","qu":"кечуа","rm":"ретороманский","rn":"рунди","ro":"румынский","ru":"русский","rw":"киньяруанда","sa":"санскрит","sc":"сардинский","sd":"синдхи","se":"северносаамский","sg":"санго","si":"сингальский","sk":"словацкий","sl":"словенский","sm":"самоанский","sn":"шона","so":"сомали","sq":"албанский","sr":"сербский","ss":"свати","st":"южный сото","su":"суданский","sv":"шведский","sw":"суахили","ta":"тамильский","te":"телугу","tg":"таджикский","th":"тайский","ti":"тигринья","tk":"Ттркменский","tl":"тагальский","tn":"тсвана","to":"тонга","tr":"турецкий","ts":"тсонга","tt":"татарский","tw":"чви","ty":"таитянский","ug":"уйгурский","uk":"украинский","ur":"урду","uz":"узбекский","ve":"венда","vi":"вьетнамский","vo":"волапюк","wa":"валлонский","wo":"волоф","xh":"коса","yi":"идиш","yo":"йоруба","za":"чжуан","zh":"китайский","zu":"зулу"}};
-
-/***/ }),
-
 /***/ 190:
 /***/ (function(module) {
 
@@ -4071,6 +3748,639 @@ module.exports = osName;
 /***/ (function(module) {
 
 module.exports = require("https");
+
+/***/ }),
+
+/***/ 222:
+/***/ (function(__unusedmodule, exports) {
+
+/*
+* Modified by Philip Allfrey 2020-09-26
+* Data/labels taken from , GPL
+* Interface taken from https://github.com/cospired/i18n-iso-languages, MIT Licence
+*/
+
+/*
+* Copyright 2014
+* Jason LuBean <jason.lubean@gmail.com>
+* https://github.com/jlubean/iso-639-2
+*
+* This program is free software; you can redistribute it and/or modify
+* it under the terms of the GNU General Public License as published by
+* the Free Software Foundation; either version 2 of the License, or
+* (at your option) any later version.
+*
+* This program is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+* GNU General Public License for more details.
+*
+* You should have received a copy of the GNU General Public License
+* along with this program; if not, write to the Free Software
+* Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+* MA 02110-1301, USA.
+*/
+
+/*
+* The MIT License (MIT)
+*
+* Copyright (c) 2018 cospired GmbH
+*
+* Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+*
+* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+*
+* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+*/
+
+
+    const labels = {
+        a3: "ISO 639-2 Bibliographic Language Code",
+        a3t: "ISO 639-2 Terminology Language Code",
+        a2: "ISO 639-1 Language Code",
+        name: "Local Name",
+        eng: "English Name",
+        dir: "Reading Direction"
+    };
+
+    const data = [
+      ["aar","aar","aa","ʿAfár af","Afar","ltr"],
+      ["abk","abk","ab","Аҧсуа","Abkhazian","ltr"],
+      ["ace","ace","","Achinese","Achinese","ltr"],
+      ["ach","ach","","Acoli","Acoli","ltr"],
+      ["ada","ada","","Adangbɛ","Adangme","ltr"],
+      ["ady","ady","","Aдыгэбзэ","Adyghe; Adygei","ltr"],
+      ["afa","afa","","Afro-Asiatic languages","Afro-Asiatic languages","ltr"],
+      ["afh","afh","","Afrihili","Afrihili","ltr"],
+      ["afr","afr","af","Afrikaans","Afrikaans","ltr"],
+      ["ain","ain","","アイヌ イタク","Ainu","ltr"],
+      ["aka","aka","ak","Akana","Akan","ltr"],
+      ["akk","akk","","Akkadian","Akkadian","ltr"],
+      ["alb","sqi","sq","Shqip","Albanian","ltr"],
+      ["ale","ale","","Unangam Tunuu","Aleut","ltr"],
+      ["alg","alg","","Algonquian languages","Algonquian languages","ltr"],
+      ["alt","alt","","Southern Altai","Southern Altai","ltr"],
+      ["amh","amh","am","አማርኛ","Amharic","ltr"],
+      ["ang","ang","","English, Old (ca.450-1100)","English, Old (ca.450-1100)","ltr"],
+      ["anp","anp","","Angika","Angika","ltr"],
+      ["apa","apa","","Ndéé","Apache","ltr"],
+      ["ara","ara","ar","العربية","Arabic","rtl"],
+      ["arc","arc","","Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)","Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)","ltr"],
+      ["arg","arg","an","Aragonés","Aragonese","ltr"],
+      ["arm","hye","hy","Հայերեն","Armenian","ltr"],
+      ["arn","arn","","Mapudungun; Mapuche","Mapudungun; Mapuche","ltr"],
+      ["arp","arp","","Hinono'eitiitt","Arapaho","ltr"],
+      ["art","art","","Artificial languages","Artificial languages","ltr"],
+      ["arw","arw","","Arawak","Arawak","ltr"],
+      ["asm","asm","as","অসমীয়া","Assamese","ltr"],
+      ["ast","ast","","Llïonés","Asturian; Bable; Leonese; Asturleonese","ltr"],
+      ["ath","ath","","Athapascan languages","Athapascan languages","ltr"],
+      ["aus","aus","","Australian languages","Australian languages","ltr"],
+      ["ava","ava","av","Авар","Avaric","ltr"],
+      ["ave","ave","ae","Avestan","Avestan","ltr"],
+      ["awa","awa","","Awadhi","Awadhi","ltr"],
+      ["aym","aym","ay","Aymar Aru","Aymara","ltr"],
+      ["aze","aze","az","Azərbaycanca / آذربايجان","Azerbaijani","ltr"],
+      ["bad","bad","","Banda languages","Banda languages","ltr"],
+      ["bai","bai","","Bamileke languages","Bamileke languages","ltr"],
+      ["bak","bak","ba","Башҡорт","Bashkir","ltr"],
+      ["bal","bal","","Baluchi","Baluchi","ltr"],
+      ["bam","bam","bm","Bamanankan","Bambara","ltr"],
+      ["ban","ban","","Balinese","Balinese","ltr"],
+      ["baq","eus","eu","Euskara","Basque","ltr"],
+      ["bas","bas","","Basa","Basa","ltr"],
+      ["bat","bat","","Baltic languages","Baltic languages","ltr"],
+      ["bej","bej","","Beja; Bedawiyet","Beja; Bedawiyet","ltr"],
+      ["bel","bel","be","Беларуская","Belarusian","ltr"],
+      ["bem","bem","","iciBemba","Bemba","ltr"],
+      ["ben","ben","bn","বাংলা","Bengali","ltr"],
+      ["ber","ber","","Tamaziɣt","Berber","ltr"],
+      ["bho","bho","","भोजपुरी, بھوجپوري","Bhojpuri","ltr"],
+      ["bih","bih","bh","भोजपुरी","Bihari","ltr"],
+      ["bik","bik","","Bikol","Bikol","ltr"],
+      ["bin","bin","","Bini; Edo","Bini; Edo","ltr"],
+      ["bis","bis","bi","Bislama","Bislama","ltr"],
+      ["bla","bla","","Siksika","Siksika","ltr"],
+      ["bnt","bnt","","Bantu languages","Bantu languages","ltr"],
+      ["bos","bos","bs","Босански / Bosanski","Bosnian","ltr"],
+      ["bra","bra","","Braj","Braj","ltr"],
+      ["bre","bre","br","Brezhoneg","Breton","ltr"],
+      ["btk","btk","","Batak languages","Batak languages","ltr"],
+      ["bua","bua","","Buriat","Buriat","ltr"],
+      ["bug","bug","","Buginese","Buginese","ltr"],
+      ["bul","bul","bg","Български","Bulgarian","ltr"],
+      ["bur","mya","my","မြန်မာစာ / မြန်မာစကား","Burmese","ltr"],
+      ["byn","byn","","Blin; Bilin","Blin; Bilin","ltr"],
+      ["cad","cad","","Caddo","Caddo","ltr"],
+      ["cai","cai","","Central American Indian languages","Central American Indian languages","ltr"],
+      ["car","car","","Galibi Carib","Galibi Carib","ltr"],
+      ["cat","cat","ca","Català","Catalan; Valencian","ltr"],
+      ["cau","cau","","Caucasian languages","Caucasian languages","ltr"],
+      ["ceb","ceb","","Bisaya / Sinugbuanon","Cebuano","ltr"],
+      ["cel","cel","","Celtic languages","Celtic languages","ltr"],
+      ["cha","cha","ch","Chamoru","Chamorro","ltr"],
+      ["chb","chb","","Chibcha","Chibcha","ltr"],
+      ["che","che","ce","Нохчийн","Chechen","ltr"],
+      ["chg","chg","","Chagatai","Chagatai","ltr"],
+      ["chi","zho","zh","中文","Chinese","ltr"],
+      ["chk","chk","","Chuukese","Chuukese","ltr"],
+      ["chm","chm","","Mari","Mari","ltr"],
+      ["chn","chn","","Chinook jargon","Chinook jargon","ltr"],
+      ["cho","cho","","Chahta'","Choctaw","ltr"],
+      ["chp","chp","","ᑌᓀᓲᒢᕄᓀ / Dene Suline / Dëne Sųłiné","Chipewyan; Dene Suline","ltr"],
+      ["chr","chr","","Cherokee","Cherokee","ltr"],
+      ["chu","chu","cu","словѣньскъ / slověnĭskŭ","Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic","ltr"],
+      ["chv","chv","cv","Чăваш","Chuvash","ltr"],
+      ["chy","chy","","Cheyenne","Cheyenne","ltr"],
+      ["cmc","cmc","","Chamic languages","Chamic languages","ltr"],
+      ["cop","cop","","Coptic","Coptic","ltr"],
+      ["cor","cor","kw","Kernewek","Cornish","ltr"],
+      ["cos","cos","co","Corsu","Corsican","ltr"],
+      ["cpe","cpe","","Creoles and pidgins, English based","Creoles and pidgins, English based","ltr"],
+      ["cpf","cpf","","Creoles and pidgins, French-based","Creoles and pidgins, French-based","ltr"],
+      ["cpp","cpp","","Creoles and pidgins, Portuguese-based","Creoles and pidgins, Portuguese-based","ltr"],
+      ["cre","cre","cr","ᓀᐦᐃᔭᐍᐏᐣ","Cree","ltr"],
+      ["crh","crh","","Crimean Tatar; Crimean Turkish","Crimean Tatar; Crimean Turkish","ltr"],
+      ["crp","crp","","Creoles and pidgins","Creoles and pidgins","ltr"],
+      ["csb","csb","","Kashubian","Kashubian","ltr"],
+      ["cus","cus","","Cushitic languages","Cushitic languages","ltr"],
+      ["cze","ces","cs","Český","Czech","ltr"],
+      ["dak","dak","","Dakȟótiyapi","Dakota","ltr"],
+      ["dan","dan","da","Dansk","Danish","ltr"],
+      ["dar","dar","","Дарган Mез","Dargwa","ltr"],
+      ["day","day","","Land Dayak languages","Land Dayak languages","ltr"],
+      ["del","del","","Delaware","Delaware","ltr"],
+      ["den","den","","Slave (Athapascan)","Slave (Athapascan)","ltr"],
+      ["dgr","dgr","","Dogrib","Dogrib","ltr"],
+      ["din","din","","Dinka","Dinka","ltr"],
+      ["div","div","dv","Divehi; Dhivehi; Maldivian","Divehi; Dhivehi; Maldivian","rtl"],
+      ["doi","doi","","Dogri","Dogri","ltr"],
+      ["dra","dra","","Dravidian languages","Dravidian languages","ltr"],
+      ["dsb","dsb","","Lower Sorbian","Lower Sorbian","ltr"],
+      ["dua","dua","","Duala","Duala","ltr"],
+      ["dum","dum","","Dutch, Middle (ca.1050-1350)","Dutch, Middle (ca.1050-1350)","ltr"],
+      ["dut","nld","nl","Nederlands","Dutch; Flemish","ltr"],
+      ["dyu","dyu","","Dyula","Dyula","ltr"],
+      ["dzo","dzo","dz","ཇོང་ཁ","Dzongkha","ltr"],
+      ["efi","efi","","Efik","Efik","ltr"],
+      ["egy","egy","","Egyptian (Ancient)","Egyptian (Ancient)","ltr"],
+      ["eka","eka","","Ekajuk","Ekajuk","ltr"],
+      ["elx","elx","","Elamite","Elamite","ltr"],
+      ["eng","eng","en","English","English","ltr"],
+      ["enm","enm","","English, Middle (1100-1500)","English, Middle (1100-1500)","ltr"],
+      ["epo","epo","eo","Esperanto","Esperanto","ltr"],
+      ["est","est","et","Eesti","Estonian","ltr"],
+      ["ewe","ewe","ee","Ɛʋɛ","Ewe","ltr"],
+      ["ewo","ewo","","Ewondo","Ewondo","ltr"],
+      ["fan","fan","","Fang","Fang","ltr"],
+      ["fao","fao","fo","Føroyskt","Faroese","ltr"],
+      ["fat","fat","","Fanti","Fanti","ltr"],
+      ["fij","fij","fj","Na Vosa Vakaviti","Fijian","ltr"],
+      ["fil","fil","","Filipino; Pilipino","Filipino; Pilipino","ltr"],
+      ["fin","fin","fi","Suomi","Finnish","ltr"],
+      ["fiu","fiu","","Finno-Ugrian languages","Finno-Ugrian languages","ltr"],
+      ["fon","fon","","Fon","Fon","ltr"],
+      ["fre","fra","fr","Français","French","ltr"],
+      ["frm","frm","","French, Middle (ca.1400-1600)","French, Middle (ca.1400-1600)","ltr"],
+      ["fro","fro","","French, Old (842-ca.1400)","French, Old (842-ca.1400)","ltr"],
+      ["frr","frr","","Noordfreesk","Northern Frisian","ltr"],
+      ["frs","frs","","Seeltersk","Eastern Frisian","ltr"],
+      ["fry","fry","fy","Frysk","Western Frisian","ltr"],
+      ["ful","ful","ff","Fulfulde","Fulah","ltr"],
+      ["fur","fur","","Furlan","Friulian","ltr"],
+      ["gaa","gaa","","Gã","Ga","ltr"],
+      ["gay","gay","","Gayo","Gayo","ltr"],
+      ["gba","gba","","Gbaya","Gbaya","ltr"],
+      ["gem","gem","","Germanic languages","Germanic languages","ltr"],
+      ["geo","kat","ka","ქართული","Georgian","ltr"],
+      ["ger","deu","de","Deutsch","German","ltr"],
+      ["gez","gez","","Geez","Geez","ltr"],
+      ["gil","gil","","Gilbertese","Gilbertese","ltr"],
+      ["gla","gla","gd","Gàidhlig","Gaelic; Scottish Gaelic","ltr"],
+      ["gle","gle","ga","Gaeilge","Irish","ltr"],
+      ["glg","glg","gl","Galego","Galician","ltr"],
+      ["glv","glv","gv","Gaelg","Manx","ltr"],
+      ["gmh","gmh","","German, Middle High (ca.1050-1500)","German, Middle High (ca.1050-1500)","ltr"],
+      ["goh","goh","","German, Old High (ca.750-1050)","German, Old High (ca.750-1050)","ltr"],
+      ["gon","gon","","Gondi","Gondi","ltr"],
+      ["gor","gor","","Gorontalo","Gorontalo","ltr"],
+      ["got","got","","Gothic","Gothic","ltr"],
+      ["grb","grb","","Grebo","Grebo","ltr"],
+      ["grc","grc","","Greek, Ancient (to 1453)","Greek, Ancient (to 1453)","ltr"],
+      ["gre","ell","el","Ελληνικά","Greek, Modern (1453-)","ltr"],
+      ["grn","grn","gn","Avañe'ẽ","Guarani","ltr"],
+      ["gsw","gsw","","Schwyzerdütsch","Swiss German; Alemannic; Alsatian","ltr"],
+      ["guj","guj","gu","ગુજરાતી","Gujarati","ltr"],
+      ["gwi","gwi","","Gwich'in","Gwich'in","ltr"],
+      ["hai","hai","","Xaat Kíl","Haida","ltr"],
+      ["hat","hat","ht","Krèyol ayisyen","Haitian; Haitian Creole","ltr"],
+      ["hau","hau","ha","هَوُسَ","Hausa","rtl"],
+      ["haw","haw","","ʻŌlelo Hawaiʻi","Hawaiian","ltr"],
+      ["heb","heb","he","עברית","Hebrew","rtl"],
+      ["her","her","hz","Otsiherero","Herero","ltr"],
+      ["hil","hil","","Hiligaynon","Hiligaynon","ltr"],
+      ["him","him","","पहाड़ी","Himachali languages; Western Pahari languages","ltr"],
+      ["hin","hin","hi","हिन्दी","Hindi","ltr"],
+      ["hit","hit","","Hittite","Hittite","ltr"],
+      ["hmn","hmn","","lol Hmongb, lus Hmoob, lug Moob","Hmong; Mong","ltr"],
+      ["hmo","hmo","ho","Hiri Motu","Hiri Motu","ltr"],
+      ["hrv","hrv","hr","Hrvatski","Croatian","ltr"],
+      ["hsb","hsb","","Upper Sorbian","Upper Sorbian","ltr"],
+      ["hun","hun","hu","Magyar","Hungarian","ltr"],
+      ["hup","hup","","Hupa","Hupa","ltr"],
+      ["iba","iba","","Iban","Iban","ltr"],
+      ["ibo","ibo","ig","Igbo","Igbo","ltr"],
+      ["ice","isl","is","Íslenska","Icelandic","ltr"],
+      ["ido","ido","io","Ido","Ido","ltr"],
+      ["iii","iii","ii","ꆈꌠ꒿ / 四川彝语","Sichuan Yi; Nuosu","ltr"],
+      ["ijo","ijo","","Ijo languages","Ijo languages","ltr"],
+      ["iku","iku","iu","ᐃᓄᒃᑎᑐᑦ","Inuktitut","ltr"],
+      ["ile","ile","ie","Interlingue","Interlingue; Occidental","ltr"],
+      ["ilo","ilo","","Iloko","Iloko","ltr"],
+      ["ina","ina","ia","Interlingua","Interlingua (International Auxiliary Language Association)","ltr"],
+      ["inc","inc","","Indic languages","Indic languages","ltr"],
+      ["ind","ind","id","Bahasa Indonesia","Indonesian","ltr"],
+      ["ine","ine","","Indo-European languages","Indo-European languages","ltr"],
+      ["inh","inh","","ГӀалгӀай мотт","Ingush","ltr"],
+      ["ipk","ipk","ik","Iñupiak","Inupiaq","ltr"],
+      ["ira","ira","","Iranian languages","Iranian languages","ltr"],
+      ["iro","iro","","Iroquoian languages","Iroquoian languages","ltr"],
+      ["ita","ita","it","Italiano","Italian","ltr"],
+      ["jav","jav","jv","Basa Jawa","Javanese","ltr"],
+      ["jbo","jbo","","Lojban","Lojban","ltr"],
+      ["jpn","jpn","ja","日本語","Japanese","ltr"],
+      ["jpr","jpr","","Judeo-Persian","Judeo-Persian","ltr"],
+      ["jrb","jrb","","Judeo-Arabic","Judeo-Arabic","ltr"],
+      ["kaa","kaa","","Қарақалпақ","Kara-Kalpak","ltr"],
+      ["kab","kab","","شئعم","Kabyle","ltr"],
+      ["kac","kac","","Kachin; Jingpho","Kachin; Jingpho","ltr"],
+      ["kal","kal","kl","Kalaallisut","Kalaallisut; Greenlandic","ltr"],
+      ["kam","kam","","Kamba","Kamba","ltr"],
+      ["kan","kan","kn","ಕನ್ನಡ","Kannada","ltr"],
+      ["kar","kar","","Karen languages","Karen languages","ltr"],
+      ["kas","kas","ks","कश्मीरी / كشميري","Kashmiri","rtl"],
+      ["kau","kau","kr","Kanuri","Kanuri","ltr"],
+      ["kaw","kaw","","Kawi","Kawi","ltr"],
+      ["kaz","kaz","kk","Қазақ Tілі","Kazakh","ltr"],
+      ["kbd","kbd","","Kъэбэрдеибзэ","Kabardian","ltr"],
+      ["kha","kha","","Khasi","Khasi","ltr"],
+      ["khi","khi","","Khoisan languages","Khoisan languages","ltr"],
+      ["khm","khm","km","ភាសាខ្មែរ","Central Khmer","ltr"],
+      ["kho","kho","","Khotanese; Sakan","Khotanese; Sakan","ltr"],
+      ["kik","kik","ki","Gĩkũyũ","Kikuyu; Gikuyu","ltr"],
+      ["kin","kin","rw","Kinyarwandi","Kinyarwanda","ltr"],
+      ["kir","kir","ky","Kırgızca / Кыргызча","Kirghiz; Kyrgyz","ltr"],
+      ["kmb","kmb","","Kimbundu","Kimbundu","ltr"],
+      ["kok","kok","","कोंकणी / Konknni / കൊങ്കണി / ಕೊಂಕಣಿ","Konkani","ltr"],
+      ["kom","kom","kv","Коми","Komi","ltr"],
+      ["kon","kon","kg","KiKongo","Kongo","ltr"],
+      ["kor","kor","ko","조선말 / 한국어","Korean","ltr"],
+      ["kos","kos","","Kosraean","Kosraean","ltr"],
+      ["kpe","kpe","","Kpelle","Kpelle","ltr"],
+      ["krc","krc","","Karachay-Balkar","Karachay-Balkar","ltr"],
+      ["krl","krl","","Karelian","Karelian","ltr"],
+      ["kro","kro","","Kru languages","Kru languages","ltr"],
+      ["kru","kru","","Kurukh","Kurukh","ltr"],
+      ["kua","kua","kj","Kuanyama","Kuanyama; Kwanyama","ltr"],
+      ["kum","kum","","Къумукъ Tил","Kumyk","ltr"],
+      ["kur","kur","ku","Kurdí, کوردی, or K’öрди","Kurdish","rtl"],
+      ["kut","kut","","Kutenai","Kutenai","ltr"],
+      ["lad","lad","","Ladino","Ladino","ltr"],
+      ["lah","lah","","Lahnda","Lahnda","ltr"],
+      ["lam","lam","","Lamba","Lamba","ltr"],
+      ["lao","lao","lo","ລາວ / Pha xa lao","Lao","ltr"],
+      ["lat","lat","la","Latina","Latin","ltr"],
+      ["lav","lav","lv","Latviešu","Latvian","ltr"],
+      ["lez","lez","","Lezghian","Lezghian","ltr"],
+      ["lim","lim","li","Lèmburgs","Limburgan; Limburger; Limburgish","ltr"],
+      ["lin","lin","ln","Lingála","Lingala","ltr"],
+      ["lit","lit","lt","Lietuvių","Lithuanian","ltr"],
+      ["lol","lol","","Mongo","Mongo","ltr"],
+      ["loz","loz","","Lozi","Lozi","ltr"],
+      ["ltz","ltz","lb","Lëtzebuergesch","Luxembourgish; Letzeburgesch","ltr"],
+      ["lua","lua","","Luba-Lulua","Luba-Lulua","ltr"],
+      ["lub","lub","lu","Luba-Katanga","Luba-Katanga","ltr"],
+      ["lug","lug","lg","Luganda","Ganda","ltr"],
+      ["lui","lui","","Cham'teela","Luiseno","ltr"],
+      ["lun","lun","","Lunda","Lunda","ltr"],
+      ["luo","luo","","Kavirondo / Dholuo","Luo (Kenya and Tanzania)","ltr"],
+      ["lus","lus","","Lushai","Lushai","ltr"],
+      ["mac","mkd","mk","Македонски","Macedonian","ltr"],
+      ["mad","mad","","Madurese","Madurese","ltr"],
+      ["mag","mag","","मगही","Magahi","ltr"],
+      ["mah","mah","mh","Kajin Majel / Ebon","Marshallese","ltr"],
+      ["mai","mai","","मैथिली / মৈথিলী","Maithili","ltr"],
+      ["mak","mak","","Makasar","Makasar","ltr"],
+      ["mal","mal","ml","മലയാളം","Malayalam","ltr"],
+      ["man","man","","Mandingo","Mandingo","ltr"],
+      ["mao","mri","mi","Māori","Maori","ltr"],
+      ["map","map","","Austronesian languages","Austronesian languages","ltr"],
+      ["mar","mar","mr","मराठी","Marathi","ltr"],
+      ["mas","mas","","Masai","Masai","ltr"],
+      ["may","msa","ms","Bahasa Melayu","Malay","ltr"],
+      ["mdf","mdf","","Moksha","Moksha","ltr"],
+      ["mdr","mdr","","Mandar","Mandar","ltr"],
+      ["men","men","","Mende","Mende","ltr"],
+      ["mga","mga","","Irish, Middle (900-1200)","Irish, Middle (900-1200)","ltr"],
+      ["mic","mic","","Mi'kmaq; Micmac","Mi'kmaq; Micmac","ltr"],
+      ["min","min","","Minangkabau","Minangkabau","ltr"],
+      ["mis","mis","","Uncoded languages","Uncoded languages","ltr"],
+      ["mkh","mkh","","Mon-Khmer languages","Mon-Khmer languages","ltr"],
+      ["mlg","mlg","mg","Malagasy","Malagasy","ltr"],
+      ["mlt","mlt","mt","Malti","Maltese","ltr"],
+      ["mnc","mnc","","ᠮᠠᠨᠵᡠ ᡤᡳᠰᡠᠨ","Manchu","ltr"],
+      ["mni","mni","","Manipuri","Manipuri","ltr"],
+      ["mno","mno","","Manobo languages","Manobo languages","ltr"],
+      ["moh","moh","","Mohawk","Mohawk","ltr"],
+      ["mon","mon","mn","Монгол Хэл / ᠮᠣᠨᠭᠭᠣᠯ ᠬᠡᠯᠡ","Mongolian","ltr"],
+      ["mos","mos","","Mossi","Mossi","ltr"],
+      ["mul","mul","","Multiple languages","Multiple languages","ltr"],
+      ["mun","mun","","Munda languages","Munda languages","ltr"],
+      ["mus","mus","","Mvskoke / Mvskokē","Muscogee Creek","ltr"],
+      ["mwl","mwl","","Mirandese","Mirandese","ltr"],
+      ["mwr","mwr","","Marwari","Marwari","ltr"],
+      ["myn","myn","","Mayan languages","Mayan languages","ltr"],
+      ["myv","myv","","Erzya","Erzya","ltr"],
+      ["nah","nah","","Nahuatl languages","Nahuatl languages","ltr"],
+      ["nai","nai","","North American Indian languages","North American Indian languages","ltr"],
+      ["nap","nap","","Neapolitan","Neapolitan","ltr"],
+      ["nau","nau","na","Dorerin Naoero","Nauru","ltr"],
+      ["nav","nav","nv","Diné bizaad","Navajo; Navaho","ltr"],
+      ["nbl","nbl","nr","isiNdebele","Ndebele, South; South Ndebele","ltr"],
+      ["nde","nde","nd","Sindebele","Ndebele, North; North Ndebele","ltr"],
+      ["ndo","ndo","ng","Oshiwambo","Ndonga","ltr"],
+      ["nds","nds","","Plattdüütsch","Low German; Low Saxon; German, Low; Saxon, Low","ltr"],
+      ["nep","nep","ne","नेपाली","Nepali","ltr"],
+      ["new","new","","नेपाल भाषा","Nepal Bhasa; Newari","ltr"],
+      ["nia","nia","","Nias","Nias","ltr"],
+      ["nic","nic","","Niger-Kordofanian languages","Niger-Kordofanian languages","ltr"],
+      ["niu","niu","","Niuean","Niuean","ltr"],
+      ["nno","nno","nn","Norsk (nynorsk)","Norwegian Nynorsk; Nynorsk, Norwegian","ltr"],
+      ["nob","nob","nb","Bokmål, Norwegian; Norwegian Bokmål","Bokmål, Norwegian; Norwegian Bokmål","ltr"],
+      ["nog","nog","","Nogai","Nogai","ltr"],
+      ["non","non","","Norse, Old","Norse, Old","ltr"],
+      ["nor","nor","no","Norsk (bokmål / riksmål)","Norwegian","ltr"],
+      ["nqo","nqo","","N'Ko","N'Ko","ltr"],
+      ["nso","nso","","Pedi; Sepedi; Northern Sotho","Pedi; Sepedi; Northern Sotho","ltr"],
+      ["nub","nub","","Nubian languages","Nubian languages","ltr"],
+      ["nwc","nwc","","Classical Newari; Old Newari; Classical Nepal Bhasa","Classical Newari; Old Newari; Classical Nepal Bhasa","ltr"],
+      ["nya","nya","ny","Chi-Chewa","Chichewa; Chewa; Nyanja","ltr"],
+      ["nym","nym","","Nyamwezi","Nyamwezi","ltr"],
+      ["nyn","nyn","","Nyankole","Nyankole","ltr"],
+      ["nyo","nyo","","Nyoro","Nyoro","ltr"],
+      ["nzi","nzi","","Nzima","Nzima","ltr"],
+      ["oci","oci","oc","Occitan","Occitan (post 1500)","ltr"],
+      ["oji","oji","oj","ᐊᓂᔑᓈᐯᒧᐎᓐ / Anishinaabemowin","Ojibwa","ltr"],
+      ["ori","ori","or","ଓଡ଼ିଆ","Oriya","ltr"],
+      ["orm","orm","om","Oromoo","Oromo","ltr"],
+      ["osa","osa","","Osage","Osage","ltr"],
+      ["oss","oss","os","Иронау","Ossetian; Ossetic","ltr"],
+      ["ota","ota","","Turkish, Ottoman (1500-1928)","Turkish, Ottoman (1500-1928)","ltr"],
+      ["oto","oto","","Otomian languages","Otomian languages","ltr"],
+      ["paa","paa","","Papuan languages","Papuan languages","ltr"],
+      ["pag","pag","","Pangasinan","Pangasinan","ltr"],
+      ["pal","pal","","Pahlavi","Pahlavi","ltr"],
+      ["pam","pam","","Pampanga; Kapampangan","Pampanga; Kapampangan","ltr"],
+      ["pan","pan","pa","ਪੰਜਾਬੀ / पंजाबी / پنجابي","Panjabi; Punjabi","ltr"],
+      ["pap","pap","","Papiamento","Papiamento","ltr"],
+      ["pau","pau","","Palauan","Palauan","ltr"],
+      ["peo","peo","","Persian, Old (ca.600-400 B.C.)","Persian, Old (ca.600-400 B.C.)","ltr"],
+      ["per","fas","fa","فارسی","Persian","rtl"],
+      ["phi","phi","","Philippine languages","Philippine languages","ltr"],
+      ["phn","phn","","Phoenician","Phoenician","ltr"],
+      ["pli","pli","pi","Pāli / पाऴि","Pali","ltr"],
+      ["pol","pol","pl","Polski","Polish","ltr"],
+      ["pon","pon","","Pohnpeian","Pohnpeian","ltr"],
+      ["por","por","pt","Português","Portuguese","ltr"],
+      ["pra","pra","","Prakrit languages","Prakrit languages","ltr"],
+      ["pro","pro","","Provençal, Old (to 1500);Occitan, Old (to 1500)","Provençal, Old (to 1500);Occitan, Old (to 1500)","ltr"],
+      ["pus","pus","ps","پښتو","Pushto; Pashto","rtl"],
+      ["qaa-qtz","qaa-qtz","","Reserved for local use","Reserved for local use","ltr"],
+      ["que","que","qu","Runa Simi","Quechua","ltr"],
+      ["raj","raj","","राजस्थानी","Rajasthani","ltr"],
+      ["rap","rap","","Rapanui","Rapanui","ltr"],
+      ["rar","rar","","Rarotongan; Cook Islands Maori","Rarotongan; Cook Islands Maori","ltr"],
+      ["roa","roa","","Romance languages","Romance languages","ltr"],
+      ["roh","roh","rm","Rumantsch","Romansh","ltr"],
+      ["rom","rom","","Romany","Romany","ltr"],
+      ["rum","ron","ro","Română","Romanian; Moldavian; Moldovan","ltr"],
+      ["run","run","rn","Kirundi","Rundi","ltr"],
+      ["rup","rup","","Aromanian; Arumanian; Macedo-Romanian","Aromanian; Arumanian; Macedo-Romanian","ltr"],
+      ["rus","rus","ru","Русский","Russian","ltr"],
+      ["sad","sad","","Sandawe","Sandawe","ltr"],
+      ["sag","sag","sg","Sängö","Sango","ltr"],
+      ["sah","sah","","Yakut","Yakut","ltr"],
+      ["sai","sai","","South American Indian languages","South American Indian languages","ltr"],
+      ["sal","sal","","Salishan languages","Salishan languages","ltr"],
+      ["sam","sam","","Samaritan Aramaic","Samaritan Aramaic","ltr"],
+      ["san","san","sa","संस्कृतम्","Sanskrit","ltr"],
+      ["sas","sas","","Sasak","Sasak","ltr"],
+      ["sat","sat","","Santali","Santali","ltr"],
+      ["scn","scn","","Sicilianu","Sicilian","ltr"],
+      ["sco","sco","","Scots","Scots","ltr"],
+      ["sel","sel","","Selkup","Selkup","ltr"],
+      ["sem","sem","","Semitic languages","Semitic languages","ltr"],
+      ["sga","sga","","Irish, Old (to 900)","Irish, Old (to 900)","ltr"],
+      ["sgn","sgn","","Sign Languages","Sign Languages","ltr"],
+      ["shn","shn","","Shan","Shan","ltr"],
+      ["sid","sid","","Sidamo","Sidamo","ltr"],
+      ["sin","sin","si","සිංහල","Sinhala; Sinhalese","ltr"],
+      ["sio","sio","","Siouan languages","Siouan languages","ltr"],
+      ["sit","sit","","Sino-Tibetan languages","Sino-Tibetan languages","ltr"],
+      ["sla","sla","","Slavic languages","Slavic languages","ltr"],
+      ["slo","slk","sk","Slovenčina","Slovak","ltr"],
+      ["slv","slv","sl","Slovenščina","Slovenian","ltr"],
+      ["sma","sma","","Southern Sami","Southern Sami","ltr"],
+      ["sme","sme","se","Sámegiella","Northern Sami","ltr"],
+      ["smi","smi","","Sami languages","Sami languages","ltr"],
+      ["smj","smj","","Lule Sami","Lule Sami","ltr"],
+      ["smn","smn","","Inari Sami","Inari Sami","ltr"],
+      ["smo","smo","sm","Gagana Sāmoa","Samoan","ltr"],
+      ["sms","sms","","Skolt Sami","Skolt Sami","ltr"],
+      ["sna","sna","sn","chiShona","Shona","ltr"],
+      ["snd","snd","sd","सिनधि","Sindhi","ltr"],
+      ["snk","snk","","Soninke","Soninke","ltr"],
+      ["sog","sog","","Sogdian","Sogdian","ltr"],
+      ["som","som","so","اللغة الصومالية","Somali","ltr"],
+      ["son","son","","Songhai languages","Songhai languages","ltr"],
+      ["sot","sot","st","Sesotho","Sotho, Southern","ltr"],
+      ["spa","spa","es","Español","Spanish; Castilian","ltr"],
+      ["srd","srd","sc","Sardu","Sardinian","ltr"],
+      ["srn","srn","","Sranan Tongo","Sranan Tongo","ltr"],
+      ["srp","srp","sr","Српски","Serbian","ltr"],
+      ["srr","srr","","Serer","Serer","ltr"],
+      ["ssa","ssa","","Nilo-Saharan languages","Nilo-Saharan languages","ltr"],
+      ["ssw","ssw","ss","SiSwati","Swati","ltr"],
+      ["suk","suk","","Sukuma","Sukuma","ltr"],
+      ["sun","sun","su","Basa Sunda","Sundanese","ltr"],
+      ["sus","sus","","Susu","Susu","ltr"],
+      ["sux","sux","","Sumerian","Sumerian","ltr"],
+      ["swa","swa","sw","Kiswahili","Swahili","ltr"],
+      ["swe","swe","sv","Svenska","Swedish","ltr"],
+      ["syc","syc","","Classical Syriac","Classical Syriac","ltr"],
+      ["syr","syr","","Syriac","Syriac","ltr"],
+      ["tah","tah","ty","Reo Mā`ohi","Tahitian","ltr"],
+      ["tai","tai","","Tai languages","Tai languages","ltr"],
+      ["tam","tam","ta","தமிழ்","Tamil","ltr"],
+      ["tat","tat","tt","Tatarça","Tatar","ltr"],
+      ["tel","tel","te","తెలుగు","Telugu","ltr"],
+      ["tem","tem","","Timne","Timne","ltr"],
+      ["ter","ter","","Tereno","Tereno","ltr"],
+      ["tet","tet","","Tetum","Tetum","ltr"],
+      ["tgk","tgk","tg","Тоҷикӣ","Tajik","ltr"],
+      ["tgl","tgl","tl","Tagalog","Tagalog","ltr"],
+      ["tha","tha","th","ภาษาไทย","Thai","ltr"],
+      ["tib","bod","bo","དབུས་སྐད་","Tibetan","ltr"],
+      ["tig","tig","","Tigre","Tigre","ltr"],
+      ["tir","tir","ti","ትግርኛ","Tigrinya","ltr"],
+      ["tiv","tiv","","Tiv","Tiv","ltr"],
+      ["tkl","tkl","","Tokelau","Tokelau","ltr"],
+      ["tlh","tlh","","Klingon; tlhIngan-Hol","Klingon; tlhIngan-Hol","ltr"],
+      ["tli","tli","","Tlingit","Tlingit","ltr"],
+      ["tmh","tmh","","Tamashek","Tamashek","ltr"],
+      ["tog","tog","","Tonga (Nyasa)","Tonga (Nyasa)","ltr"],
+      ["ton","ton","to","Lea Faka-Tonga","Tonga (Tonga Islands)","ltr"],
+      ["tpi","tpi","","Tok Pisin","Tok Pisin","ltr"],
+      ["tsi","tsi","","Tsimshian","Tsimshian","ltr"],
+      ["tsn","tsn","tn","Setswana","Tswana","ltr"],
+      ["tso","tso","ts","Xitsonga","Tsonga","ltr"],
+      ["tuk","tuk","tk","Туркмен / تركمن","Turkmen","ltr"],
+      ["tum","tum","","Tumbuka","Tumbuka","ltr"],
+      ["tup","tup","","Tupi languages","Tupi languages","ltr"],
+      ["tur","tur","tr","Türkçe","Turkish","ltr"],
+      ["tut","tut","","Altaic languages","Altaic languages","ltr"],
+      ["tvl","tvl","","Tuvalu","Tuvalu","ltr"],
+      ["twi","twi","tw","Twi","Twi","ltr"],
+      ["tyv","tyv","","Tuvinian","Tuvinian","ltr"],
+      ["udm","udm","","Udmurt","Udmurt","ltr"],
+      ["uga","uga","","Ugaritic","Ugaritic","ltr"],
+      ["uig","uig","ug","Uyƣurqə / ئۇيغۇرچە","Uighur; Uyghur","ltr"],
+      ["ukr","ukr","uk","Українська","Ukrainian","ltr"],
+      ["umb","umb","","Umbundu","Umbundu","ltr"],
+      ["und","und","","Undetermined","Undetermined","ltr"],
+      ["urd","urd","ur","اردو","Urdu","rtl"],
+      ["uzb","uzb","uz","Ўзбек","Uzbek","ltr"],
+      ["vai","vai","","Vai","Vai","ltr"],
+      ["ven","ven","ve","Tshivenḓa","Venda","ltr"],
+      ["vie","vie","vi","Tiếng Việt","Vietnamese","ltr"],
+      ["vol","vol","vo","Volapük","Volapük","ltr"],
+      ["vot","vot","","Votic","Votic","ltr"],
+      ["wak","wak","","Wakashan languages","Wakashan languages","ltr"],
+      ["wal","wal","","Wolaitta; Wolaytta","Wolaitta; Wolaytta","ltr"],
+      ["war","war","","Waray","Waray","ltr"],
+      ["was","was","","Washo","Washo","ltr"],
+      ["wel","cym","cy","Cymraeg","Welsh","ltr"],
+      ["wen","wen","","Sorbian languages","Sorbian languages","ltr"],
+      ["wln","wln","wa","Walon","Walloon","ltr"],
+      ["wol","wol","wo","Wollof","Wolof","ltr"],
+      ["xal","xal","","Kalmyk; Oirat","Kalmyk; Oirat","ltr"],
+      ["xho","xho","xh","isiXhosa","Xhosa","ltr"],
+      ["yao","yao","","Yao","Yao","ltr"],
+      ["yap","yap","","Yapese","Yapese","ltr"],
+      ["yid","yid","yi","ייִדיש","Yiddish","rtl"],
+      ["yor","yor","yo","Yorùbá","Yoruba","ltr"],
+      ["ypk","ypk","","Yupik languages","Yupik languages","ltr"],
+      ["zap","zap","","Zapotec","Zapotec","ltr"],
+      ["zbl","zbl","","Blissymbols; Blissymbolics; Bliss","Blissymbols; Blissymbolics; Bliss","ltr"],
+      ["zen","zen","","Zenaga","Zenaga","ltr"],
+      ["zgh","zgh","","Standard Moroccan Tamazight","Standard Moroccan Tamazight","ltr"],
+      ["zha","zha","za","Cuengh / Tôô / 壮语","Zhuang; Chuang","ltr"],
+      ["znd","znd","","Zande languages","Zande languages","ltr"],
+      ["zul","zul","zu","isiZulu","Zulu","ltr"],
+      ["zun","zun","","Zuni","Zuni","ltr"],
+      ["zxx","zxx","","No linguistic content; Not applicable","No linguistic content; Not applicable","ltr"],
+      ["zza","zza","","Zaza; Dimili; Dimli; Kirdki; Kirmanjki; Zazaki","Zaza; Dimili; Dimli; Kirdki; Kirmanjki; Zazaki","ltr"]
+    ];
+
+    let alpha2 = {},
+      alpha3T = {},
+      alpha3B = {};
+
+    data.forEach(function(codeInformation) {
+      let [a3, a3t, a2, name, eng, dir] = codeInformation;
+      if(a2 !=='') alpha2[a2] = a3t;
+      alpha3T[a3t] = a3t;
+      alpha3B[a3] = a3t;
+    });
+
+    /*
+     * @param code Alpha-2 code
+     * @return Alpha-3T code or undefined
+     */
+    exports.alpha2ToAlpha3T = function alpha2ToAlpha3T(code) {
+
+      return alpha2[code.toLowerCase()];
+    }
+
+    /*
+     * @param code ISO 639-1 alpha-2, ISO 639-2 alpha-3 T or B
+     * @return ISO 639-2 alpha-3 T
+     */
+    exports.toAlpha3T = function toAlpha3T(code) {
+      if (typeof code === "string") {
+        const lcCode = code.toLowerCase();
+        if(code.length === 2) {
+          return alpha2ToAlpha3T(lcCode);
+        }
+        if (code.length === 3) {
+          if( alpha3T[lcCode] ) {
+            return lcCode;
+          }
+          if( alpha3B[lcCode] ) {
+            return alpha3B[lcCode];
+          }
+        }
+      }
+
+      return undefined;
+    }
+
+
+
+    /*
+     * @param code ISO 639-2 alpha-3 T
+     * @param lang name (local) or eng (English name)
+     * @return name or undefined
+     */
+    exports.getName = function(code, lang) {
+      const d = data.filter(x => x[1] === code);
+      if( d.length ){
+        const column = lang === 'name' ? 3 : 4;
+        return d[0][column];
+      } else {
+        return undefined;
+      }
+    };
+
+    /*
+     * @return Object of alpha-2 codes mapped to alpha-3 T codes
+     */
+    exports.getAlpha2Codes = function() {
+      return alpha2;
+    };
+
+    /*
+     * @return Object of alpha-3 T codes mapped to alpha-2 codes
+     */
+    exports.getAlpha3TCodes = function() {
+      return alpha3T;
+    };
+
+    /*
+     * @return Object of alpha-3 B codes mapped to alpha-2 codes
+     */
+    exports.getAlpha3BCodes = function() {
+      return alpha3B;
+    };
+
+    /*
+     * @param code ISO 639-1 alpha-2, 639-2 alpha-3 T or B code
+     * @return Boolean
+     */
+    exports.isValid = function(code) {
+      return this.toAlpha3T(code) !== undefined;
+    };
+
 
 /***/ }),
 
@@ -4775,45 +5085,6 @@ module.exports = {
     verifyENOENTSync,
     notFoundError,
 };
-
-
-/***/ }),
-
-/***/ 293:
-/***/ (function(module, __unusedexports, __webpack_require__) {
-
-var library = __webpack_require__(157);
-
-var locales = [
-  __webpack_require__(182),
-  __webpack_require__(564),
-  __webpack_require__(427),
-  __webpack_require__(408),
-  __webpack_require__(873),
-  __webpack_require__(6),
-  __webpack_require__(860),
-  __webpack_require__(988),
-  __webpack_require__(549),
-  __webpack_require__(465),
-  __webpack_require__(943),
-  __webpack_require__(548),
-  __webpack_require__(394),
-  __webpack_require__(55),
-  __webpack_require__(516),
-  __webpack_require__(475),
-  __webpack_require__(730),
-  __webpack_require__(187),
-  __webpack_require__(19),
-  __webpack_require__(90),
-  __webpack_require__(163),
-  __webpack_require__(386)
-];
-
-for (var i = 0; i < locales.length; i++) {
-  library.registerLocale(locales[i]);
-}
-
-module.exports = library;
 
 
 /***/ }),
@@ -10253,13 +10524,6 @@ module.exports = pump
 
 /***/ }),
 
-/***/ 386:
-/***/ (function(module) {
-
-module.exports = {"locale":"zh","languages":{"aa":"阿法尔语","ab":"阿布哈兹语","ae":"阿维斯陀语","af":"南非语","ak":"阿坎语","am":"阿姆哈拉语","an":"阿拉贡语","ar":"阿拉伯语","as":"阿萨姆语","av":"阿瓦尔语","ay":"艾马拉语","az":"阿塞拜疆语","ba":"巴什基尔语","be":"白俄罗斯语","bg":"保加利亚语","bh":"比哈尔语","bi":"比斯拉马语","bm":"班巴拉语","bn":"孟加拉语","bo":"标准藏语","br":"布列塔尼语","bs":"波斯尼亚语","ca":"加泰罗尼亚语","ce":"车臣语","ch":"查莫罗语","co":"柯西嘉语","cr":"克里语","cs":"捷克语","cu":"古教会斯拉夫语","cv":"楚瓦什语","cy":"威尔士语","da":"丹麦语","de":"德语","dv":"迪维西语","dz":"宗喀语","ee":"埃维语","el":"希腊语","en":"英语","eo":"世界语","es":"西班牙语","et":"爱沙尼亚语","eu":"巴斯克语","fa":"波斯语","ff":"富拉语","fi":"芬兰语","fj":"斐济语","fo":"法罗语","fr":"法语","fy":"西弗里斯兰语","ga":"爱尔兰语","gd":"苏格兰盖尔语","gl":"加利西亚语","gn":"瓜拉尼语","gu":"古吉拉特语","gv":"马恩语","ha":"豪萨语","he":"希伯来语","hi":"印地语","ho":"希里莫图语","hr":"克罗地亚语","ht":"海地语","hu":"匈牙利语","hy":"亚美尼亚语","hz":"赫雷罗语","ia":"国际语","id":"印度尼西亚语","ie":"西方国际语","ig":"伊博语","ii":"彝语北部方言","ik":"伊努皮克语","io":"伊多语","is":"冰岛语","it":"意大利语","iu":"因纽特语","ja":"日语","jv":"爪哇语","ka":"格鲁吉亚语","kg":"刚果语","ki":"基库尤语","kj":"库瓦亚马语","kk":"哈萨克语","kl":"格陵兰语","km":"高棉语","kn":"坎纳达语","ko":"韩语","kr":"卡努里语","ks":"克什米尔语","ku":"库尔德语","kv":"科米语","kw":"康沃尔语","ky":"柯尔克孜语","la":"拉丁语","lb":"卢森堡语","lg":"干达语","li":"林堡语","ln":"林加拉语","lo":"老挝语","lt":"立陶宛语","lu":"卢巴卡丹加语","lv":"拉脱维亚语","mg":"马达加斯加语","mh":"马绍尔语","mi":"毛利语","mk":"马其顿语","ml":"马拉雅拉姆语","mn":"蒙古语","mr":"马拉地语","ms":"马来语","mt":"马耳他语","my":"缅甸语","na":"瑙鲁语","nb":"书面挪威语","nd":"北恩德贝莱语","ne":"尼泊尔语","ng":"恩敦加语","nl":"荷兰语","nn":"挪威尼诺斯克语","no":"挪威语","nr":"南恩德贝莱语","nv":"纳瓦霍语","ny":"齐切瓦语","oc":"奥克语","oj":"奥杰布瓦语","om":"奥罗莫语","or":"奥里雅语","os":"奥塞梯语","pa":"旁遮普语","pi":"巴利语","pl":"波兰语","ps":"普什图语","pt":"葡萄牙语","qu":"盖丘亚语","rm":"罗曼什语","rn":"基隆迪语","ro":"罗马尼亚语","ru":"俄语","rw":"卢旺达语","sa":"梵语","sc":"撒丁语","sd":"信德语","se":"北萨米语","sg":"桑戈语","si":"僧伽罗语","sk":"斯洛伐克语","sl":"斯洛文尼亚人","sm":"萨摩亚语","sn":"修纳语","so":"索马里语","sq":"阿尔巴尼亚语","sr":"塞尔维亚语","ss":"斯威士语","st":"南索托语","su":"巽他语","sv":"瑞典语","sw":"斯瓦希里语","ta":"泰米尔语","te":"泰卢固语","tg":"塔吉克语","th":"泰语","ti":"提格里尼亚语","tk":"土库曼语","tl":"塔加拉族语","tn":"茨瓦纳语","to":"汤加语","tr":"土耳其语","ts":"聪加语","tt":"鞑靼语","tw":"契维语","ty":"塔希提语","ug":"维吾尔语","uk":"乌克兰语","ur":"乌尔都语","uz":"乌兹别克语","ve":"文达语","vi":"越南语","vo":"沃拉普克语","wa":"瓦隆语","wo":"沃洛夫语","xh":"科萨语","yi":"意第绪语","yo":"约鲁巴语","za":"壮语","zh":"汉语","zu":"祖鲁语"}};
-
-/***/ }),
-
 /***/ 391:
 /***/ (function(module, __unusedexports, __webpack_require__) {
 
@@ -10430,20 +10694,6 @@ function processEmit (ev, arg) {
 
 /***/ }),
 
-/***/ 394:
-/***/ (function(module) {
-
-module.exports = {"locale":"lt","languages":{"aa":"Afarų kalba","ab":"Abchazų kalba","ae":"Avestos kalba","af":"Afrikanų kalba","ak":"Akanų kalba","am":"Amherų kalba","an":"Aragoniečių kalba","ar":"arb","as":"Asamų kalba","av":"Avarų kalba","ay":"Aimarų kalba","az":"Azerbaidžaniečių kalba","ba":"Baškirų kalba","be":"Baltarusių kalba","bg":"Bulgarų kalba","bh":"Biharų kalba","bi":"Bislama","bm":"Bambarų kalba","bn":"Bengalų kalba","bo":"Tibetiečių kalba","br":"Bretonų kalba","bs":"Bosnių kalba","ca":"Katalonų kalba","ce":"Čečėnų kalba","ch":"Čamorų kalba","co":"Korsikiečių kalba","cr":"Kri kalba","cs":"Čekų kalba","cu":"Bažnytinė slavų kalba","cv":"Čiuvašų kalba","cy":"Valų kalba","da":"Danų kalba","de":"Vokiečių kalba","dv":"Maldyviečių kalba","dz":"Botijų kalba","ee":"Eve kalba","el":"Graikų kalba","en":"Anglų kalba","eo":"Esperanto","es":"Ispanų kalba","et":"Estų kalba","eu":"Baskų kalba","fa":"Persų kalba","ff":"Fulų kalba","fi":"Suomių kalba","fj":"Fidžių kalba","fo":"Farerų kalba","fr":"Prancūzų kalba","fy":"Fryzų kalba","ga":"Airių kalba","gd":"Škotų gėlų kalba","gl":"Galisų kalba","gn":"Gvaranių kalba","gu":"Gudžaratų kalba","gv":"Menksiečių kalba","ha":"Hausų kalba","he":"Hebrajų kalba","hi":"Hindi","ho":"Hiri Motu","hr":"Kroatų kalba","ht":"Haičio kreolų kalba","hu":"Vengrų kalba","hy":"Armėnų kalba","hz":"Herero kalba","ia":"Interlingua","id":"Indoneziečių kalba","ie":"Interlingue","ig":"Igbų kalba","ii":"Ji kalba","ik":"Inupiakų kalba","io":"Ido","is":"Islandų kalba","it":"Italų kalba","iu":"Inuktitutas","ja":"Japonų kalba","jv":"Javiečių kalba","ka":"Gruzinų kalba","kg":"Kongo kalba","ki":"Kikujų kalba","kj":"Kvanjama kalba","kk":"Kazachų kalba","kl":"Grenlandų kalba","km":"Kmerų kalba","kn":"Kanadų kalba","ko":"Korėjiečių kalba","kr":"Kanurių kalba","ks":"Kašmyriečių kalba","ku":"Kurdų kalba","kv":"Komių kalba","kw":"Kornų kalba","ky":"Kirgizų kalba","la":"Lotynų kalba","lb":"Liuksemburgiečių kalba","lg":"Lugandų kalba","li":"Limburgiečių kalba","ln":"Lingalų kalba","lo":"Lao kalba","lt":"Lietuvių kalba","lu":"Lubų kalba","lv":"Latvių kalba","mg":"Malagasių kalba","mh":"Maršaliečių kalba","mi":"Maorių kalba","mk":"Makedonų kalba","ml":"Malajalių kalba","mn":"Mongolų kalba","mr":"Maratų kalba","ms":"mly","mt":"Maltiečių kalba","my":"Mjanmų kalba","na":"Nauriečių kalba","nb":"Norvegų kalba","nd":"Šiaurės ndebelų kalba","ne":"Nepalų kalba","ng":"Ndongų kalba","nl":"Olandų kalba","nn":"Naujoji norvegų kalba","no":"Norvegų kalba","nr":"Pietų ndebelų kalba","nv":"Navachų kalba","ny":"Čičevų kalba","oc":"Oksitanų kalba","oj":"Odžibvių kalba","om":"Oromų kalba","or":"Orijų kalba","os":"Osetinų kalba","pa":"Pendžabų kalba","pi":"Pali kalba","pl":"Lenkų kalba","ps":"Puštūnų kalba","pt":"Portugalų kalba","qu":"Kečujų kalba","rm":"Retoromanų kalba","rn":"Kirundžių kalba","ro":"Rumunų kalba","ru":"Rusų kalba","rw":"Kinjaruanda","sa":"Sanskritas","sc":"Sardų kalba","sd":"Sindžų kalba","se":"Šiaurės samių kalba","sg":"Sangų kalba","si":"Sinhalų kalba","sk":"Slovakų kalba","sl":"Slovėnų kalba","sm":"Samoa kalba","sn":"Šonų kalba","so":"Somalių kalba","sq":"Albanų kalba","sr":"Serbų kalba","ss":"Svazių kalba","st":"Pietų sotų kalba","su":"Sundų kalba","sv":"Švedų kalba","sw":"Suahilių kalba","ta":"Tamilų kalba","te":"Telugų kalba","tg":"Tadžikų kalba","th":"Tajų kalba","ti":"Tigrinijų kalba","tk":"Turkmėnų kalba","tl":"Tagalų kalba","tn":"Tsvanų kalba","to":"Tongos kalba","tr":"Turkų kalba","ts":"Tsongų kalba","tt":"Totorių kalba","tw":"Twi","ty":"Reo","ug":"Uigūrų kalba","uk":"Ukrainiečių kalba","ur":"Urdu","uz":"Uzbekų kalba","ve":"Vendų kalba","vi":"Vietnamiečių kalba","vo":"Volapiukas","wa":"Valonų kalba","wo":"Volofų kalba","xh":"Kosų kalba","yi":"Jidiš","yo":"Jorubų kalba","za":"Džuangų kalba","zh":"Kinų kalba","zu":"Zulų kalba"}};
-
-/***/ }),
-
-/***/ 405:
-/***/ (function(module) {
-
-module.exports = [["aa","aar","aar","ISO 639-1:aa"],["ab","abk","abk","ISO 639-1:ab"],["ae","ave","ave","ISO 639-1:ae"],["af","afr","afr","ISO 639-1:af"],["ak","aka","aka","ISO 639-1:ak"],["am","amh","amh","ISO 639-1:am"],["an","arg","arg","ISO 639-1:an"],["ar","ara","ara","ISO 639-1:ar"],["as","asm","asm","ISO 639-1:as"],["av","ava","ava","ISO 639-1:av"],["ay","aym","aym","ISO 639-1:ay"],["az","aze","aze","ISO 639-1:az"],["ba","bak","bak","ISO 639-1:ba"],["be","bel","bel","ISO 639-1:be"],["bg","bul","bul","ISO 639-1:bg"],["bh","bih","bih","ISO 639-1:bh"],["bi","bis","bis","ISO 639-1:bi"],["bm","bam","bam","ISO 639-1:bm"],["bn","ben","ben","ISO 639-1:bn"],["bo","bod","tib","ISO 639-1:bo"],["br","bre","bre","ISO 639-1:br"],["bs","bos","bos","ISO 639-1:bs"],["ca","cat","cat","ISO 639-1:ca"],["ce","che","che","ISO 639-1:ce"],["ch","cha","cha","ISO 639-1:ch"],["co","cos","cos","ISO 639-1:co"],["cr","cre","cre","ISO 639-1:cr"],["cs","ces","cze","ISO 639-1:cs"],["cu","chu","chu","ISO 639-1:cu"],["cv","chv","chv","ISO 639-1:cv"],["cy","cym","wel","ISO 639-1:cy"],["da","dan","dan","ISO 639-1:da"],["de","deu","ger","ISO 639-1:de"],["dv","div","div","ISO 639-1:dv"],["dz","dzo","dzo","ISO 639-1:dz"],["ee","ewe","ewe","ISO 639-1:ee"],["el","ell","gre","ISO 639-1:el"],["en","eng","eng","ISO 639-1:en"],["eo","epo","epo","ISO 639-1:eo"],["es","spa","spa","ISO 639-1:es"],["et","est","est","ISO 639-1:et"],["eu","eus","baq","ISO 639-1:eu"],["fa","fas","per","ISO 639-1:fa"],["ff","ful","ful","ISO 639-1:ff"],["fi","fin","fin","ISO 639-1:fi"],["fj","fij","fij","ISO 639-1:fj"],["fo","fao","fao","ISO 639-1:fo"],["fr","fra","fre","ISO 639-1:fr"],["fy","fry","fry","ISO 639-1:fy"],["ga","gle","gle","ISO 639-1:ga"],["gd","gla","gla","ISO 639-1:gd"],["gl","glg","glg","ISO 639-1:gl"],["gn","grn","grn","ISO 639-1:gn"],["gu","guj","guj","ISO 639-1:gu"],["gv","glv","glv","ISO 639-1:gv"],["ha","hau","hau","ISO 639-1:ha"],["he","heb","heb","ISO 639-1:he"],["hi","hin","hin","ISO 639-1:hi"],["ho","hmo","hmo","ISO 639-1:ho"],["hr","hrv","hrv","ISO 639-1:hr"],["ht","hat","hat","ISO 639-1:ht"],["hu","hun","hun","ISO 639-1:hu"],["hy","hye","arm","ISO 639-1:hy"],["hz","her","her","ISO 639-1:hz"],["ia","ina","ina","ISO 639-1:ia"],["id","ind","ind","ISO 639-1:id"],["ie","ile","ile","ISO 639-1:ie"],["ig","ibo","ibo","ISO 639-1:ig"],["ii","iii","iii","ISO 639-1:ii"],["ik","ipk","ipk","ISO 639-1:ik"],["io","ido","ido","ISO 639-1:io"],["is","isl","ice","ISO 639-1:is"],["it","ita","ita","ISO 639-1:it"],["iu","iku","iku","ISO 639-1:iu"],["ja","jpn","jpn","ISO 639-1:ja"],["jv","jav","jav","ISO 639-1:jv"],["ka","kat","geo","ISO 639-1:ka"],["kg","kon","kon","ISO 639-1:kg"],["ki","kik","kik","ISO 639-1:ki"],["kj","kua","kua","ISO 639-1:kj"],["kk","kaz","kaz","ISO 639-1:kk"],["kl","kal","kal","ISO 639-1:kl"],["km","khm","khm","ISO 639-1:km"],["kn","kan","kan","ISO 639-1:kn"],["ko","kor","kor","ISO 639-1:ko"],["kr","kau","kau","ISO 639-1:kr"],["ks","kas","kas","ISO 639-1:ks"],["ku","kur","kur","ISO 639-1:ku"],["kv","kom","kom","ISO 639-1:kv"],["kw","cor","cor","ISO 639-1:kw"],["ky","kir","kir","ISO 639-1:ky"],["la","lat","lat","ISO 639-1:la"],["lb","ltz","ltz","ISO 639-1:lb"],["lg","lug","lug","ISO 639-1:lg"],["li","lim","lim","ISO 639-1:li"],["ln","lin","lin","ISO 639-1:ln"],["lo","lao","lao","ISO 639-1:lo"],["lt","lit","lit","ISO 639-1:lt"],["lu","lub","lub","ISO 639-1:lu"],["lv","lav","lav","ISO 639-1:lv"],["mg","mlg","mlg","ISO 639-1:mg"],["mh","mah","mah","ISO 639-1:mh"],["mi","mri","mao","ISO 639-1:mi"],["mk","mkd","mac","ISO 639-1:mk"],["ml","mal","mal","ISO 639-1:ml"],["mn","mon","mon","ISO 639-1:mn"],["mr","mar","mar","ISO 639-1:mr"],["ms","msa","may","ISO 639-1:ms"],["mt","mlt","mlt","ISO 639-1:mt"],["my","mya","bur","ISO 639-1:my"],["na","nau","nau","ISO 639-1:na"],["nb","nob","nob","ISO 639-1:nb"],["nd","nde","nde","ISO 639-1:nd"],["ne","nep","nep","ISO 639-1:ne"],["ng","ndo","ndo","ISO 639-1:ng"],["nl","nld","dut","ISO 639-1:nl"],["nn","nno","nno","ISO 639-1:nn"],["no","nor","nor","ISO 639-1:no"],["nr","nbl","nbl","ISO 639-1:nr"],["nv","nav","nav","ISO 639-1:nv"],["ny","nya","nya","ISO 639-1:ny"],["oc","oci","oci","ISO 639-1:oc"],["oj","oji","oji","ISO 639-1:oj"],["om","orm","orm","ISO 639-1:om"],["or","ori","ori","ISO 639-1:or"],["os","oss","oss","ISO 639-1:os"],["pa","pan","pan","ISO 639-1:pa"],["pi","pli","pli","ISO 639-1:pi"],["pl","pol","pol","ISO 639-1:pl"],["ps","pus","pus","ISO 639-1:ps"],["pt","por","por","ISO 639-1:pt"],["qu","que","que","ISO 639-1:qu"],["rm","roh","roh","ISO 639-1:rm"],["rn","run","run","ISO 639-1:rn"],["ro","ron","rum","ISO 639-1:ro"],["ru","rus","rus","ISO 639-1:ru"],["rw","kin","kin","ISO 639-1:rw"],["sa","san","san","ISO 639-1:sa"],["sc","srd","srd","ISO 639-1:sc"],["sd","snd","snd","ISO 639-1:sd"],["se","sme","sme","ISO 639-1:se"],["sg","sag","sag","ISO 639-1:sg"],["si","sin","sin","ISO 639-1:si"],["sk","slk","slo","ISO 639-1:sk"],["sl","slv","slv","ISO 639-1:sl"],["sm","smo","smo","ISO 639-1:sm"],["sn","sna","sna","ISO 639-1:sn"],["so","som","som","ISO 639-1:so"],["sq","sqi","alb","ISO 639-1:sq"],["sr","srp","srp","ISO 639-1:sr"],["ss","ssw","ssw","ISO 639-1:ss"],["st","sot","sot","ISO 639-1:st"],["su","sun","sun","ISO 639-1:su"],["sv","swe","swe","ISO 639-1:sv"],["sw","swa","swa","ISO 639-1:sw"],["ta","tam","tam","ISO 639-1:ta"],["te","tel","tel","ISO 639-1:te"],["tg","tgk","tgk","ISO 639-1:tg"],["th","tha","tha","ISO 639-1:th"],["ti","tir","tir","ISO 639-1:ti"],["tk","tuk","tuk","ISO 639-1:tk"],["tl","tgl","tgl","ISO 639-1:tl"],["tn","tsn","tsn","ISO 639-1:tn"],["to","ton","ton","ISO 639-1:to"],["tr","tur","tur","ISO 639-1:tr"],["ts","tso","tso","ISO 639-1:ts"],["tt","tat","tat","ISO 639-1:tt"],["tw","twi","twi","ISO 639-1:tw"],["ty","tah","tah","ISO 639-1:ty"],["ug","uig","uig","ISO 639-1:ug"],["uk","ukr","ukr","ISO 639-1:uk"],["ur","urd","urd","ISO 639-1:ur"],["uz","uzb","uzb","ISO 639-1:uz"],["ve","ven","ven","ISO 639-1:ve"],["vi","vie","vie","ISO 639-1:vi"],["vo","vol","vol","ISO 639-1:vo"],["wa","wln","wln","ISO 639-1:wa"],["wo","wol","wol","ISO 639-1:wo"],["xh","xho","xho","ISO 639-1:xh"],["yi","yid","yid","ISO 639-1:yi"],["yo","yor","yor","ISO 639-1:yo"],["za","zha","zha","ISO 639-1:za"],["zh","zho","chi","ISO 639-1:zh"],["zu","zul","zul","ISO 639-1:zu"]];
-
-/***/ }),
-
 /***/ 406:
 /***/ (function(module) {
 
@@ -10500,24 +10750,10 @@ module.exports = isPlainObject;
 
 /***/ }),
 
-/***/ 408:
-/***/ (function(module) {
-
-module.exports = {"locale":"en","languages":{"aa":"Afar","ab":"Abkhazian","ae":"Avestan","af":"Afrikaans","ak":"Akan","am":"Amharic","an":"Aragonese","ar":"Arabic","as":"Assamese","av":"Avaric","ay":"Aymara","az":"Azerbaijani","ba":"Bashkir","be":"Belarusian","bg":"Bulgarian","bh":"Bihari languages","bi":"Bislama","bm":"Bambara","bn":"Bengali","bo":"Tibetan","br":"Breton","bs":"Bosnian","ca":"Catalan","ce":"Chechen","ch":"Chamorro","co":"Corsican","cr":"Cree","cs":"Czech","cu":"Church Slavic","cv":"Chuvash","cy":"Welsh","da":"Danish","de":"German","dv":"Maldivian","dz":"Dzongkha","ee":"Ewe","el":"Greek (modern)","en":"English","eo":"Esperanto","es":"Spanish","et":"Estonian","eu":"Basque","fa":"Persian","ff":"Fulah","fi":"Finnish","fj":"Fijian","fo":"Faroese","fr":"French","fy":"Western Frisian","ga":"Irish","gd":"Gaelic","gl":"Galician","gn":"Guaraní","gu":"Gujarati","gv":"Manx","ha":"Hausa","he":"Hebrew (modern)","hi":"Hindi","ho":"Hiri Motu","hr":"Croatian","ht":"Haitian Creole","hu":"Hungarian","hy":"Armenian","hz":"Herero","ia":"Interlingua","id":"Indonesian","ie":"Interlingue","ig":"Igbo","ii":"Nuosu","ik":"Inupiaq","io":"Ido","is":"Icelandic","it":"Italian","iu":"Inuktitut","ja":"Japanese","jv":"Javanese","ka":"Georgian","kg":"Kongo","ki":"Kikuyu","kj":"Kwanyama","kk":"Kazakh","kl":"Greenlandic","km":"Central Khmer","kn":"Kannada","ko":"Korean","kr":"Kanuri","ks":"Kashmiri","ku":"Kurdish","kv":"Komi","kw":"Cornish","ky":"Kyrgyz","la":"Latin","lb":"Luxembourgish","lg":"Ganda","li":"Limburgish","ln":"Lingala","lo":"Lao","lt":"Lithuanian","lu":"Luba-Katanga","lv":"Latvian","mg":"Malagasy","mh":"Marshallese","mi":"Maori","mk":"Macedonian","ml":"Malayalam","mn":"Mongolian","mr":"Marathi","ms":"Malay","mt":"Maltese","my":"Burmese","na":"Nauru","nb":"Bokmål","nd":"North Ndebele","ne":"Nepali","ng":"Ndonga","nl":"Dutch","nn":"Norwegian Nynorsk","no":"Norwegian","nr":"South Ndebele","nv":"Navajo","ny":"Nyanja","oc":"Occitan","oj":"Ojibwa","om":"Oromo","or":"Oriya","os":"Ossetian","pa":"Punjabi","pi":"Pali","pl":"Polish","ps":"Pashto","pt":"Portuguese","qu":"Quechua","rm":"Romansh","rn":"Rundi","ro":"Romanian","ru":"Russian","rw":"Kinyarwanda","sa":"Sanskrit","sc":"Sardinian","sd":"Sindhi","se":"Northern Sami","sg":"Sango","si":"Sinhalese","sk":"Slovak","sl":"Slovenian","sm":"Samoan","sn":"Shona","so":"Somali","sq":"Albanian","sr":"Serbian","ss":"Swati","st":"Southern Sotho","su":"Sundanese","sv":"Swedish","sw":"Swahili","ta":"Tamil","te":"Telugu","tg":"Tajik","th":"Thai","ti":"Tigrinya","tk":"Turkmen","tl":"Tagalog","tn":"Tswana","to":"Tonga","tr":"Turkish","ts":"Tsonga","tt":"Tatar","tw":"Twi","ty":"Tahitian","ug":"Uyghur","uk":"Ukrainian","ur":"Urdu","uz":"Uzbek","ve":"Venda","vi":"Vietnamese","vo":"Volapük","wa":"Walloon","wo":"Wolof","xh":"Xhosa","yi":"Yiddish","yo":"Yoruba","za":"Zhuang","zh":"Chinese","zu":"Zulu"}};
-
-/***/ }),
-
 /***/ 413:
 /***/ (function(module) {
 
 module.exports = require("stream");
-
-/***/ }),
-
-/***/ 427:
-/***/ (function(module) {
-
-module.exports = {"locale":"de","languages":{"aa":"Afar-Sprache","ab":"Abchasisch","ae":"Awestisch","af":"Afrikaans","ak":"Akan-Sprache","am":"Amharisch","an":"Aragonesisch","ar":"Arabisch","as":"Assamesisch","av":"Awarisch","ay":"Aymara-Sprache","az":"Aserbeidschanisch","ba":"Baschkirisch","be":"Weißrussisch","bg":"Bulgarisch","bh":"Bihari","bi":"Bislama","bm":"Bambara-Sprache","bn":"Bengali","bo":"Tibetisch","br":"Bretonisch","bs":"Bosnisch","ca":"Katalanisch","ce":"Tschetschenisch","ch":"Chamorro-Sprache","co":"Korsisch","cr":"Cree-Sprache","cs":"Tschechisch","cu":"Kirchenslawisch","cv":"Tschuwaschisch","cy":"Kymrisch","da":"Dänisch","de":"Deutsch","dv":"Maledivisch","dz":"Dzongkha","ee":"Ewe-Sprache","el":"Griechisch","en":"Englisch","eo":"Esperanto","es":"Spanisch","et":"Estnisch","eu":"Baskisch","fa":"Persisch","ff":"Ful","fi":"Finnisch","fj":"Fidschi-Sprache","fo":"Färöisch","fr":"Französisch","fy":"Friesisch","ga":"Irish","gd":"Gälisch-Schottisch","gl":"Galicisch","gn":"Guarani-Sprache","gu":"Gujarati-Sprache","gv":"Manxs","ha":"Hausa-Sprache","he":"Hebräisch","hi":"Hindi","ho":"Hiri-Motu","hr":"Kroatisch","ht":"Haitien","hu":"Ungarisch","hy":"Armenisch","hz":"Herero","ia":"Interlingua","id":"Bahasa Indonesia","ie":"Interlingue","ig":"Ibo-Sprache","ii":"Nosu","ik":"Inupik","io":"Sinohoan","is":"Isländisch","it":"Italienisch","iu":"Inuktitut","ja":"Japanisch","jv":"Javanisch","ka":"Georgisch","kg":"Kongo-Sprache","ki":"Kikuyu-Sprache","kj":"Kwanyama-Sprache","kk":"Kasachisch","kl":"Grönländisch","km":"Kambodschanisch","kn":"Kannada","ko":"Koreanisch","kr":"Kanuri-Sprache","ks":"Kashmiri","ku":"Kurdisch","kv":"Komi-Sprache","kw":"Kornisch","ky":"Kirgisisch","la":"Latein","lb":"Luxemburgisch","lg":"Ganda-Sprache","li":"Limburgisch","ln":"Lingala","lo":"Laotisch","lt":"Litauisch","lu":"Luba-Katanga-Sprache","lv":"Lettisch","mg":"Malagassi-Sprache","mh":"Marschallesisch","mi":"Maori-Sprache","mk":"Makedonisch","ml":"Malayalam","mn":"Mongolisch","mr":"Marathi","ms":"Malaiisch","mt":"Maltesisch","my":"Burmesisch","na":"Nauruanisch","nb":"Bokmål","nd":"Ndebele-Sprache (Simbabwe)","ne":"Nepali","ng":"Ndonga","nl":"Niederländisch","nn":"Nynorsk","no":"Norwegisch","nr":"Ndebele-Sprache (Transvaal)","nv":"Navajo-Sprache","ny":"Nyanja-Sprache","oc":"Okzitanisch","oj":"Ojibwa-Sprache","om":"Galla-Sprache","or":"Oriya-Sprache","os":"Ossetisch","pa":"Pandschabi-Sprache","pi":"Pali","pl":"Polnisch","ps":"Paschtu","pt":"Portugiesisch","qu":"Quechua-Sprache","rm":"Rätoromanisch","rn":"Rundi-Sprache","ro":"Rumänisch","ru":"Russisch","rw":"Rwanda-Sprache","sa":"Sanskrit","sc":"Sardisch","sd":"Sindhi-Sprache","se":"Nordsaamisch","sg":"Sango-Sprache","si":"Singhalesisch","sk":"Slowakisch","sl":"Slowenisch","sm":"Samoanisch","sn":"Schona-Sprache","so":"Somali","sq":"Albanisch","sr":"Serbisch","ss":"Swasi-Sprache","st":"Süd-Sotho-Sprache","su":"Sundanesisch","sv":"Schwedisch","sw":"Swahili","ta":"Tamil","te":"Telugu-Sprache","tg":"Tadschikisch","th":"Thailändisch","ti":"Tigrinja-Sprache","tk":"Turkmenisch","tl":"Tagalog","tn":"Tswana-Sprache","to":"Tongaisch","tr":"Türkisch","ts":"Tsonga-Sprache","tt":"Tatarisch","tw":"Twi-Sprache","ty":"Tahitisch","ug":"Uigurisch","uk":"Ukrainisch","ur":"Urdu","uz":"Usbekisch","ve":"Venda-Sprache","vi":"Vietnamesisch","vo":"Volapük","wa":"Wallonisch","wo":"Wolof-Sprache","xh":"Xhosa-Sprache","yi":"Jiddisch","yo":"Yoruba-Sprache","za":"Zhuang","zh":"Chinesisch","zu":"Zulu-Sprache"}};
 
 /***/ }),
 
@@ -10582,13 +10818,6 @@ module.exports = __webpack_require__(74);
 
 /***/ }),
 
-/***/ 465:
-/***/ (function(module) {
-
-module.exports = {"locale":"it","languages":{"aa":"afar","ab":"abcaso","ae":"avestan","af":"afrikaans","ak":"akan","am":"amarico","an":"aragonese","ar":"arabo","as":"assamese","av":"avaro","ay":"aymara","az":"azerbaigiano","ba":"baschiro","be":"bielorusso","bg":"bulgaro","bh":"maïthili","bi":"bislama","bm":"bambara","bn":"bengalese","bo":"tibetano","br":"bretone","bs":"bosniaco","ca":"catalano","ce":"ceceno","ch":"chamorro","co":"corso","cr":"cree","cs":"ceco","cu":"slavo della Chiesa","cv":"chuvash","cy":"gallese","da":"danese","de":"tedesco","dv":"divehi","dz":"dzongkha","ee":"ewe","el":"greco","en":"inglese","eo":"esperanto","es":"spagnolo","et":"estone","eu":"basco","fa":"persiano","ff":"fulah","fi":"finlandese","fj":"figiano","fo":"faroese","fr":"francese","fy":"frisone occidentale","ga":"irlandese","gd":"gaelico scozzese","gl":"galiziano","gn":"guaraní","gu":"gujarati","gv":"manx","ha":"hausa","he":"ebraico","hi":"hindi","ho":"hiri motu","hr":"croato","ht":"haitiano","hu":"ungherese","hy":"armeno","hz":"herero","ia":"interlingua","id":"indonesiano","ie":"interlingue","ig":"igbo","ii":"sichuan yi","ik":"inupiak","io":"ido","is":"islandese","it":"italiano","iu":"inuktitut","ja":"giapponese","jv":"giavanese","ka":"georgiano","kg":"kongo","ki":"kikuyu","kj":"kuanyama","kk":"kazako","kl":"kalaallisut","km":"khmer","kn":"kannada","ko":"coreano","kr":"kanuri","ks":"kashmiri","ku":"curdo","kv":"komi","kw":"cornico","ky":"chirghiso","la":"latino","lb":"lussemburghese","lg":"ganda","li":"limburgese","ln":"lingala","lo":"lao","lt":"lituano","lu":"luba-katanga","lv":"lettone","mg":"malgascio","mh":"marshallese","mi":"maori","mk":"macedone","ml":"malayalam","mn":"mongolo","mr":"marathi","ms":"malese","mt":"maltese","my":"birmano","na":"nauru","nb":"norvegese bokmål","nd":"ndebele del nord","ne":"nepalese","ng":"ndonga","nl":"olandese","nn":"norvegese nynorsk","no":"norvegese","nr":"ndebele del sud","nv":"navajo","ny":"nyanja","oc":"occitano","oj":"ojibwa","om":"oromo","or":"oriya","os":"ossetico","pa":"punjabi","pi":"pali","pl":"polacco","ps":"pashto","pt":"portoghese","qu":"quechua","rm":"romancio","rn":"rundi","ro":"rumeno","ru":"russo","rw":"kinyarwanda","sa":"sanscrito","sc":"sardo","sd":"sindhi","se":"sami del nord","sg":"sango","si":"singalese","sk":"slovacco","sl":"sloveno","sm":"samoano","sn":"shona","so":"somalo","sq":"albanese","sr":"serbo","ss":"swati","st":"sotho del sud","su":"sundanese","sv":"svedese","sw":"swahili","ta":"tamil","te":"telugu","tg":"tagico","th":"thai","ti":"tigrino","tk":"turcomanno","tl":"tagalog","tn":"tswana","to":"tongano","tr":"turco","ts":"tsonga","tt":"tataro","tw":"ci","ty":"taitiano","ug":"uiguro","uk":"ucraino","ur":"urdu","uz":"usbeco","ve":"venda","vi":"vietnamita","vo":"volapük","wa":"vallone","wo":"wolof","xh":"xhosa","yi":"yiddish","yo":"yoruba","za":"zhuang","zh":"cinese","zu":"zulu"}};
-
-/***/ }),
-
 /***/ 471:
 /***/ (function(module, __unusedexports, __webpack_require__) {
 
@@ -10634,13 +10863,6 @@ function checkMode (stat, options) {
   return ret
 }
 
-
-/***/ }),
-
-/***/ 475:
-/***/ (function(module) {
-
-module.exports = {"locale":"pt","languages":{"aa":"afar","ab":"abcázio","ae":"avéstico","af":"africânder","ak":"akan","am":"amárico","an":"aragonês","ar":"árabe","as":"assamês","av":"avárico","ay":"aimará","az":"azerbaijano","ba":"basquir","be":"bielorrusso","bg":"búlgaro","bh":"línguas biaris","bi":"bislamá","bm":"bâmbara","bn":"bengali","bo":"tibetano","br":"bretão","bs":"bósnio","ca":"catalão","ce":"checheno","ch":"chamorro","co":"corso","cr":"cree","cs":"checo","cu":"eslavo eclesiástico","cv":"chuvache","cy":"galês","da":"dinamarquês","de":"alemão","dv":"maldívio","dz":"butanês","ee":"ewe","el":"grego moderno","en":"inglês","eo":"esperanto","es":"espanhol","et":"estoniano","eu":"basco","fa":"persa","ff":"fula","fi":"filandês","fj":"fidjiano","fo":"feroês","fr":"francês","fy":"frisão ocidental","ga":"irlandês","gd":"gaélico escocês","gl":"galego","gn":"guarani","gu":"gujarati","gv":"manês","ha":"haussá","he":"hebraico","hi":"hindi","ho":"hiri motu","hr":"croata","ht":"crioulo haitiano","hu":"húngaro","hy":"arménio","hz":"heréro","ia":"interlíngua","id":"indonésio","ie":"interlíngua","ig":"ibo","ii":"yi de Sichuan","ik":"inupiaque","io":"ido","is":"islandês","it":"italiano","iu":"inuctitut","ja":"japônes","jv":"javanês","ka":"georgiano","kg":"quicongo","ki":"quicuio","kj":"cuanhama","kk":"cazaque","kl":"groenlandês","km":"cambojano","kn":"canarês","ko":"coreano","kr":"canúri","ks":"caxemir","ku":"curdo","kv":"komi","kw":"córnico","ky":"quirguiz","la":"latim","lb":"luxemburguês","lg":"luganda","li":"limburguês","ln":"lingala","lo":"laociano","lt":"lituano","lu":"luba-katanga","lv":"letão","mg":"malgaxe","mh":"marchalês","mi":"maori","mk":"macedónio","ml":"malaiala","mn":"mongol","mr":"marata","ms":"malaio","mt":"maltês","my":"birmanês","na":"nauruano","nb":"bokmål norueguês","nd":"ndebele do norte","ne":"nepalês","ng":"ndonga","nl":"holandês","nn":"novo norueguês","no":"norueguês","nr":"ndebele do sul","nv":"navajo","ny":"nianja","oc":"occitano","oj":"chippewa","om":"oromo","or":"oriá","os":"osseto","pa":"punjabi","pi":"páli","pl":"polaco","ps":"afegão","pt":"português","qu":"quéchua","rm":"romanche","rn":"rundi","ro":"romeno","ru":"russo","rw":"ruanda","sa":"sânscrito","sc":"sardenho","sd":"sindi","se":"sami do norte","sg":"sango","si":"cingalês","sk":"eslovaco","sl":"esloveno","sm":"samoano","sn":"xona","so":"somali","sq":"albanês","sr":"sérvio","ss":"suázi","st":"soto do sul","su":"sundanês","sv":"sueco","sw":"suaíli","ta":"tâmil","te":"telugu","tg":"tajique","th":"tailandês","ti":"tigrínia","tk":"turcomano","tl":"filipino","tn":"tsuana","to":"tonganês","tr":"turco","ts":"tsonga","tt":"tártaro","tw":"axante","ty":"taitiano","ug":"uigure","uk":"ucraniano","ur":"urdu","uz":"uzbeque","ve":"venda","vi":"vietnamita","vo":"volapuque","wa":"valão","wo":"uolofe","xh":"xossa","yi":"ídiche","yo":"ioruba","za":"zhuang","zh":"chinês","zu":"zulu"}};
 
 /***/ }),
 
@@ -10771,13 +10993,6 @@ function sync (path, options) {
 
 /***/ }),
 
-/***/ 516:
-/***/ (function(module) {
-
-module.exports = {"locale":"pl","languages":{"aa":"afar","ab":"abchaski","ae":"awestyjski","af":"africaans","ak":"akan","am":"amharski","an":"aragoński","ar":"arabski","as":"asamski","av":"awarski","ay":"ajmara","az":"azerski","ba":"baszkirski","be":"białoruski","bg":"bułgarski","bh":"języki bihari","bi":"bislama","bm":"bambara","bn":"bengalski","bo":"tybetański","br":"bretoński","bs":"bośniacki","ca":"kataloński","ce":"czeczeński","ch":"czamorro","co":"korsykański","cr":"kri","cs":"czeski","cu":"staro-cerkiewno-słowiański","cv":"czuwaski","cy":"walijski","da":"duński","de":"niemiecki","dv":"malediwski","dz":"dzongkha","ee":"ewe","el":"grecki","en":"angielski","eo":"esperanto","es":"hiszpański","et":"estoński","eu":"baskijski","fa":"perski","ff":"fulani","fi":"fiński","fj":"fidżyjski","fo":"farerski","fr":"francuski","fy":"zachodniofryzyjski","ga":"irlandzki","gd":"szkocki gaelicki","gl":"galicyjski","gn":"guarani","gu":"gudźaracki","gv":"manx","ha":"hausa","he":"hebrajski","hi":"hindi","ho":"hiri motu","hr":"chorwacki","ht":"haitański","hu":"węgierski","hy":"ormiański","hz":"herero","ia":"interlingua","id":"indonezyjski","ie":"interlingue","ig":"igbo","ii":"syczuański","ik":"inupiaq","io":"ido","is":"islandzki","it":"włoski","iu":"inuktitut","ja":"japoński","jv":"jawajski","ka":"gruziński","kg":"kongo","ki":"kikuju","kj":"kwanyama","kk":"kazachski","kl":"grenlandzki","km":"khmerski","kn":"kannada","ko":"koreański","kr":"kanuri","ks":"kaszmirski","ku":"Kurdyjski","kv":"komi","kw":"kornijski","ky":"kirgiski","la":"Łacina","lb":"luksemburski","lg":"ganda","li":"limburski","ln":"lingala","lo":"laotański","lt":"litewski","lu":"luba-katanga","lv":"łotewski","mg":"malgaski","mh":"marszalski","mi":"maori","mk":"macedoński","ml":"malajalam","mn":"mongolski","mr":"marathi","ms":"malajski","mt":"maltański","my":"birmański","na":"nauruański","nb":"norweski (bokmål)","nd":"ndebele północny","ne":"nepalski","ng":"ndonga","nl":"niderlandzki","nn":"norweski (nynorsk)","no":"norweski","nr":"ndebele południowy","nv":"nawaho","ny":"czewa","oc":"oksytański","oj":"odżibwe","om":"oromski","or":"orija","os":"osetyjski","pa":"pendżabski","pi":"pali","pl":"polski","ps":"paszto","pt":"portugalski","qu":"keczua","rm":"retoromański","rn":"rundi","ro":"rumuński","ru":"rosyjski","rw":"kinya-ruanda","sa":"sanskryt","sc":"sardyński","sd":"sindhi","se":"lapoński północny","sg":"sango","si":"syngaleski","sk":"słowacki","sl":"słoweński","sm":"samoański","sn":"szona","so":"somalijski","sq":"albański","sr":"serbski","st":"sotho","ss":"suazi","su":"sundajski","sv":"szwedzki","sw":"suahili","ta":"tamilski","te":"telugu","tg":"tadżycki","th":"tajski","ti":"tigrinia","tk":"turkmeński","tl":"tagalski","tn":"tswana","to":"tonga","tr":"turecki","ts":"tsonga","tt":"tatarski","tw":"twi","ty":"tahitański","ug":"ujgurski","uk":"ukraiński","ur":"urdu","uz":"uzbecki","ve":"venda","vi":"wietnamski","vo":"wolapik","wa":"waloński","wo":"wolof","xh":"xhosa","yi":"jidysz","yo":"joruba","za":"zhuang","zh":"chiński","zu":"zulu"}};
-
-/***/ }),
-
 /***/ 536:
 /***/ (function(__unusedmodule, exports, __webpack_require__) {
 
@@ -10891,20 +11106,6 @@ module.exports.env = opts => {
 
 /***/ }),
 
-/***/ 548:
-/***/ (function(module) {
-
-module.exports = {"locale":"lv","languages":{"aa":"Afāru valoda","ab":"Abhāzu valoda","ae":"Avesta (valoda)|Avesta","af":"afrikāneru valoda","ak":"Akanu valodas|Akanu valoda","am":"Amharu valoda","an":"Aragoniešu valoda","ar":"Arābu valoda","as":"Asamiešu valoda","av":"Avāru valoda","ay":"Aimaru valoda","az":"Azerbaidžāņu valoda","ba":"Baškīru valoda","be":"Baltkrievu valoda","bg":"Bulgāru valoda","bh":"maithilī","bi":"Bislama","bm":"Bambaru valoda","bn":"Bengāļu valoda","bo":"Tibetiešu valoda","br":"Bretoņu valoda","bs":"Bosniešu valoda","ca":"Katalāņu valoda","ce":"Čečenu valoda","ch":"Čamorru valoda","co":"Korsikāņu valoda","cr":"Krī valoda","cs":"Čehu valoda","cu":"Baznīcslāvu valoda","cv":"Čuvašu valoda","cy":"Velsiešu valoda","da":"Dāņu valoda","de":"Vācu valoda","dv":"divehi","dz":"dzongka","ee":"Evu valoda","el":"Grieķu valoda","en":"Angļu valoda","eo":"Esperanto","es":"Spāņu valoda","et":"Igauņu valoda","eu":"Basku valoda","fa":"fārsī","ff":"fulfulde","fi":"Somu valoda","fj":"Fidžiešu valoda","fo":"fēriešu valoda","fr":"Franču valoda","fy":"Rietumfrīzu valoda","ga":"Īru valoda","gd":"Skotu gēlu valoda","gl":"Galisiešu valoda","gn":"Gvaranu valoda","gu":"Gudžaratu valoda","gv":"Meniešu valoda","ha":"Hausu valoda","he":"Ivrits","hi":"Hindi","ho":"hirimotu","hr":"Horvātu valoda","ht":"Haitiešu valoda","hu":"Ungāru valoda","hy":"Armēņu valoda","hz":"Hereru valoda","ia":"Interlingva","id":"Indonēziešu valoda","ie":"Interlingve","ig":"Igbo valoda","ii":"ji valoda","ik":"Inupiaku valoda","io":"Ido","is":"Islandiešu valoda","it":"Itāļu valoda","iu":"inuktituta","ja":"Japāņu valoda","jv":"Javiešu valoda","ka":"Gruzīnu valoda","kg":"kikongo","ki":"gekoju valoda","kj":"kvaņama","kk":"Kazahu valoda","kl":"kalāhlisuta","km":"Khmeru valoda","kn":"kannadigu valoda","ko":"Korejiešu valoda","kr":"Kanuru valoda","ks":"kašmiru valoda","ku":"Kurdu valoda","kv":"komiešu valoda|komiešu valodu","kw":"Korniešu valoda","ky":"Kirgīzu valoda","la":"Latīņu valoda","lb":"Luksemburgiešu valoda","lg":"luganda","li":"Limburgiešu valoda","ln":"Lingala","lo":"Laosiešu valoda","lt":"Lietuviešu valoda","lu":"kiluba","lv":"Latviešu valoda","mg":"malgašu valoda","mh":"Māršaliešu valoda","mi":"Maoru valoda","mk":"Maķedoniešu valoda","ml":"malajalāma","mn":"Mongoļu valoda","mr":"Marathu valoda","ms":"Malajiešu valoda","mt":"Maltiešu valoda","my":"Birmiešu valoda","na":"Nauruiešu valoda","nb":"Norvēģu bukmols","nd":"Ziemeļndebelu valoda","ne":"Nepāliešu valoda","ng":"ošivambo","nl":"nīderlandiešu valoda","nn":"Jaunnorvēģu valoda","no":"Jaunnorvēģu valoda|jaunnorvēģu valodu","nr":"Dienvidndebelu valoda","nv":"Navahu valoda","ny":"čiņandža","oc":"Oksitāņu valoda","oj":"Odžibvu valoda","om":"Oromu valoda","or":"Oriju valoda","os":"Osetīnu valoda","pa":"Pandžabu valoda","pi":"Pāli valoda","pl":"Poļu valoda","ps":"puštunu valoda","pt":"Portugāļu valoda","qu":"Kečvu valoda","rm":"ladīnu valoda|ladīnu valodu","rn":"kirundi","ro":"Rumāņu valoda","ru":"Krievu valoda","rw":"Kiņaruanda","sa":"Sanskrits","sc":"sardu valoda","sd":"Sindhu valoda","se":"Ziemeļsāmu valoda","sg":"sango","si":"Singāļu valoda","sk":"Slovāku valoda","sl":"Slovēņu valoda","sm":"Samoāņu valoda","sn":"Šonu valoda","so":"Somāļu valoda","sq":"Albāņu valoda","sr":"Serbu valoda","ss":"sisvati","st":"sesoto","su":"sundu valoda","sv":"Zviedru valoda","sw":"Svahili","ta":"Tamilu valoda","te":"Telugu valoda","tg":"Tadžiku valoda","th":"Taju valoda","ti":"tigriņu valoda","tk":"Turkmēņu valoda","tl":"tagalogu valoda","tn":"secvana","to":"Tongiešu valoda","tr":"Turku valoda","ts":"šiconga","tt":"Tatāru valoda","tw":"Tvī valoda","ty":"Taitiešu valoda","ug":"Uiguru valoda","uk":"Ukraiņu valoda","ur":"Urdu","uz":"Uzbeku valoda","ve":"čivenda","vi":"Vjetnamiešu valoda","vo":"Volapiks","wa":"Valoņu valoda","wo":"Volofu valoda","xh":"isiķhosa","yi":"Jidišs","yo":"Jorubu valoda","za":"Džuanu valoda","zh":"Ķīniešu valoda","zu":"isizulu"}};
-
-/***/ }),
-
-/***/ 549:
-/***/ (function(module) {
-
-module.exports = {"locale":"is","languages":{"aa":"Afar","ab":"Abkasíska","ae":"Avestíska","af":"Afríkanska","ak":"Akanmál","am":"Amharíska","an":"Aragónska","ar":"Arabíska","as":"Assameíska","av":"Avarska","ay":"Aímaríska","az":"Aserbaídsjanska","ba":"Bashkir","be":"Hvítrússneska","bg":"Búlgarska","bh":"Bihari","bi":"Bislama","bm":"Bambara","bn":"Bengalska","bo":"Tibetan","br":"Bretónska","bs":"Bosníska","ca":"Katalónska","ce":"Téténska","ch":"Chamorro","co":"Corsican","cr":"Cree","cs":"Tékkneska","cu":"Church Slavic","cv":"Chuvash","cy":"Velska","da":"Danska","de":"Þýska","dv":"Divehi","dz":"Dzongkha","ee":"Anló","el":"Gríska","en":"Enska","eo":"Esperantó","es":"Spænska","et":"Eistneska","eu":"Baskneska","fa":"Persneska","ff":"Fulah","fi":"Finnska","fj":"Fídjeyska","fo":"Færeyska","fr":"Franska","fy":"Frísneska","ga":"Írska","gd":"Gelíska","gl":"Galisíska","gn":"Guaraní","gu":"Gujarati","gv":"Manska","ha":"Hausa","he":"Hebreska","hi":"Hindí","ho":"Hiri Motu","hr":"Króatíska","ht":"Haitian","hu":"Ungverska","hy":"Armenska","hz":"Herero","ia":"Interlingua","id":"Indónesíska","ie":"Interlingue","ig":"Igbo","ii":"Sichuan Yi","ik":"Inupiaq","io":"Ido","is":"Íslenska","it":"Ítalska","iu":"Inuktitut","ja":"Japanska","jv":"Javanska","ka":"Georgíska","kg":"Kongo","ki":"Kikuyu","kj":"Kwanyama","kk":"Kasakska","kl":"Grænlenska","km":"Khmer","kn":"Kanaríska","ko":"Kóreska","kr":"Kanuri","ks":"Kashmiri","ku":"Kurdish","kv":"Komi","kw":"Cornish","ky":"Kirgisíska","la":"Latína","lb":"Lúxemborgíska","lg":"Ganda","li":"Limburgish","ln":"Lingala","lo":"Lao","lt":"Litháíska","lu":"Luba-Katanga","lv":"Lettneska","mg":"Malagasíska","mh":"Malagasíska","mi":"Māori","mk":"Makedónska","ml":"Malayalam","mn":"Khalkha","mr":"Marathi","ms":"Malasíska","mt":"Maltneska","my":"Búrmíska","na":"Nárúska","nb":"Bókmál","nd":"North Ndebele","ne":"Nepali","ng":":en:Ndonga","nl":"Hollenska","nn":"Nýnorska","no":"Norska","nr":"Ndebele","nv":"Navajo","ny":"Chichewa","oc":"Occitan","oj":"Ojibwa","om":"Oromo","or":"Oriya","os":"Ossetian","pa":"Púndjabí","pi":"Pāli","pl":"Pólska","ps":"Pashto","pt":"Portúgalska","qu":"Quechua","rm":"Raeto-Romance","rn":"Kirundi","ro":"Rúmenska","ru":"Rússneska","rw":"Kinyarwanda","sa":"Sanskrít","sc":"Sardinian","sd":"Sindhi","se":"Norðursamíska","sg":"Sango","si":"Sinhalese","sk":"Slóvakíska","sl":"Slóvenska","sm":"Samóska","sn":"Shona","so":"Sómalska","sq":"Albanska","sr":"Serbneska","ss":"Svasí","st":"Sótó","su":"Sundanese","sv":"Sænska","sw":"Svahílí","ta":"Tamílska","te":"Telúgú","tg":"Tajik","th":"Taílenska","ti":"Tigrinya","tk":"Túrkmenska","tl":"Tagalog","tn":"Tsvana","to":"Tongverska","tr":"Tyrkneska","ts":"Tsonga","tt":"Tatar","tw":"Tví","ty":"Tahitian","ug":"Uighur","uk":"Úkraínska","ur":"Úrdú","uz":"Úsbekíska","ve":"Venda","vi":"Víetnamska","vo":":en:Volapük","wa":"Walloon","wo":"Wolof","xh":"Xhosa","yi":"Yiddish","yo":"Yoruba","za":"Zhuang","zh":"Kínverska","zu":"Súlúmál"}};
-
-/***/ }),
-
 /***/ 551:
 /***/ (function(module) {
 
@@ -10921,13 +11122,6 @@ module.exports = function(fn) {
 	try { return fn() } catch (e) {}
 
 }
-
-/***/ }),
-
-/***/ 564:
-/***/ (function(module) {
-
-module.exports = {"locale":"cs","languages":{"aa":"afarština","ab":"abcházština","ae":"avestánština","af":"afrikánština","ak":"akanština","am":"amharština","an":"aragonština","ar":"arabština","as":"ásámština","av":"avarština","ay":"ajmarština","az":"ázerbájdžánština","ba":"baškirština","be":"běloruština","bg":"bulharština","bh":"bihárština","bi":"bislamština","bm":"bambarština","bn":"bengálština","bo":"tibetština","br":"bretonština","bs":"bosenština","ca":"katalánština","ce":"čečenština","ch":"chamorro","co":"korsičtina","cr":"kríjština","cs":"čeština","cu":"staroslověnština","cv":"čuvaština","cy":"velština","da":"dánština","de":"němčina","dv":"divehi","dz":"dzongkha","ee":"eveština","el":"řečtina","en":"angličtina","eo":"esperanto","es":"španělština","et":"estonština","eu":"baskičtina","fa":"perština","ff":"fulbština","fi":"finština","fj":"fidžijština","fo":"faerština","fr":"francouzština","fy":"západofríština","ga":"irština","gd":"skotská gaelština","gl":"galicijština","gn":"guaraní","gu":"gudžarátština","gv":"manština","ha":"hauština","he":"hebrejština","hi":"hindština","ho":"hiri motu","hr":"chorvatština","ht":"haitština","hu":"maďarština","hy":"arménština","hz":"hererština","ia":"interlingua","id":"indonéština","ie":"interlingue","ig":"igbo","ii":"yi","ik":"inupiaq","io":"ido","is":"islandština","it":"italština","iu":"inuitština","ja":"japonština","jv":"javánština","ka":"gruzínština","kg":"konžština","ki":"kikujština","kj":"kuanyama","kk":"kazaština","kl":"grónština","km":"khmerština","kn":"kannadština","ko":"korejština","kr":"kanurijština","ks":"kašmírština","ku":"kurdština","kv":"komijština","kw":"kornština","ky":"kyrgyzština","la":"latina","lb":"lucemburština","lg":"gandština","li":"limburština","ln":"ngalština","lo":"laoština","lt":"litevština","lu":"lubština","lv":"lotyština","mg":"malgaština","mh":"maršálština","mi":"maorština","mk":"makedonština","ml":"malajámština","mn":"mongolština","mr":"maráthština","ms":"malajština","mt":"maltština","my":"barmština","na":"nauruština","nb":"bokmål","nd":"severní ndebelština","ne":"nepálština","ng":"ndonga","nl":"nizozemština","nn":"nynorsk","no":"norština","nr":"jižní ndebelština","nv":"navažština","ny":"čičevština","oc":"okcitánština","oj":"odžibvejština","om":"oromština","or":"urijština","os":"osetština","pa":"paňdžábština","pi":"páli","pl":"polština","ps":"paštština","pt":"portugalština","qu":"kečuánština","rm":"rétorománština","rn":"kirundština","ro":"rumunština","ru":"ruština","rw":"rwandština","sa":"sanskrt","sc":"sardština","sd":"sindhština","se":"severní sámština","sg":"sangština","si":"sinhálština","sk":"slovenština","sl":"slovinština","sm":"samojština","sn":"šonština","so":"somálština","sq":"albánština","sr":"srbština","ss":"svazijština","st":"sotština","su":"sundština","sv":"švédština","sw":"svahilština","ta":"tamilština","te":"telugština","tg":"tádžičtina","th":"thajština","ti":"tigriňňa","tk":"turkmenština","tl":"tagalština","tn":"čwanština","to":"tonžština","tr":"turečtina","ts":"tsonga","tt":"tatarština","tw":"ťwiština","ty":"tahitština","ug":"ujgurština","uk":"ukrajinština","ur":"urdština","uz":"uzbečtina","ve":"luvendština","vi":"vietnamština","vo":"volapük","wa":"valonština","wo":"volofština","xh":"xhoština","yi":"jidiš","yo":"jorubština","za":"čuangština","zh":"čínština","zu":"zulština"}};
 
 /***/ }),
 
@@ -15671,13 +15865,6 @@ exports.Deprecation = Deprecation;
 
 /***/ }),
 
-/***/ 730:
-/***/ (function(module) {
-
-module.exports = {"locale":"ro","languages":{"aa":"afar","ab":"abhază","ae":"avestană","af":"afrikaans","ak":"akan","am":"amharică","an":"aragoneză","ar":"arabă","as":"assameză","av":"avară","ay":"aymara","az":"azeră","ba":"bașkiră","be":"bielorusă","bg":"bulgară","bh":"limbi bihari","bi":"bislama","bm":"bambara","bn":"bengaleză","bo":"tibetană","br":"bretonă","bs":"bosniacă","ca":"catalană","ce":"cecenă","ch":"chamorro","co":"corsicană","cr":"cree","cs":"cehă","cu":"slavona bisericească","cv":"ciuvașă","cy":"galeză","da":"daneză","de":"germană","dv":"maldivian","dz":"dzongkha","ee":"ewe","el":"neogreacă","en":"engleză","eo":"esperanto","es":"spaniolă","et":"estonă","eu":"bască","fa":"persană","ff":"fula","fi":"fFinlandeză","fj":"fijiană","fo":"feroeză","fr":"franceză","fy":"western frisian","ga":"irlandeză","gd":"scoțiană","gl":"galiciană","gn":"guaraní","gu":"gujarati","gv":"manx","ha":"hausa","he":"ebraică","hi":"hindi","ho":"hiri motu","hr":"croată","ht":"creolă haitiană","hu":"maghiară","hy":"armeană","hz":"herero","ia":"interlingua","id":"indoneziană","ie":"interlingue","ig":"igbo","ii":"nuosu","ik":"inupiaq","io":"ido","is":"islandeză","it":"italiană","iu":"inuktitut","ja":"japoneză","jv":"javaneză","ka":"georgiană","kg":"kongo","ki":"kikuyu","kj":"kwanyama","kk":"kazahă","kl":"groenlandeza","km":"khmeră ","kn":"kannada","ko":"coreeană","kr":"kanuri","ks":"kashmiri","ku":"kurdă","kv":"komi","kw":"cornică","ky":"kârgâză","la":"latin","lb":"luxemburgheză","lg":"ganda","li":"limburgheză","ln":"lingala","lo":"laoțiană","lt":"lituaniană","lu":"luba-katanga","lv":"letonă","mg":"malgașă","mh":"marshallese","mi":"maori","mk":"macedoneană","ml":"malayalam","mn":"mongola","mr":"marathi","ms":"malaieză","mt":"malteză","my":"birmană","na":"nauruana","nb":"norvegiana cărturărească","nd":"north ndebele","ne":"nepaleză","ng":"ndonga","nl":"olandeză","nn":"norvegiana nouă","no":"norvegiană","nr":"south ndebele","nv":"navajo","ny":"nyanja","oc":"occitană","oj":"ojibwa","om":"oromo","or":"oriya","os":"osetă","pa":"punjaba ","pi":"pali","pl":"poloneză","ps":"paștu","pt":"portugheză","qu":"quechua","rm":"retoromană","rn":"rundi","ro":"română","ru":"rusă","rw":"Kinyarwanda","sa":"Sanskrit","sc":"sanscrită","sd":"sindhi","se":"northern sami","sg":"sango","si":"singaleză","sk":"slovacă","sl":"slovenă","sm":"samoană","sn":"shona","so":"somaleză","sq":"albaneză","sr":"sârbă","ss":"swati","st":"sotho de sud","su":"sundanese","sv":"suedeză","sw":"swahili","ta":"tamilă","te":"telugu","tg":"tadjică","th":"Thailandeză","ti":"tigrinya","tk":"turkmenă","tl":"tagalog","tn":"tswana","to":"tonga","tr":"turcă","ts":"tsonga","tt":"tătară","tw":"twi","ty":"tahitiană","ug":"uigură","uk":"ucraineană","ur":"urdu","uz":"uzbecă","ve":"venda","vi":"vietnameză","vo":"volapük","wa":"valonă","wo":"wolof","xh":"xhosa","yi":"idiș","yo":"yoruba","za":"zhuang","zh":"chineză","zu":"zulu"}};
-
-/***/ }),
-
 /***/ 731:
 /***/ (function(module, exports) {
 
@@ -17696,20 +17883,6 @@ function wrappy (fn, cb) {
 
 /***/ }),
 
-/***/ 860:
-/***/ (function(module) {
-
-module.exports = {"locale":"fr","languages":{"aa":"Afar","ab":"Abkhaze","ae":"Avestique","af":"Afrikaans","ak":"Akan","am":"Amharique","an":"Aragonais","ar":"Arabe","as":"Assamais","av":"Avar","ay":"Aymara","az":"Azéri","ba":"Bachkir","be":"Biélorusse","bg":"Bulgare","bh":"maïthili","bi":"Bichelamar","bm":"Bambara","bn":"Bengali","bo":"Tibétain","br":"Breton","bs":"Bosnien","ca":"Catalan","ce":"Tchétchène","ch":"Chamorro","co":"Corse","cr":"Cri","cs":"Tchèque","cu":"Vieux-slave","cv":"Tchouvache","cy":"Gallois","da":"Danois","de":"Allemand","dv":"Maldivien","dz":"Dzongkha","ee":"Ewe","el":"Grec moderne","en":"Anglais","eo":"Espéranto","es":"Espagnol","et":"Estonien","eu":"Basque","fa":"Persan","ff":"Peul","fi":"Finnois","fj":"Fidjien","fo":"Féroïen","fr":"Français","fy":"Frison occidental","ga":"Irlandais","gd":"Écossais","gl":"Galicien","gn":"Guarani","gu":"Gujarati","gv":"Mannois","ha":"Haoussa","he":"Hébreu","hi":"Hindi","ho":"Hiri motu","hr":"Croate","ht":"Créole haïtien","hu":"Hongrois","hy":"Arménien","hz":"Héréro","ia":"Interlingua","id":"Indonésien","ie":"Occidental","ig":"Igbo","ii":"Yi","ik":"Inupiak","io":"Ido","is":"Islandais","it":"Italien","iu":"Inuktitut","ja":"Japonais","jv":"Javanais","ka":"Géorgien","kg":"Kikongo","ki":"Kikuyu","kj":"Kuanyama","kk":"Kazakh","kl":"Groenlandais","km":"Khmer","kn":"Kannada","ko":"Coréen","kr":"Kanouri","ks":"Cachemiri","ku":"Kurde","kv":"Komi","kw":"Cornique","ky":"Kirghiz","la":"Latin","lb":"Luxembourgeois","lg":"Luganda","li":"Limbourgeois","ln":"Lingala","lo":"Lao","lt":"Lituanien","lu":"Luba-katanga","lv":"Letton","mg":"Malgache","mh":"Marshallais","mi":"Maori de Nouvelle-Zélande","mk":"Macédonien","ml":"Malayalam","mn":"Mongol","mr":"Marathi","ms":"Malais","mt":"Maltais","my":"Birman","na":"Nauruan","nb":"Bokmål","nd":"Sindebele","ne":"Népalais","ng":"Ndonga","nl":"Néerlandais","nn":"Nynorsk","no":"Norvégien","nr":"Nrebele","nv":"Navajo","ny":"Chichewa","oc":"Occitan","oj":"Ojibwé","om":"Oromo","or":"Oriya","os":"Ossète","pa":"Pendjabi","pi":"Pali","pl":"Polonais","ps":"Pachto","pt":"Portugais","qu":"Quechua","rm":"Romanche","rn":"Kirundi","ro":"Roumain","ru":"Russe","rw":"Kinyarwanda","sa":"Sanskrit","sc":"Sarde","sd":"Sindhi","se":"Same du Nord","sg":"Sango","si":"Cingalais","sk":"Slovaque","sl":"Slovène","sm":"Samoan","sn":"Shona","so":"Somali","sq":"Albanais","sr":"Serbe","ss":"Swati","st":"Sotho du Sud","su":"Soundanais","sv":"Suédois","sw":"Swahili","ta":"Tamoul","te":"Télougou","tg":"Tadjik","th":"Thaï","ti":"Tigrigna","tk":"Turkmène","tl":"Tagalog","tn":"Tswana","to":"Tongien","tr":"Turc","ts":"Tsonga","tt":"Tatar","tw":"Twi","ty":"Tahitien","ug":"Ouïghour","uk":"Ukrainien","ur":"Ourdou","uz":"Ouzbek","ve":"Venda","vi":"Vietnamien","vo":"Volapük","wa":"Wallon","wo":"Wolof","xh":"Xhosa","yi":"Yiddish","yo":"Yoruba","za":"Zhuang","zh":"Chinois","zu":"Zoulou"}};
-
-/***/ }),
-
-/***/ 873:
-/***/ (function(module) {
-
-module.exports = {"locale":"es","languages":{"aa":"Afar","ab":"Abjasiano","ae":"Avéstico","af":"Afrikáans","ak":"Akano","am":"Amhárico","an":"Aragonés","ar":"Arabe","as":"Asamés","av":"Avar","ay":"Aimara","az":"Azerí","ba":"Baskir","be":"Bielorruso","bg":"Búlgaro","bh":"Bhoyapurí","bi":"Bislama","bm":"Bambara","bn":"Bengalí","bo":"Tibetano","br":"Bretón","bs":"Bosnio","ca":"Catalán","ce":"Checheno","ch":"Chamorro","co":"Corso","cr":"Cree","cs":"Checo","cu":"Eslavo eclesiástico antiguo","cv":"Chuvasio","cy":"Galés","da":"Danés","de":"Alemán","dv":"Maldivo","dz":"Dzongkha","ee":"Ewé","el":"Griego (moderno)","en":"Inglés","eo":"Esperanto","es":"Español","et":"Estonio","eu":"Euskera","fa":"Persa","ff":"Fula","fi":"Finés","fj":"Fiyiano","fo":"Feroés","fr":"Frances","fy":"Frisón","ga":"Irlandés","gd":"Gaélico escocés","gl":"Gallego","gn":"Guaraní","gu":"Guyaratí","gv":"Manés","ha":"Hausa","he":"Hebreo (moderno)","hi":"Hindi","ho":"Hiri Motu","hr":"Croata","ht":"Haitiano","hu":"Húngaro","hy":"Armenio","hz":"Herero","ia":"Interlingua","id":"Indonesio","ie":"Occidental","ig":"Igbo","ii":"Yi de Sichuán","ik":"Iñupiaq","io":"Ido","is":"Islandés","it":"Italiano","iu":"Inuktitut","ja":"Japonés","jv":"Javanés","ka":"Georgiano","kg":"Kongo","ki":"Kikuyu","kj":"Kuanyama","kk":"Kazajo","kl":"Groenlandés","km":"Camboyano","kn":"Canarés","ko":"Coreano","kr":"Kanuri","ks":"Cachemiro","ku":"Kurdo","kv":"Komi","kw":"Córnico","ky":"Kirguís","la":"Latín","lb":"Luxemburgués","lg":"Luganda","li":"Limburgués","ln":"Lingala","lo":"Lao","lt":"Lituano","lu":"Luba-Katanga","lv":"Letón","mg":"Malgache","mh":"Marshalés","mi":"Maorí","mk":"Macedonio","ml":"Malayalam","mn":"Mongol","mr":"Maratí","ms":"Malayo","mt":"Maltés","my":"Birmano","na":"Nauruano","nb":"Noruego bokmål","nd":"Ndebele del norte","ne":"Nepalí","ng":"Ndonga","nl":"Holandés","nn":"Nynorsk","no":"Noruego","nr":"Ndebele del sur","nv":"Navajo","ny":"Chichewa","oc":"Occitano","oj":"Ojibwa","om":"Oromo","or":"Oriya","os":"Osético","pa":"Panyabí","pi":"Pali","pl":"Polaco","ps":"Pastú","pt":"Portugués","qu":"Quechua","rm":"Romanche","rn":"Kirundi","ro":"Rumano","ru":"Ruso","rw":"Ruandés","sa":"Sánscrito","sc":"Sardo","sd":"Sindhi","se":"Sami septentrional","sg":"Sango","si":"Cingalés","sk":"Eslovaco","sl":"Esloveno","sm":"Samoano","sn":"Shona","so":"Somalí","sq":"Albano","sr":"Serbio","ss":"Suazi","st":"Sesotho","su":"Sundanés","sv":"Sueco","sw":"Suajili","ta":"Tamil","te":"Télugu","tg":"Tayiko","th":"Tailandés","ti":"Tigriña","tk":"Turcomano","tl":"Tagalo","tn":"Setsuana","to":"Tongano","tr":"Turco","ts":"Tsonga","tt":"Tártaro","tw":"Twi","ty":"Tahitiano","ug":"Uigur","uk":"Ucraniano","ur":"Urdu","uz":"Uzbeko","ve":"Venda","vi":"Vietnamita","vo":"Volapük","wa":"Valón","wo":"Wolof","xh":"Xhosa","yi":"Yídish","yo":"Yoruba","za":"Chuan","zh":"Chino","zu":"Zulú"}};
-
-/***/ }),
-
 /***/ 879:
 /***/ (function(module) {
 
@@ -17996,13 +18169,6 @@ module.exports.MaxBufferError = MaxBufferError;
 
 /***/ }),
 
-/***/ 943:
-/***/ (function(module) {
-
-module.exports = {"locale":"ja","languages":{"aa":"アファール語","ab":"アブハズ語","ae":"アベスタン語","af":"アフリカーンス語","ak":"アカン語","am":"アムハラ語","an":"アラゴン語","ar":"アラビア語","as":"アッサム語","av":"アバール語","ay":"アイマラ語","az":"アゼルバイジャン語","ba":"バシキール語","be":"ベラルーシ語","bg":"ブルガリア語","bh":"ビハリ語","bi":"ビスラマ語","bm":"バンバラ語","bn":"ベンガル語","bo":"チベット標準語","br":"ブルトン語","bs":"ボスニア語","ca":"カタロニア語","ce":"チェチェン語","ch":"チャモロ語","co":"コルシカ語","cr":"クリー語","cs":"チェコ語","cu":"教会スラブ語","cv":"チュワシュ語","cy":"ウェールズ語","da":"デンマーク語","de":"ドイツ語","dv":"ディベヒ語","dz":"ゾンカ語","ee":"エウェ語","el":"ギリシャ語","en":"英語","eo":"エスペラント語","es":"スペイン語","et":"エストニア語","eu":"バスク語","fa":"ペルシャ語","ff":"フラニ語","fi":"フィンランド語","fj":"フィジー語","fo":"フェーロー語","fr":"フランス語","fy":"西フリジア語","ga":"アイルランド語","gd":"スコットランドゲール語","gl":"ガリシア語","gn":"グジャラーティー","gu":"グァラニ語","gv":"マン島語","ha":"ハウサ語","he":"ヘブライ語","hi":"ヒンディー語","ho":"ヒリモトゥ語","hr":"クロアチア語","ht":"ハイチ語","hu":"ハンガリー語","hy":"アルメニア語","hz":"ヘレロ語","ia":"インターリンガ語","id":"インドネシア語","ie":"インターリング","ig":"イボ語","ii":"彝語","ik":"イヌピアック語","io":"イド語","is":"アイスランド語","it":"イタリア語","iu":"イヌイット語","ja":"日本語","jv":"ジャワ語","ka":"ジョージア語","kg":"コンゴ語","ki":"キクユ語","kj":"クワニャマ語","kk":"カザフ語","kl":"グリーンランド語","km":"クメール語","kn":"カンナダ語","ko":"韓国語","kr":"カヌリ語","ks":"カシュミール語","ku":"クルド語","kv":"コミ語","kw":"コーンウォール語","ky":"キルギス語","la":"ラテン語","lb":"ルクセンブルク語","lg":"ガンダ語","li":"リンブルガー語","ln":"リンガラ語","lo":"ラオ語","lt":"リトアニア語","lu":"キルバ語","lv":"ラトビア語","mg":"マラガシ語","mh":"マーシャル語","mi":"マオリ語","mk":"マケドニア語","ml":"マラヤーラム語","mn":"モンゴル語","mr":"マラーティー語","ms":"マレー語","mt":"マルタ語","my":"ミャンマー語","na":"ナウル語","nb":"ノルウェー語ブークモール","nd":"北ンデベレ語","ne":"ネパール語","ng":"ンドゥンガ語","nl":"オランダ語","nn":"ニューノシュク","no":"ノルウェー語","nr":"南ンデベレ語","nv":"ナバホ語","ny":"チェワ語","oc":"オック語","oj":"オジブワ語","om":"オロモ語","or":"オリヤー語","os":"オセット語","pa":"パンジャーブ語","pi":"パーリ語","pl":"ポーランド語","ps":"パシュトー語","pt":"ポルトガル語","qu":"ケチュア語","rm":"ロマンシュ語","rn":"ルンディ語","ro":"ルーマニア語","ru":"ロシア語","rw":"キンヤルワンダ語","sa":"サンスクリット語","sc":"サルデーニャ語","sd":"シンド語","se":"北部サーミ語","sg":"サンゴ語","si":"シンハラ語","sk":"スロバキア語","sl":"スロベニア語","sm":"サモア語","sn":"ショナ語","so":"ソマリ語","sq":"アルバニア語","sr":"セルビア語","ss":"スワジ語","st":"南ソト語","su":"スンダ語","sv":"スウェーデン語","sw":"スワヒリ語","ta":"タミル語","te":"テルグ語","tg":"タジク語","th":"タイ語","ti":"ティグリニア語","tk":"トルクメン語","tl":"タガログ語","tn":"ツワナ語","to":"トンガ語","tr":"トルコ語","ts":"ツォンガ語","tt":"タタール語","tw":"チュイ語","ty":"タヒチ語","ug":"ウイグル語","uk":"ウクライナ語","ur":"ウルドゥー語","uz":"ウズベク語","ve":"ベンダ語","vi":"ベトナム語","vo":"ボラピューク語","wa":"ワロン語","wo":"ウォロフ語","xh":"コサ語","yi":"イディッシュ語","yo":"ヨルバ語","za":"チュワン語","zh":"中国語","zu":"ズールー語"}};
-
-/***/ }),
-
 /***/ 950:
 /***/ (function(module) {
 
@@ -18121,13 +18287,6 @@ function getOctokitOptions(token, options) {
 }
 exports.getOctokitOptions = getOctokitOptions;
 //# sourceMappingURL=utils.js.map
-
-/***/ }),
-
-/***/ 988:
-/***/ (function(module) {
-
-module.exports = {"locale":"hu","languages":{"aa":"afar","ab":"abház","ae":"avesztai","af":"afrikaans","ak":"akan","am":"amhara","an":"aragóniai","ar":"arab","as":"asszámi","av":"avar","ay":"ajmara","az":"azeri","ba":"baskír","be":"belarusz","bg":"bolgár","bh":"maithili","bi":"biszlama","bm":"bambara","bn":"bengáli","bo":"tibeti","br":"breton","bs":"bosnyák","ca":"valenciai","ce":"csecsen","ch":"csamorro","co":"korzikai","cr":"krí","cs":"cseh","cu":"óegyházi szláv","cv":"csuvas","cy":"walesi","da":"dán","de":"német","dv":"maldív","dz":"dzongkha","ee":"eve","el":"görög","en":"angol","eo":"eszperantó","es":"spanyol","et":"észt","eu":"baszk","fa":"perzsa","ff":"ful","fi":"finn","fj":"fidzsi","fo":"feröeri","fr":"francia","fy":"fríz","ga":"ír","gd":"skót gael","gl":"galiciai","gn":"guarani","gu":"gudzsaráti","gv":"manx","ha":"hausza","he":"héber","hi":"hindi","ho":"hiri motu","hr":"horvát","ht":"haiti kreol","hu":"magyar","hy":"örmény","hz":"herero","ia":"interlingva","id":"maláj","ie":"interlingue","ig":"igbó","ii":"nuoszu","ik":"inupiak","io":"ido","is":"izlandi","it":"olasz","iu":"inuktitut","ja":"japán","jv":"jávai","ka":"grúz","kg":"kikongo","ki":"kikuju","kj":"kvanyama","kk":"kazak","kl":"grönlandi","km":"khmer","kn":"kannada","ko":"koreai","kr":"kanuri","ks":"kasmíri","ku":"kurd","kv":"komi","kw":"korni","ky":"kirgiz","la":"latin","lb":"luxemburgi","lg":"luganda","li":"limburgi","ln":"lingala","lo":"lao","lt":"litván","lu":"luba-katanga","lv":"lett","mg":"malgas","mh":"Marshall-szigeteki","mi":"maori","mk":"macedón","ml":"malajálam","mn":"mongol","mr":"maráthi","ms":"maláj","mt":"máltai","my":"burmai","na":"naurui","nb":"norvég","nd":"északi ndebele","ne":"nepáli","ng":"ndonga","nl":"holland","nn":"norvég","no":"nynorsk","nr":"déli ndebele","nv":"navahó","ny":"cseva","oc":"okcitán","oj":"odzsibva","om":"oromó","or":"orija","os":"oszét","pa":"pandzsábi","pi":"páli","pl":"lengyel","ps":"pastu","pt":"portugál","qu":"kecsua","rm":"romans","rn":"rundi","ro":"román","ru":"orosz","rw":"kinyarvanda","sa":"szanszkrit","sc":"szárd","sd":"szindhi","se":"északi számi","sg":"szangó","si":"szingaléz","sk":"szlovák","sl":"szlovén","sm":"szamoai","sn":"sona","so":"szomáli","sq":"albán","sr":"szerb","ss":"szvázi","st":"déli szoto","su":"szundai","sv":"svéd","sw":"szuahéli","ta":"tamil","te":"telugu","tg":"tádzsik","th":"thai","ti":"tigrinya","tk":"türkmén","tl":"tagalog","tn":"csvana","to":"tonga","tr":"török","ts":"conga","tt":"tatár","tw":"tvi","ty":"tahiti","ug":"ujgur","uk":"ukrán","ur":"urdu","uz":"üzbég","ve":"venda","vi":"vietnámi","vo":"volapük","wa":"vallon","wo":"volof","xh":"xhosza","yi":"jiddis","yo":"joruba","za":"csuang","zh":"kínai","zu":"zulu"}};
 
 /***/ }),
 
