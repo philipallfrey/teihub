@@ -10,8 +10,10 @@ countOrder: 'desc'
   Languages
 </h2>
 <div class="ui attached segment">
-<p>In an effort to make it easier to locate TEI-encoded texts in a particular language, I have recorded the <a href="https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes" target="_blank">ISO 639-2(T) language codes</a> for each repository where language(s) were clearly specified in TEI files.</p>
-  <p>Each time a repository appears in a batch of 1000 GitHub search results, I download the first .xml file and check whether a language is specified in any of the following ways, in order:</p>
+  <p>In an effort to make it easier to locate TEI-encoded texts in a particular language, I have recorded the <a href="https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes" target="_blank">ISO 639 language codes</a> for each repository where languages were clearly specified in TEI files.</p>
+
+  <p>Each time a repository appears in a batch of 1000 GitHub search results, I download the first .xml file for that repository that appears in the current batch of search results and check whether a language is specified in any of the following ways, in order:</p>
+
   <ol>
     <li> <code>&lt;langUsage&gt;&lt;language id(ent)="xx(x)"&gt;...&lt;/language&gt;&lt;/langUsage&gt;</code></li>
     <li> <code>&lt;text xml:lang="xx(x)"&gt;</code></li>
@@ -23,10 +25,9 @@ countOrder: 'desc'
 
   <p>Based on a sample of 500 repositories, approximately 40% declare a language in one of these ways. If the same repository appears in a different batch of search results, I apply the same algorithm to the first .xml file found in that search, and append any new languages to the end of the list. Repositories/files/languages are not currently removed from this database even if the underlying files are changed or removed from GitHub.</p>
 
-  <p>I have normalised all two or three character language codes to three-character ISO 639-2 codes (preferring the T variant where relevant), and excluded any invalid codes. I have also stripped out the script part from language codes if specified (e.g. <code>tam-Latn</code> becomes <code>tam</code> ).</p>
-
-
+  <p>The TEI Guidelines recommend the use of <a href="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.global.html#tei_att.xml-lang" target="_blank">BCP 47 language tags</a>. In their fullest version such tags allow you to encode language, region, script, and certain other information. For simplicity I have only recorded the language subtag, and discarded the other information. BCP 47 prefers the shortest available form of ISO 639 language codes for the language subtag (e.g. <code>de</code> instead of <code>deu</code> for German), however this means some languages have a two-character code, and some a three-character code. For consistency, and to avoid privileging &ldquo;more common&rdquo; languages, I have normalised all two-character language codes to use their three-character ISO 639-2 equivalent, choosing the Terminology variant where applicable (e.g. <code>de</code> becomes <code>deu</code> not <code>ger</code>).</p>
 </div>
+
 <table class="ui unstackable collapsing celled padded table">
   <thead>
     <tr>
