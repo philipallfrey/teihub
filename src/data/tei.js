@@ -1,5 +1,6 @@
 const latest = require('./latest');
 const fs = require('fs');
+const { parseAsync } = require('json2csv');
 
 let faunadb = require('faunadb'),
 q = faunadb.query;
@@ -187,13 +188,28 @@ module.exports = async function() {
   const matches = [...repos].sort((a, b) => b.count - a.count);
   const repository = [...repos].sort((a, b) => a.name.localeCompare(b.name));
 
-  //Write full dataset to file, to allow people to download
+  //Write full dataset to JSON file, to allow people to download
   const repoString = JSON.stringify(repos);
   const distPath = __dirname + '/../../dist';
   if(!fs.existsSync(distPath)) fs.mkdirSync(distPath);
   fs.writeFileSync(distPath + '/teihub.json', repoString);
 
+  //Also write full dataset to CSV file
+  const fields = ['date', 'name', 'url', 'desc', 'langs', 'count'];
+  const opts = { fields };
+  const reposWithLangString = repos.map(x => {
+    x.langs = x.langs || [];
+    x.langs = x.langs.join('|');
+    return x;
+  });
+
+  const csv = await parseAsync(reposWithLangString, opts)
+    .catch(err => console.error(err));
+  fs.writeFileSync(distPath + '/teihub.csv', csv);
+
+
   return {
+    csvSize: filesize(csv.length, 0),
     dataSize: filesize(repoString.length, 0),
     date: lastIndexed[0].date,
     description: description,
