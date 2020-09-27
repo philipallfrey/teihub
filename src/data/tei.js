@@ -1,4 +1,3 @@
-const languages = require('../../lib/iso-639-2/iso-639-2.js');
 const latest = require('./latest');
 const fs = require('fs');
 
@@ -159,7 +158,7 @@ module.exports = async function() {
 
   const langObjects = [...langs.entries()]
     .map(x => {
-      return {code: x[0], count: x[1], name: languages.getName(x[0], 'name')};
+      return {code: x[0], count: x[1]};
     })
 
   const langCounts = [...langObjects]

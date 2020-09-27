@@ -27,19 +27,17 @@ countOrder: 'desc'
 
 
 </div>
-<table class="ui collapsing celled padded table">
+<table class="ui unstackable collapsing celled padded table">
   <thead>
     <tr>
       <th><a class="{{'active' if active.code}}" href="/languages/code/{{codeOrder}}/">Language Code</a></th>
-      <th>Language Name</th>
       <th><a class="{{'active' if active.count}}" href="/languages/count/{{countOrder}}/">Matching Repositories</a></th>
     </tr>
   </thead>
   <tbody>
   {% for lang in pagination.items %}
   <tr>
-    <td>{{lang.code}}</td>
-    <td>{{lang.name}}</td>
+    <td><a href="https://en.wikipedia.org/wiki/ISO_639:{{lang.code}}" target="_blank">{{lang.code}}</a></td>
     <td>{{lang.count}}</td>
   </tr>
   {% endfor %}
