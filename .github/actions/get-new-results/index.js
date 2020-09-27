@@ -1,11 +1,12 @@
 const core = require('@actions/core');
 const github = require('@actions/github');
-const languages = require('../../../lib/iso-639-2/iso-639-2.js');
+const languages = require('@cospired/i18n-iso-languages');
 const { throttling } = require('@octokit/plugin-throttling');
 const fs = require('fs');
+const tags = require('language-tags');
 const dom = require('xmldom').DOMParser;
 const xpath = require('xpath');
-
+const blacklist = ['ver-it'];
 
 function getLangs(doc){
   let langs = [];
@@ -70,23 +71,35 @@ function getLangs(doc){
 function normaliseLangs(langs){
   langs = langs
     .map( lang => {
+    // Blacklist known syntactically valid but incorrect language codes
+    // e.g. ver-it used for "Vernacular Italian", whereas BCP 47 ver-It is "Mom Jango language as spoken in Italy"
+    if(blacklist.includes(lang)){
+      return '';
+    }
+
     // Remove script from language codes like tam-Latn
     const langComponents = lang.toLowerCase().split('-');
     lang = langComponents[0];
+
     // Preserve second part of code if first part is x, e.g. x-oldkhmer-Latn
     if(langComponents.length > 1 && langComponents[0] === 'x'){
       return `${langComponents[0]}-${langComponents[1]}`;
     }
 
-    // Normalise to ISO 639-2T 3-letter code
-    // Ignore strings longer than 3 letters, probably incorrect input, e.g. greek
-    switch (lang.length){
-      case 2:
-      case 3:
-        return languages.toAlpha3T(lang) || '';
+    // Remove all codes not two or three letters
+    if(!(lang.length === 2 || lang.length === 3)){
+      return '';
+    }
 
-      default:
-        return '';
+    // Shorten to 2-letter code if it exists
+    lang = languages.toAlpha2(lang) || lang;
+
+    // Check if it is a valid BCP 47 language subtag
+    if(tags.check(lang)){
+      // Convert 2-letter codes back to three, or ISO 639-2B codes to ISO 639-2T, or passthrough ISO 639-3 codes
+      return languages.toAlpha3T(lang) || lang;
+    } else {
+      return '';
     }
   });
 
