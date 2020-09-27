@@ -197,11 +197,13 @@ module.exports = async function() {
   //Also write full dataset to CSV file
   const fields = ['date', 'name', 'url', 'desc', 'langs', 'count'];
   const opts = { fields };
-  const reposWithLangString = repos.map(x => {
-    x.langs = x.langs || [];
-    x.langs = x.langs.join('|');
-    return x;
-  });
+
+  const reposWithLangString = [];
+  for(let current of repos){
+    const newEntry = Object.assign( {}, current);
+    newEntry.langs = (current.langs) ? current.langs.join('|') : '';
+    reposWithLangString.push(newEntry);
+  };
 
   const csv = await parseAsync(reposWithLangString, opts)
     .catch(err => console.error(err));
