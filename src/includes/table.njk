@@ -37,12 +37,14 @@ matchesOrder: 'desc'
 
 <nav class="ui basic segment">
   <ol class="ui right floated buttons">
-    <li class="ui button">{% if page.url != pagination.href.first %}<a href="{{ pagination.href.first }}">&laquo;</a>{% else %}&laquo;{% endif %}</li>
-    <li class="ui button">{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&lsaquo;</a>{% else %}&lsaquo;{% endif %}</li>
-    {%- for pageEntry in pagination.pages %}
-    <li class="ui button"><a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>{{ loop.index }}</a></li>
-    {%- endfor %}
-    <li class="ui button">{% if pagination.href.next %}<a href="{{ pagination.href.next }}">&rsaquo;</a>{% else %}&rsaquo;{% endif %}</li>
-    <li class="ui button">{% if page.url != pagination.href.last %}<a href="{{ pagination.href.last }}">&raquo;</a>{% else %}&raquo;{% endif %}</li>
+    {% if pagination.href.previous %}<li><a href="{{ pagination.href.previous }}" class="ui button">&lsaquo;</a></li>{% endif %}
+    <li><a href="{{ pagination.href.first }}" class="ui button{% if pagination.pageNumber == 0 %} blue{% endif %}">1</a></li>
+    {% if pagination.pageNumber > 2 %}<li class="ui basic button">...</li>{% endif %}
+    {% if pagination.pageNumber > 1 %}<li><a href="{{ pagination.href.previous }}" class="ui button">{{ pagination.pageNumber }}</a></li>{% endif %}
+    {% if pagination.pageNumber > 0 and pagination.pageNumber < pagination.hrefs.length - 1  %}<li><a href="{{ page.url }}" aria-current="page" class="ui blue button">{{ pagination.pageNumber + 1 }}</a></li>{% endif %}
+    {% if pagination.pageNumber < pagination.hrefs.length - 2 %}<li><a href="{{ pagination.href.next }}" class="ui button">{{ pagination.pageNumber + 2}}</a></li>{% endif %}
+    {% if pagination.pageNumber < pagination.hrefs.length - 3 %}<li class="ui basic button">...</li>{% endif %}
+    <li><a href="{{ pagination.href.last }}" class="ui button{% if pagination.pageNumber == pagination.hrefs.length - 1 %} blue{% endif %}">{{ pagination.hrefs.length }}</a></li>
+    {% if pagination.href.next %}<li><a href="{{ pagination.href.next }}" class="ui button">&rsaquo;</a></li>{% endif %}
   </ol>
 </nav>

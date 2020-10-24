@@ -67,6 +67,8 @@ async function updateDatabase(){
           //merge lists of languages
           const langsFromDB = repoDataResults[0].data.langs || [];
           repo.langs = [...new Set([...langsFromDB,...repo.langs])];
+          //use most recent date (in case of backfilled data)
+          repo.date = repoDataResults[0].data > repo.date ? repoDataResults[0].data : repo.date;
           //save back to DB
           await client.query(
             q.Replace(repoDataResults[0].ref, {data: repo})
