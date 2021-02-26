@@ -20,7 +20,7 @@ function filesize(bytes, fixed) {
 async function run() {
   //Get aggregate data from database
   const extension = '.json';
-  const dataDir = __dirname + '/../../../data/';
+  const dataDir = __dirname + '/../../../../data/';
   const aggregatesDir = dataDir + 'aggregates/';
   if(!fs.existsSync(aggregatesDir)) fs.mkdirSync(aggregatesDir, {recursive: true});
   const allAggregates = fs.readdirSync(aggregatesDir, 'utf-8');
@@ -36,7 +36,7 @@ async function run() {
 
   // Get latest list of results from file.
   // Can't use require because we compile index.js
-  const latestString = fs.readFileSync(__dirname + '/../../../src/data/latest.js','utf8');
+  const latestString = fs.readFileSync(__dirname + '/../../../../src/data/latest.js','utf8');
   const latest = JSON.parse(latestString.replace(/^module.exports = /,'').replace(/;$/,''));
 
 

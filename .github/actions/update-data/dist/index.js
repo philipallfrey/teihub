@@ -81,7 +81,7 @@ function filesize(bytes, fixed) {
 async function run() {
   //Get aggregate data from database
   const extension = '.json';
-  const dataDir = __dirname + '/../../../data/';
+  const dataDir = __dirname + '/../../../../data/';
   const aggregatesDir = dataDir + 'aggregates/';
   if(!fs.existsSync(aggregatesDir)) fs.mkdirSync(aggregatesDir, {recursive: true});
   const allAggregates = fs.readdirSync(aggregatesDir, 'utf-8');
@@ -97,7 +97,7 @@ async function run() {
 
   // Get latest list of results from file.
   // Can't use require because we compile index.js
-  const latestString = fs.readFileSync(__dirname + '/../../../src/data/latest.js','utf8');
+  const latestString = fs.readFileSync(__dirname + '/../../../../src/data/latest.js','utf8');
   const latest = JSON.parse(latestString.replace(/^module.exports = /,'').replace(/;$/,''));
 
 
@@ -1027,7 +1027,7 @@ class JSON2CSVParser extends JSON2CSVBase {
 
           return fields
         }, []);
-      
+
       this.opts.fields = this.preprocessFieldsInfo(this.opts.fields);
     }
 
@@ -2116,10 +2116,10 @@ class JSON2CSVTransform extends Transform {
       }
     };
   }
-  
+
   /**
    * Init the transform with a parser to process JSON data.
-   * It maintains a buffer of received data, parses each as JSON 
+   * It maintains a buffer of received data, parses each as JSON
    * item if the data is an array or the data itself otherwise
    * and send it to `pushLine` for processing.
    */
@@ -2136,9 +2136,9 @@ class JSON2CSVTransform extends Transform {
     this.parser.onToken = function (token, value) {
       transform.parser._onToken(token, value);
 
-      if (this.stack.length === 0 
+      if (this.stack.length === 0
         && !transform.opts.fields
-        && this.mode !== Parser.C.ARRAY 
+        && this.mode !== Parser.C.ARRAY
         && this.mode !== Parser.C.OBJECT) {
         this.onError(new Error('Data should not be empty or the "fields" option should be included'));
       }
@@ -2208,7 +2208,7 @@ class JSON2CSVTransform extends Transform {
    */
   pushLine(data) {
     const processedData = this.preprocessRow(data);
-    
+
     if (!this._hasWritten) {
       this.opts.fields = this.opts.fields || this.preprocessFieldsInfo(Object.keys(processedData[0]));
       this.pushHeader();
@@ -2258,7 +2258,7 @@ function flatten({ objects = true, arrays = false, separator = '.' } = {}) {
         step(value, flatDataRow, newPath);
         return;
       }
-      
+
       flatDataRow[newPath] = value;
     });
 
