@@ -1,0 +1,5 @@
+name: 'Update data'
+description: 'Update saved data on TEI repos and files'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
