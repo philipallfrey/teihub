@@ -83,6 +83,7 @@ async function run() {
   const extension = '.json';
   const dataDir = __dirname + '/../../../data/';
   const aggregatesDir = dataDir + 'aggregates/';
+  if(!fs.existsSync(aggregatesDir)) fs.mkdirSync(aggregatesDir, {recursive: true});
   const allAggregates = fs.readdirSync(aggregatesDir, 'utf-8');
 
   //Put aggregate data into a Map, so it's easy to query by first letter
