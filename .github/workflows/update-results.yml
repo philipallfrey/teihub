@@ -27,6 +27,7 @@ jobs:
         message=`git log -n2 --oneline|grep -c 'skip ci'| sed -e's/[1,2]//' -e 's/0/[skip ci]'/`
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        git add --all
         git commit -m "Update results $message" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
