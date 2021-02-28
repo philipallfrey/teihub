@@ -1,0 +1,1 @@
+{"date":1613032936141,"name":"jhellingman/tei2html","url":"https://github.com/jhellingman/tei2html","desc":"XSLT stylesheets to convert TEI to HTML and ePub format.","files":["test/test.xml","test/testMath/testMath.xml","samples/Shakespeare - Twee Edellieden van Verona/WS-03-EdelliedenVerona.xml"],"langs":["eng","nld","lat"]}

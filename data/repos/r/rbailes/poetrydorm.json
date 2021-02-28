@@ -1,0 +1,1 @@
+{"date":1605169959894,"name":"rbailes/poetrydorm","url":"https://github.com/rbailes/poetrydorm","desc":"This will create a pandas dataframe and an output textfile displaying the DORM and/or DORM-UIDO of poetry, either by line or by sentence. ","files":["pd_inputs/tlsg06.xml"],"langs":[]}
