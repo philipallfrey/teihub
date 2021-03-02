@@ -1,0 +1,1 @@
+{"date":1590816599600,"name":"Vitaliy-1/DOCX2JATS","url":"https://github.com/Vitaliy-1/DOCX2JATS","desc":"Java project, aimed to facilitate DOCX to JATS XML transformation for scientific articles","files":["stylesheets/profiles/iso/schema/teix.xsd","stylesheets/profiles/iso/schema/test3.xsl","stylesheets/profiles/iso/latex/to.xsl","stylesheets/docx/to/teitodocx.xsl"],"langs":[]}

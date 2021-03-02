@@ -1,0 +1,1 @@
+{"date":1590816588545,"name":"allenai/PeerRead","url":"https://github.com/allenai/PeerRead","desc":"Data and code for Kang et al., NAACL 2018's paper titled \"A Dataset of Peer Reviews (PeerRead): Collection, Insights and NLP Applications\"","files":["data/arxiv.cs.cl_2007-2017/train/parsed_pdfs/1611.10122.pdf.json"],"langs":[]}

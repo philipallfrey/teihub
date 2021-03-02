@@ -1,0 +1,1 @@
+{"date":1590816599291,"name":"boberle/jsonlines2tei","url":"https://github.com/boberle/jsonlines2tei","desc":"Convert a jsonlines file into a TEI-URS file to exploit coreference annotations with TXM","files":["docs/sample/xml/ge_stendhal_txt.xml"],"langs":[]}

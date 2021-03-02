@@ -1,0 +1,1 @@
+{"date":1590816583346,"name":"oeuvres/Alix","url":"https://github.com/oeuvres/Alix","desc":"A Lucene Indexer for XML, with lexical analysis (lemmatization for French)","files":["java/alix/lucene/analysis/FrTokenizer.java","java/alix/xml/toc.xsl"],"langs":[]}

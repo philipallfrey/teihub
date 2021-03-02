@@ -1,0 +1,1 @@
+{"date":1590816587026,"name":"digicademy/svsal-factory","url":"https://github.com/digicademy/svsal-factory","desc":"A RESTful web service for extracting data in various formats from TEI/XML of the School of Salamanca project","files":["api/v1/works/factory.py"],"langs":[]}

@@ -1,1 +1,1 @@
-{"date":1598099517880,"name":"dracor-org/testdracor","url":"https://github.com/dracor-org/testdracor","desc":"Sample files to test the DraCor API.","files":["tei/lessing-emilia-galotti.xml","tei/gogol-revizor.xml","tei/corpus.xml","corpus.xml"],"langs":[]}
+{"date":1598099517880,"name":"dracor-org/testdracor","url":"https://github.com/dracor-org/testdracor","desc":"Sample files to test the DraCor API.","files":["tei/lessing-emilia-galotti.xml","tei/gogol-revizor.xml","tei/corpus.xml","corpus.xml","tei/strindberg-froken-julie.xml"],"langs":["swe"]}

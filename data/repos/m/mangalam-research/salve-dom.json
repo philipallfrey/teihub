@@ -1,0 +1,1 @@
+{"date":1590816598364,"name":"mangalam-research/salve-dom","url":"https://github.com/mangalam-research/salve-dom","desc":"A library for validating DOM trees according to a Relax NG schema.","files":["test/schemas/out/tei-math.json","test/schemas/myTEI.rnc"],"langs":[]}

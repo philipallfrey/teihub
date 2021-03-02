@@ -1,0 +1,1 @@
+{"date":1590816595416,"name":"LOGARANDES/gazetteer-demo","url":"https://github.com/LOGARANDES/gazetteer-demo","desc":"Subset of https://github.com/srophe/srophe-eXist-app with Gazetteer code only. ","files":["srophe-app/modules/lib/global.xqm","srophe-app/resources/xsl/tei2html.xsl","srophe-app/modules/place.xqm","srophe-app/sparql/update-rdf.xql"],"langs":[]}

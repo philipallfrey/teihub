@@ -1,0 +1,1 @@
+{"date":1590816588540,"name":"intranda/goobi-viewer-indexer","url":"https://github.com/intranda/goobi-viewer-indexer","desc":"Goobi viewer - Indexer daemon to monitor hotfolder, add metadata to Apache Solr index and move files to correct folders.","files":["goobi-viewer-indexer/src/main/resources/other/indexerconfig_solr_worldviews.xml"],"langs":[]}

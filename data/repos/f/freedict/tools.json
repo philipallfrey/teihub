@@ -1,0 +1,1 @@
+{"date":1590816586604,"name":"freedict/tools","url":"https://github.com/freedict/tools","desc":"This repository contains all the tools of the FreeDict project. This includes the Make build system, various importer scripts, XSL conversion style sheets and more.","files":["xsl/tei2dic.xsl","xsl/inc/teientry2txt.xsl"],"langs":[]}

@@ -1,0 +1,1 @@
+{"date":1590816599434,"name":"mangalam-research/salve","url":"https://github.com/mangalam-research/salve","desc":"Schema-Aware Library for Validation and Edition (salve) implements RNG validation in pure JavaScript (transpiled from TypeScript).","files":["test/tei-with-modules/myTEI.rnc","test/tei/myTEI.rng","test/tei/myTEI.rnc","test/namespaces/test.rnc"],"langs":[]}

@@ -1,0 +1,1 @@
+{"date":1590816591910,"name":"gaigutherz/Akkademia","url":"https://github.com/gaigutherz/Akkademia","desc":"Translating Akkadian signs to transcriptions using NLP techniques such as HMM, MEMM and BiLSTM neural networks.","files":["raw_data/tei/ribo/babylon8/ribo-babylon8-teiCorpus-20190823.xml"],"langs":["akk"]}

@@ -1,0 +1,1 @@
+{"date":1590816596244,"name":"chchch/upama","url":"https://github.com/chchch/upama","desc":"A PHP library for comparing two or more Sanskrit TEI XML files and generating an apparatus with variants","files":["dokuwiki/lib/plugins/upama/upama.php","dokuwiki/lib/plugins/upama/xslt/teiheader.xsl"],"langs":[]}

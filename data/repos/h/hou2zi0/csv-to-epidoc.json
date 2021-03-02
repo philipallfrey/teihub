@@ -1,0 +1,1 @@
+{"date":1590816544606,"name":"hou2zi0/csv-to-epidoc","url":"https://github.com/hou2zi0/csv-to-epidoc","desc":"Converts a character-separated value file into basic TEI-XML EpiDoc files that are used in epigraphic research in the Humanities.","files":["JS/csv-to-epidoc.js","dev/csv-to-epidoc.js"],"langs":[]}

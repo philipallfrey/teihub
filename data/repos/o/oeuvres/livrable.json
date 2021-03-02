@@ -1,0 +1,1 @@
+{"date":1590816590390,"name":"oeuvres/livrable","url":"https://github.com/oeuvres/livrable","desc":"Transform XML/TEI files in electronic books (epub)","files":["xsl/tei2ncx.xsl","xsl/tei2epub.xsl"],"langs":[]}

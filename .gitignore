@@ -1,4 +1,8 @@
 node_modules
 dist
+backlog
+sha
+sha1
+ignored
 # Local Netlify folder
 .netlify

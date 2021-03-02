@@ -1,0 +1,1 @@
+{"date":1590816590476,"name":"UUDigitalHumanitieslab/perfectextractor","url":"https://github.com/UUDigitalHumanitieslab/perfectextractor","desc":"Extracting present perfects (and related forms) from parallel corpora","files":["perfectextractor/tests/data/dpc/dpc-bmm-001071-en-tei.xml","perfectextractor/tests/data/dpc/dpc-bmm-001071-fr-tei.xml"],"langs":["eng","fra"]}

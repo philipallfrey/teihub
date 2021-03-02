@@ -17,6 +17,11 @@ function filesize(bytes, fixed) {
   return `${bytes.toFixed(fixed)} ${unit[loop]}`;
 }
 
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+
 async function run() {
   //Get aggregate data from database
   const extension = '.json';
@@ -35,13 +40,14 @@ async function run() {
   });
 
   // Get latest list of results from files in directory.
-  const importDir = __dirname + '/sha/';
+  const importDir = __dirname + '/backlog/backfill/doing/';
   const allImports = fs.readdirSync(importDir, 'utf-8');
 
   //Now put latest data into database, and update aggregates
   const repoDir = dataDir + 'repos/';
 
-  allImports.forEach( importFile => {
+  const fewImports = allImports.slice(0,23);
+  fewImports.forEach( importFile => {
     const latestString = fs.readFileSync(importDir+importFile,'utf8');
     const latest = JSON.parse(latestString.replace(/^module.exports = /,'').replace(/;$/,''));
     console.log(importFile);

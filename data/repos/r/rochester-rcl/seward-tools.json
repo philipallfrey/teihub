@@ -1,1 +1,1 @@
-{"date":1594341741960,"name":"rochester-rcl/seward-tools","url":"https://github.com/rochester-rcl/seward-tools","desc":"Desktop App for Seward Tasks","files":["docx_2_tei/from/sewardheader.sef"],"langs":[]}
+{"date":1594341741960,"name":"rochester-rcl/seward-tools","url":"https://github.com/rochester-rcl/seward-tools","desc":"Desktop App for Seward Tasks","files":["docx_2_tei/from/sewardheader.sef","docx_2_tei/from/common2/tei-param.xsl","docx_2_tei/from/common2/linking.xsl","docx_2_tei/from/common2/header.xsl","docx_2_tei/from/docxtotei.xsl"],"langs":[]}

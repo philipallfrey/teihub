@@ -1,1 +1,1 @@
-{"date":1601281940565,"name":"oeuvres/Teinte","url":"https://github.com/oeuvres/Teinte","desc":"TEI ► html, a transform pack for XML/TEI, in XSLT1 (compatible PHP, browser, Python…)","files":["teinte.rng"],"langs":[]}
+{"date":1601281940565,"name":"oeuvres/Teinte","url":"https://github.com/oeuvres/Teinte","desc":"TEI ► html, a transform pack for XML/TEI, in XSLT1 (compatible PHP, browser, Python…)","files":["teinte.rng","Doc.php","xsl/toc.xsl"],"langs":[]}
