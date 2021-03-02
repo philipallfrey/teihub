@@ -1,1 +1,1 @@
-{"date":1590816577718,"name":"wolfgangmm/eebo2","url":"https://github.com/wolfgangmm/eebo2","desc":"Early English Books: a demo of the TEI processing model","files":["modules/app.xql","modules/pages.xql"],"langs":[]}
+{"date":1590816577718,"name":"wolfgangmm/eebo2","url":"https://github.com/wolfgangmm/eebo2","desc":"Early English Books: a demo of the TEI processing model","files":["modules/app.xql","modules/pages.xql","transform/teisimple-print.xql","transform/teisimple-web.xql","transform/teisimple-latex.xql"],"langs":[]}

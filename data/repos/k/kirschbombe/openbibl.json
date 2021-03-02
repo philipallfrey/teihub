@@ -1,1 +1,1 @@
-{"date":1590816598625,"name":"kirschbombe/openbibl","url":"https://github.com/kirschbombe/openbibl","desc":"-","files":["xsl/openbibl.boot.xsl"],"langs":[]}
+{"date":1590816598625,"name":"kirschbombe/openbibl","url":"https://github.com/kirschbombe/openbibl","desc":"-","files":["xsl/openbibl.boot.xsl","tests/js/spec/javascripts/fixtures/otherEurope.first.xml"],"langs":[]}

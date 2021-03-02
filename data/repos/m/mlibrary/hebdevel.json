@@ -1,1 +1,1 @@
-{"date":1590816593759,"name":"mlibrary/hebdevel","url":"https://github.com/mlibrary/hebdevel","desc":"HEB EPUB generation implementation","files":["hebepub/target/lib/xsl/hebtei2flowepub.xsl"],"langs":[]}
+{"date":1590816594804,"name":"mlibrary/hebdevel","url":"https://github.com/mlibrary/hebdevel","desc":"HEB EPUB generation implementation","files":["hebepub/target/lib/xsl/hebtei2flowepub.xsl","hebepub/target/lib/xsl/hebdlxs2tei.xsl","hebepub/target/lib/xsl/hebtei2epub.xsl"],"langs":[]}

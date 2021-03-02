@@ -46,8 +46,8 @@ async function run() {
   //Now put latest data into database, and update aggregates
   const repoDir = dataDir + 'repos/';
 
-  const fewImports = allImports.slice(0,23);
-  fewImports.forEach( importFile => {
+  //const fewImports = allImports.slice(0,23);
+  allImports.forEach( importFile => {
     const latestString = fs.readFileSync(importDir+importFile,'utf8');
     const latest = JSON.parse(latestString.replace(/^module.exports = /,'').replace(/;$/,''));
     console.log(importFile);

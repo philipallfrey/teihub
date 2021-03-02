@@ -1,1 +1,1 @@
-{"date":1590816589139,"name":"DHUniWien/tpen2tei","url":"https://github.com/DHUniWien/tpen2tei","desc":"-","files":["tests/data/m1896_real.xml"],"langs":[]}
+{"date":1590816589139,"name":"DHUniWien/tpen2tei","url":"https://github.com/DHUniWien/tpen2tei","desc":"-","files":["tests/data/m1896_real.xml","tests/data/V913.xml","tests/test_parser.py","tpen2tei/parse.py"],"langs":[]}

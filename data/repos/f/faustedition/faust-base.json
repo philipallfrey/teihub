@@ -1,1 +1,1 @@
-{"date":1590816569859,"name":"faustedition/faust-base","url":"https://github.com/faustedition/faust-base","desc":"-","files":["faust-utils/query.py","faust/src/main/static/css/faust-tei.css"],"langs":[]}
+{"date":1590816597805,"name":"faustedition/faust-base","url":"https://github.com/faustedition/faust-base","desc":"-","files":["faust-utils/query.py","faust/src/main/static/css/faust-tei.css","faust-schema/faust-tei.rnc","faust-schema/src/test/tei/text.xml","faust-schema/src/test/tei/document.xml","faust-utils/convert_legacy_encodings.py"],"langs":[]}

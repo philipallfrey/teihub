@@ -1,1 +1,1 @@
-{"date":1590816598297,"name":"chozelinek/sacoco","url":"https://github.com/chozelinek/sacoco","desc":"Tutorial \"SaCoCo: a recipe for a diachronic study à la CLARIN-D\"","files":["xmlextractor.py"],"langs":[]}
+{"date":1590816598297,"name":"chozelinek/sacoco","url":"https://github.com/chozelinek/sacoco","desc":"Tutorial \"SaCoCo: a recipe for a diachronic study à la CLARIN-D\"","files":["xmlextractor.py","utils/tei_lite.rng","wikiextractor.py"],"langs":[]}

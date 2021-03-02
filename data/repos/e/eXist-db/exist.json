@@ -1,0 +1,1 @@
+{"date":1590816598149,"name":"eXist-db/exist","url":"https://github.com/eXist-db/exist","desc":"eXist Native XML Database and Application Platform","files":["extensions/indexes/range/src/test/xquery/range/conditions.xql","extensions/indexes/range/src/test/xquery/range/optimizer.xql"],"langs":[]}

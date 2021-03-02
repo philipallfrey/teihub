@@ -1,1 +1,1 @@
-{"date":1590816587412,"name":"TEI-Boilerplate/TEI-Boilerplate","url":"https://github.com/TEI-Boilerplate/TEI-Boilerplate","desc":"-","files":["dist/content/teibp.xsl"],"langs":[]}
+{"date":1590816587412,"name":"TEI-Boilerplate/TEI-Boilerplate","url":"https://github.com/TEI-Boilerplate/TEI-Boilerplate","desc":"-","files":["dist/content/teibp.xsl","dist/content/teibpstyles.xml","src/content/teibpstyles.xml","src/content/teibp.xsl","src/css/common.less"],"langs":[]}

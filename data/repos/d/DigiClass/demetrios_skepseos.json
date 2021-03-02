@@ -1,1 +1,1 @@
-{"date":1590816587683,"name":"DigiClass/demetrios_skepseos","url":"https://github.com/DigiClass/demetrios_skepseos","desc":"Digital Edition of the Fragments of Demetrios of Skepsis","files":["schema/tei_bare.xml","xml/f31gaede.xml"],"langs":["grc","lat","eng"]}
+{"date":1590816599490,"name":"DigiClass/demetrios_skepseos","url":"https://github.com/DigiClass/demetrios_skepseos","desc":"Digital Edition of the Fragments of Demetrios of Skepsis","files":["schema/tei_bare.xml","xml/f31gaede.xml","schema/tei_bare.rng","xml/f29biraschi.xml"],"langs":["grc","lat","eng"]}

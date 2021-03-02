@@ -1,1 +1,1 @@
-{"date":1590816552997,"name":"Exmaralda-Org/teispeechtools","url":"https://github.com/Exmaralda-Org/teispeechtools","desc":"web services for ISO TEI documents","files":["doc/Simple-EXMARaLDA.md"],"langs":[]}
+{"date":1590816569249,"name":"Exmaralda-Org/teispeechtools","url":"https://github.com/Exmaralda-Org/teispeechtools","desc":"web services for ISO TEI documents","files":["doc/Simple-EXMARaLDA.md","src/main/java/de/ids/mannheim/clarin/teispeech/data/DocUtilities.java","src/main/java/de/ids/mannheim/clarin/teispeech/data/GATParser.java"],"langs":[]}

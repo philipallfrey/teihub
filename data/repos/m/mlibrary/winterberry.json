@@ -1,1 +1,1 @@
-{"date":1590816600995,"name":"mlibrary/winterberry","url":"https://github.com/mlibrary/winterberry","desc":"Fulcrum monograph processing","files":["lib/hebdevel/xsl/hebtei2flowepub.xsl"],"langs":[]}
+{"date":1590816600995,"name":"mlibrary/winterberry","url":"https://github.com/mlibrary/winterberry","desc":"Fulcrum monograph processing","files":["lib/hebdevel/xsl/hebtei2flowepub.xsl","lib/hebdevel/xsl/hebdlxs2tei.xsl","lib/hebdevel/xsl/hebtei2epub.xsl"],"langs":[]}

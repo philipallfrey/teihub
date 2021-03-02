@@ -1,1 +1,1 @@
-{"date":1590816598211,"name":"msDesc/consolidated-tei-schema","url":"https://github.com/msDesc/consolidated-tei-schema","desc":"TEI Manuscript Description ODD Customisation","files":["alternatives/msdesc.dtd","template-msPart.xml"],"langs":[]}
+{"date":1590816598211,"name":"msDesc/consolidated-tei-schema","url":"https://github.com/msDesc/consolidated-tei-schema","desc":"TEI Manuscript Description ODD Customisation","files":["alternatives/msdesc.dtd","template-msPart.xml","convertTolkien2Bodley.xsl"],"langs":[]}

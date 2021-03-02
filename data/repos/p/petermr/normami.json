@@ -1,1 +1,1 @@
-{"date":1590816600328,"name":"petermr/normami","url":"https://github.com/petermr/normami","desc":"Merger of Norma and Ami","files":["src/test/resources/org/contentmine/ami/chem/spectra/c8ob00452h/tei/fulltext.tei.xml"],"langs":["eng"]}
+{"date":1590816600328,"name":"petermr/normami","url":"https://github.com/petermr/normami","desc":"Merger of Norma and Ami","files":["src/test/resources/org/contentmine/ami/chem/spectra/c8ob00452h/tei/fulltext.tei.xml","src/test/resources/org/contentmine/norma/tei/clinical1/fulltext.xml"],"langs":["eng"]}

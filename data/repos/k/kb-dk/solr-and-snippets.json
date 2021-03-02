@@ -1,0 +1,1 @@
+{"date":1590816569823,"name":"kb-dk/solr-and-snippets","url":"https://github.com/kb-dk/solr-and-snippets","desc":"Configurations for our SOLR indices, and some scripts for indexing, transforming and formatting TEI stuff ","files":["exporters/letters/solrize.xsl"],"langs":[]}

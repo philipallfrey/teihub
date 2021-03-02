@@ -1,0 +1,1 @@
+{"date":1590816580196,"name":"dasch-swiss/dsp-api","url":"https://github.com/dasch-swiss/dsp-api","desc":"Knowledge Organization, Representation, and Annotation","files":["docs/03-apis/api-v2/tei-xml.md","webapi/src/main/scala/org/knora/webapi/routing/v2/ResourcesRouteV2.scala"],"langs":[]}

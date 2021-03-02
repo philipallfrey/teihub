@@ -1,1 +1,1 @@
-{"date":1590816558055,"name":"elifesciences/sciencebeam-judge","url":"https://github.com/elifesciences/sciencebeam-judge","desc":"XML Conversion Evaluation","files":["tests/parsing/xpath/tei_xpath_functions_test.py"],"langs":[]}
+{"date":1590816571275,"name":"elifesciences/sciencebeam-judge","url":"https://github.com/elifesciences/sciencebeam-judge","desc":"XML Conversion Evaluation","files":["tests/parsing/xpath/tei_xpath_functions_test.py","tests/default_xml_mapping/tei_test.py"],"langs":[]}

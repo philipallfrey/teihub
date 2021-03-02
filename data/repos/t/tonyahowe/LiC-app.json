@@ -1,0 +1,1 @@
+{"date":1590816585951,"name":"tonyahowe/LiC-app","url":"https://github.com/tonyahowe/LiC-app","desc":"Application development and staging for Literature in Context","files":["modules/content-negotiation/tei2html.xqm","resources/xslt/epub/epub-common.xsl","modules/app.xql","resources/xslt/common/common_linking.xsl"],"langs":[]}

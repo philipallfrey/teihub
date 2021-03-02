@@ -1,1 +1,1 @@
-{"date":1590816553323,"name":"emmamorlock/iglouvre-addon","url":"https://github.com/emmamorlock/iglouvre-addon","desc":"oXygen add-on for the IGLouvre project","files":["oxygen-custom/css/iglouvre.css","templates/IGL-modele-simple.xml"],"langs":["fra","eng","grc"]}
+{"date":1590816585959,"name":"emmamorlock/iglouvre-addon","url":"https://github.com/emmamorlock/iglouvre-addon","desc":"oXygen add-on for the IGLouvre project","files":["oxygen-custom/css/iglouvre.css","templates/IGL-modele-simple.xml","xml-resources/xsl/epidoc/odf-tpl-metadata.xsl"],"langs":["fra","eng","grc"]}

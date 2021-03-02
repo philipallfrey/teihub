@@ -1,0 +1,1 @@
+{"date":1590816598460,"name":"emory-libraries/eulxml","url":"https://github.com/emory-libraries/eulxml","desc":"Utilities for using XPath to map XML data to Python objects and Django forms","files":["test/test_xmlmap/fixtures/tei_clarke.xml"],"langs":[]}

@@ -1,1 +1,1 @@
-{"date":1590816590285,"name":"Distrotech/xmlcopyeditor","url":"https://github.com/Distrotech/xmlcopyeditor","desc":"Mirror of git://git.code.sf.net/p/xml-copy-editor/code","files":["src/rng/tei_minimal.rnc"],"langs":[]}
+{"date":1590816600995,"name":"Distrotech/xmlcopyeditor","url":"https://github.com/Distrotech/xmlcopyeditor","desc":"Mirror of git://git.code.sf.net/p/xml-copy-editor/code","files":["src/rng/tei_minimal.rnc","src/dtd/tei/p4/index.xml","src/rng/tei_minimal.rng"],"langs":[]}

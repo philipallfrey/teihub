@@ -1,1 +1,1 @@
-{"date":1590816595288,"name":"islandora-deprecated/islandora_tei_editor","url":"https://github.com/islandora-deprecated/islandora_tei_editor","desc":"A javascript based tei editor. BETA - not supported.","files":["tei_custom.dtd"],"langs":[]}
+{"date":1590816600792,"name":"islandora-deprecated/islandora_tei_editor","url":"https://github.com/islandora-deprecated/islandora_tei_editor","desc":"A javascript based tei editor. BETA - not supported.","files":["tei_custom.dtd","teilite.rng","teilite.xsd","tei_custom.rng"],"langs":[]}

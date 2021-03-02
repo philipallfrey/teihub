@@ -1,1 +1,1 @@
-{"date":1590816592675,"name":"Arithmeticus/syriaca-wright-catalog","url":"https://github.com/Arithmeticus/syriaca-wright-catalog","desc":"Wright catalog project for Syriaca.org","files":["schemas/enrich-syriaca.rnc"],"langs":[]}
+{"date":1590816592675,"name":"Arithmeticus/syriaca-wright-catalog","url":"https://github.com/Arithmeticus/syriaca-wright-catalog","desc":"Wright catalog project for Syriaca.org","files":["schemas/enrich-syriaca.rnc","schemas/syriaca-tei-main.rnc"],"langs":[]}

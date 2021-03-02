@@ -1,0 +1,1 @@
+{"date":1590816569820,"name":"kcutils/kc2tei","url":"https://github.com/kcutils/kc2tei","desc":"This repository contains program source code of a converter that can transform Kiel Corpus files into standardised TEI-XML files.","files":["src/main/java/kctotei/elements/TEIDoc.java"],"langs":[]}

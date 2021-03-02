@@ -1,0 +1,1 @@
+{"date":1590816581947,"name":"OpenArabicPE/tools","url":"https://github.com/OpenArabicPE/tools","desc":"XSLT and XQuery for common operations in the OpenAraPE project","files":["xslt/tei_generate-facsimile.xsl","xslt/tei_generate-masthead.xsl"],"langs":[]}

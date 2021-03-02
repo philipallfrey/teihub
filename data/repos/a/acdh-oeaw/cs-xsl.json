@@ -1,1 +1,1 @@
-{"date":1590816576556,"name":"acdh-oeaw/cs-xsl","url":"https://github.com/acdh-oeaw/cs-xsl","desc":"XSL framwork used to transform TEI to HTML","files":["misc/resource-list2view_v2.xsl"],"langs":[]}
+{"date":1590816590355,"name":"acdh-oeaw/cs-xsl","url":"https://github.com/acdh-oeaw/cs-xsl","desc":"XSL framwork used to transform TEI to HTML","files":["misc/resource-list2view_v2.xsl","tests/output-expected/misc/md2view_v2/CMDI-abacus-Mercks-Wienn.xml","tests/input/fcs/vicav_sampletext.xml","html_snippets.xsl"],"langs":["ara"]}

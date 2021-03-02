@@ -1,1 +1,1 @@
-{"date":1590816598552,"name":"icaruseu/momcapi-java","url":"https://github.com/icaruseu/momcapi-java","desc":"Access MOM-CA from Java","files":["resources/cei.graphml"],"langs":[]}
+{"date":1590816600975,"name":"icaruseu/momcapi-java","url":"https://github.com/icaruseu/momcapi-java","desc":"Access MOM-CA from Java","files":["resources/cei.graphml","src/main/resources/cei10.xsd"],"langs":[]}

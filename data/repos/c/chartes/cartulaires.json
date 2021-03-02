@@ -1,1 +1,1 @@
-{"date":1590816594132,"name":"chartes/cartulaires","url":"https://github.com/chartes/cartulaires","desc":"Sources XML-TEI de l’édition des Cartulaires d’Île-de-France","files":["src/S-Germain-en-Laye.xml"],"langs":["lat","fro"]}
+{"date":1590816600916,"name":"chartes/cartulaires","url":"https://github.com/chartes/cartulaires","desc":"Sources XML-TEI de l’édition des Cartulaires d’Île-de-France","files":["src/S-Germain-en-Laye.xml","src/Maintenon.xml","src/S-Gondon.xml"],"langs":["lat","fro"]}

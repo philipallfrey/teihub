@@ -1,1 +1,1 @@
-{"date":1590816556520,"name":"srophe/gazetteer-demo","url":"https://github.com/srophe/gazetteer-demo","desc":"Subset of https://github.com/srophe/srophe-eXist-app with Gazetteer code only. ","files":["srophe-app/modules/place.xqm"],"langs":[]}
+{"date":1590816572194,"name":"srophe/gazetteer-demo","url":"https://github.com/srophe/gazetteer-demo","desc":"Subset of https://github.com/srophe/srophe-eXist-app with Gazetteer code only. ","files":["srophe-app/modules/place.xqm","srophe-app/modules/search/places-search.xqm"],"langs":[]}

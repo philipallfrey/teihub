@@ -1,1 +1,1 @@
-{"date":1590816597824,"name":"ffzg/PhiloLogic3","url":"https://github.com/ffzg/PhiloLogic3","desc":"local PhiloLogic 3 patches ","files":["installdir/lib/philosubs.pl"],"langs":[]}
+{"date":1590816597824,"name":"ffzg/PhiloLogic3","url":"https://github.com/ffzg/PhiloLogic3","desc":"local PhiloLogic 3 patches ","files":["installdir/lib/philosubs.pl","doc/documentation.pod","utils/newextract.plin","utils/dbbiblio.plin"],"langs":[]}

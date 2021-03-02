@@ -1,1 +1,1 @@
-{"date":1590816597058,"name":"papyri/sosol","url":"https://github.com/papyri/sosol","desc":"The Son of Suda On Line","files":["data/templates/tei-xl-psg.rng","app/models/identifier.rb"],"langs":[]}
+{"date":1590816597058,"name":"papyri/sosol","url":"https://github.com/papyri/sosol","desc":"The Son of Suda On Line","files":["data/templates/tei-xl-psg.rng","app/models/identifier.rb","public/javascripts/formX.js"],"langs":[]}
