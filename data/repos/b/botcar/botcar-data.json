@@ -1,1 +1,1 @@
-{"date":1590816575071,"name":"botcar/botcar-data","url":"https://github.com/botcar/botcar-data","desc":"Raw Data (.csv, .tsv, .ttl, .xml) for the Botanica Caroliniana Project","files":["prod/texts/Lord_Labels.xml"],"langs":[]}
+{"date":1590816583577,"name":"botcar/botcar-data","url":"https://github.com/botcar/botcar-data","desc":"Raw Data (.csv, .tsv, .ttl, .xml) for the Botanica Caroliniana Project","files":["prod/texts/Lord_Labels.xml","dev/texts/NH1.xml"],"langs":["eng","fra","lat"]}

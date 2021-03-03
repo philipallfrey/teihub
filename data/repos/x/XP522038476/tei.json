@@ -1,1 +1,1 @@
-{"date":1590816593672,"name":"XP522038476/tei","url":"https://github.com/XP522038476/tei","desc":"-","files":["schema/vmachine.rng","samples/altar.xml","samples/xray.xml","samples/enchin.xml","samples/orchardFarming.xml"],"langs":["eng","fra","lat"]}
+{"date":1590816593672,"name":"XP522038476/tei","url":"https://github.com/XP522038476/tei","desc":"-","files":["schema/vmachine.rng","samples/altar.xml","samples/xray.xml","samples/enchin.xml","samples/orchardFarming.xml","src/vmachine.xsl","documentation.html","samples/pearl.xml"],"langs":["eng","fra","lat"]}

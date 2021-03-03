@@ -1,1 +1,1 @@
-{"date":1590816596902,"name":"TEI-Correspondence-SIG/correspDesc","url":"https://github.com/TEI-Correspondence-SIG/correspDesc","desc":"A proposal for a correspondence module and a correspDesc element","files":["odd/proposal.xml"],"langs":[]}
+{"date":1590816596902,"name":"TEI-Correspondence-SIG/correspDesc","url":"https://github.com/TEI-Correspondence-SIG/correspDesc","desc":"A proposal for a correspondence module and a correspDesc element","files":["odd/proposal.xml","schema/cmi-customization.rng"],"langs":[]}

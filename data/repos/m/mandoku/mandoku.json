@@ -1,1 +1,1 @@
-{"date":1590816574648,"name":"mandoku/mandoku","url":"https://github.com/mandoku/mandoku","desc":"A framework for premodern Chinese texts","files":["xsl/cb2mandoku.xsl"],"langs":[]}
+{"date":1590816596985,"name":"mandoku/mandoku","url":"https://github.com/mandoku/mandoku","desc":"A framework for premodern Chinese texts","files":["xsl/cb2mandoku.xsl","python/mandoku/mandoku.py"],"langs":[]}

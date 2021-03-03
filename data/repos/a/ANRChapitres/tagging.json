@@ -1,1 +1,1 @@
-{"date":1590816554852,"name":"ANRChapitres/tagging","url":"https://github.com/ANRChapitres/tagging","desc":"a java adpater to transform TEI text to postagged TEI text","files":["taggging_romans/java/alix/fr/Tokenizer.java"],"langs":[]}
+{"date":1590816591824,"name":"ANRChapitres/tagging","url":"https://github.com/ANRChapitres/tagging","desc":"a java adpater to transform TEI text to postagged TEI text","files":["taggging_romans/java/alix/fr/Tokenizer.java","taggging_romans/source_texts/1883_David-Laurent-Olivier_Le-Héros-de-Châteauguay.xml"],"langs":[]}

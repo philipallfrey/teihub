@@ -1,1 +1,1 @@
-{"date":1590816600041,"name":"RILMMusicLit/tei_schema","url":"https://github.com/RILMMusicLit/tei_schema","desc":"RILM custom TEI schema","files":["tei_rilm.xsd"],"langs":[]}
+{"date":1590816600041,"name":"RILMMusicLit/tei_schema","url":"https://github.com/RILMMusicLit/tei_schema","desc":"RILM custom TEI schema","files":["tei_rilm.xsd","tei_rilm_odd.xml"],"langs":[]}

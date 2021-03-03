@@ -1,1 +1,1 @@
-{"date":1590816589374,"name":"DHBern/tiny-edition","url":"https://github.com/DHBern/tiny-edition","desc":"A tiny edition demonstrating source collation","files":["schema/vmachine.rng"],"langs":[]}
+{"date":1590816596158,"name":"DHBern/tiny-edition","url":"https://github.com/DHBern/tiny-edition","desc":"A tiny edition demonstrating source collation","files":["schema/vmachine.rng","src/vmachine.xsl"],"langs":[]}

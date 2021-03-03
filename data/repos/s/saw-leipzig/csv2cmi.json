@@ -1,1 +1,1 @@
-{"date":1590816553775,"name":"saw-leipzig/csv2cmi","url":"https://github.com/saw-leipzig/csv2cmi","desc":"a little program to transform a table of letters into the CMI format","files":["csv2cmi.py"],"langs":[]}
+{"date":1590816600118,"name":"saw-leipzig/csv2cmi","url":"https://github.com/saw-leipzig/csv2cmi","desc":"a little program to transform a table of letters into the CMI format","files":["csv2cmi.py","cmi-customization.rng"],"langs":[]}

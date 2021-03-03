@@ -1,1 +1,1 @@
-{"date":1590816585618,"name":"andrewrjones/foswiki","url":"https://github.com/andrewrjones/foswiki","desc":"Foswiki - Free & Open Source Wiki (fork of TWiki)","files":["BeautifierPlugin/php/HFile/HFile_xml.php"],"langs":[]}
+{"date":1590816600996,"name":"andrewrjones/foswiki","url":"https://github.com/andrewrjones/foswiki","desc":"Foswiki - Free & Open Source Wiki (fork of TWiki)","files":["BeautifierPlugin/php/HFile/HFile_xml.php","BeautifierPlugin/lib/Foswiki/Plugins/BeautifierPlugin/HFile/HFile_xml.pm"],"langs":[]}

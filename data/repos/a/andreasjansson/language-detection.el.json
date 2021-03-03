@@ -1,0 +1,1 @@
+{"date":1590816593635,"name":"andreasjansson/language-detection.el","url":"https://github.com/andreasjansson/language-detection.el","desc":"Automatic programming language detection of code snippets, in Emacs Lisp","files":["test/data/linguist/xml/tei-odd-sample.odd"],"langs":[]}

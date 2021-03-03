@@ -1,1 +1,1 @@
-{"date":1590816543969,"name":"isawnyu/concordia-epidoc2atom","url":"https://github.com/isawnyu/concordia-epidoc2atom","desc":"-","files":["tests/data/iaph2007/iAph040202.xml"],"langs":["eng","fra","grc","lat"]}
+{"date":1590816593571,"name":"isawnyu/concordia-epidoc2atom","url":"https://github.com/isawnyu/concordia-epidoc2atom","desc":"-","files":["tests/data/iaph2007/iAph040202.xml","tests/data/iaph2007/tei-epidoc.dtd"],"langs":["eng","fra","grc","lat"]}

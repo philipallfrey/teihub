@@ -1,1 +1,1 @@
-{"date":1590816585570,"name":"foswiki/BeautifierPlugin","url":"https://github.com/foswiki/BeautifierPlugin","desc":"Foswiki's BeautifierPlugin","files":["php/HFile/HFile_xml.php"],"langs":[]}
+{"date":1590816600990,"name":"foswiki/BeautifierPlugin","url":"https://github.com/foswiki/BeautifierPlugin","desc":"Foswiki's BeautifierPlugin","files":["php/HFile/HFile_xml.php","lib/Foswiki/Plugins/BeautifierPlugin/HFile/HFile_xml.pm"],"langs":[]}
