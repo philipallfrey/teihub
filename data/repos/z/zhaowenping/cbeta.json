@@ -1,1 +1,1 @@
-{"date":1590816600927,"name":"zhaowenping/cbeta","url":"https://github.com/zhaowenping/cbeta","desc":"大正藏在线阅读","files":["static/tei.xsl","static/taisho.xsl","libhan.py","yoga/T19n0920_001.xml","yoga/T19n0920_002.xml","yoga/T30n1579_001.xml"],"langs":["eng","zho","san"]}
+{"date":1590816600927,"name":"zhaowenping/cbeta","url":"https://github.com/zhaowenping/cbeta","desc":"大正藏在线阅读","files":["static/tei.xsl","static/taisho.xsl","libhan.py","yoga/T19n0920_001.xml","yoga/T19n0920_002.xml","yoga/T30n1579_001.xml","fo/tei2fo.xsl"],"langs":["eng","zho","san"]}

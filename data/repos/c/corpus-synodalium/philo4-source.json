@@ -1,1 +1,1 @@
-{"date":1590816597938,"name":"corpus-synodalium/philo4-source","url":"https://github.com/corpus-synodalium/philo4-source","desc":"Modified Philologic 4 source code for Corpus Synodalium project.","files":["python/philologic/Parser.py","extras/load_config.py"],"langs":[]}
+{"date":1590816597938,"name":"corpus-synodalium/philo4-source","url":"https://github.com/corpus-synodalium/philo4-source","desc":"Modified Philologic 4 source code for Corpus Synodalium project.","files":["python/philologic/Parser.py","extras/load_config.py","extras/utilities/tei_cleanup.py"],"langs":[]}

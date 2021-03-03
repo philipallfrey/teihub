@@ -1,1 +1,1 @@
-{"date":1590816595791,"name":"Capitains/Toolkit","url":"https://github.com/Capitains/Toolkit","desc":"Providing a CTS API with built in function for deployments","files":["xquery/existDB-cts3/cts.xquery"],"langs":[]}
+{"date":1590816595791,"name":"Capitains/Toolkit","url":"https://github.com/Capitains/Toolkit","desc":"Providing a CTS API with built in function for deployments","files":["xquery/existDB-cts3/cts.xquery","doc/CTS-Metadata-Design.md","cts/tests/TestCitation.py"],"langs":[]}

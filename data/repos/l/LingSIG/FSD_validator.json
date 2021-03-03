@@ -1,1 +1,1 @@
-{"date":1590816597555,"name":"LingSIG/FSD_validator","url":"https://github.com/LingSIG/FSD_validator","desc":"A TEI/ISO Feature System Declaration validator for TEI/ISO Feature Structures","files":["FSD/myPizza.dtd","FSD/P4/teihdr2.dtd","FSD/myPizza.ctm"],"langs":[]}
+{"date":1590816598339,"name":"LingSIG/FSD_validator","url":"https://github.com/LingSIG/FSD_validator","desc":"A TEI/ISO Feature System Declaration validator for TEI/ISO Feature Structures","files":["FSD/myPizza.dtd","FSD/P4/teihdr2.dtd","FSD/myPizza.ctm","FSD/P4/fsd_standalone.dtd"],"langs":[]}

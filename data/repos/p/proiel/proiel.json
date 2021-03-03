@@ -1,1 +1,1 @@
-{"date":1590816600863,"name":"proiel/proiel","url":"https://github.com/proiel/proiel","desc":"A library for working with PROIEL treebanks","files":["lib/proiel/proiel_xml/proiel-1.0/teilite.xsd"],"langs":[]}
+{"date":1590816600863,"name":"proiel/proiel","url":"https://github.com/proiel/proiel","desc":"A library for working with PROIEL treebanks","files":["lib/proiel/proiel_xml/proiel-1.0/teilite.xsd","lib/proiel/proiel_xml/proiel-1.0/proiel-1.0.xsd"],"langs":[]}

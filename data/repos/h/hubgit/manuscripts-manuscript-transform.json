@@ -1,1 +1,1 @@
-{"date":1606394341984,"name":"hubgit/manuscripts-manuscript-transform","url":"https://github.com/hubgit/manuscripts-manuscript-transform","desc":"ProseMirror schema and transformers","files":["src/transformer/__tests__/data/tei-grobid-example.xml"],"langs":["eng"]}
+{"date":1606394341984,"name":"hubgit/manuscripts-manuscript-transform","url":"https://github.com/hubgit/manuscripts-manuscript-transform","desc":"ProseMirror schema and transformers","files":["src/transformer/__tests__/data/tei-grobid-example.xml","src/transformer/tei-grobid-importer.ts"],"langs":["eng"]}

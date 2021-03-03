@@ -1,1 +1,1 @@
-{"date":1590816600250,"name":"OpenEdition/lodel","url":"https://github.com/OpenEdition/lodel","desc":"Science publishing CMS","files":["share/tei_all.dtd","lodel/install/upgrade/1.0.0.php"],"langs":[]}
+{"date":1590816600250,"name":"OpenEdition/lodel","url":"https://github.com/OpenEdition/lodel","desc":"Science publishing CMS","files":["share/tei_all.dtd","lodel/install/upgrade/1.0.0.php","lodel/scripts/teifunc.php"],"langs":[]}

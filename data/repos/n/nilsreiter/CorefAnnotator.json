@@ -1,1 +1,1 @@
-{"date":1590816600656,"name":"nilsreiter/CorefAnnotator","url":"https://github.com/nilsreiter/CorefAnnotator","desc":"Annotation tool for coreference","files":["src/test/resources/tei/Sara.xml"],"langs":[]}
+{"date":1590816600656,"name":"nilsreiter/CorefAnnotator","url":"https://github.com/nilsreiter/CorefAnnotator","desc":"Annotation tool for coreference","files":["src/test/resources/tei/Sara.xml","sfb1391/main/java/de/unistuttgart/ims/coref/annotator/plugin/b06/b03/TeiReader.java"],"langs":[]}

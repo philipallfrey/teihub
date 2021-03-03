@@ -1,0 +1,1 @@
+{"date":1590816597636,"name":"discoverygarden/islandora_critical_edition","url":"https://github.com/discoverygarden/islandora_critical_edition","desc":"Module allowing the creation of Critical Editions based on Islandora Book Objects","files":["xml/cwrc_datastream_template.xml","includes/utilities.inc"],"langs":[]}

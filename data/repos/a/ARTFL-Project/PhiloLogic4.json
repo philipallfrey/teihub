@@ -1,1 +1,1 @@
-{"date":1590816582425,"name":"ARTFL-Project/PhiloLogic4","url":"https://github.com/ARTFL-Project/PhiloLogic4","desc":"PhiloLogic4","files":["docs/database_loading.md","python/philologic/runtime/ObjectFormatter.py","python/philologic/loadtime/Loader.py"],"langs":[]}
+{"date":1590816582425,"name":"ARTFL-Project/PhiloLogic4","url":"https://github.com/ARTFL-Project/PhiloLogic4","desc":"PhiloLogic4","files":["docs/database_loading.md","python/philologic/runtime/ObjectFormatter.py","python/philologic/loadtime/Loader.py","extras/utilities/tei_cleanup.py"],"langs":[]}
