@@ -1,0 +1,1 @@
+{"date":1590816600797,"name":"mzunanalfikri/Covid-19InformationExtractionApp","url":"https://github.com/mzunanalfikri/Covid-19InformationExtractionApp","desc":"Aplikasi Ekstraksi berita Covid-19 dengan algoritma string matching Knuth-Morris-Pratt, Boyer-Moore, dan Regex","files":["src/virtual/Lib/site-packages/nltk/corpus/reader/bnc.py"],"langs":[]}

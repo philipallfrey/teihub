@@ -1,0 +1,1 @@
+{"date":1590816600279,"name":"chauncyf/132-Wikipedia_Movie_Corpus","url":"https://github.com/chauncyf/132-Wikipedia_Movie_Corpus","desc":"Building a corpus, extract pages from Wikipedia, identify fielded data, clean unstructured data, and store the results in json format.","files":["venv/lib/python3.7/site-packages/nltk/corpus/reader/bnc.py"],"langs":[]}

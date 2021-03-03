@@ -1,0 +1,1 @@
+{"date":1590816588674,"name":"corpus-synodalium/scripts","url":"https://github.com/corpus-synodalium/scripts","desc":"Scripts that convert text files to XML for importing into PhiloLogic database.","files":["xml/code/deps/xml_utils.py"],"langs":[]}

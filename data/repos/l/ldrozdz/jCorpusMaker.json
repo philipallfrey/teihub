@@ -1,0 +1,1 @@
+{"date":1590816585919,"name":"ldrozdz/jCorpusMaker","url":"https://github.com/ldrozdz/jCorpusMaker","desc":"Fast, multithreaded parser for the National Corpus of Polish (http://nkjp.pl) source files.","files":["src/main/java/pl/pelcra/nkjp/corpusmaker/tagged/importer/parsers/VTDParser.java"],"langs":[]}

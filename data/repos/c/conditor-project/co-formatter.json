@@ -1,1 +1,1 @@
-{"date":1590816585566,"name":"conditor-project/co-formatter","url":"https://github.com/conditor-project/co-formatter","desc":":factory: module d'extraction du chapeau conditor","files":["test/dataset/in/notice_hal.xml"],"langs":["eng"]}
+{"date":1590816588022,"name":"conditor-project/co-formatter","url":"https://github.com/conditor-project/co-formatter","desc":":factory: module d'extraction du chapeau conditor","files":["test/dataset/in/notice_hal.xml","test/dataset/in/Coeurdassier_TEI_Conditor_HAL_ART_noVol_dbl_Affil.xml"],"langs":["eng","fra"]}

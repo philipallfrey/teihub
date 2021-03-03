@@ -1,0 +1,1 @@
+{"date":1590816600178,"name":"achen7296/TextBlob_Tweet_Sentiment","url":"https://github.com/achen7296/TextBlob_Tweet_Sentiment","desc":"This app will determine the overall sentiment of a given group of tweets using TextBlob API and records information into a database.","files":["venv/Lib/site-packages/nltk/corpus/reader/bnc.py"],"langs":[]}

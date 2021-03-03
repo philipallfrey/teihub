@@ -1,1 +1,1 @@
-{"date":1590816591165,"name":"acdh-oeaw/cfdb","url":"https://github.com/acdh-oeaw/cfdb","desc":"An exist-db based image annotation application for cuneiform paleography","files":["src/editTablets.template.html","src/modules.template/app.xql"],"langs":[]}
+{"date":1590816591165,"name":"acdh-oeaw/cfdb","url":"https://github.com/acdh-oeaw/cfdb","desc":"An exist-db based image annotation application for cuneiform paleography","files":["src/editTablets.template.html","src/modules.template/app.xql","src/tablet2html.xsl"],"langs":[]}

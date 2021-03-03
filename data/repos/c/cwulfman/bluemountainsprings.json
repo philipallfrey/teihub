@@ -1,1 +1,1 @@
-{"date":1590816557098,"name":"cwulfman/bluemountainsprings","url":"https://github.com/cwulfman/bluemountainsprings","desc":"A RESTful API to Blue Mountain","files":["modules/springs.xqm"],"langs":[]}
+{"date":1590816583670,"name":"cwulfman/bluemountainsprings","url":"https://github.com/cwulfman/bluemountainsprings","desc":"A RESTful API to Blue Mountain","files":["modules/springs.xqm","resources/xsl/bmtn2rdf.xsl"],"langs":[]}

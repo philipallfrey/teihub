@@ -1,0 +1,1 @@
+{"date":1590816600089,"name":"ddiddi/AProjectADay-1-SimpleSentimentAnalysis","url":"https://github.com/ddiddi/AProjectADay-1-SimpleSentimentAnalysis","desc":"Simple NLTK application to give a predict of \"positive\" or \"negative\" emotion to text input based on Naive Bayes","files":["day1/lib/python2.7/site-packages/nltk/corpus/reader/bnc.py"],"langs":[]}

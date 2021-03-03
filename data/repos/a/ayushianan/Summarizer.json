@@ -1,0 +1,1 @@
+{"date":1590816600256,"name":"ayushianan/Summarizer","url":"https://github.com/ayushianan/Summarizer","desc":"A flask application to capture image using opencv and ocr model and using nltk library to derive the summary","files":["venv/lib/python3.6/site-packages/nltk/corpus/reader/bnc.py"],"langs":[]}

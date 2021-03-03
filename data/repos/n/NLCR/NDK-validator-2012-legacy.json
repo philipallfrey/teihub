@@ -1,1 +1,1 @@
-{"date":1590816595789,"name":"NLCR/NDK-validator-2012-legacy","url":"https://github.com/NLCR/NDK-validator-2012-legacy","desc":"Validátor pro NDK","files":["utilities/test-data/tei/NAK___KNIH_VALD_A_75_2GKH/MISC/DTD/MASTERX.DTD"],"langs":[]}
+{"date":1590816595789,"name":"NLCR/NDK-validator-2012-legacy","url":"https://github.com/NLCR/NDK-validator-2012-legacy","desc":"Validátor pro NDK","files":["utilities/test-data/tei/NAK___KNIH_VALD_A_75_2GKH/MISC/DTD/MASTERX.DTD","utilities/src/main/resources/xsl/tei2mods-manuscript.xsl"],"langs":[]}

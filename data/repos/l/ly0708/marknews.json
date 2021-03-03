@@ -1,0 +1,1 @@
+{"date":1590816600369,"name":"ly0708/marknews","url":"https://github.com/ly0708/marknews","desc":"Web scrape news of a company and using sentiment analysis to evaluate to see the relationship between market price and events within 7 days.","files":["env/lib/python3.7/site-packages/nltk/corpus/reader/bnc.py"],"langs":[]}

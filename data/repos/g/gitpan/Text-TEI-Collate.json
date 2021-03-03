@@ -1,1 +1,1 @@
-{"date":1590816599176,"name":"gitpan/Text-TEI-Collate","url":"https://github.com/gitpan/Text-TEI-Collate","desc":"Read-only release history for Text-TEI-Collate","files":["lib/Text/TEI/Collate.pm"],"langs":[]}
+{"date":1590816599176,"name":"gitpan/Text-TEI-Collate","url":"https://github.com/gitpan/Text-TEI-Collate","desc":"Read-only release history for Text-TEI-Collate","files":["lib/Text/TEI/Collate.pm","t/data/xml_word/test4.xml"],"langs":[]}

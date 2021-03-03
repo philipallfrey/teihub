@@ -1,0 +1,1 @@
+{"date":1590816600430,"name":"georgeblu1/Spam-Detector-Web-App","url":"https://github.com/georgeblu1/Spam-Detector-Web-App","desc":"Spam detector using scikit-learn then deploy using Flask. The web application would then be deployed onto Google Cloud Platform","files":["nlp/Lib/site-packages/nltk/corpus/reader/bnc.py"],"langs":[]}

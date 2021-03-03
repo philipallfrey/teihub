@@ -1,1 +1,1 @@
-{"date":1590816599250,"name":"jensopetersen/zarit","url":"https://github.com/jensopetersen/zarit","desc":"you name it …","files":["modules/tei2html.xql","data/abh_stage3-roman.xml","modules/app.xql"],"langs":["san"]}
+{"date":1590816599250,"name":"jensopetersen/zarit","url":"https://github.com/jensopetersen/zarit","desc":"you name it …","files":["modules/tei2html.xql","data/abh_stage3-roman.xml","modules/app.xql","modules/tei2fo.xql"],"langs":["san"]}

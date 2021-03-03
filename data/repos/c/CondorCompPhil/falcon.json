@@ -1,1 +1,1 @@
-{"date":1590816596820,"name":"CondorCompPhil/falcon","url":"https://github.com/CondorCompPhil/falcon","desc":"A processing workflow for automated collation","files":["data/eval/lancelot/lancelot_out.xml","data/eval/lancelot/lancelot_gt.xml"],"langs":[]}
+{"date":1590816600998,"name":"CondorCompPhil/falcon","url":"https://github.com/CondorCompPhil/falcon","desc":"A processing workflow for automated collation","files":["data/eval/lancelot/lancelot_out.xml","data/eval/lancelot/lancelot_gt.xml","data/input/alexis/sources/A.xml","data/input/alexis/sources/S.xml"],"langs":["fra"]}

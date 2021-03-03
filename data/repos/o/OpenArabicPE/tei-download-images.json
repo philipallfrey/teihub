@@ -1,0 +1,1 @@
+{"date":1590816575570,"name":"OpenArabicPE/tei-download-images","url":"https://github.com/OpenArabicPE/tei-download-images","desc":"XSLT stylesheets to download facsimile images linked in TEI XML files","files":["xslt/download-images.xsl"],"langs":[]}

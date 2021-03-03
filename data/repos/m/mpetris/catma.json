@@ -1,1 +1,1 @@
-{"date":1590816599340,"name":"mpetris/catma","url":"https://github.com/mpetris/catma","desc":"Computer Assisted Text Markup and Analysis","files":["testdocs/rose_for_emily_user.xml","testdocs/rose_for_emily_user_complexV3.xml"],"langs":["eng"]}
+{"date":1590816599340,"name":"mpetris/catma","url":"https://github.com/mpetris/catma","desc":"Computer Assisted Text Markup and Analysis","files":["testdocs/rose_for_emily_user.xml","testdocs/rose_for_emily_user_complexV3.xml","src/main/java/de/catma/serialization/tei/TeiDocument.java"],"langs":["eng"]}
