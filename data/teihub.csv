@@ -22,7 +22,7 @@
 1590816584117,"84000/readingroom","https://github.com/84000/readingroom","-","",4
 1590816558720,"84000/reading-room","https://github.com/84000/reading-room","84000 Reading Room app","",1
 1590816582552,"8Raouf24/Projet-S6","https://github.com/8Raouf24/Projet-S6","Repository for our works in the field of web semantic and structured documents","",1
-1614791769797,"Ammeister/ProjetEchevinsDeStrasbourg","https://github.com/Ammeister/ProjetEchevinsDeStrasbourg","Projet de Master","",2
+1614803940996,"Ammeister/ProjetEchevinsDeStrasbourg","https://github.com/Ammeister/ProjetEchevinsDeStrasbourg","Projet de Master","gmh",2
 1614430164994,"aso2101/prakrit_texts","https://github.com/aso2101/prakrit_texts","Digital texts in Prakrit","pka|eng|pra|san",12
 1614775869286,"axellelecroq/apollinaire-project","https://github.com/axellelecroq/apollinaire-project","Repository pour le projet Apollinaire réalisé dans le cadre du cours de git avec M. Clérice","fra",46
 1614588278644,"amclark42/a-life-in-lists","https://github.com/amclark42/a-life-in-lists","A collection of lists. Self-maintained metadata, largely for my own use.","",10
@@ -409,7 +409,7 @@
 1590816582292,"awagner-mainz/notebooks","https://github.com/awagner-mainz/notebooks","-","",1
 1614588278768,"Brown-University-Library/iip-texts","https://github.com/Brown-University-Library/iip-texts","IIP inscriptions encoded in Epidoc XML and supporting files","grc|heb|lat|arc|kat",1297
 1614430164909,"Beth-Mardutho/hugoye-data","https://github.com/Beth-Mardutho/hugoye-data","Data repository for Hugoye TEI records. ","eng|ita",307
-1614791769816,"bodleian/medieval-mss","https://github.com/bodleian/medieval-mss","Medieval Manuscripts in Oxford Libraries: TEI catalogue descriptions","lat|fra|eng|grc|deu|nld|por|ita|zxx",2307
+1614803940995,"bodleian/medieval-mss","https://github.com/bodleian/medieval-mss","Medieval Manuscripts in Oxford Libraries: TEI catalogue descriptions","lat|fra|eng|grc|deu|nld|por|ita|zxx",2307
 1614791769888,"BetaMasaheft/Works","https://github.com/BetaMasaheft/Works","Ethiopian Literature edited in TEI","eng|gez|tir|ara|syr|grc|lat|amh|ita|heb|deu",610
 1614791769836,"BetaMasaheft/Persons","https://github.com/BetaMasaheft/Persons","Authority files for each person","eng|gez|grc|ara|cop",1143
 1614791769576,"BetaMasaheft/Manuscripts","https://github.com/BetaMasaheft/Manuscripts","Manuscripts descriptions","gez|grc|eng|ara|tir|ita|amh|lat|fra|deu|spa|rus|cop|heb|syr",2889
@@ -570,7 +570,7 @@
 1590816582624,"brigittebigi/sppas","https://github.com/brigittebigi/sppas","SPPAS: the automatic annotation and analysis of speech software","",1
 1590816584785,"berkmancenter/corpusbuilder","https://github.com/berkmancenter/corpusbuilder","Corpus Build OCR platform","",1
 1614791769754,"cceh/pessoa","https://github.com/cceh/pessoa","Digital Edition of Fernando Pessoa","por|eng|deu",664
-1614791769842,"CivilWarGovernorsOfKentucky/Documents","https://github.com/CivilWarGovernorsOfKentucky/Documents","CWGK Documents in TEI-XML Format","",4943
+1614803940999,"CivilWarGovernorsOfKentucky/Documents","https://github.com/CivilWarGovernorsOfKentucky/Documents","CWGK Documents in TEI-XML Format","",4945
 1614430164630,"clarin-eric/ParlaMint","https://github.com/clarin-eric/ParlaMint","ParlaMint: Comparable Parliamentary Corpora","ces|slv|bul|nld|eng|dan|ron|isl",171
 1614343836995,"COST-ELTeC/ELTeC-srp-ext","https://github.com/COST-ELTeC/ELTeC-srp-ext","-","srp",7
 1613464931082,"COST-ELTeC/ELTeC-srp","https://github.com/COST-ELTeC/ELTeC-srp","-","srp",41
@@ -2338,6 +2338,7 @@
 1590816599624,"GutenbergSource/20189-MacMicking-Recollections-of-Manilla-and-the-Philippines","https://github.com/GutenbergSource/20189-MacMicking-Recollections-of-Manilla-and-the-Philippines","TEI master file of Robert MacMicking: Recollections of Manilla and the Philippines, During 1848, 1849, and 1850.","",1
 1590816599566,"GITenberg/The-Historical-Evidence-for-the-Virgin-Birth_54858","https://github.com/GITenberg/The-Historical-Evidence-for-the-Virgin-Birth_54858","The Historical Evidence for the Virgin Birth by Vincent Taylor is a Project Gutenberg book, now on Github.","",1
 1590816599565,"GutenbergSource/53493-Steiner-Philosophie-der-Freiheit","https://github.com/GutenbergSource/53493-Steiner-Philosophie-der-Freiheit","TEI master file of Rudolf Steiner: Die Philosophie der Freiheit: Grundzüge einer modernen Weltanschauung.","",1
+1614803940993,"gimsieke/emphasis-normalize-space","https://github.com/gimsieke/emphasis-normalize-space","Pull leading or trailing whitespace out of DocBook phrasing elements","",2
 1614791769706,"hmteditors/iliad3-2021","https://github.com/hmteditors/iliad3-2021","Editing book 3 of the Iliad in 3 Homeric MSS","",5
 1614791769766,"helmadik/LewisShortLogeion","https://github.com/helmadik/LewisShortLogeion","LewisShort from Perseus, edited at Chicago; needs your help! ","eng|lat",4
 1606740170312,"hawc2/tei-boilerplate-flask","https://github.com/hawc2/tei-boilerplate-flask","Flask app for serving tei-boilerplate","eng",20
@@ -2563,7 +2564,7 @@
 1590816599911,"humarec/humarec-tei","https://github.com/humarec/humarec-tei","-","",2
 1590816575871,"hzsk/pepperModules-IsoTEISpokenModules","https://github.com/hzsk/pepperModules-IsoTEISpokenModules","his project provides an importer to import data coming from the ISO standard ""Transcription of spoken language"" based on the TEI P5 format","",1
 1590816582758,"Hmamouche/NeuroTSConvers","https://github.com/Hmamouche/NeuroTSConvers","Neuro-Physiological Time Series Prediction in Conversations","",1
-1614791769810,"ISicily/ISicily","https://github.com/ISicily/ISicily","EpiDoc files for the I.Sicily project","eng|ita|grc|lat|heb|phn|xpu|osc|xly|scx|sxc",5110
+1614803940991,"ISicily/ISicily","https://github.com/ISicily/ISicily","EpiDoc files for the I.Sicily project","eng|ita|grc|lat|heb|phn|xpu|osc|xly|scx|sxc",5185
 1607131440144,"ilrt/Beyond2022TeiTemplate","https://github.com/ilrt/Beyond2022TeiTemplate","Work on creating a template for the TEI/XML that will be used in the Medieval Gold Seam and other seams","eng",6
 1598099517019,"innawendell/European_Comedy","https://github.com/innawendell/European_Comedy","The quantitative study of the evolution of the Russian and French 5-act comedy in verse.","fra|rus",106
 1599526896066,"istex/odd-istex","https://github.com/istex/odd-istex","Schéma ODD TEI pour le projet ISTEX","",4
