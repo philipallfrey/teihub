@@ -1,1 +1,1 @@
-{"date":1590816600737,"name":"fiorin7/xml-to-teilex","url":"https://github.com/fiorin7/xml-to-teilex","desc":"-","files":["example/raw_input.xml","example/slightly_broken_oxgarage_input_for_testing.xml"],"langs":[]}
+{"date":1590816600737,"name":"fiorin7/xml-to-teilex","url":"https://github.com/fiorin7/xml-to-teilex","desc":"Web app for transforming entries of the Latin-Bulgarian dictionary into XML format which follows the TEI Lex-0 standard.","files":["example/raw_input.xml","example/slightly_broken_oxgarage_input_for_testing.xml","template.xml"],"langs":[]}

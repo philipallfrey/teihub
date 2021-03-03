@@ -1,0 +1,1 @@
+{"date":1590816579764,"name":"OpenArabicPE/convert_tei-to-mods","url":"https://github.com/OpenArabicPE/convert_tei-to-mods","desc":"XSLT to convert bibliographic metadata from TEI XML to MODS XML","files":["xslt/Tei2Mods-bibl.xsl"],"langs":[]}

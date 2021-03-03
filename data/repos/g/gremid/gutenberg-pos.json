@@ -1,0 +1,1 @@
+{"date":1590816578737,"name":"gremid/gutenberg-pos","url":"https://github.com/gremid/gutenberg-pos","desc":"Applies part-of-speech (POS) tagging to a sample of Project Gutenberg texts.","files":["src/main/java/net/middell/gutenberg/Text.java"],"langs":[]}

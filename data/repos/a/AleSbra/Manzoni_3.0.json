@@ -1,1 +1,1 @@
-{"date":1590816597287,"name":"AleSbra/Manzoni_3.0","url":"https://github.com/AleSbra/Manzoni_3.0","desc":"Nuova grafica per prototipo Manzoni","files":["input/myTEI.rnc","input/xslt_manzoni.xsl","input/codifica_tei_024a_025d.xml"],"langs":[]}
+{"date":1590816597287,"name":"AleSbra/Manzoni_3.0","url":"https://github.com/AleSbra/Manzoni_3.0","desc":"Nuova grafica per prototipo Manzoni","files":["input/myTEI.rnc","input/xslt_manzoni.xsl","input/codifica_tei_024a_025d.xml","input/xslt-pulito.xsl"],"langs":[]}

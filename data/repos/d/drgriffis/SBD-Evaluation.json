@@ -1,0 +1,1 @@
+{"date":1590816585548,"name":"drgriffis/SBD-Evaluation","url":"https://github.com/drgriffis/SBD-Evaluation","desc":"Virtual environment for replicating experiments from the paper \"A Quantitative and Qualitative Evaluation of Sentence Boundary Detection for the Clinical Domain,\" appearing at AMIA CRI 2016.","files":["code/preprocessing/bnc/plaintext.py"],"langs":[]}

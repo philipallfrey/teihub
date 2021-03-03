@@ -1,0 +1,1 @@
+{"date":1590816591342,"name":"uchicago-library/batch_generate.iiif.manifests","url":"https://github.com/uchicago-library/batch_generate.iiif.manifests","desc":"A command-line script to generate IIIF manifests for Campus Publication cultural heritage objects","files":["bin/copy_tifs_to_iiif.py"],"langs":[]}

@@ -1,1 +1,1 @@
-{"date":1590816600202,"name":"TEI-EAJ/parallel_text_viewer","url":"https://github.com/TEI-EAJ/parallel_text_viewer","desc":"-","files":["docs/data/pt/01.xml","docs/data/yosano.xml"],"langs":[]}
+{"date":1590816600202,"name":"TEI-EAJ/parallel_text_viewer","url":"https://github.com/TEI-EAJ/parallel_text_viewer","desc":"-","files":["docs/data/pt/01.xml","docs/data/yosano.xml","app/src/components/Hello.vue"],"langs":[]}

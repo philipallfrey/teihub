@@ -1,1 +1,1 @@
-{"date":1590816593532,"name":"waingram/bamboo","url":"https://github.com/waingram/bamboo","desc":"Fedora ingester for TCP content","files":["spec/fixtures/ecco-adorned-p5simple/K000122.000.xml"],"langs":["eng"]}
+{"date":1590816593532,"name":"waingram/bamboo","url":"https://github.com/waingram/bamboo","desc":"Fedora ingester for TCP content","files":["spec/fixtures/ecco-adorned-p5simple/K000122.000.xml","spec/fixtures/ecco-unadorned/K000122.000.bad","spec/fixtures/ecco-unadorned/K000122.000.xml","lib/bamboo/ingester.rb"],"langs":["eng"]}

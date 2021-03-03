@@ -1,0 +1,1 @@
+{"date":1590816578922,"name":"EUDAT-B2FIND/md-ingestion","url":"https://github.com/EUDAT-B2FIND/md-ingestion","desc":"Ingestion (including OAI harvesting, semantic mapping (see repo 'md-mapping') and uploading to CKAN ) of metadata in the B2FIND portal","files":["mapfiles/clarin-ddi.xml"],"langs":[]}

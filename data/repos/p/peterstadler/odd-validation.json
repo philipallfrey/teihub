@@ -1,1 +1,1 @@
-{"date":1590816598781,"name":"peterstadler/odd-validation","url":"https://github.com/peterstadler/odd-validation","desc":"TEI validation service via ODD","files":["tests/namespaces.rng","tests/odd.rng"],"langs":[]}
+{"date":1590816598781,"name":"peterstadler/odd-validation","url":"https://github.com/peterstadler/odd-validation","desc":"TEI validation service via ODD","files":["tests/namespaces.rng","tests/odd.rng","tests/vanilla.xml","tests/odd.xml","tests/namespaces.xml"],"langs":[]}
