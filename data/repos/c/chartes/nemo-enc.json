@@ -1,1 +1,1 @@
-{"date":1590816600326,"name":"chartes/nemo-enc","url":"https://github.com/chartes/nemo-enc","desc":"app corpus enc","files":["assets/xsl/tei2html.xsl","assets/xsl/teiHeader2html.xsl","assets/xsl/tei2txt.xsl"],"langs":[]}
+{"date":1590816600326,"name":"chartes/nemo-enc","url":"https://github.com/chartes/nemo-enc","desc":"app corpus enc","files":["assets/xsl/tei2html.xsl","assets/xsl/teiHeader2html.xsl","assets/xsl/tei2txt.xsl","assets/xsl/common.xsl"],"langs":[]}

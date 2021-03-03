@@ -1,1 +1,1 @@
-{"date":1590816594567,"name":"COST-ELTeC/Schemas","url":"https://github.com/COST-ELTeC/Schemas","desc":"Contains RELAXNG schemas used to validate ELTeC texts ","files":["eltec-2.rng","eltec-0.rng","eltec-1.rng","eltec-x.rng","eltec-repo.rng"],"langs":[]}
+{"date":1590816594567,"name":"COST-ELTeC/Schemas","url":"https://github.com/COST-ELTeC/Schemas","desc":"Contains RELAXNG schemas used to validate ELTeC texts ","files":["eltec-2.rng","eltec-0.rng","eltec-1.rng","eltec-x.rng","eltec-repo.rng","ODD/eltec-body.xml"],"langs":["ita","eng","deu"]}

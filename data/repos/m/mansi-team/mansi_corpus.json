@@ -1,0 +1,1 @@
+{"date":1590816574373,"name":"mansi-team/mansi_corpus","url":"https://github.com/mansi-team/mansi_corpus","desc":"Mansi corpus based on the tsakorpus engine (https://bitbucket.org/tsakorpus/tsakorpus/src/master/)","files":["src_convertors/iso_tei_hamburg2json.py"],"langs":[]}

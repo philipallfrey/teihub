@@ -1,1 +1,1 @@
-{"date":1590816590481,"name":"HelenaSabel/FS-Validator","url":"https://github.com/HelenaSabel/FS-Validator","desc":"Software to process a feature structure declaration to validate its application","files":["schemas/fs-schema.rnc"],"langs":[]}
+{"date":1590816600186,"name":"HelenaSabel/FS-Validator","url":"https://github.com/HelenaSabel/FS-Validator","desc":"Software to process a feature structure declaration to validate its application","files":["schemas/fs-schema.rnc","samples/fsLib_mock-up_1.xml"],"langs":["eng","glg","por"]}

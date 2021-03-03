@@ -1,1 +1,1 @@
-{"date":1605977117968,"name":"debian-tex/latexml","url":"https://github.com/debian-tex/latexml","desc":"-","files":["t/daemon/formats/tei.xml"],"langs":[]}
+{"date":1605977117968,"name":"debian-tex/latexml","url":"https://github.com/debian-tex/latexml","desc":"-","files":["t/daemon/formats/tei.xml","lib/LaTeXML/resources/XSLT/LaTeXML-tei.xsl"],"langs":[]}

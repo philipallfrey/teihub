@@ -1,1 +1,1 @@
-{"date":1590816598607,"name":"ahn-ens-lyon/formCahier2015-07-01","url":"https://github.com/ahn-ens-lyon/formCahier2015-07-01","desc":"Premier jour Atelier Cahier","files":["schemas/desgodetsSchemaTEI.rnc"],"langs":[]}
+{"date":1590816600947,"name":"ahn-ens-lyon/formCahier2015-07-01","url":"https://github.com/ahn-ens-lyon/formCahier2015-07-01","desc":"Premier jour Atelier Cahier","files":["schemas/desgodetsSchemaTEI.rnc","xml/desgodetsBiblioSample.tei.xml","presentations/02-xmlTei.html"],"langs":["fra"]}

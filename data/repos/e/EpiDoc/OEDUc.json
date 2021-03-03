@@ -1,1 +1,1 @@
-{"date":1590816584330,"name":"EpiDoc/OEDUc","url":"https://github.com/EpiDoc/OEDUc","desc":"Open Epigraphic Data Unconference","files":["oeduc-0.2/EpiDocXslt/odf-tpl-metadata.xsl"],"langs":[]}
+{"date":1590816599900,"name":"EpiDoc/OEDUc","url":"https://github.com/EpiDoc/OEDUc","desc":"Open Epigraphic Data Unconference","files":["oeduc-0.2/EpiDocXslt/odf-tpl-metadata.xsl","oeduc-0.2/schema/tei-epidoc.xml"],"langs":[]}

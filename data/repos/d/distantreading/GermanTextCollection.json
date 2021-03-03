@@ -1,1 +1,1 @@
-{"date":1590816594488,"name":"distantreading/GermanTextCollection","url":"https://github.com/distantreading/GermanTextCollection","desc":"German texts for ELTeC in different representations (Level 0 to Level 2) -testPhase-","files":["scheme/eltec-all.rng"],"langs":[]}
+{"date":1590816600932,"name":"distantreading/GermanTextCollection","url":"https://github.com/distantreading/GermanTextCollection","desc":"German texts for ELTeC in different representations (Level 0 to Level 2) -testPhase-","files":["scheme/eltec-all.rng","scheme/eltec-0.rnc","scheme/eltec-1.rnc"],"langs":[]}

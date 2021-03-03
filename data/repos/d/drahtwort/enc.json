@@ -1,1 +1,1 @@
-{"date":1590816586576,"name":"drahtwort/enc","url":"https://github.com/drahtwort/enc","desc":"collection of encoded texts","files":["data/teibp.xsl"],"langs":[]}
+{"date":1590816586576,"name":"drahtwort/enc","url":"https://github.com/drahtwort/enc","desc":"collection of encoded texts","files":["data/teibp.xsl","vendor/bptei/css/sleepy.css","vendor/bptei/css/teibp.css"],"langs":[]}

@@ -1,1 +1,1 @@
-{"date":1590816599582,"name":"oracc/oracc","url":"https://github.com/oracc/oracc","desc":"All the sources and documentation for Oracc","files":["odoc/developer/tei/xtf-tei.rnc"],"langs":[]}
+{"date":1590816599582,"name":"oracc/oracc","url":"https://github.com/oracc/oracc","desc":"All the sources and documentation for Oracc","files":["odoc/developer/tei/xtf-tei.rnc","misc/tei/xtf2tei.xsl.in"],"langs":[]}

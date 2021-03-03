@@ -1,1 +1,1 @@
-{"date":1590816558162,"name":"dracor-org/dracor-api","url":"https://github.com/dracor-org/dracor-api","desc":"eXistdb application for dracor.org","files":["modules/util.xqm"],"langs":[]}
+{"date":1590816599556,"name":"dracor-org/dracor-api","url":"https://github.com/dracor-org/dracor-api","desc":"eXistdb application for dracor.org","files":["modules/util.xqm","api.yaml","modules/api.xqm"],"langs":[]}

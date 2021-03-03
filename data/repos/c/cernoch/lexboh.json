@@ -1,1 +1,1 @@
-{"date":1590816596318,"name":"cernoch/lexboh","url":"https://github.com/cernoch/lexboh","desc":"Latinitatis medii aevi lexicon Bohemorum","files":["xml/ducange.html","transform/ducange_html.xsl","xml/Z.xml","xml/K.xml"],"langs":["lat","fro","grc"]}
+{"date":1590816599171,"name":"cernoch/lexboh","url":"https://github.com/cernoch/lexboh","desc":"Latinitatis medii aevi lexicon Bohemorum","files":["xml/ducange.html","transform/ducange_html.xsl","xml/Z.xml","xml/K.xml","xml/X.xml","xml/W.xml","xml/ducange.rng"],"langs":["lat","fro","grc"]}

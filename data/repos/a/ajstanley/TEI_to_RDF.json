@@ -1,1 +1,1 @@
-{"date":1590816567146,"name":"ajstanley/TEI_to_RDF","url":"https://github.com/ajstanley/TEI_to_RDF","desc":"TEI to RDF translation and persistence","files":["xslt/existing-tei-c-files/crm.xsl"],"langs":[]}
+{"date":1590816588743,"name":"ajstanley/TEI_to_RDF","url":"https://github.com/ajstanley/TEI_to_RDF","desc":"TEI to RDF translation and persistence","files":["xslt/existing-tei-c-files/crm.xsl","xslt/examples/tei_bare.rng"],"langs":[]}

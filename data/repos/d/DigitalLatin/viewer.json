@@ -1,1 +1,1 @@
-{"date":1590816586432,"name":"DigitalLatin/viewer","url":"https://github.com/DigitalLatin/viewer","desc":"HTML Document viewer for DLL editions","files":["xslt/DLL-viewer.xsl","Servius.xml","examples/Propertius-1-15.xml"],"langs":[]}
+{"date":1590816600948,"name":"DigitalLatin/viewer","url":"https://github.com/DigitalLatin/viewer","desc":"HTML Document viewer for DLL editions","files":["xslt/DLL-viewer.xsl","Servius.xml","examples/Propertius-1-15.xml","schema/tei_all.rnc"],"langs":[]}

@@ -1,1 +1,1 @@
-{"date":1590816596557,"name":"codekansas/TEIplusWP","url":"https://github.com/codekansas/TEIplusWP","desc":"A plugin integrating TEI Boilerplate with Wordpress","files":["content/red_diary.xml","xsl/teibp.xsl","teibp.css"],"langs":["eng","grc","fra","lat"]}
+{"date":1590816596557,"name":"codekansas/TEIplusWP","url":"https://github.com/codekansas/TEIplusWP","desc":"A plugin integrating TEI Boilerplate with Wordpress","files":["content/red_diary.xml","xsl/teibp.xsl","teibp.css","content/demo.xml"],"langs":["eng","grc","fra","lat"]}

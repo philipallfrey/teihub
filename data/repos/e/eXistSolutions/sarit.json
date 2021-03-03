@@ -1,1 +1,1 @@
-{"date":1590816599656,"name":"eXistSolutions/sarit","url":"https://github.com/eXistSolutions/sarit","desc":"Electronic editions of Sanskrit and other Indian-language texts","files":["resources/css/styles.css"],"langs":[]}
+{"date":1590816599656,"name":"eXistSolutions/sarit","url":"https://github.com/eXistSolutions/sarit","desc":"Electronic editions of Sanskrit and other Indian-language texts","files":["resources/css/styles.css","modules/tei2fo.xql"],"langs":[]}

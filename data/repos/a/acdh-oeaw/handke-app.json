@@ -1,1 +1,1 @@
-{"date":1590816600190,"name":"acdh-oeaw/handke-app","url":"https://github.com/acdh-oeaw/handke-app","desc":"a little demo app","files":["data/editions/collated.xml","data/editions/juxtacommons_directexport.xml","resources/schema/editions.rnc"],"langs":[]}
+{"date":1590816600190,"name":"acdh-oeaw/handke-app","url":"https://github.com/acdh-oeaw/handke-app","desc":"a little demo app","files":["data/editions/collated.xml","data/editions/juxtacommons_directexport.xml","resources/schema/editions.rnc","data/editions/IS_tf1.xml"],"langs":["deu","slv"]}

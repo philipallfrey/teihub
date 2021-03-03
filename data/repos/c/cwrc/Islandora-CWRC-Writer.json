@@ -1,1 +1,1 @@
-{"date":1590816600688,"name":"cwrc/Islandora-CWRC-Writer","url":"https://github.com/cwrc/Islandora-CWRC-Writer","desc":"Islandora wrapper for the CWRC-Writer.","files":["data/CWRC/orlando_writing.rng","data/CWRC/orlando_biography.rng"],"langs":[]}
+{"date":1590816600688,"name":"cwrc/Islandora-CWRC-Writer","url":"https://github.com/cwrc/Islandora-CWRC-Writer","desc":"Islandora wrapper for the CWRC-Writer.","files":["data/CWRC/orlando_writing.rng","data/CWRC/orlando_biography.rng","data/CWRC/cwrc_tei_basic.rng","data/CWRC/cwrc_tei_lite.rng"],"langs":[]}

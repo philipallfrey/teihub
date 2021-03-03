@@ -1,0 +1,1 @@
+{"date":1590816595040,"name":"bodleian/dmt-metadata-transformation","url":"https://github.com/bodleian/dmt-metadata-transformation","desc":"Command-line tools to transform TEI & METS files to IIIF Presentation API manifests","files":["IN2IIIF/tei2iiif/example/tei.xml"],"langs":["eng"]}

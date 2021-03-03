@@ -1,1 +1,1 @@
-{"date":1590816597065,"name":"marcdouguet/motif","url":"https://github.com/marcdouguet/motif","desc":"-","files":["motdp/Teinte/tei2html.xsl","motdp/Teinte/teinte.rng","motdp/Teinte/tei2iramuteq.xsl","motdp/Teinte/teiHeader2html.xsl","motdp/Teinte/tei2site.xsl"],"langs":[]}
+{"date":1590816597065,"name":"marcdouguet/motif","url":"https://github.com/marcdouguet/motif","desc":"-","files":["motdp/Teinte/tei2html.xsl","motdp/Teinte/teinte.rng","motdp/Teinte/tei2iramuteq.xsl","motdp/Teinte/teiHeader2html.xsl","motdp/Teinte/tei2site.xsl","motdp/Teinte/common.xsl"],"langs":[]}

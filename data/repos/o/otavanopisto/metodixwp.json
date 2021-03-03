@@ -1,1 +1,1 @@
-{"date":1590816596178,"name":"otavanopisto/metodixwp","url":"https://github.com/otavanopisto/metodixwp","desc":"Metodix Wordpress site","files":["wordpress/wp-content/plugins/anthologize/tests/teiApiTests/test.pretty.xml"],"langs":[]}
+{"date":1590816596178,"name":"otavanopisto/metodixwp","url":"https://github.com/otavanopisto/metodixwp","desc":"Metodix Wordpress site","files":["wordpress/wp-content/plugins/anthologize/tests/teiApiTests/test.pretty.xml","wordpress/wp-content/plugins/anthologize/includes/class-tei-dom.php"],"langs":[]}

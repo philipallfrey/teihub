@@ -1,1 +1,1 @@
-{"date":1590816589369,"name":"bleierr/v-machine","url":"https://github.com/bleierr/v-machine","desc":"redesign of VM5 -  this is a draft for a possible solution","files":["schema/vmachine.rng"],"langs":[]}
+{"date":1590816589477,"name":"bleierr/v-machine","url":"https://github.com/bleierr/v-machine","desc":"redesign of VM5 -  this is a draft for a possible solution","files":["schema/vmachine.rng","samples/altar.xml","samples/orchardFarming.xml","samples/xray.xml"],"langs":["eng","fra","lat"]}

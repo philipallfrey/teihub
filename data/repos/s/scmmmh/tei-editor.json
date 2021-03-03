@@ -1,1 +1,1 @@
-{"date":1590816566442,"name":"scmmmh/tei-editor","url":"https://github.com/scmmmh/tei-editor","desc":"A graphical editor for TEI documents","files":["src/util/TEISerialiser.ts"],"langs":[]}
+{"date":1590816599279,"name":"scmmmh/tei-editor","url":"https://github.com/scmmmh/tei-editor","desc":"A graphical editor for TEI documents","files":["src/util/TEISerialiser.ts","docs/source/demo.rst","docs/source/_static/demo/index.html"],"langs":[]}
