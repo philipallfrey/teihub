@@ -1,1 +1,1 @@
-{"date":1590816600983,"name":"jensopetersen/mopane","url":"https://github.com/jensopetersen/mopane","desc":"A collection of XQuery scripts facilitating standoff markup of TEI documents","files":["scripts/inline2standoff-result.xml","scripts/inline2standoff.xq"],"langs":[]}
+{"date":1590816600983,"name":"jensopetersen/mopane","url":"https://github.com/jensopetersen/mopane","desc":"A collection of XQuery scripts facilitating standoff markup of TEI documents","files":["scripts/inline2standoff-result.xml","scripts/inline2standoff.xq","scripts/sample_MTDP10363.xml"],"langs":[]}

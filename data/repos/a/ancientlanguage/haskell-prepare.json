@@ -1,1 +1,1 @@
-{"date":1590816552848,"name":"ancientlanguage/haskell-prepare","url":"https://github.com/ancientlanguage/haskell-prepare","desc":"Prepare ancient language data","files":["src/Prepare/Perseus/TeiEpidocParser.hs"],"langs":[]}
+{"date":1590816570087,"name":"ancientlanguage/haskell-prepare","url":"https://github.com/ancientlanguage/haskell-prepare","desc":"Prepare ancient language data","files":["src/Prepare/Perseus/TeiEpidocParser.hs","src/Prepare/Perseus/TeiEpidocHeaderParser.hs"],"langs":[]}

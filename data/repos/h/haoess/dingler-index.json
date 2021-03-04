@@ -1,1 +1,1 @@
-{"date":1590816575859,"name":"haoess/dingler-index","url":"https://github.com/haoess/dingler-index","desc":"Experimental presentation website for the DFG project »Digitalisierung des Polytechnischen Journals«","files":["bin/extract_articles_complete.pl"],"langs":[]}
+{"date":1590816592742,"name":"haoess/dingler-index","url":"https://github.com/haoess/dingler-index","desc":"Experimental presentation website for the DFG project »Digitalisierung des Polytechnischen Journals«","files":["bin/extract_articles_complete.pl","bin/export-europeana.pl"],"langs":[]}

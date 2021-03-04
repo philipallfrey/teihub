@@ -1,1 +1,1 @@
-{"date":1590816584693,"name":"YoannDupont/SEM","url":"https://github.com/YoannDupont/SEM","desc":"SEM, a free NLP tool relying on machine learning technologies, especially CRFs.","files":["sem/exporters/tei_np.py","sem/exporters/tei_analec.py"],"langs":[]}
+{"date":1590816584693,"name":"YoannDupont/SEM","url":"https://github.com/YoannDupont/SEM","desc":"SEM, a free NLP tool relying on machine learning technologies, especially CRFs.","files":["sem/exporters/tei_np.py","sem/exporters/tei_analec.py","sem/exporters/tei_reden.py"],"langs":[]}

@@ -1,1 +1,1 @@
-{"date":1590816568565,"name":"gnarph/DIRT","url":"https://github.com/gnarph/DIRT","desc":"DIRT Identifies Reused Text","files":["test_data/zhi/b047za1118.xml"],"langs":[]}
+{"date":1590816600983,"name":"gnarph/DIRT","url":"https://github.com/gnarph/DIRT","desc":"DIRT Identifies Reused Text","files":["test_data/zhi/b047za1118.xml","preprocessing/tei/test_data/eng_tei.xml","preprocessing/tei/test_data/zhi_tei.xml"],"langs":["eng"]}

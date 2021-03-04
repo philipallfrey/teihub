@@ -1,1 +1,1 @@
-{"date":1590816598941,"name":"sonofmun/OGL_Tools","url":"https://github.com/sonofmun/OGL_Tools","desc":"Various tools for dealing with Open Greek and Latin data","files":["CTS/extract_metadata.py","CTS/add_refsDecl.py","text.xml","First1kgrc/add_new_header.py"],"langs":["lat"]}
+{"date":1590816598941,"name":"sonofmun/OGL_Tools","url":"https://github.com/sonofmun/OGL_Tools","desc":"Various tools for dealing with Open Greek and Latin data","files":["CTS/extract_metadata.py","CTS/add_refsDecl.py","text.xml","First1kgrc/add_new_header.py","CTS/split_vols.py"],"langs":["lat"]}

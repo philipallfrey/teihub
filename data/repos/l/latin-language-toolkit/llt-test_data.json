@@ -1,1 +1,1 @@
-{"date":1590816571320,"name":"latin-language-toolkit/llt-test_data","url":"https://github.com/latin-language-toolkit/llt-test_data","desc":"Static files to serve demo and test purposes","files":["segtok/embedded_tei_example.xml","segtok/prefixed_tei_example.xml"],"langs":[]}
+{"date":1590816588970,"name":"latin-language-toolkit/llt-test_data","url":"https://github.com/latin-language-toolkit/llt-test_data","desc":"Static files to serve demo and test purposes","files":["segtok/embedded_tei_example.xml","segtok/prefixed_tei_example.xml","segtok/tei_example.xml"],"langs":[]}

@@ -1,1 +1,1 @@
-{"date":1590816595228,"name":"ahn-ens-lyon/synopsx","url":"https://github.com/ahn-ens-lyon/synopsx","desc":"Full XML corpus publishing system using BaseX XML database","files":["files/xml/teiSample.xml","files/xsl/tei2html.xsl"],"langs":["fra"]}
+{"date":1590816600382,"name":"ahn-ens-lyon/synopsx","url":"https://github.com/ahn-ens-lyon/synopsx","desc":"Full XML corpus publishing system using BaseX XML database","files":["files/xml/teiSample.xml","files/xsl/tei2html.xsl","files/xml/synopsx.xml"],"langs":["fra"]}

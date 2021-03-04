@@ -1,1 +1,1 @@
-{"date":1590816588590,"name":"rochester-rcl/tei-xslt-transforms","url":"https://github.com/rochester-rcl/tei-xslt-transforms","desc":"transforms for tei documents","files":["sewardHtml.xsl"],"langs":[]}
+{"date":1590816588590,"name":"rochester-rcl/tei-xslt-transforms","url":"https://github.com/rochester-rcl/tei-xslt-transforms","desc":"transforms for tei documents","files":["sewardHtml.xsl","/bragdon_person_xml_to_tei.xsl"],"langs":[]}

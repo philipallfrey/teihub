@@ -1,1 +1,1 @@
-{"date":1590816588932,"name":"cmosher01/teish","url":"https://github.com/cmosher01/teish","desc":"Simple TEI to HTML converter","files":["src/main/resources/teish.xslt","tei/MosherHughDeed.tei.xml","tei/MosherHughInventory.tei.xml"],"langs":["eng"]}
+{"date":1590816588932,"name":"cmosher01/teish","url":"https://github.com/cmosher01/teish","desc":"Simple TEI to HTML converter","files":["src/main/resources/teish.xslt","tei/MosherHughDeed.tei.xml","tei/MosherHughInventory.tei.xml","tei/MosherHughQuitClaim.tei.xml"],"langs":["eng"]}

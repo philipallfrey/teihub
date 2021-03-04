@@ -1,1 +1,1 @@
-{"date":1590816590655,"name":"ohtap/ohtap","url":"https://github.com/ohtap/ohtap","desc":"Oral History Text Analysis Project","files":["encoding_tool/BWSP/encode_BWSP.py","encoding_tool/SCAL/encode_SCAL.py","encoding_tool/SCAARJ/encode_SCAARJ.py"],"langs":[]}
+{"date":1590816590655,"name":"ohtap/ohtap","url":"https://github.com/ohtap/ohtap","desc":"Oral History Text Analysis Project","files":["encoding_tool/BWSP/encode_BWSP.py","encoding_tool/SCAL/encode_SCAL.py","encoding_tool/SCAARJ/encode_SCAARJ.py","encoding_tool/WOL/encode_WOL.py"],"langs":[]}

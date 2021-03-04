@@ -1,1 +1,1 @@
-{"date":1611062807250,"name":"pelagios/peripleo2","url":"https://github.com/pelagios/peripleo2","desc":"The Pelagios Exploration Engine","files":["test/resources/harvesting/crosswalks/tei/bordeaux-itinerary-en.tei.xml"],"langs":[]}
+{"date":1611062807250,"name":"pelagios/peripleo2","url":"https://github.com/pelagios/peripleo2","desc":"The Pelagios Exploration Engine","files":["test/resources/harvesting/crosswalks/tei/bordeaux-itinerary-en.tei.xml","app/harvesting/crosswalks/tei/TeiCrosswalk.scala"],"langs":[]}

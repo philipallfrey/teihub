@@ -1,1 +1,1 @@
-{"date":1590816599777,"name":"termith-anr/totem","url":"https://github.com/termith-anr/totem","desc":"-","files":["exemple/ling_OE_400.xml","exemple/ling_OE_38.xml","exemple/ling_OE_37.xml","exemple/ling_OE_389.xml"],"langs":["fra"]}
+{"date":1590816599777,"name":"termith-anr/totem","url":"https://github.com/termith-anr/totem","desc":"-","files":["exemple/ling_OE_400.xml","exemple/ling_OE_38.xml","exemple/ling_OE_37.xml","exemple/ling_OE_389.xml","loaders/sentenceAndPara.js"],"langs":["fra"]}

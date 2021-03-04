@@ -1,1 +1,1 @@
-{"date":1590816572541,"name":"IntersectAustralia/dc12c","url":"https://github.com/IntersectAustralia/dc12c","desc":"Papyri Data Capture","files":["spec/lib/papyriinfo_spec.rb"],"langs":[]}
+{"date":1590816572541,"name":"IntersectAustralia/dc12c","url":"https://github.com/IntersectAustralia/dc12c","desc":"Papyri Data Capture","files":["spec/lib/papyriinfo_spec.rb","app/views/papyri/papyri_info.xml.erb"],"langs":[]}

@@ -1,0 +1,1 @@
+{"date":1590816555436,"name":"sul-dlss-deprecated/frda-indexer","url":"https://github.com/sul-dlss-deprecated/frda-indexer","desc":"Code to harvest FRDA metadata from DOR and index it into Solr for the FRDA web application","files":["spec/unit/ap_tei_document_spec.rb"],"langs":[]}
