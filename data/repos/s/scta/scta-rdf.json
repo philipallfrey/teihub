@@ -1,1 +1,1 @@
-{"date":1590816600995,"name":"scta/scta-rdf","url":"https://github.com/scta/scta-rdf","desc":"-","files":["xsl_stylesheets/rdf_projectdata_conversion.xsl","xsl_stylesheets/edf-conversion/structure_item_transcriptions.xsl"],"langs":[]}
+{"date":1590816600995,"name":"scta/scta-rdf","url":"https://github.com/scta/scta-rdf","desc":"-","files":["xsl_stylesheets/rdf_projectdata_conversion.xsl","xsl_stylesheets/edf-conversion/structure_item_transcriptions.xsl","xsl_stylesheets/rdf_codices_conversion.xsl","xsl_stylesheets/rdf_names_conversion.xsl"],"langs":[]}

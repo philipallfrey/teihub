@@ -1,0 +1,1 @@
+{"date":1590816574194,"name":"jchartrand/zenodo-git-up","url":"https://github.com/jchartrand/zenodo-git-up","desc":"Upload a directory of files from a Github repository to Zenodo, creating one DOI for each file.","files":["src/zenodo.js"],"langs":[]}

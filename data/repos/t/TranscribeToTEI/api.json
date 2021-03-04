@@ -1,1 +1,1 @@
-{"date":1590816587091,"name":"TranscribeToTEI/api","url":"https://github.com/TranscribeToTEI/api","desc":"REST API of TestamentsDePoilus","files":["src/AppBundle/Services/XML/Builder/Wills/Header.php"],"langs":[]}
+{"date":1590816594785,"name":"TranscribeToTEI/api","url":"https://github.com/TranscribeToTEI/api","desc":"REST API of TestamentsDePoilus","files":["src/AppBundle/Services/XML/Builder/Wills/Header.php","web/download/test.xml","web/download/15.xml"],"langs":[]}

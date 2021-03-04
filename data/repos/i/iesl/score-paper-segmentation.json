@@ -1,0 +1,1 @@
+{"date":1590816600988,"name":"iesl/score-paper-segmentation","url":"https://github.com/iesl/score-paper-segmentation","desc":"A small utility which uses Jaccard Similarity of Bigrams to measure coarse paper segmentation","files":["scripts/grobid-convert-xml.py"],"langs":[]}

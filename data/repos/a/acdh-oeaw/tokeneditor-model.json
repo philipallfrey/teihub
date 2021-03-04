@@ -1,1 +1,1 @@
-{"date":1590816597633,"name":"acdh-oeaw/tokeneditor-model","url":"https://github.com/acdh-oeaw/tokeneditor-model","desc":"-","files":["tests/ImportExportWorkflowTest.php","sample_data/marmot.xml","sample_data/HausamSee.xml"],"langs":[]}
+{"date":1590816597633,"name":"acdh-oeaw/tokeneditor-model","url":"https://github.com/acdh-oeaw/tokeneditor-model","desc":"-","files":["tests/ImportExportWorkflowTest.php","sample_data/marmot.xml","sample_data/HausamSee.xml","tests/testtext.xml"],"langs":[]}

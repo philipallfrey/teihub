@@ -1,1 +1,1 @@
-{"date":1590816557909,"name":"anHALytics/anHALytics-frontend","url":"https://github.com/anHALytics/anHALytics-frontend","desc":"Frontend interfaces suited for anHALytics API (in development)","files":["js/recordBuild.js"],"langs":[]}
+{"date":1590816588925,"name":"anHALytics/anHALytics-frontend","url":"https://github.com/anHALytics/anHALytics-frontend","desc":"Frontend interfaces suited for anHALytics API (in development)","files":["js/recordBuild.js","js/profile/profile.js","js/publication/publication.js"],"langs":[]}

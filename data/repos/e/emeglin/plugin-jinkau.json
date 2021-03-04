@@ -1,1 +1,1 @@
-{"date":1590816596198,"name":"emeglin/plugin-jinkau","url":"https://github.com/emeglin/plugin-jinkau","desc":"-","files":["tests/includes/test.pretty.xml","includes/class-tei-dom.php"],"langs":[]}
+{"date":1590816596198,"name":"emeglin/plugin-jinkau","url":"https://github.com/emeglin/plugin-jinkau","desc":"-","files":["tests/includes/test.pretty.xml","includes/class-tei-dom.php","templates/epub/tei2opf.xsl"],"langs":[]}
