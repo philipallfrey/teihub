@@ -1,1 +1,1 @@
-{"date":1590816569093,"name":"daisy/pipeline1","url":"https://github.com/daisy/pipeline1","desc":"DAISY Pipeline 1 project","files":["src/org/daisy/util/xml/catalog/tei-p4/tei2.dtd"],"langs":[]}
+{"date":1590816585384,"name":"daisy/pipeline1","url":"https://github.com/daisy/pipeline1","desc":"DAISY Pipeline 1 project","files":["src/org/daisy/util/xml/catalog/tei-p4/tei2.dtd","src/org/daisy/util/xml/catalog/tei-p4/teifsd2.dtd"],"langs":[]}

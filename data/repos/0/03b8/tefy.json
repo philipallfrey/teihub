@@ -1,0 +1,1 @@
+{"date":1590816591092,"name":"03b8/tefy","url":"https://github.com/03b8/tefy","desc":"A very basic Python wrapper for conversions from doc, docx and odt into TEI XML via OxGarage","files":["tests/test_tefy.py"],"langs":[]}

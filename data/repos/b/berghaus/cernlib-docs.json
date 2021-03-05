@@ -1,1 +1,1 @@
-{"date":1590816600936,"name":"berghaus/cernlib-docs","url":"https://github.com/berghaus/cernlib-docs","desc":"The CERN Program Library documentation in latex format","files":["geant4/teimml.dtd","geant4/teixlite.dtd"],"langs":[]}
+{"date":1590816600936,"name":"berghaus/cernlib-docs","url":"https://github.com/berghaus/cernlib-docs","desc":"The CERN Program Library documentation in latex format","files":["geant4/teimml.dtd","geant4/teixlite.dtd","geant4/tei2latex.xsl"],"langs":[]}

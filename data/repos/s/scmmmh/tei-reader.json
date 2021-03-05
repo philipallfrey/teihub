@@ -1,1 +1,1 @@
-{"date":1610010143553,"name":"scmmmh/tei-reader","url":"https://github.com/scmmmh/tei-reader","desc":"-","files":["example/fouque_falkensteins_01_1810.TEI-P5.xml","public/text.tei","docs/source/_static/demo/text.tei"],"langs":["deu"]}
+{"date":1610010143553,"name":"scmmmh/tei-reader","url":"https://github.com/scmmmh/tei-reader","desc":"-","files":["example/fouque_falkensteins_01_1810.TEI-P5.xml","public/text.tei","docs/source/_static/demo/text.tei","example/transform.py"],"langs":["deu"]}

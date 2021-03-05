@@ -1,1 +1,1 @@
-{"date":1590816599901,"name":"subugoe/fwb-index-creator","url":"https://github.com/subugoe/fwb-index-creator","desc":"-","files":["fwb-backend/src/main/resources/fwb-indexer.xslt"],"langs":[]}
+{"date":1590816599901,"name":"subugoe/fwb-index-creator","url":"https://github.com/subugoe/fwb-index-creator","desc":"-","files":["fwb-backend/src/main/resources/fwb-indexer.xslt","fwb-backend/src/test/resources/printedSource.xml"],"langs":[]}

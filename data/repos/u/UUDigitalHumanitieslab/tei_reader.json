@@ -1,1 +1,1 @@
-{"date":1590816581801,"name":"UUDigitalHumanitieslab/tei_reader","url":"https://github.com/UUDigitalHumanitieslab/tei_reader","desc":"TEI Reader Python Library","files":["tei_reader/transform/tei-transform.xsl"],"langs":[]}
+{"date":1590816582671,"name":"UUDigitalHumanitieslab/tei_reader","url":"https://github.com/UUDigitalHumanitieslab/tei_reader","desc":"TEI Reader Python Library","files":["tei_reader/transform/tei-transform.xsl","tests/xslt/1.tei.xml"],"langs":["lat","grc"]}

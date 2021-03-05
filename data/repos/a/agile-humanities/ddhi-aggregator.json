@@ -1,1 +1,1 @@
-{"date":1611752304205,"name":"agile-humanities/ddhi-aggregator","url":"https://github.com/agile-humanities/ddhi-aggregator","desc":"-","files":["tests/aggregators/test1.tei.xml","tests/aggregators/test2.tei.xml"],"langs":["eng"]}
+{"date":1611752304205,"name":"agile-humanities/ddhi-aggregator","url":"https://github.com/agile-humanities/ddhi-aggregator","desc":"-","files":["tests/aggregators/test1.tei.xml","tests/aggregators/test2.tei.xml","src/xsl/ddhi-tei2repo.xsl"],"langs":["eng"]}
