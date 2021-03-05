@@ -1,1 +1,1 @@
-{"date":1590816590818,"name":"Inist-CNRS/ezs","url":"https://github.com/Inist-CNRS/ezs","desc":"NodeJS streaming processing system.  Repository containing all @ezs packages (monorepo)","files":["packages/istex/test/data/istexFiles.fulltext.xml"],"langs":["eng"]}
+{"date":1590816593236,"name":"Inist-CNRS/ezs","url":"https://github.com/Inist-CNRS/ezs","desc":"NodeJS streaming processing system.  Repository containing all @ezs packages (monorepo)","files":["packages/istex/test/data/istexFiles.fulltext.xml","packages/istex/test/data/istexFiles.multicat.xml"],"langs":["eng"]}

@@ -1,1 +1,1 @@
-{"date":1590816583107,"name":"2bon/EE.DG","url":"https://github.com/2bon/EE.DG","desc":"-","files":["regress/CrossQuery/D-Tree/gold/30-Abbrev.xml","regress/CrossQuery/D-Tree/gold/20-Apartheid.xml"],"langs":[]}
+{"date":1590816596259,"name":"2bon/EE.DG","url":"https://github.com/2bon/EE.DG","desc":"-","files":["regress/CrossQuery/D-Tree/gold/30-Abbrev.xml","regress/CrossQuery/D-Tree/gold/20-Apartheid.xml","regress/CrossQuery/N-Stub/gold/01-Basic.xml","style/dynaXML/docFormatter/tei/structure.xsl"],"langs":[]}

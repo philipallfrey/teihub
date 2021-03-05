@@ -1,1 +1,1 @@
-{"date":1590816599481,"name":"orazionelson/Imbrex","url":"https://github.com/orazionelson/Imbrex","desc":"A text/images linking environment.","files":["imbrex/plugins/CoreData/testcoredata.php","imbrex/plugins/CoreData/testimport.php"],"langs":[]}
+{"date":1590816599481,"name":"orazionelson/Imbrex","url":"https://github.com/orazionelson/Imbrex","desc":"A text/images linking environment.","files":["imbrex/plugins/CoreData/testcoredata.php","imbrex/plugins/CoreData/testimport.php","imbrex/plugins/CoreData/tei_p5_with_facsimile_import.php"],"langs":[]}

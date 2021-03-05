@@ -1,1 +1,1 @@
-{"date":1590816599538,"name":"martindholmes/cryptic","url":"https://github.com/martindholmes/cryptic","desc":"Preliminary work on an encoding method for cryptic crosswords using TEI.","files":["xml/schema/cryptic.rng","xml/schema/pre-process_odd.xsl"],"langs":[]}
+{"date":1590816599538,"name":"martindholmes/cryptic","url":"https://github.com/martindholmes/cryptic","desc":"Preliminary work on an encoding method for cryptic crosswords using TEI.","files":["xml/schema/cryptic.rng","xml/schema/pre-process_odd.xsl","xml/examples/clues.xml"],"langs":[]}

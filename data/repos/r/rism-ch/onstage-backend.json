@@ -1,1 +1,1 @@
-{"date":1602578104590,"name":"rism-ch/onstage-backend","url":"https://github.com/rism-ch/onstage-backend","desc":"OnStage backend Solr configuration and support server","files":["onstage/conf/onstage-import.xml","xls2tei/tei_template.xml"],"langs":[]}
+{"date":1602578104590,"name":"rism-ch/onstage-backend","url":"https://github.com/rism-ch/onstage-backend","desc":"OnStage backend Solr configuration and support server","files":["onstage/conf/onstage-import.xml","xls2tei/tei_template.xml","xls2tei/replace/match.rb"],"langs":[]}

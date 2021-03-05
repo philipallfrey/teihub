@@ -1,1 +1,1 @@
-{"date":1590816588790,"name":"NEU-Libraries/libera","url":"https://github.com/NEU-Libraries/libera","desc":"Gem for the parsing of PDFs and the generation of OCR and TEI","files":["spec/libera_spec.rb"],"langs":[]}
+{"date":1590816588790,"name":"NEU-Libraries/libera","url":"https://github.com/NEU-Libraries/libera","desc":"Gem for the parsing of PDFs and the generation of OCR and TEI","files":["spec/libera_spec.rb","lib/libera/tei.rb"],"langs":[]}

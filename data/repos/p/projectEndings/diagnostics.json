@@ -1,0 +1,1 @@
+{"date":1590816598590,"name":"projectEndings/diagnostics","url":"https://github.com/projectEndings/diagnostics","desc":"A way to test TEI projects for correctness and completion.","files":["test/corpus.xml","test/testDoc.xml"],"langs":[]}

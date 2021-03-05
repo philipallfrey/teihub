@@ -1,1 +1,1 @@
-{"date":1609333241182,"name":"alpheios-project/tokenizer","url":"https://github.com/alpheios-project/tokenizer","desc":"Alpheios Tokenizer Service","files":["tests/fixtures/tei/withheadertext.xml","tests/fixtures/tei/caesarciv.xml"],"langs":["lat"]}
+{"date":1609333241182,"name":"alpheios-project/tokenizer","url":"https://github.com/alpheios-project/tokenizer","desc":"Alpheios Tokenizer Service","files":["tests/fixtures/tei/withheadertext.xml","tests/fixtures/tei/caesarciv.xml","run.py","tokenizer/lib/tei/parser.py"],"langs":["lat"]}

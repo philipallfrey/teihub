@@ -1,1 +1,1 @@
-{"date":1604262762956,"name":"acdh-oeaw/daacda-go-digital","url":"https://github.com/acdh-oeaw/daacda-go-digital","desc":"The new version of Downed Allied Air Crew Database Austria. A web application.","files":["tei/templates/tei/header_tei.xml","tei/tei_utils.py"],"langs":[]}
+{"date":1604262762956,"name":"acdh-oeaw/daacda-go-digital","url":"https://github.com/acdh-oeaw/daacda-go-digital","desc":"The new version of Downed Allied Air Crew Database Austria. A web application.","files":["tei/templates/tei/header_tei.xml","tei/tei_utils.py","tei/partials.py"],"langs":[]}
