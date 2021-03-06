@@ -1,1 +1,1 @@
-{"date":1590816590323,"name":"berkeleyprosopography/TEI4BPSConverter","url":"https://github.com/berkeleyprosopography/TEI4BPSConverter","desc":"Convert corpus files in BPS-ingestable TEI","files":["output.xml"],"langs":[]}
+{"date":1590816590323,"name":"berkeleyprosopography/TEI4BPSConverter","url":"https://github.com/berkeleyprosopography/TEI4BPSConverter","desc":"Convert corpus files in BPS-ingestable TEI","files":["output.xml","convert.py"],"langs":[]}

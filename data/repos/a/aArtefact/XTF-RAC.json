@@ -1,1 +1,1 @@
-{"date":1590816590737,"name":"aArtefact/XTF-RAC","url":"https://github.com/aArtefact/XTF-RAC","desc":"XTF customization for the Rockefeller Archive Center","files":["style/dynaXML/docFormatter/tei/structure.xsl"],"langs":[]}
+{"date":1590816590737,"name":"aArtefact/XTF-RAC","url":"https://github.com/aArtefact/XTF-RAC","desc":"XTF customization for the Rockefeller Archive Center","files":["style/dynaXML/docFormatter/tei/structure.xsl","style/textIndexer/tei/teiPreFilter.xsl"],"langs":[]}

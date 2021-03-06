@@ -1,1 +1,1 @@
-{"date":1590816584299,"name":"alexanderatallah/apollo-opensource","url":"https://github.com/alexanderatallah/apollo-opensource","desc":"Open-sourced prototype for Apollo","files":["public/tei/tei.xsl","client/publication.coffee"],"langs":[]}
+{"date":1590816584299,"name":"alexanderatallah/apollo-opensource","url":"https://github.com/alexanderatallah/apollo-opensource","desc":"Open-sourced prototype for Apollo","files":["public/tei/tei.xsl","client/publication.coffee","public/tei/teibp.xsl"],"langs":[]}

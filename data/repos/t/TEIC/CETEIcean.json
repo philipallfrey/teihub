@@ -1,1 +1,1 @@
-{"date":1598963603092,"name":"TEIC/CETEIcean","url":"https://github.com/TEIC/CETEIcean","desc":"TEI in HTML5 Custom Elements","files":["test/testTEI.xml","tutorial_en/js/CETEI.js","tutorial_es/js/CETEI.js","src/defaultBehaviors.js"],"langs":["deu"]}
+{"date":1598963603092,"name":"TEIC/CETEIcean","url":"https://github.com/TEIC/CETEIcean","desc":"TEI in HTML5 Custom Elements","files":["test/testTEI.xml","tutorial_en/js/CETEI.js","tutorial_es/js/CETEI.js","src/defaultBehaviors.js","tutorial_en/README.md","tutorial_es/README.md","test/CETEIcean.css"],"langs":["deu"]}

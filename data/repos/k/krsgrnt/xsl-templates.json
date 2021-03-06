@@ -1,1 +1,1 @@
-{"date":1590816563741,"name":"krsgrnt/xsl-templates","url":"https://github.com/krsgrnt/xsl-templates","desc":"Various XSL templates used for transforming scholarly XML","files":["wheatley-web.xsl","npbj-pdf.xsl"],"langs":[]}
+{"date":1590816572360,"name":"krsgrnt/xsl-templates","url":"https://github.com/krsgrnt/xsl-templates","desc":"Various XSL templates used for transforming scholarly XML","files":["wheatley-web.xsl","npbj-pdf.xsl","wheatley-pdf.xsl","npbj-web.xsl"],"langs":[]}

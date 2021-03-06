@@ -1,1 +1,1 @@
-{"date":1590816584802,"name":"tla/stemmatology","url":"https://github.com/tla/stemmatology","desc":"-","files":["base/t/data/florilegium_tei_cte.xml"],"langs":["nld","ell","fra","deu"]}
+{"date":1590816597503,"name":"tla/stemmatology","url":"https://github.com/tla/stemmatology","desc":"-","files":["base/t/data/florilegium_tei_cte.xml","analysis/t/data/florilegium_tei_ps.xml","base/t/data/florilegium_tei_ps.xml"],"langs":["nld","ell","fra","deu"]}

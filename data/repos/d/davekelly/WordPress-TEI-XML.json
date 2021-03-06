@@ -1,1 +1,1 @@
-{"date":1590816562321,"name":"davekelly/WordPress-TEI-XML","url":"https://github.com/davekelly/WordPress-TEI-XML","desc":"Wordpress plugin for display of TEI XML documents","files":["aa-tei-xml/test.xsl"],"langs":[]}
+{"date":1590816583242,"name":"davekelly/WordPress-TEI-XML","url":"https://github.com/davekelly/WordPress-TEI-XML","desc":"Wordpress plugin for display of TEI XML documents","files":["aa-tei-xml/test.xsl","aa-tei-xml/inc/class-aa-tei-xml.php"],"langs":[]}

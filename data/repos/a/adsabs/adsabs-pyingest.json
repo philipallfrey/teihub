@@ -1,1 +1,1 @@
-{"date":1590816594812,"name":"adsabs/adsabs-pyingest","url":"https://github.com/adsabs/adsabs-pyingest","desc":"-","files":["pyingest/tests/data/stubdata/input/grobid.astro-ph-0002105.pdf.xml"],"langs":["eng"]}
+{"date":1590816596389,"name":"adsabs/adsabs-pyingest","url":"https://github.com/adsabs/adsabs-pyingest","desc":"-","files":["pyingest/tests/data/stubdata/input/grobid.astro-ph-0002105.pdf.xml","pyingest/parsers/teixml.py"],"langs":["eng"]}

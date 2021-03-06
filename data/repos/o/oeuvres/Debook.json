@@ -1,1 +1,1 @@
-{"date":1590816569647,"name":"oeuvres/Debook","url":"https://github.com/oeuvres/Debook","desc":"Epub ► TEI, open epub files and extract the more data as possible","files":["html2tei.xsl"],"langs":[]}
+{"date":1590816570029,"name":"oeuvres/Debook","url":"https://github.com/oeuvres/Debook","desc":"Epub ► TEI, open epub files and extract the more data as possible","files":["html2tei.xsl","bml2tei.xsl"],"langs":[]}

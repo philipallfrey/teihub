@@ -1,1 +1,1 @@
-{"date":1590816595736,"name":"jgsmith/radiant-tei-tools","url":"https://github.com/jgsmith/radiant-tei-tools","desc":"Useful tags and other bits that help Radiant handle TEI","files":["tei-xsl/p5/common/tei-param.xsl"],"langs":[]}
+{"date":1590816595736,"name":"jgsmith/radiant-tei-tools","url":"https://github.com/jgsmith/radiant-tei-tools","desc":"Useful tags and other bits that help Radiant handle TEI","files":["tei-xsl/p5/common/tei-param.xsl","tei-xsl/p5/common/header.xsl","tei-xsl/p5/common/linking.xsl"],"langs":[]}

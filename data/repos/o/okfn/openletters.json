@@ -1,1 +1,1 @@
-{"date":1590816592118,"name":"okfn/openletters","url":"https://github.com/okfn/openletters","desc":"Understanding the \"Letter Net\"","files":["openletters/transform/transform_json.py"],"langs":[]}
+{"date":1590816592118,"name":"okfn/openletters","url":"https://github.com/okfn/openletters","desc":"Understanding the \"Letter Net\"","files":["openletters/transform/transform_json.py","openletters/transform/transform_xml.py"],"langs":[]}

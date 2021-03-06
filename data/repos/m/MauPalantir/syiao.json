@@ -1,1 +1,1 @@
-{"date":1594960319225,"name":"MauPalantir/syiao","url":"https://github.com/MauPalantir/syiao","desc":"Syiao Mei, the fictional cat language","files":["scripts/template.xml","tei/syiao-mei.xml"],"langs":[]}
+{"date":1594960319225,"name":"MauPalantir/syiao","url":"https://github.com/MauPalantir/syiao","desc":"Syiao Mei, the fictional cat language","files":["scripts/template.xml","tei/syiao-mei.xml","xslt/addEtymLang.xslt"],"langs":[]}

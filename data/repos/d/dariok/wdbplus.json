@@ -1,1 +1,1 @@
-{"date":1590816594145,"name":"dariok/wdbplus","url":"https://github.com/dariok/wdbplus","desc":"WDB-eXist","files":["edoc/resources/xsl/tei-introduction.xsl","edoc/rest/rest-files.xql","edoc/resources/xsl/tei-common.xsl"],"langs":[]}
+{"date":1590816594145,"name":"dariok/wdbplus","url":"https://github.com/dariok/wdbplus","desc":"WDB-eXist","files":["edoc/resources/xsl/tei-introduction.xsl","edoc/rest/rest-files.xql","edoc/resources/xsl/tei-common.xsl","edoc/admin/projects.xqm"],"langs":[]}

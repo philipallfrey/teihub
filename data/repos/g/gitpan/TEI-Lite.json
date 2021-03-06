@@ -1,1 +1,1 @@
-{"date":1590816598741,"name":"gitpan/TEI-Lite","url":"https://github.com/gitpan/TEI-Lite","desc":"Read-only release history for TEI-Lite","files":["DTD/tei-lite.dsl","DTD/teixlite.dtd","DTD/teilite.dtd","DTD/teilite.tag","xslt/xhtml.xsl"],"langs":[]}
+{"date":1590816598741,"name":"gitpan/TEI-Lite","url":"https://github.com/gitpan/TEI-Lite","desc":"Read-only release history for TEI-Lite","files":["DTD/tei-lite.dsl","DTD/teixlite.dtd","DTD/teilite.dtd","DTD/teilite.tag","xslt/xhtml.xsl","Lite/Header.pm","DTD/teilitex.ent","Lite/Element.pm"],"langs":[]}

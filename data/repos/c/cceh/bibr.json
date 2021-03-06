@@ -1,1 +1,1 @@
-{"date":1590816586487,"name":"cceh/bibr","url":"https://github.com/cceh/bibr","desc":"oXygen framework and XML schemas for creating bibliographic records. Work in progress!","files":["luhmann-odd_biblStruct.xml"],"langs":[]}
+{"date":1590816599111,"name":"cceh/bibr","url":"https://github.com/cceh/bibr","desc":"oXygen framework and XML schemas for creating bibliographic records. Work in progress!","files":["luhmann-odd_biblStruct.xml","vorlagen/journal.xml","layout.css","vorlagen/bookSection.xml","vorlagen/journalArticle.xml","vorlagen/book.xml"],"langs":["deu"]}

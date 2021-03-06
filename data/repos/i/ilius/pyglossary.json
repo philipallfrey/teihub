@@ -1,0 +1,1 @@
+{"date":1590816575311,"name":"ilius/pyglossary","url":"https://github.com/ilius/pyglossary","desc":"A tool for converting dictionary files aka glossaries. The primary purpose is to be able to use our offline glossaries in any Open Source dictionary we like on any OS/device.","files":["pyglossary/plugins/freedict.py"],"langs":[]}

@@ -1,0 +1,1 @@
+{"date":1590816581914,"name":"tillgrallert/tss_format-citations-tei","url":"https://github.com/tillgrallert/tss_format-citations-tei","desc":"XSLT stylesheets to format Sente IDs in TEI XML files into proper academic references, (largely) following CMS","files":["xslt/tei_format-citations.xsl"],"langs":[]}

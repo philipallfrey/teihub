@@ -1,1 +1,1 @@
-{"date":1590816587291,"name":"agolin95/converter","url":"https://github.com/agolin95/converter","desc":"Rails app that converts cielo24 and SRT files into TEI files. ","files":["defaultxml.xml"],"langs":["eng"]}
+{"date":1590816588090,"name":"agolin95/converter","url":"https://github.com/agolin95/converter","desc":"Rails app that converts cielo24 and SRT files into TEI files. ","files":["defaultxml.xml","template.rb"],"langs":["eng"]}

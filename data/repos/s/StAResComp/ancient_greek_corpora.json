@@ -1,1 +1,1 @@
-{"date":1590816592043,"name":"StAResComp/ancient_greek_corpora","url":"https://github.com/StAResComp/ancient_greek_corpora","desc":"Ingest words, lemmata and morphological data from some Ancient Greek corpora","files":["build/xml2cwb.pl","build/blank_tei.xml"],"langs":[]}
+{"date":1590816592545,"name":"StAResComp/ancient_greek_corpora","url":"https://github.com/StAResComp/ancient_greek_corpora","desc":"Ingest words, lemmata and morphological data from some Ancient Greek corpora","files":["build/xml2cwb.pl","build/blank_tei.xml","build/text2xml.pl"],"langs":[]}

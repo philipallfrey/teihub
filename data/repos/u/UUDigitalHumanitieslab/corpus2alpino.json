@@ -1,1 +1,1 @@
-{"date":1590816576093,"name":"UUDigitalHumanitieslab/corpus2alpino","url":"https://github.com/UUDigitalHumanitieslab/corpus2alpino","desc":"Converts FoLiA and TEI XML files to Alpino XML files.","files":["tests/example_tei3.xml"],"langs":[]}
+{"date":1590816593528,"name":"UUDigitalHumanitieslab/corpus2alpino","url":"https://github.com/UUDigitalHumanitieslab/corpus2alpino","desc":"Converts FoLiA and TEI XML files to Alpino XML files.","files":["tests/example_tei3.xml","tests/example_tei.xml","tests/example_tei2.xml"],"langs":["deu","fra","eng"]}

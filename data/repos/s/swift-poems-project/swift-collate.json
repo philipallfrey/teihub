@@ -1,1 +1,1 @@
-{"date":1590816594090,"name":"swift-poems-project/swift-collate","url":"https://github.com/swift-poems-project/swift-collate","desc":"Swift Poems Project Collation API","files":["tests/fixtures/613-07P1.tei.xml","tests/fixtures/613-79L2.tei.xml"],"langs":["eng"]}
+{"date":1590816594090,"name":"swift-poems-project/swift-collate","url":"https://github.com/swift-poems-project/swift-collate","desc":"Swift Poems Project Collation API","files":["tests/fixtures/613-07P1.tei.xml","tests/fixtures/613-79L2.tei.xml","SwiftDiff/__init__.py"],"langs":["eng"]}

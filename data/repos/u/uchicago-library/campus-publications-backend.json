@@ -1,1 +1,1 @@
-{"date":1590816590846,"name":"uchicago-library/campus-publications-backend","url":"https://github.com/uchicago-library/campus-publications-backend","desc":"-","files":["style/dynaXML/docFormatter/tei/structure.xsl"],"langs":[]}
+{"date":1590816590846,"name":"uchicago-library/campus-publications-backend","url":"https://github.com/uchicago-library/campus-publications-backend","desc":"-","files":["style/dynaXML/docFormatter/tei/structure.xsl","style/textIndexer/tei/teiPreFilter.xsl"],"langs":[]}

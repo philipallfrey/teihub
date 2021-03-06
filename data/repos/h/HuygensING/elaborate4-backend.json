@@ -1,1 +1,1 @@
-{"date":1590816600259,"name":"HuygensING/elaborate4-backend","url":"https://github.com/HuygensING/elaborate4-backend","desc":"Backend to the eLaborate project","files":["elab4-backend/src/main/resources/TEI_MVN.rng"],"langs":[]}
+{"date":1590816600259,"name":"HuygensING/elaborate4-backend","url":"https://github.com/HuygensING/elaborate4-backend","desc":"Backend to the eLaborate project","files":["elab4-backend/src/main/resources/TEI_MVN.rng","elab4-backend/src/main/java/elaborate/editor/export/tei/TeiMaker.java"],"langs":[]}

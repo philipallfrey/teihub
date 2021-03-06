@@ -1,1 +1,1 @@
-{"date":1590816599584,"name":"draalger/wanderer-project","url":"https://github.com/draalger/wanderer-project","desc":"A TEI project for the Old English poem The Wanderer","files":["diplomatic.xml","WandererCustomTEI.rnc"],"langs":["ang"]}
+{"date":1590816599584,"name":"draalger/wanderer-project","url":"https://github.com/draalger/wanderer-project","desc":"A TEI project for the Old English poem The Wanderer","files":["diplomatic.xml","WandererCustomTEI.rnc","WandererCustomTEI.xml","muir-wanderer.xml"],"langs":["ang"]}

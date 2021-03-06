@@ -1,1 +1,1 @@
-{"date":1590816593805,"name":"peerlibrary/peerlibrary","url":"https://github.com/peerlibrary/peerlibrary","desc":"Facilitating the global conversation on academic literature","files":["public/tei/tei.xsl","client/publication.coffee"],"langs":[]}
+{"date":1590816593805,"name":"peerlibrary/peerlibrary","url":"https://github.com/peerlibrary/peerlibrary","desc":"Facilitating the global conversation on academic literature","files":["public/tei/tei.xsl","client/publication.coffee","public/tei/teibp.xsl"],"langs":[]}

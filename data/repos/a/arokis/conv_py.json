@@ -1,1 +1,1 @@
-{"date":1590816568122,"name":"arokis/conv_py","url":"https://github.com/arokis/conv_py","desc":"conversion tool","files":["scripts/xslt/cs_nlp.xsl"],"langs":[]}
+{"date":1590816600566,"name":"arokis/conv_py","url":"https://github.com/arokis/conv_py","desc":"conversion tool","files":["scripts/xslt/cs_nlp.xsl","data/2_test_xml.xml","data/test_xml.xml","data/.http_resource_cpy(Kopie).xml","data/_http_resource_cpy.xml"],"langs":["san"]}

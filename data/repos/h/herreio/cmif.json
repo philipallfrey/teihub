@@ -1,1 +1,1 @@
-{"date":1611996587955,"name":"herreio/cmif","url":"https://github.com/herreio/cmif","desc":"handle data in CMI format","files":["test/output/cmif.xml"],"langs":[]}
+{"date":1611996587955,"name":"herreio/cmif","url":"https://github.com/herreio/cmif","desc":"handle data in CMI format","files":["test/output/cmif.xml","cmif/build.py"],"langs":[]}

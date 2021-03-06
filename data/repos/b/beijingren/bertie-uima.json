@@ -1,1 +1,1 @@
-{"date":1590816592481,"name":"beijingren/bertie-uima","url":"https://github.com/beijingren/bertie-uima","desc":"UIMA components for SKQS project.","files":["src/main/resources/xsl/cas2tei.xsl"],"langs":[]}
+{"date":1590816592481,"name":"beijingren/bertie-uima","url":"https://github.com/beijingren/bertie-uima","desc":"UIMA components for SKQS project.","files":["src/main/resources/xsl/cas2tei.xsl","src/main/java/eu/skqs/bertie/cas/TeiDeserializer.java"],"langs":[]}

@@ -1,0 +1,1 @@
+{"date":1590816581899,"name":"AlexMoreo/word-class-embeddings","url":"https://github.com/AlexMoreo/word-class-embeddings","desc":"Refining pre-trained word embeddings with supervised word-label embeddings for Text Classification (by topic)","files":["src/data/jrcacquis_reader.py"],"langs":[]}

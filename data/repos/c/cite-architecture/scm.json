@@ -1,1 +1,1 @@
-{"date":1590816593921,"name":"cite-architecture/scm","url":"https://github.com/cite-architecture/scm","desc":"Scala CITE manager","files":["jvm/src/test/resources/xmlrepository/texts/test-hdt-grc.xml"],"langs":["grc"]}
+{"date":1590816599221,"name":"cite-architecture/scm","url":"https://github.com/cite-architecture/scm","desc":"Scala CITE manager","files":["jvm/src/test/resources/xmlrepository/texts/test-hdt-grc.xml","jvm/src/test/resources/xmlrepository/texts/iliad100.xml"],"langs":["grc"]}

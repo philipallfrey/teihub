@@ -1,0 +1,1 @@
+{"date":1590816542458,"name":"Hannah-Arendt-Project/OCR2TEI","url":"https://github.com/Hannah-Arendt-Project/OCR2TEI","desc":"This tool converts FineReader extended XML output documents into a basic TEI document for further editorial editing.","files":["src/main/java/de/sub/goettingen/arendt/ocrmapping/ReadXML.java"],"langs":[]}

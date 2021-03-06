@@ -1,1 +1,1 @@
-{"date":1590816596073,"name":"wp-plugins/anthologize","url":"https://github.com/wp-plugins/anthologize","desc":"WordPress.org Plugin Mirror","files":["tests/includes/test.pretty.xml","includes/class-tei-dom.php"],"langs":[]}
+{"date":1590816596073,"name":"wp-plugins/anthologize","url":"https://github.com/wp-plugins/anthologize","desc":"WordPress.org Plugin Mirror","files":["tests/includes/test.pretty.xml","includes/class-tei-dom.php","templates/epub/tei2html.xsl","tests/includes/test.xml"],"langs":[]}

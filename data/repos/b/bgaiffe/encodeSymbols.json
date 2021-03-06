@@ -1,0 +1,1 @@
+{"date":1590816586007,"name":"bgaiffe/encodeSymbols","url":"https://github.com/bgaiffe/encodeSymbols","desc":"transform a TEI file so that characters such as emoji are encoded as <c>. ","files":["encodeSymbols.xsl"],"langs":[]}

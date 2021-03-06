@@ -1,0 +1,1 @@
+{"date":1590816543138,"name":"OpenArabicPE/convert_tei-to-bibtex","url":"https://github.com/OpenArabicPE/convert_tei-to-bibtex","desc":"XSLT to convert bibliographic metadata from TEI XML to BibTeX","files":["xslt/Tei2BibTex-functions.xsl"],"langs":[]}
