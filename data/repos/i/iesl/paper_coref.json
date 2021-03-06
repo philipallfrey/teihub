@@ -1,0 +1,1 @@
+{"date":1590816594967,"name":"iesl/paper_coref","url":"https://github.com/iesl/paper_coref","desc":"Paper/Citation Coreference","files":["src/main/scala/org/allenai/scholar/paper_coref/load/LoadGrobid.scala","doc/schema_mapping/GrobidSchemaMapping.md"],"langs":[]}

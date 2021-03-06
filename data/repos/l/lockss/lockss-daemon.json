@@ -1,1 +1,1 @@
-{"date":1590816539569,"name":"lockss/lockss-daemon","url":"https://github.com/lockss/lockss-daemon","desc":"The central repository for the LOCKSS project ","files":["plugins/src/org/lockss/plugin/clockss/sage/SageBooksXmlSchemaHelper.java"],"langs":[]}
+{"date":1590816579932,"name":"lockss/lockss-daemon","url":"https://github.com/lockss/lockss-daemon","desc":"The central repository for the LOCKSS project ","files":["plugins/src/org/lockss/plugin/clockss/sage/SageBooksXmlSchemaHelper.java","plugins/test/src/org/lockss/plugin/clockss/sage/SageTest.xml"],"langs":[]}

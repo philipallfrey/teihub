@@ -1,1 +1,1 @@
-{"date":1590816587251,"name":"snap-stanford/snap-dev-64","url":"https://github.com/snap-stanford/snap-dev-64","desc":"64-bit SNAP (in development, not intended for general use)","files":["glib-adv/biling.cpp","glib-adv/gsearch.cpp"],"langs":[]}
+{"date":1590816587251,"name":"snap-stanford/snap-dev-64","url":"https://github.com/snap-stanford/snap-dev-64","desc":"64-bit SNAP (in development, not intended for general use)","files":["glib-adv/biling.cpp","glib-adv/gsearch.cpp","glib-adv/acquis.cpp"],"langs":[]}

@@ -1,1 +1,1 @@
-{"date":1590816598898,"name":"domenk/wiki2tei","url":"https://github.com/domenk/wiki2tei","desc":"Converter from wiki syntax to TEI","files":["parse.php","config.defaults.inc.php"],"langs":[]}
+{"date":1590816598898,"name":"domenk/wiki2tei","url":"https://github.com/domenk/wiki2tei","desc":"Converter from wiki syntax to TEI","files":["parse.php","config.defaults.inc.php","teiHeader.template.xml"],"langs":[]}

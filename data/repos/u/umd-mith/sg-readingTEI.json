@@ -1,1 +1,1 @@
-{"date":1590816540916,"name":"umd-mith/sg-readingTEI","url":"https://github.com/umd-mith/sg-readingTEI","desc":"Cocoon 2.2. wrapper for transforming documentary TEI encoding into TEI Lite","files":["src/main/resources/COB-INF/xslt/toHTML.xsl"],"langs":[]}
+{"date":1590816566719,"name":"umd-mith/sg-readingTEI","url":"https://github.com/umd-mith/sg-readingTEI","desc":"Cocoon 2.2. wrapper for transforming documentary TEI encoding into TEI Lite","files":["src/main/resources/COB-INF/xslt/toHTML.xsl","src/main/resources/COB-INF/xslt/final-cleanup.xsl"],"langs":[]}

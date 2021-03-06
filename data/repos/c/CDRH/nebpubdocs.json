@@ -1,1 +1,1 @@
-{"date":1590816592533,"name":"CDRH/nebpubdocs","url":"https://github.com/CDRH/nebpubdocs","desc":"Nebraska Public Documents","files":["style/outputToTEI.xsl"],"langs":[]}
+{"date":1590816592533,"name":"CDRH/nebpubdocs","url":"https://github.com/CDRH/nebpubdocs","desc":"Nebraska Public Documents","files":["style/outputToTEI.xsl","scripts/npd.solrindex.xsl"],"langs":[]}

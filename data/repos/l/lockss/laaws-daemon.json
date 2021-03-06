@@ -1,1 +1,1 @@
-{"date":1590816539559,"name":"lockss/laaws-daemon","url":"https://github.com/lockss/laaws-daemon","desc":"-","files":["plugins/src/org/lockss/plugin/clockss/sage/SageBooksXmlSchemaHelper.java"],"langs":[]}
+{"date":1590816579937,"name":"lockss/laaws-daemon","url":"https://github.com/lockss/laaws-daemon","desc":"-","files":["plugins/src/org/lockss/plugin/clockss/sage/SageBooksXmlSchemaHelper.java","plugins/test/src/org/lockss/plugin/clockss/sage/SageTest.xml"],"langs":[]}

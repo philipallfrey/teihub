@@ -1,1 +1,1 @@
-{"date":1590816579476,"name":"cltl/clariah-voc-scripts","url":"https://github.com/cltl/clariah-voc-scripts","desc":"Text and index extraction from TEI files for the CLARIAH+ VOC use case","files":["data/tests/vandam_23_p570.xml"],"langs":[]}
+{"date":1590816579476,"name":"cltl/clariah-voc-scripts","url":"https://github.com/cltl/clariah-voc-scripts","desc":"Text and index extraction from TEI files for the CLARIAH+ VOC use case","files":["data/tests/vandam_23_p570.xml","data/tests/vandam_extract.xml"],"langs":[]}
