@@ -709,7 +709,7 @@
 1615294342997,"bodleian/medieval-mss","https://github.com/bodleian/medieval-mss","Medieval Manuscripts in Oxford Libraries: TEI catalogue descriptions","lat|fra|eng|grc|deu|nld|por|ita|zxx|cor|cym|spa|chu|isl|rus|ell|gle|cat|cop|ara|heb|ces",10174
 1615294342789,"BetaMasaheft/Works","https://github.com/BetaMasaheft/Works","Ethiopian Literature edited in TEI","eng|gez|tir|ara|syr|grc|lat|amh|ita|heb|deu|cop|kat|pal|fra",4502
 1615294342793,"BetaMasaheft/Persons","https://github.com/BetaMasaheft/Persons","Authority files for each person","eng|gez|grc|ara|cop|ita|por|lat|syr|amh|rus|deu|tir",13184
-1615294342969,"BetaMasaheft/Manuscripts","https://github.com/BetaMasaheft/Manuscripts","Manuscripts descriptions","gez|grc|eng|ara|tir|ita|amh|lat|fra|deu|spa|rus|cop|heb|syr",13673
+1615310217953,"BetaMasaheft/Manuscripts","https://github.com/BetaMasaheft/Manuscripts","Manuscripts descriptions","gez|grc|eng|ara|tir|ita|amh|lat|fra|deu|spa|rus|cop|heb|syr",13673
 1614791769889,"Beth-Mardutho/surayt-data","https://github.com/Beth-Mardutho/surayt-data","-","tru|ara|cop|chu|deu|eng|spa|fra|gez|grc|hye|ita|kat|lat|nld|por|rus|sog|syr",181
 1614933918592,"BucknellDSC/florentineCodex","https://github.com/BucknellDSC/florentineCodex","Florentine Codex Project","spa|nau|spn",89
 1613220447111,"BetaMasaheft/guidelines","https://github.com/BetaMasaheft/guidelines","source files of the new encoding guidelines edited in XML","gez|eng|amh|tir|rus|lat|ara|ita",219
@@ -971,7 +971,7 @@
 1590816540190,"BabsiLa/Xtech","https://github.com/BabsiLa/Xtech","-","",1
 1590816573405,"benselme/wright-arabic-grammar","https://github.com/benselme/wright-arabic-grammar","An edition of W. Wright's ""A Grammar of the Arabic Language"" (1896), TEI-encoded","arb|heb",1
 1615207936701,"cceh/pessoa","https://github.com/cceh/pessoa","Digital Edition of Fernando Pessoa","por|eng|deu|fra",672
-1615294342863,"CivilWarGovernorsOfKentucky/Documents","https://github.com/CivilWarGovernorsOfKentucky/Documents","CWGK Documents in TEI-XML Format","",23206
+1615310217915,"CivilWarGovernorsOfKentucky/Documents","https://github.com/CivilWarGovernorsOfKentucky/Documents","CWGK Documents in TEI-XML Format","",23206
 1615294342957,"clarin-eric/ParlaMint","https://github.com/clarin-eric/ParlaMint","ParlaMint: Comparable Parliamentary Corpora","ces|slv|bul|nld|eng|dan|ron|isl|hrv",206
 1614343836995,"COST-ELTeC/ELTeC-srp-ext","https://github.com/COST-ELTeC/ELTeC-srp-ext","-","srp",7
 1613464931082,"COST-ELTeC/ELTeC-srp","https://github.com/COST-ELTeC/ELTeC-srp","-","srp",42
@@ -1520,7 +1520,7 @@
 1590816600993,"Cimagroup/Towards-a-Philological-Metric-Through-a-TDA-Approach","https://github.com/Cimagroup/Towards-a-Philological-Metric-Through-a-TDA-Approach","-","",1110
 1590816548628,"cwrc/cwrc_entities","https://github.com/cwrc/cwrc_entities","CWRC Entity Handler","",1
 1590816583856,"coolengineer/sejong-corpus","https://github.com/coolengineer/sejong-corpus","Korean sejong corpus download and simple analysis","",1
-1615294342936,"calzada/PARLAMINT-ES-MC","https://github.com/calzada/PARLAMINT-ES-MC","-","spa|eng",62
+1615310217956,"calzada/PARLAMINT-ES-MC","https://github.com/calzada/PARLAMINT-ES-MC","-","spa|eng",62
 1615207936822,"Codyvanzandt/spenser","https://github.com/Codyvanzandt/spenser","A Python package for the works of Edmund Spenser","",10
 1590816592677,"cmharlow/tei2iiif","https://github.com/cmharlow/tei2iiif","Experiment to take TEI/XML to IIIF JSON using Traject Plus","",1
 1590816592538,"chackerian/Create-React-Setup","https://github.com/chackerian/Create-React-Setup","React bootstrap","",1
@@ -1569,7 +1569,7 @@
 1612687300470,"dracor-org/itadracor","https://github.com/dracor-org/itadracor","Italian Drama Corpus","ita|lat|fra",135
 1602247789859,"DHBern/DLPA2020","https://github.com/DHBern/DLPA2020","Digital Literacy for the Performing Arts","",14
 1601469372022,"d-flood/apparatus-explorer-standalone","https://github.com/d-flood/apparatus-explorer-standalone","-","",1
-1615207936698,"dhhse/Elena_Shvarts","https://github.com/dhhse/Elena_Shvarts","-","",223
+1615310217997,"dhhse/Elena_Shvarts","https://github.com/dhhse/Elena_Shvarts","-","",223
 1611062807249,"DARIAH-ERIC/lexicalresources","https://github.com/DARIAH-ERIC/lexicalresources","Data space of the DARIAH Lexical Resources Working Group","mix|fra|por|lat|eng|ibe|deu|pol|slv|gmh|und|dan|swe|mig|miy|miz|smd|ell",4603
 1603442268989,"DigitalMitford/DM_documentation","https://github.com/DigitalMitford/DM_documentation","a repo for working on Digital Mitford project documentation and templates explaining project methods and workflow","fra",10
 1615207936901,"dsldk/salmer","https://github.com/dsldk/salmer","-","lat|dan",28
@@ -2089,8 +2089,8 @@
 1590816598612,"digicademy/dlight","https://github.com/digicademy/dlight","Domain Driven Design Microframework","",1
 1590816600567,"detrout/debian-zotero-standalone","https://github.com/detrout/debian-zotero-standalone","Scratch space for updating debian packaging for zotero-standalone","",1
 1614430164996,"emidrouin/EDN6101-ateliers_et_travaux","https://github.com/emidrouin/EDN6101-ateliers_et_travaux","Travaux réalisés dans le cadre du cours EDN6101 - Édition critique avec la TEI (hiver 2021)","fra",7
-1615294342994,"erc-dharma/tfc-khmer-epigraphy","https://github.com/erc-dharma/tfc-khmer-epigraphy","This repository assembles data produced by the project Corpus des inscriptions khmères (before and during the DHARMA project).","eng|fra|san|x-oldkhmer|x-middlekhmer",999
-1615207936712,"erc-dharma/tfb-vengicalukya-epigraphy","https://github.com/erc-dharma/tfb-vengicalukya-epigraphy","DHARMA project Task Force B, Eastern Cālukya epigraphic corpus.","eng|san|fra|tel",104
+1615310217913,"erc-dharma/tfc-khmer-epigraphy","https://github.com/erc-dharma/tfc-khmer-epigraphy","This repository assembles data produced by the project Corpus des inscriptions khmères (before and during the DHARMA project).","eng|fra|san|x-oldkhmer|x-middlekhmer",1001
+1615310217908,"erc-dharma/tfb-vengicalukya-epigraphy","https://github.com/erc-dharma/tfb-vengicalukya-epigraphy","DHARMA project Task Force B, Eastern Cālukya epigraphic corpus.","eng|san|fra|tel",104
 1615207936716,"ethiopicist/texts","https://github.com/ethiopicist/texts","TEI-encoded texts.","",2
 1615294342830,"erc-dharma/tfc-nusantara-epigraphy","https://github.com/erc-dharma/tfc-nusantara-epigraphy","DHARMA project task force C, Nusantara epigraphic corpus ","kaw|eng|x-oldsun|ndl",297
 1615294342875,"erc-dharma/tfd-nusantara-philology","https://github.com/erc-dharma/tfd-nusantara-philology","DHARMA project, task force D","san|kaw|x-oldsun|tam|kan|tel",26
@@ -3699,7 +3699,7 @@
 1590816542458,"Hannah-Arendt-Project/OCR2TEI","https://github.com/Hannah-Arendt-Project/OCR2TEI","This tool converts FineReader extended XML output documents into a basic TEI document for further editorial editing.","",1
 1590816579278,"homermultitext/hmt-cexbuilder","https://github.com/homermultitext/hmt-cexbuilder","Serialize contents of HMT archive to CEX format","grc",1
 1590816581568,"haertdinova/Homework2","https://github.com/haertdinova/Homework2","-","",1
-1615294342964,"ISicily/ISicily","https://github.com/ISicily/ISicily","EpiDoc files for the I.Sicily project","eng|ita|grc|lat|heb|phn|xpu|osc|xly|scx|sxc",5256
+1615310217896,"ISicily/ISicily","https://github.com/ISicily/ISicily","EpiDoc files for the I.Sicily project","eng|ita|grc|lat|heb|phn|xpu|osc|xly|scx|sxc",5421
 1607131440144,"ilrt/Beyond2022TeiTemplate","https://github.com/ilrt/Beyond2022TeiTemplate","Work on creating a template for the TEI/XML that will be used in the Medieval Gold Seam and other seams","eng",6
 1598099517019,"innawendell/European_Comedy","https://github.com/innawendell/European_Comedy","The quantitative study of the evolution of the Russian and French 5-act comedy in verse.","fra|rus",106
 1599526896066,"istex/odd-istex","https://github.com/istex/odd-istex","Schéma ODD TEI pour le projet ISTEX","",4
@@ -3707,7 +3707,7 @@
 1611910326622,"iwein-digital/transcriptions","https://github.com/iwein-digital/transcriptions","Manuscript transcriptions","",39
 1605097940035,"igdj/jewish-history-online","https://github.com/igdj/jewish-history-online","Code for http://jewish-history-online.net/","",8
 1611752304225,"icaruseu/mom-ca","https://github.com/icaruseu/mom-ca","Monasterium.net (http://www.monasterium.net/mom) - repository and collaborative archive","",13
-1615294342996,"IreneVagionakis/Fiscus_bis","https://github.com/IreneVagionakis/Fiscus_bis","Fiscus database","rus|eng|grc",88
+1615310217999,"IreneVagionakis/Fiscus_bis","https://github.com/IreneVagionakis/Fiscus_bis","Fiscus database","rus|eng|grc",88
 1594960319817,"ilovan/cwrc-writer-samples","https://github.com/ilovan/cwrc-writer-samples","-","eng|ita|lat",10
 1606278888942,"IreneVagionakis/CretanInscriptions","https://github.com/IreneVagionakis/CretanInscriptions","An EFES EpiDoc database collecting inscriptions pertaining to Cretan institutions (VII-I century BC)","grc|ara|eng|fra|deu|ell|heb|ita|lat|rus",641
 1614791769794,"i-d-e/ride","https://github.com/i-d-e/ride","A review journal for digital editions and resources","eng|fra",296
@@ -5703,7 +5703,7 @@ This software provides a convenient way to organizing information and making it 
 1590816543138,"OpenArabicPE/convert_tei-to-bibtex","https://github.com/OpenArabicPE/convert_tei-to-bibtex","XSLT to convert bibliographic metadata from TEI XML to BibTeX","",1
 1590816587650,"oxygenxml/TEI-Facsimile-Plugin","https://github.com/oxygenxml/TEI-Facsimile-Plugin","A plugin that provides support for working with  Digital Facsimiles in Text Encoding Initiative (TEI) vocabulary.   The plugin contributes a new View in which the user can load an image and draw shapes. These shapes are then  converted into TEI ""zone"" elements. All the existing ""zone"" elements from the document are also rendered over the image.","",1
 1590816600275,"olesar/DictionaryRussian11-17","https://github.com/olesar/DictionaryRussian11-17","Digitization project of the Dictionary of the Russian Language of the 11th-7th centuries.","",1
-1615294342976,"papyri/idp.data","https://github.com/papyri/idp.data","Data from the Integrating Digital Papyrology project","eng|grc|lat|fra|deu|ita|spa|ell|cop|egy|ara|syc|arc|heb|und",181858
+1615310217906,"papyri/idp.data","https://github.com/papyri/idp.data","Data from the Integrating Digital Papyrology project","eng|grc|lat|fra|deu|ita|spa|ell|cop|egy|ara|syc|arc|heb|und",181859
 1614791769417,"Petrarchive/The-Petrarchive","https://github.com/Petrarchive/The-Petrarchive","-","",114
 1614791769755,"pierre-amadio/packard","https://github.com/pierre-amadio/packard"," Packard's Morphological Analysis Codes module for the Sword engine.","",1
 1614791769107,"peterwebster/henson","https://github.com/peterwebster/henson","Master data store for the Hensley Henson Journals project, and issue tracker. The application code is kept elsewhere.","",2846
