@@ -971,6 +971,7 @@
 1590816600990,"bitoku/rfcyaml","https://github.com/bitoku/rfcyaml","-","",2
 1590816540190,"BabsiLa/Xtech","https://github.com/BabsiLa/Xtech","-","",1
 1590816573405,"benselme/wright-arabic-grammar","https://github.com/benselme/wright-arabic-grammar","An edition of W. Wright's ""A Grammar of the Arabic Language"" (1896), TEI-encoded","arb|heb",1
+1615380745999,"bleierr/NERDPool","https://github.com/bleierr/NERDPool","-","",74
 1615207936701,"cceh/pessoa","https://github.com/cceh/pessoa","Digital Edition of Fernando Pessoa","por|eng|deu|fra",672
 1615351215442,"CivilWarGovernorsOfKentucky/Documents","https://github.com/CivilWarGovernorsOfKentucky/Documents","CWGK Documents in TEI-XML Format","",23216
 1615294342957,"clarin-eric/ParlaMint","https://github.com/clarin-eric/ParlaMint","ParlaMint: Comparable Parliamentary Corpora","ces|slv|bul|nld|eng|dan|ron|isl|hrv",206
@@ -1585,7 +1586,7 @@
 1606999391224,"dwew2/hcwl","https://github.com/dwew2/hcwl","Historical Corpus of the Welsh Language","eng|lat",36
 1611996587749,"distantreading/WG1","https://github.com/distantreading/WG1","Discussion documents and working papers from WG1","fra|deu|eng|lat|ita|bul",62
 1611062807665,"dracor-org/rusdracor","https://github.com/dracor-org/rusdracor","Russian Drama Corpus (in TEI-P5)","rus",203
-1608151108471,"dsldk/diplomatarium-danicum","https://github.com/dsldk/diplomatarium-danicum","Data sources for Diplomatarium Danicum","gda|lat|gml|gmh|xda|dan|nil|dum|nld|sme|deu",7176
+1615380745924,"dsldk/diplomatarium-danicum","https://github.com/dsldk/diplomatarium-danicum","Data sources for Diplomatarium Danicum","gda|lat|gml|gmh|xda|dan|nil|dum|nld|sme|deu",7414
 1602765693005,"DH-Eger/HBK","https://github.com/DH-Eger/HBK","-","",5
 1593592324530,"dh-trier/DistantReading","https://github.com/dh-trier/DistantReading","Repository für das Praxisseminar im WiSe 2019","por|fra|slv",50
 1615294342371,"distantreading/zoomParty","https://github.com/distantreading/zoomParty","Materials created for and arising from discussions about the building of the ELTeC","",1
@@ -4210,7 +4211,7 @@
 1615294342807,"joewiz/my-first-repository","https://github.com/joewiz/my-first-repository","A gentle introduction to Git","",1
 1613566110984,"KONDE-AT/thun-data","https://github.com/KONDE-AT/thun-data","XML/TEI encoded transcriptions of the correspondence of Leo Thun Hohenstein.","",872
 1606740170245,"KorAP/KorAP-XML-TEI","https://github.com/KorAP/KorAP-XML-TEI","Conversion of TEI P5 based formats to KorAP-XML","deu",4
-1615207936886,"KGruenwald/db_for_medieval_legal_transactions","https://github.com/KGruenwald/db_for_medieval_legal_transactions","-","",10461
+1615380745667,"KGruenwald/db_for_medieval_legal_transactions","https://github.com/KGruenwald/db_for_medieval_legal_transactions","-","",10486
 1595867516061,"katabase/Data","https://github.com/katabase/Data","Digitsed catalogues","",261
 1609823118907,"katabase/GROBID_Dictionaries","https://github.com/katabase/GROBID_Dictionaries","Training datat for GROBID-dictionaries","fra",362
 1597408328409,"krav-alina/Latin","https://github.com/krav-alina/Latin","-","lat|eng|deu|fra|ita",36
@@ -5506,7 +5507,7 @@ This software provides a convenient way to organizing information and making it 
 1594960319222,"OpenArabicPE/tei-boilerplate-arabic-editions","https://github.com/OpenArabicPE/tei-boilerplate-arabic-editions","A version of TEI Boilerplate adapted to Arabic editions and a more modern look","ara|eng|fas|fra|ota|tur",8
 1596083533830,"oerc-music/ForbiddenQuestion","https://github.com/oerc-music/ForbiddenQuestion","Software for musicologyical digital companion implemented as a MELD app","",3
 1596083533798,"ourresearch/software-mentions","https://github.com/ourresearch/software-mentions","Finding citations to research software from within the academic literature","eng",7
-1615207936686,"OBVIL/mercure-galant","https://github.com/OBVIL/mercure-galant","OBVIL, mercure-galant, édition complète","fra",466
+1615380745664,"OBVIL/mercure-galant","https://github.com/OBVIL/mercure-galant","OBVIL, mercure-galant, édition complète","fra",466
 1600950906962,"OpenArabicPE/journal_al-manar","https://github.com/OpenArabicPE/journal_al-manar","Digital edition (TEI XML) of Rashīd Riḍā's journal al-Manār (المنار)","ara",532
 1605645155537,"OBVIL/elicom","https://github.com/OBVIL/elicom","Projet ELICOM","fra",1349
 1614791769855,"OpenArabicPE/journal_al-hasna","https://github.com/OpenArabicPE/journal_al-hasna","Metadata and basic TEI files for the journal *al-Ḥasnāʾ* (الحسناء), Beirut 1909--12","ara",30
@@ -6369,7 +6370,7 @@ This software provides a convenient way to organizing information and making it 
 1608713560458,"swithun/IslamAnatolia","https://github.com/swithun/IslamAnatolia","Repo for IslamAnatolia Project","",5
 1594960319917,"scta-texts/hiltalingencommentary","https://github.com/scta-texts/hiltalingencommentary","-","lat",19
 1614242771358,"scta-texts/plaoulcommentary","https://github.com/scta-texts/plaoulcommentary","-","lat|eng",731
-1614862267844,"SteveWLU/hda","https://github.com/SteveWLU/hda","Huon d'Auvergne Digital Archive","eng",38
+1615380745923,"SteveWLU/hda","https://github.com/SteveWLU/hda","Huon d'Auvergne Digital Archive","eng",46
 1606999391376,"sorincarbunaru/oXyTest","https://github.com/sorincarbunaru/oXyTest","-","",1
 1614242771359,"StephanMa/test","https://github.com/StephanMa/test","-","deu",41
 1600317167003,"shae128/xml-pdf.js","https://github.com/shae128/xml-pdf.js","JavaScript/Node.js library to convert XML to PDF","lat",498
@@ -7092,6 +7093,7 @@ This software provides a convenient way to organizing information and making it 
 1590816600487,"socheres/translators_local","https://github.com/socheres/translators_local","-","",1
 1615351215438,"scta-texts/cnag1q","https://github.com/scta-texts/cnag1q","Averroes Commentary on Aristotle's Physics","lat",5
 1615351215437,"scta-texts/aristdp","https://github.com/scta-texts/aristdp","Aristotle De Physica","lat",9
+1615380745663,"SigiDoc/SigiDoc_Latest","https://github.com/SigiDoc/SigiDoc_Latest","Latest SigiDoc Stylesheet AS - MF","",92
 1614430164852,"TuftsUniversity-deprecated/tufts_models","https://github.com/TuftsUniversity-deprecated/tufts_models","Hydra models for Tufts","eng",4
 1614430164843,"TuftsUniversity-deprecated/tufts_hydra_admin","https://github.com/TuftsUniversity-deprecated/tufts_hydra_admin","-","eng",21
 1614430164822,"TuftsUniversity-deprecated/tuftsification-hydra","https://github.com/TuftsUniversity-deprecated/tuftsification-hydra","-","eng",26
@@ -7102,7 +7104,7 @@ This software provides a convenient way to organizing information and making it 
 1604075532049,"tillgrallert/digital-muqtabas","https://github.com/tillgrallert/digital-muqtabas","Digital edition (TEI XML) of the Arabic monthly journal *al-Muqtabas* (مجلة المقتبس), published by Muḥammad Kurd ʿAlī in Cairo and Damascus between 1906 and 1917/18","ara|eng|fas|fra|ota|tur",46
 1601958785842,"thecdil/mancini_source","https://github.com/thecdil/mancini_source","-","ita|fra|eng",115
 1614242771368,"TST-Project/editor","https://github.com/TST-Project/editor","TEI XML editor for the TST Project","",3
-1614242771369,"TST-Project/mss","https://github.com/TST-Project/mss","Woking repository for the TST project","fra|san|tam|eng|por",63
+1615380745925,"TST-Project/mss","https://github.com/TST-Project/mss","Woking repository for the TST project","fra|san|tam|eng|por",63
 1609349294009,"tnhaider/antikoerperchen-german-annotated-poetry","https://github.com/tnhaider/antikoerperchen-german-annotated-poetry","German Canon Poetry Corpus with Annotation","deu",487
 1608687335080,"tillgrallert/test-github-actions","https://github.com/tillgrallert/test-github-actions","-","ara",2
 1595349137077,"throneless-tech/pubpub","https://github.com/throneless-tech/pubpub","A mirror of PubPub to test and build for PREreview.","",1
