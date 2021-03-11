@@ -706,7 +706,7 @@
 1615265246005,"annplaksin/mensural_sourceEncoding","https://github.com/annplaksin/mensural_sourceEncoding","-","",1
 1615351215999,"AceReader/Backend","https://github.com/AceReader/Backend","-","eng",2
 1615482694925,"acheronstyix/github-bigquery_2","https://github.com/acheronstyix/github-bigquery_2","-","",2
-1615351215378,"Brown-University-Library/iip-texts","https://github.com/Brown-University-Library/iip-texts","IIP inscriptions encoded in Epidoc XML and supporting files","grc|heb|lat|arc|kat|x-unknown",9037
+1615495163992,"Brown-University-Library/iip-texts","https://github.com/Brown-University-Library/iip-texts","IIP inscriptions encoded in Epidoc XML and supporting files","grc|heb|lat|arc|kat|x-unknown",9037
 1614430164909,"Beth-Mardutho/hugoye-data","https://github.com/Beth-Mardutho/hugoye-data","Data repository for Hugoye TEI records. ","eng|ita|ara|cop|chu|deu|spa|fra|gez|grc|hye|kat|lat|nld|por|rus|sog|syr",628
 1615482694488,"bodleian/medieval-mss","https://github.com/bodleian/medieval-mss","Medieval Manuscripts in Oxford Libraries: TEI catalogue descriptions","lat|fra|eng|grc|deu|nld|por|ita|zxx|cor|cym|spa|chu|isl|rus|ell|gle|cat|cop|ara|heb|ces",10174
 1615482694967,"BetaMasaheft/Works","https://github.com/BetaMasaheft/Works","Ethiopian Literature edited in TEI","eng|gez|tir|ara|syr|grc|lat|amh|ita|heb|deu|cop|kat|pal|fra",4502
@@ -974,8 +974,8 @@
 1590816573405,"benselme/wright-arabic-grammar","https://github.com/benselme/wright-arabic-grammar","An edition of W. Wright's ""A Grammar of the Arabic Language"" (1896), TEI-encoded","arb|heb",1
 1615482694057,"bleierr/NERDPool","https://github.com/bleierr/NERDPool","-","",74
 1615482694384,"cceh/pessoa","https://github.com/cceh/pessoa","Digital Edition of Fernando Pessoa","por|eng|deu|fra",672
-1615482694999,"CivilWarGovernorsOfKentucky/Documents","https://github.com/CivilWarGovernorsOfKentucky/Documents","CWGK Documents in TEI-XML Format","",23216
-1615482694388,"clarin-eric/ParlaMint","https://github.com/clarin-eric/ParlaMint","ParlaMint: Comparable Parliamentary Corpora","ces|slv|bul|nld|eng|dan|ron|isl|hrv",210
+1615495163960,"CivilWarGovernorsOfKentucky/Documents","https://github.com/CivilWarGovernorsOfKentucky/Documents","CWGK Documents in TEI-XML Format","",23216
+1615495163999,"clarin-eric/ParlaMint","https://github.com/clarin-eric/ParlaMint","ParlaMint: Comparable Parliamentary Corpora","ces|slv|bul|nld|eng|dan|ron|isl|hrv",215
 1614343836995,"COST-ELTeC/ELTeC-srp-ext","https://github.com/COST-ELTeC/ELTeC-srp-ext","-","srp",7
 1613464931082,"COST-ELTeC/ELTeC-srp","https://github.com/COST-ELTeC/ELTeC-srp","-","srp",42
 1615482694417,"cbeta-git/xml-p5a","https://github.com/cbeta-git/xml-p5a","CBETA XML P5a 版本","eng|zho|san|pli|x-unknown",3792
@@ -983,7 +983,7 @@
 1613566110971,"COST-ELTeC/ELTeC-fra","https://github.com/COST-ELTeC/ELTeC-fra","French novel collection for the ELTeC (European Literary Text Collection)","fra",47
 1600849957512,"COST-ELTeC/ELTeC-fra-ext","https://github.com/COST-ELTeC/ELTeC-fra-ext","Collection of French novels forming an extension to the default ELTeC-fra collection","fra",9
 1605645155953,"COST-ELTeC/ELTeC-nor","https://github.com/COST-ELTeC/ELTeC-nor","-","nob|nno|nor",93
-1605472354199,"COST-ELTeC/ELTeC-rom","https://github.com/COST-ELTeC/ELTeC-rom","-","ron",51
+1615495163972,"COST-ELTeC/ELTeC-rom","https://github.com/COST-ELTeC/ELTeC-rom","-","ron",63
 1615482694932,"COST-ELTeC/ELTeC-por","https://github.com/COST-ELTeC/ELTeC-por","Portuguese collection in ELTeC (European Literary Text Collection)","por",64
 1609736632207,"COST-ELTeC/ELTeC-deu","https://github.com/COST-ELTeC/ELTeC-deu","-","deu",69
 1615351215434,"COST-ELTeC/ELTeC-ukr","https://github.com/COST-ELTeC/ELTeC-ukr","-","ukr",33
@@ -1556,6 +1556,7 @@
 1590816600619,"christensen5/QMEE-archived-","https://github.com/christensen5/QMEE-archived-","Imperial QMEE ","",1
 1590816600286,"Chen-Zhihui/zotero","https://github.com/Chen-Zhihui/zotero","-","",1
 1615482694642,"coding4humanists/xquery4humanists","https://github.com/coding4humanists/xquery4humanists","Companion website for XQuery for Humanists","",1
+1615495163985,"coltekin/ParlaMint-TR","https://github.com/coltekin/ParlaMint-TR","Samples / development files for ParlaMint-TR","tur|eng",6
 1614430164991,"DallasAustin/The-Dallas-Chronicles-","https://github.com/DallasAustin/The-Dallas-Chronicles-","-","",1
 1615207936934,"Digital-Humanities-Quarterly/dhq-journal","https://github.com/Digital-Humanities-Quarterly/dhq-journal","-","eng|spa|fra|lat|ita",1273
 1615482694641,"Descot21/Lycian","https://github.com/Descot21/Lycian","A systematic digital corpus of Lycian texts","",48
@@ -3712,7 +3713,7 @@
 1611910326622,"iwein-digital/transcriptions","https://github.com/iwein-digital/transcriptions","Manuscript transcriptions","",39
 1605097940035,"igdj/jewish-history-online","https://github.com/igdj/jewish-history-online","Code for http://jewish-history-online.net/","",8
 1611752304225,"icaruseu/mom-ca","https://github.com/icaruseu/mom-ca","Monasterium.net (http://www.monasterium.net/mom) - repository and collaborative archive","",13
-1615482694668,"IreneVagionakis/Fiscus_bis","https://github.com/IreneVagionakis/Fiscus_bis","Fiscus database","rus|eng|grc",88
+1615495163954,"IreneVagionakis/Fiscus_bis","https://github.com/IreneVagionakis/Fiscus_bis","Fiscus database","rus|eng|grc",88
 1594960319817,"ilovan/cwrc-writer-samples","https://github.com/ilovan/cwrc-writer-samples","-","eng|ita|lat",10
 1606278888942,"IreneVagionakis/CretanInscriptions","https://github.com/IreneVagionakis/CretanInscriptions","An EFES EpiDoc database collecting inscriptions pertaining to Cretan institutions (VII-I century BC)","grc|ara|eng|fra|deu|ell|heb|ita|lat|rus",641
 1615482694653,"i-d-e/ride","https://github.com/i-d-e/ride","A review journal for digital editions and resources","eng|fra",296
@@ -4834,7 +4835,7 @@
 1595867516671,"MiMoText/roman17","https://github.com/MiMoText/roman17","Romans français du dix-septième siècle","fra",3
 1609765434571,"milnegeneseo/fluid_text","https://github.com/milnegeneseo/fluid_text","Digital Thoreau - Versioning Machine Fluid Text","eng|fra|lat",37
 1599510736023,"miku/fuzzycat","https://github.com/miku/fuzzycat","Fuzzy matching publications for fatcat (wip).","",1
-1603385084343,"martindholmes/BreezeMap","https://github.com/martindholmes/BreezeMap","BreezeMap is a project to create a simple user interface for interactive map and facsimile editing based on TEI XML and OpenLayers 4+.","eng",8
+1615495163979,"martindholmes/BreezeMap","https://github.com/martindholmes/BreezeMap","BreezeMap is a project to create a simple user interface for interactive map and facsimile editing based on TEI XML and OpenLayers 4+.","eng",8
 1615482694406,"MilenaCorbellini/VaSto_master","https://github.com/MilenaCorbellini/VaSto_master","-","",18
 1612169526135,"MilenaCorbellini/VastoProject","https://github.com/MilenaCorbellini/VastoProject","-","eng|lat|ita|ara",6
 1610976292015,"MilenaCorbellini/Tentativoevt","https://github.com/MilenaCorbellini/Tentativoevt","-","lat|eng|ita|lng|ara",17
@@ -5709,7 +5710,7 @@ This software provides a convenient way to organizing information and making it 
 1590816543138,"OpenArabicPE/convert_tei-to-bibtex","https://github.com/OpenArabicPE/convert_tei-to-bibtex","XSLT to convert bibliographic metadata from TEI XML to BibTeX","",1
 1590816587650,"oxygenxml/TEI-Facsimile-Plugin","https://github.com/oxygenxml/TEI-Facsimile-Plugin","A plugin that provides support for working with  Digital Facsimiles in Text Encoding Initiative (TEI) vocabulary.   The plugin contributes a new View in which the user can load an image and draw shapes. These shapes are then  converted into TEI ""zone"" elements. All the existing ""zone"" elements from the document are also rendered over the image.","",1
 1590816600275,"olesar/DictionaryRussian11-17","https://github.com/olesar/DictionaryRussian11-17","Digitization project of the Dictionary of the Russian Language of the 11th-7th centuries.","",1
-1615482694659,"papyri/idp.data","https://github.com/papyri/idp.data","Data from the Integrating Digital Papyrology project","eng|grc|lat|fra|deu|ita|spa|ell|cop|egy|ara|syc|arc|heb|und",181864
+1615495163993,"papyri/idp.data","https://github.com/papyri/idp.data","Data from the Integrating Digital Papyrology project","eng|grc|lat|fra|deu|ita|spa|ell|cop|egy|ara|syc|arc|heb|und",181864
 1614791769417,"Petrarchive/The-Petrarchive","https://github.com/Petrarchive/The-Petrarchive","-","",114
 1614791769755,"pierre-amadio/packard","https://github.com/pierre-amadio/packard"," Packard's Morphological Analysis Codes module for the Sword engine.","",1
 1614791769107,"peterwebster/henson","https://github.com/peterwebster/henson","Master data store for the Hensley Henson Journals project, and issue tracker. The application code is kept elsewhere.","",2846
@@ -34852,7 +34853,7 @@ This software provides a convenient way to organizing information and making it 
 1590816580462,"utttar/hw2","https://github.com/utttar/hw2","hw2","",1
 1590816587162,"umr5037/skepsis","https://github.com/umr5037/skepsis","-","",1
 1590816592251,"ubbo/sade-textgrid-default-project","https://github.com/ubbo/sade-textgrid-default-project","Default TextGrid project for SADE","",3
-1615482694419,"VandyVRC/tcadrt","https://github.com/VandyVRC/tcadrt","-","eng|zho|zh-latn|ara|cop|chu|deu|spa|fra|gez|grc|hye|ita|kat|lat|nld|por|rus|sog|syr",741
+1615495163994,"VandyVRC/tcadrt","https://github.com/VandyVRC/tcadrt","-","eng|zho|zh-latn|ara|cop|chu|deu|spa|fra|gez|grc|hye|ita|kat|lat|nld|por|rus|sog|syr",741
 1608427782028,"vedph/PapyroLogos","https://github.com/vedph/PapyroLogos","-","eng|grc|lat",523
 1611597478598,"vlebedynska/word-embeddings-childrens-books","https://github.com/vlebedynska/word-embeddings-childrens-books","-","",29
 1594197118016,"ValerioSalvetti/Progetto-Esame-LL1.14","https://github.com/ValerioSalvetti/Progetto-Esame-LL1.14","-","ita",3
@@ -34964,7 +34965,7 @@ This software provides a convenient way to organizing information and making it 
 1590816570796,"Victorialf/Projet-TIME-US-","https://github.com/Victorialf/Projet-TIME-US-","-","",1
 1615294342741,"vedph/dedm-evt","https://github.com/vedph/dedm-evt","-","eng",22
 1614430164884,"whanley/ilcorpus","https://github.com/whanley/ilcorpus","Various resources for International Law corpus project","",712
-1615365877999,"welfare-state-analytics/riksdagen-corpus","https://github.com/welfare-state-analytics/riksdagen-corpus","Preprocess the proceedings of the Swedish parliament","",2063
+1615495163959,"welfare-state-analytics/riksdagen-corpus","https://github.com/welfare-state-analytics/riksdagen-corpus","-","",2869
 1609405149137,"welfare-state-analytics/parliament_data","https://github.com/welfare-state-analytics/parliament_data","Preprocess the proceedings of the Swedish parliament","eng|slv|swe",8
 1615207936733,"winnifredeatonarchive/wea_data","https://github.com/winnifredeatonarchive/wea_data","The data for the WEA archive website","eng|fra",381
 1615482694557,"wellcomecollection/wellcome-collection-tei","https://github.com/wellcomecollection/wellcome-collection-tei","Manuscript Descriptions encoded according to the Text Encoding Initiative","heb|grc|ell|ara|ita|hin|msa|san|eng|fas|pka|guj|jpn|jav|lat|yid|bbc|btd|btx|btk",498
