@@ -1573,7 +1573,7 @@ async function run() {
           repo.langs = [...repo.langs, ...langs];
           repos.set(repoId, repo);
         } else {
-          console.log("Cannot fetch file from", repo.data.name);
+          console.log("Cannot fetch file from", repo.name);
         }
       }
     };
