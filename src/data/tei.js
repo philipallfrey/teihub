@@ -2,8 +2,9 @@ const repos = require('../../data/teihub.json');
 const fs = require('fs');
 
 // Human-readable filesize function taken from https://github.com/hustcc/filesize.js/
-function filesize(bytes, fixed) {
-  bytes = Math.abs(bytes);
+function filesize(path, fixed) {
+  const stats = fs.statSync(path);
+  let bytes = stats.size || 0;
 
   const { radix, unit } = { radix: 1024, unit: ['b', 'Kb', 'Mb', 'Gb', 'Tb', 'Pb', 'Eb', 'Zb', 'Yb'] };
 
@@ -69,8 +70,8 @@ module.exports = async function() {
   const repository = [...repos].sort((a, b) => a.name.localeCompare(b.name));
 
   return {
-    csvSize: filesize(csv.length, 0),
-    dataSize: filesize(repoString.length, 0),
+    csvSize: filesize(__dirname + '/../../data/teihub.csv', 0),
+    dataSize: filesize(__dirname + '/../../data/teihub.json', 0),
     date: lastIndexed[0].date,
     description: description,
     docCount: docCount,

@@ -13,6 +13,8 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("browserconfig.xml");
+  eleventyConfig.addPassthroughCopy({"data/teihub.csv": "teihub.csv"});
+  eleventyConfig.addPassthroughCopy({"data/teihub.json": "teihub.json"});
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("site.webmanifest");
 
