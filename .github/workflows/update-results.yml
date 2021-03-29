@@ -24,7 +24,7 @@ jobs:
       uses: ./.github/actions/update-data
     - name: Commit files
       run: |
-        message=`git log -n2 --oneline|grep -c 'skip ci'| sed -e's/[1,2]//' -e 's/0/[skip ci]'/`
+        message=`git log -n2 --oneline|grep -c 'skip ci'| sed -e's/2//' -e 's/[01]/[skip ci]'/`
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add --all
