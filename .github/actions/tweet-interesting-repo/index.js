@@ -3,15 +3,12 @@ const github = require('@actions/github');
 const { throttling } = require('@octokit/plugin-throttling');
 const fs = require('fs');
 const Twit = require('twit');
-let faunadb = require('faunadb'),
-q = faunadb.query;
 
 async function run() {
   const access_token = core.getInput('access_token');
   const access_token_secret = core.getInput('access_token_secret');
   const consumer_key = core.getInput('consumer_key');
   const consumer_secret = core.getInput('consumer_secret');
-  const faunadb_server_secret = core.getInput('faunadb_server_secret');
   const token = core.getInput('token');
 
   // Get latest list of results from file.
@@ -28,14 +25,13 @@ async function run() {
   if(repos.length === 0) return;
 
   // Get previously tweeted repos from database
-  let client = new faunadb.Client({ secret: faunadb_server_secret });
-  let {data: tweetedRepos} = await client.query(
-      q.Paginate(q.Match(q.Index("all_interesting_repos")), {size: 100000})
-  )
-  .catch(err => {
-    console.log(err);
-    return;
-  });
+  const dataDir = __dirname + '/../../../../data/';
+  const filepath = dataDir + 'tweeted-repos.json';
+  let tweetedRepos = [];
+  if(fs.existsSync(filepath)){
+    const tweetedReposContent = fs.readFileSync(filepath, 'utf-8');
+    tweetedRepos = JSON.parse(tweetedReposContent);
+  }
 
   // Remove from latest batch any repos tweeted in the past 30 days
   const eligibleRepos = repos.filter(x => !tweetedRepos.includes(x.name));
@@ -66,7 +62,6 @@ async function run() {
   core.setOutput("tweet",tweet);
 
   // Instantiate Twitter Client
-
   const T = new Twit({
       consumer_key: consumer_key,
       consumer_secret: consumer_secret,
@@ -82,10 +77,10 @@ async function run() {
     console.log(err)
   });
 
-  // Save this repo in the database, so we don't retweet within a month
-  await client.query(
-    q.Create('interesting', {data: {name: theRepo.name} })
-  ).catch(err => console.log(err));
+  // Save this repo in the database, so we don't retweet too often
+  // max of 6 tweets/day * 30 days/month = 180 entries in tweetedRepos.
+  tweetedRepos.unshift(theRepo.name);
+  fs.writeFileSync(filepath, JSON.stringify( tweetedRepos.slice(0,180) ))
 }
 
 run();
