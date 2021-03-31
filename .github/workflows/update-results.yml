@@ -22,6 +22,15 @@ jobs:
     - name: Update saved data
       id: update
       uses: ./.github/actions/update-data
+    - name: Tweet interesting repos
+      uses: ./.github/actions/tweet-interesting-repo
+      with:
+        access_token: ${{ secrets.ACCESS_TOKEN }}
+        access_token_secret: ${{ secrets.ACCESS_TOKEN_SECRET }}
+        consumer_key: ${{ secrets.CONSUMER_KEY }}
+        consumer_secret: ${{ secrets.CONSUMER_SECRET }}
+        faunadb_server_secret: ${{ secrets.FAUNADB_SERVER_SECRET }}
+        token: ${{ secrets.WORKFLOW_TOKEN }}
     - name: Commit files
       run: |
         message=`git log -n2 --oneline|grep -c 'skip ci'| sed -e's/2//' -e 's/[01]/[skip ci]'/`
@@ -33,12 +42,3 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.WORKFLOW_TOKEN }}
-    - name: Tweet interesting repos
-      uses: ./.github/actions/tweet-interesting-repo
-      with:
-        access_token: ${{ secrets.ACCESS_TOKEN }}
-        access_token_secret: ${{ secrets.ACCESS_TOKEN_SECRET }}
-        consumer_key: ${{ secrets.CONSUMER_KEY }}
-        consumer_secret: ${{ secrets.CONSUMER_SECRET }}
-        faunadb_server_secret: ${{ secrets.FAUNADB_SERVER_SECRET }}
-        token: ${{ secrets.WORKFLOW_TOKEN }}
