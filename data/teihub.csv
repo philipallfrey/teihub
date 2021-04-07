@@ -1564,21 +1564,21 @@
 1590816600286,"Chen-Zhihui/zotero","https://github.com/Chen-Zhihui/zotero","-","",1
 1615482694642,"coding4humanists/xquery4humanists","https://github.com/coding4humanists/xquery4humanists","Companion website for XQuery for Humanists","",1
 1617439672049,"coltekin/ParlaMint-TR","https://github.com/coltekin/ParlaMint-TR","Samples / development files for ParlaMint-TR","tur|eng",11
-1617396092126,"CharlotteFeidicker/WvStA_Collectiones","https://github.com/CharlotteFeidicker/WvStA_Collectiones","Transkription von: Wilhelm von Saint-Amour, Collectiones catholicae et canonicae ad defensionem ecclesiasticae hierarchieae et ad instructionem et praeparationem simplicium fidelium Christi in: Joannes Alitophilius, Opera omnia quae reperiri poterunt (Constance [Paris]: Alithophilos, 1632, S. 111-487;","lat",6
+1617785365999,"CharlotteFeidicker/WvStA_Collectiones","https://github.com/CharlotteFeidicker/WvStA_Collectiones","Transkription von: Wilhelm von Saint-Amour, Collectiones catholicae et canonicae ad defensionem ecclesiasticae hierarchieae et ad instructionem et praeparationem simplicium fidelium Christi in: Joannes Alitophilius, Opera omnia quae reperiri poterunt (Constance [Paris]: Alithophilos, 1632, S. 111-487;","lat",6
 1616504154521,"COST-ELTeC/ELTeC-hrv","https://github.com/COST-ELTeC/ELTeC-hrv","-","hrv",9
 1616560870525,"csae8092/busoni-data-public","https://github.com/csae8092/busoni-data-public","-","",941
 1616560870587,"Chartes-TNAH/apollinaire-project","https://github.com/Chartes-TNAH/apollinaire-project","Repository pour le projet collaboratif sur les poèmes manuscrits et le dossier de presse d'Alcools de Guillaume Apollinaire .","fra",9
 1616763479672,"CoPhi/euporia","https://github.com/CoPhi/euporia","Euporia","",4
 1614430164991,"DallasAustin/The-Dallas-Chronicles-","https://github.com/DallasAustin/The-Dallas-Chronicles-","-","",1
 1617741695826,"Digital-Humanities-Quarterly/dhq-journal","https://github.com/Digital-Humanities-Quarterly/dhq-journal","-","eng|spa|fra|lat|ita",1274
-1617771398998,"Descot21/Lycian","https://github.com/Descot21/Lycian","A systematic digital corpus of Lycian texts","",52
+1617785365984,"Descot21/Lycian","https://github.com/Descot21/Lycian","A systematic digital corpus of Lycian texts","",52
 1617713932033,"dracor-org/gerdracor","https://github.com/dracor-org/gerdracor","German Drama Corpus","deu|ger",510
 1606681960111,"dxvidmr/EntremesesDigitales","https://github.com/dxvidmr/EntremesesDigitales","Repositorio de teatro breve del Siglo de Oro en formato TXT y marcado en XML-TEI.","spa",6
 1604161955209,"djakacki/suzette","https://github.com/djakacki/suzette","-","fra|eng",117
 1617180510418,"digicademy/svsal-tei","https://github.com/digicademy/svsal-tei","TEI XML files of the School of Salamanca. Works, Dictionary Articles and more.","eng|spa",6
 1607331018662,"dsldk/salmer_data","https://github.com/dsldk/salmer_data","-","dan|lat",6
 1605342742838,"djakacki/florentineCodex","https://github.com/djakacki/florentineCodex","Florentine Codex Project","spa|nau|spn",83
-1617771398995,"Dartmouth-Digital-History-Initiative/TEI-Encoding","https://github.com/Dartmouth-Digital-History-Initiative/TEI-Encoding","-","eng",78
+1617785365981,"Dartmouth-Digital-History-Initiative/TEI-Encoding","https://github.com/Dartmouth-Digital-History-Initiative/TEI-Encoding","-","eng",78
 1610687957007,"dandozwar/Progetto-Cartoline_7694-113_7694-119","https://github.com/dandozwar/Progetto-Cartoline_7694-113_7694-119","Progetto di Alessandro Cignoni (561497) per il corso di Codifica di Testi 2019/2020","ita",3
 1594931540634,"DaniCardia/Codifica-di-testi","https://github.com/DaniCardia/Codifica-di-testi","-","ita",7
 1617008310198,"dracor-org/romdracor","https://github.com/dracor-org/romdracor","Roman drama corpus, adapted from Perseus Digital Library.","lat|eng|deu|fra|ita",37
@@ -2114,7 +2114,7 @@
 1617439672051,"erc-dharma/tfb-vengicalukya-epigraphy","https://github.com/erc-dharma/tfb-vengicalukya-epigraphy","DHARMA project Task Force B, Eastern Cālukya epigraphic corpus.","eng|san|fra|tel",109
 1616936295747,"ethiopicist/texts","https://github.com/ethiopicist/texts","TEI-encoded texts.","",2
 1617384586011,"erc-dharma/tfc-nusantara-epigraphy","https://github.com/erc-dharma/tfc-nusantara-epigraphy","DHARMA project task force C, Nusantara epigraphic corpus ","kaw|eng|x-oldsun|ndl",303
-1617771398999,"erc-dharma/tfd-nusantara-philology","https://github.com/erc-dharma/tfd-nusantara-philology","DHARMA project, task force D","san|kaw|x-oldsun|tam|kan|tel",43
+1617785365985,"erc-dharma/tfd-nusantara-philology","https://github.com/erc-dharma/tfd-nusantara-philology","DHARMA project, task force D","san|kaw|x-oldsun|tam|kan|tel",43
 1617328328551,"erc-dharma/tfa-tamilnadu-epigraphy","https://github.com/erc-dharma/tfa-tamilnadu-epigraphy","DHARMA project Task Force A Tamil Nadu, South India, Tamil Nadu (varia) epigraphic corpus.","",26
 1617396092150,"erc-dharma/project-documentation","https://github.com/erc-dharma/project-documentation","DHARMA Project Documentation","san|kaw|tam|kan|tel|eng",27
 1594269121053,"ebalzac/corpussecondaire","https://github.com/ebalzac/corpussecondaire","-","fra",101
@@ -2503,7 +2503,7 @@
 1616143623089,"evgeniaanikeeva/codifica_di_testi","https://github.com/evgeniaanikeeva/codifica_di_testi","-","",1
 1617439672053,"fihristorg/fihrist-mss","https://github.com/fihristorg/fihrist-mss","Fihrist TEI Catalogue","fas|ara|gez|ota|swa|tur|lat|eng|syr|urd|ita|syc|kur|heb|jpr|msa|hau|uig|ave|chg",13302
 1617741695848,"fetes17/merveilles17","https://github.com/fetes17/merveilles17","-","fra",164
-1617180510415,"FloChiff/DAHNProject","https://github.com/FloChiff/DAHNProject","Project DAHN ""Digital Edition of historical manuscripts (correspondences)""","fra|deu|eng|lat",1123
+1617785365998,"FloChiff/DAHNProject","https://github.com/FloChiff/DAHNProject","Project DAHN ""Digital Edition of historical manuscripts (correspondences)""","fra|deu|eng|lat",1132
 1608699269352,"Formulae-Litterae-Chartae/formulae-capitains-nemo","https://github.com/Formulae-Litterae-Chartae/formulae-capitains-nemo","This is the class extension ""NemoFormulae"" for flask_nemo (https://github.com/Capitains/flask-capitains-nemo).","lat|deu",46
 1595147542147,"filosam/Digital_Tools_grPal","https://github.com/filosam/Digital_Tools_grPal","-","",29
 1596688340082,"filosofas/femgen","https://github.com/filosofas/femgen","Feminist genealogies","",17
@@ -3734,7 +3734,7 @@
 1616936295681,"hmteditors/iliad3-e3","https://github.com/hmteditors/iliad3-e3","-","",1
 1616936295677,"hmteditors/iliad3-msB","https://github.com/hmteditors/iliad3-msB","-","",1
 1617353726515,"hurlus/hurlus-xml","https://github.com/hurlus/hurlus-xml","-","fra",2
-1617771398997,"hurlus/hurlus-tei","https://github.com/hurlus/hurlus-tei","-","fra",25
+1617785365983,"hurlus/hurlus-tei","https://github.com/hurlus/hurlus-tei","-","fra",25
 1616402830400,"ISicily/ISicily","https://github.com/ISicily/ISicily","EpiDoc files for the I.Sicily project","eng|ita|grc|lat|heb|phn|xpu|osc|xly|scx|sxc",5651
 1607131440144,"ilrt/Beyond2022TeiTemplate","https://github.com/ilrt/Beyond2022TeiTemplate","Work on creating a template for the TEI/XML that will be used in the Medieval Gold Seam and other seams","eng",6
 1598099517019,"innawendell/European_Comedy","https://github.com/innawendell/European_Comedy","The quantitative study of the evolution of the Russian and French 5-act comedy in verse.","fra|rus",106
@@ -3743,7 +3743,7 @@
 1611910326622,"iwein-digital/transcriptions","https://github.com/iwein-digital/transcriptions","Manuscript transcriptions","",39
 1605097940035,"igdj/jewish-history-online","https://github.com/igdj/jewish-history-online","Code for http://jewish-history-online.net/","",8
 1611752304225,"icaruseu/mom-ca","https://github.com/icaruseu/mom-ca","Monasterium.net (http://www.monasterium.net/mom) - repository and collaborative archive","",13
-1617741695999,"IreneVagionakis/Fiscus_bis","https://github.com/IreneVagionakis/Fiscus_bis","Fiscus database","rus|eng|grc",224
+1617785365986,"IreneVagionakis/Fiscus_bis","https://github.com/IreneVagionakis/Fiscus_bis","Fiscus database","rus|eng|grc",224
 1594960319817,"ilovan/cwrc-writer-samples","https://github.com/ilovan/cwrc-writer-samples","-","eng|ita|lat",10
 1615667941840,"IreneVagionakis/CretanInscriptions","https://github.com/IreneVagionakis/CretanInscriptions","An EFES EpiDoc collection of inscriptions pertaining to Cretan institutions (VII-I century BC)","grc|ara|eng|fra|deu|ell|heb|ita|lat|rus",641
 1616763479327,"i-d-e/ride","https://github.com/i-d-e/ride","A review journal for digital editions and resources","eng|fra|deu",296
@@ -4256,7 +4256,7 @@
 1617643717022,"jdapaah/togas_and_gyros","https://github.com/jdapaah/togas_and_gyros","HackPrinceton Spring 21 Submission. ","lat",4
 1613566110984,"KONDE-AT/thun-data","https://github.com/KONDE-AT/thun-data","XML/TEI encoded transcriptions of the correspondence of Leo Thun Hohenstein.","",872
 1606740170245,"KorAP/KorAP-XML-TEI","https://github.com/KorAP/KorAP-XML-TEI","Conversion of TEI P5 based formats to KorAP-XML","deu",4
-1617771398993,"KGruenwald/db_for_medieval_legal_transactions","https://github.com/KGruenwald/db_for_medieval_legal_transactions","-","",12189
+1617785365979,"KGruenwald/db_for_medieval_legal_transactions","https://github.com/KGruenwald/db_for_medieval_legal_transactions","-","",12189
 1595867516061,"katabase/Data","https://github.com/katabase/Data","Digitsed catalogues","",261
 1609823118907,"katabase/GROBID_Dictionaries","https://github.com/katabase/GROBID_Dictionaries","Training datat for GROBID-dictionaries","fra",362
 1597408328409,"krav-alina/Latin","https://github.com/krav-alina/Latin","-","lat|eng|deu|fra|ita",36
