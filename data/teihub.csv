@@ -1578,7 +1578,7 @@
 1617180510418,"digicademy/svsal-tei","https://github.com/digicademy/svsal-tei","TEI XML files of the School of Salamanca. Works, Dictionary Articles and more.","eng|spa",6
 1607331018662,"dsldk/salmer_data","https://github.com/dsldk/salmer_data","-","dan|lat",6
 1605342742838,"djakacki/florentineCodex","https://github.com/djakacki/florentineCodex","Florentine Codex Project","spa|nau|spn",83
-1617396092005,"Dartmouth-Digital-History-Initiative/TEI-Encoding","https://github.com/Dartmouth-Digital-History-Initiative/TEI-Encoding","-","eng",76
+1617759962997,"Dartmouth-Digital-History-Initiative/TEI-Encoding","https://github.com/Dartmouth-Digital-History-Initiative/TEI-Encoding","-","eng",78
 1610687957007,"dandozwar/Progetto-Cartoline_7694-113_7694-119","https://github.com/dandozwar/Progetto-Cartoline_7694-113_7694-119","Progetto di Alessandro Cignoni (561497) per il corso di Codifica di Testi 2019/2020","ita",3
 1594931540634,"DaniCardia/Codifica-di-testi","https://github.com/DaniCardia/Codifica-di-testi","-","ita",7
 1617008310198,"dracor-org/romdracor","https://github.com/dracor-org/romdracor","Roman drama corpus, adapted from Perseus Digital Library.","lat|eng|deu|fra|ita",37
@@ -3734,7 +3734,7 @@
 1616936295681,"hmteditors/iliad3-e3","https://github.com/hmteditors/iliad3-e3","-","",1
 1616936295677,"hmteditors/iliad3-msB","https://github.com/hmteditors/iliad3-msB","-","",1
 1617353726515,"hurlus/hurlus-xml","https://github.com/hurlus/hurlus-xml","-","fra",2
-1617741695530,"hurlus/hurlus-tei","https://github.com/hurlus/hurlus-tei","-","fra",23
+1617759962999,"hurlus/hurlus-tei","https://github.com/hurlus/hurlus-tei","-","fra",25
 1616402830400,"ISicily/ISicily","https://github.com/ISicily/ISicily","EpiDoc files for the I.Sicily project","eng|ita|grc|lat|heb|phn|xpu|osc|xly|scx|sxc",5651
 1607131440144,"ilrt/Beyond2022TeiTemplate","https://github.com/ilrt/Beyond2022TeiTemplate","Work on creating a template for the TEI/XML that will be used in the Medieval Gold Seam and other seams","eng",6
 1598099517019,"innawendell/European_Comedy","https://github.com/innawendell/European_Comedy","The quantitative study of the evolution of the Russian and French 5-act comedy in verse.","fra|rus",106
@@ -4256,7 +4256,7 @@
 1617643717022,"jdapaah/togas_and_gyros","https://github.com/jdapaah/togas_and_gyros","HackPrinceton Spring 21 Submission. ","lat",4
 1613566110984,"KONDE-AT/thun-data","https://github.com/KONDE-AT/thun-data","XML/TEI encoded transcriptions of the correspondence of Leo Thun Hohenstein.","",872
 1606740170245,"KorAP/KorAP-XML-TEI","https://github.com/KorAP/KorAP-XML-TEI","Conversion of TEI P5 based formats to KorAP-XML","deu",4
-1617741695979,"KGruenwald/db_for_medieval_legal_transactions","https://github.com/KGruenwald/db_for_medieval_legal_transactions","-","",11193
+1617759962995,"KGruenwald/db_for_medieval_legal_transactions","https://github.com/KGruenwald/db_for_medieval_legal_transactions","-","",12189
 1595867516061,"katabase/Data","https://github.com/katabase/Data","Digitsed catalogues","",261
 1609823118907,"katabase/GROBID_Dictionaries","https://github.com/katabase/GROBID_Dictionaries","Training datat for GROBID-dictionaries","fra",362
 1597408328409,"krav-alina/Latin","https://github.com/krav-alina/Latin","-","lat|eng|deu|fra|ita",36
