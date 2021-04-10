@@ -1631,10 +1631,10 @@
 1617050515131,"dracor-org/greekdracor","https://github.com/dracor-org/greekdracor","Ancient Greek plays from Perseus Digital Library","eng",40
 1612298421974,"davidcarlisle/dpctex","https://github.com/davidcarlisle/dpctex","Assorted TeX packages","",2
 1616936295616,"dracor-org/dracor-schema","https://github.com/dracor-org/dracor-schema","Place for ODD/schema and central CSS for dracor.org files.","",4
-1618018946999,"dracor-org/fredracor","https://github.com/dracor-org/fredracor","French Drama Corpus","fra",1356
+1618030350994,"dracor-org/fredracor","https://github.com/dracor-org/fredracor","French Drama Corpus","fra",1356
 1615812710416,"dsldk/herman-bang","https://github.com/dsldk/herman-bang","-","dan|fra",3591
 1612428152689,"DiXiT-eu/Digital-Scholarly-EditionsGR-workshop","https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop","Digital Scholarly Editions -GR workshop","",19
-1618018946309,"dracor-org/theatre-classique","https://github.com/dracor-org/theatre-classique","XML sources from theatre-classique.fr","fra",1082
+1618030350304,"dracor-org/theatre-classique","https://github.com/dracor-org/theatre-classique","XML sources from theatre-classique.fr","fra",1082
 1608008000329,"dh-trier/dh-vorlesung","https://github.com/dh-trier/dh-vorlesung","-","eng",1
 1611996587877,"dragosprodan/proiect_sac","https://github.com/dragosprodan/proiect_sac","-","",18
 1606206871898,"digitalpalitools/cst","https://github.com/digitalpalitools/cst","Chaṭṭha Saṅgāyana Tipitaka [From VRI - Tipitaka Project]","",1130
@@ -4851,7 +4851,7 @@
 1616143623113,"LuigiBambaci/Kennicott","https://github.com/LuigiBambaci/Kennicott","-","",3
 1616260423506,"Luca133/XML-Queries","https://github.com/Luca133/XML-Queries","-","",1
 1616560870815,"lb42/Ossian-1773","https://github.com/lb42/Ossian-1773","A TEI transcription of the 1773 edition of the works of ""Ossian""","eng|lat|ell|gla",1
-1615193112677,"MelissaBradshaw/ALLP","https://github.com/MelissaBradshaw/ALLP","Work space for the Amy Lowell Letters Project","",68
+1618030350999,"MelissaBradshaw/ALLP","https://github.com/MelissaBradshaw/ALLP","Work space for the Amy Lowell Letters Project","",72
 1615207936916,"Marianne-Moore-Digital-Archive/notebooks","https://github.com/Marianne-Moore-Digital-Archive/notebooks","notebook TEI-XML files","",3
 1617871697635,"morethanbooks/XML-TEI-Bible","https://github.com/morethanbooks/XML-TEI-Bible","Encoding the Bibel in TEI, starting with the Gospels","fra|eng",140
 1617339435476,"MiMoText/roman18","https://github.com/MiMoText/roman18","Collection de romans français du dix-huitième siècle (1750-1800) / Collection of Eighteenth-Century French Novels (1750-1800)","fra|deu|ita|eng",244
