@@ -40,7 +40,7 @@
 1616504154330,"axellelecroq/apollinaire-project","https://github.com/axellelecroq/apollinaire-project","Repository pour le projet collaboratif sur les poèmes manuscrits et le dossier de presse d'Alcools de Guillaume Apollinaire .","fra",133
 1618451010078,"amclark42/a-life-in-lists","https://github.com/amclark42/a-life-in-lists","A collection of lists. Self-maintained metadata, largely for my own use.","",15
 1614588278630,"amclark42/perspectography","https://github.com/amclark42/perspectography","-","",2
-1618649143951,"antonkarl/iceErrorCorpus","https://github.com/antonkarl/iceErrorCorpus","An Icelandic Error corpus, annotated for mistakes related to spelling, grammar, and other issues.","",4887
+1618664212948,"antonkarl/iceErrorCorpus","https://github.com/antonkarl/iceErrorCorpus","An Icelandic Error corpus, annotated for mistakes related to spelling, grammar, and other issues.","",4887
 1611910326934,"antonkarl/iceErrorCorpusL2","https://github.com/antonkarl/iceErrorCorpusL2","Icelandic Error Corpus for texts written by learners of Icelandic as a second language.","",135
 1594269121028,"ameneses/hmtbrandeis","https://github.com/ameneses/hmtbrandeis","-","grc|eng",13
 1594197118083,"andreaveneziano/Codifica-Di-Testi","https://github.com/andreaveneziano/Codifica-Di-Testi","-","ita",5
@@ -714,7 +714,7 @@
 1618217291850,"ArsGeo/CartulaireMSM","https://github.com/ArsGeo/CartulaireMSM","Application web pour la présentation d'un échantillon d'actes du cartulaire de l'abbaye du Mont Saint-Michel","lat",2
 1618507492126,"Brown-University-Library/iip-texts","https://github.com/Brown-University-Library/iip-texts","IIP inscriptions encoded in Epidoc XML and supporting files","grc|heb|lat|arc|kat|x-unknown",9050
 1614430164909,"Beth-Mardutho/hugoye-data","https://github.com/Beth-Mardutho/hugoye-data","Data repository for Hugoye TEI records. ","eng|ita|ara|cop|chu|deu|spa|fra|gez|grc|hye|kat|lat|nld|por|rus|sog|syr",628
-1618649143185,"bodleian/medieval-mss","https://github.com/bodleian/medieval-mss","Medieval Manuscripts in Oxford Libraries: TEI catalogue descriptions","lat|fra|eng|grc|deu|nld|por|ita|zxx|cor|cym|spa|chu|isl|rus|ell|gle|cat|cop|ara|heb|ces",10179
+1618664212182,"bodleian/medieval-mss","https://github.com/bodleian/medieval-mss","Medieval Manuscripts in Oxford Libraries: TEI catalogue descriptions","lat|fra|eng|grc|deu|nld|por|ita|zxx|cor|cym|spa|chu|isl|rus|ell|gle|cat|cop|ara|heb|ces",10179
 1618491485474,"BetaMasaheft/Works","https://github.com/BetaMasaheft/Works","Ethiopian Literature edited in TEI","eng|gez|tir|ara|syr|grc|lat|amh|ita|heb|deu|cop|kat|pal|fra",4510
 1618451010018,"BetaMasaheft/Persons","https://github.com/BetaMasaheft/Persons","Authority files for each person","eng|gez|grc|ara|cop|ita|por|lat|syr|amh|rus|deu|tir",13199
 1618507492147,"BetaMasaheft/Manuscripts","https://github.com/BetaMasaheft/Manuscripts","Manuscripts descriptions","gez|grc|eng|ara|tir|ita|amh|lat|fra|deu|spa|rus|cop|heb|syr",13681
@@ -722,7 +722,7 @@
 1614933918592,"BucknellDSC/florentineCodex","https://github.com/BucknellDSC/florentineCodex","Florentine Codex Project","spa|nau|spn",89
 1617943968935,"BetaMasaheft/guidelines","https://github.com/BetaMasaheft/guidelines","source files of the new encoding guidelines edited in XML","gez|eng|amh|tir|rus|lat|ara|ita",219
 1617741695935,"BucknellDSC/suzette","https://github.com/BucknellDSC/suzette","-","fra|eng",397
-1618649143990,"Brown-University-Library/usep-data","https://github.com/Brown-University-Library/usep-data","inscriptions and related data files for 'http://library.brown.edu/projects/usep/'","grc|lat|und|ett|zxx|etr|xrr",3231
+1618664212987,"Brown-University-Library/usep-data","https://github.com/Brown-University-Library/usep-data","inscriptions and related data files for 'http://library.brown.edu/projects/usep/'","grc|lat|und|ett|zxx|etr|xrr",3231
 1598257934097,"BetaMasaheft/Narrative","https://github.com/BetaMasaheft/Narrative","Narrative units","",74
 1614129547605,"brucemiller/LaTeXML","https://github.com/brucemiller/LaTeXML","LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.","",2
 1597869129958,"bodleian/karchak-mss","https://github.com/bodleian/karchak-mss","Tibetan MSS TEI Catalogue","bod|eng",1396
@@ -982,8 +982,8 @@
 1616748384073,"bennigeir/ASR-setup-and-testing","https://github.com/bennigeir/ASR-setup-and-testing","-","",4
 1616763479938,"burki/demo-edition","https://github.com/burki/demo-edition","Demo edition showing the use of igdj/tei-edition-bundle ","deu",4
 1617180510595,"bembus/pico","https://github.com/bembus/pico","-","",4
-1618649143993,"cceh/pessoa","https://github.com/cceh/pessoa","Digital Edition of Fernando Pessoa","por|eng|deu|fra",683
-1618649143987,"CivilWarGovernorsOfKentucky/Documents","https://github.com/CivilWarGovernorsOfKentucky/Documents","CWGK Documents in TEI-XML Format","",23271
+1618664212990,"cceh/pessoa","https://github.com/cceh/pessoa","Digital Edition of Fernando Pessoa","por|eng|deu|fra",683
+1618664212984,"CivilWarGovernorsOfKentucky/Documents","https://github.com/CivilWarGovernorsOfKentucky/Documents","CWGK Documents in TEI-XML Format","",23271
 1618562933997,"clarin-eric/ParlaMint","https://github.com/clarin-eric/ParlaMint","ParlaMint: Comparable Parliamentary Corpora","ces|slv|bul|nld|eng|dan|ron|isl|hrv|ita|hun|lav|spa",986
 1614343836995,"COST-ELTeC/ELTeC-srp-ext","https://github.com/COST-ELTeC/ELTeC-srp-ext","-","srp",7
 1618000872560,"COST-ELTeC/ELTeC-srp","https://github.com/COST-ELTeC/ELTeC-srp","-","srp",47
@@ -1574,8 +1574,8 @@
 1617973121417,"CCSDForge/episciences","https://github.com/CCSDForge/episciences","An overlay journal platform","",2
 1617973121468,"comesaignol/autoMedite","https://github.com/comesaignol/autoMedite","-","fra",4
 1614430164991,"DallasAustin/The-Dallas-Chronicles-","https://github.com/DallasAustin/The-Dallas-Chronicles-","-","",1
-1618649143994,"Digital-Humanities-Quarterly/dhq-journal","https://github.com/Digital-Humanities-Quarterly/dhq-journal","-","eng|spa|fra|lat|ita",1279
-1618649143952,"Descot21/Lycian","https://github.com/Descot21/Lycian","A systematic digital corpus of Lycian texts","",52
+1618664212991,"Digital-Humanities-Quarterly/dhq-journal","https://github.com/Digital-Humanities-Quarterly/dhq-journal","-","eng|spa|fra|lat|ita",1279
+1618664212949,"Descot21/Lycian","https://github.com/Descot21/Lycian","A systematic digital corpus of Lycian texts","",52
 1617713932033,"dracor-org/gerdracor","https://github.com/dracor-org/gerdracor","German Drama Corpus","deu|ger",510
 1606681960111,"dxvidmr/EntremesesDigitales","https://github.com/dxvidmr/EntremesesDigitales","Repositorio de teatro breve del Siglo de Oro en formato TXT y marcado en XML-TEI.","spa",6
 1604161955209,"djakacki/suzette","https://github.com/djakacki/suzette","-","fra|eng",117
@@ -2118,7 +2118,7 @@
 1618462251006,"dilettagoglia/starter-academic","https://github.com/dilettagoglia/starter-academic","-","eng|fra",10
 1614430164996,"emidrouin/EDN6101-ateliers_et_travaux","https://github.com/emidrouin/EDN6101-ateliers_et_travaux","Travaux réalisés dans le cadre du cours EDN6101 - Édition critique avec la TEI (hiver 2021)","fra",7
 1618562933999,"erc-dharma/tfc-khmer-epigraphy","https://github.com/erc-dharma/tfc-khmer-epigraphy","This repository assembles data produced by the project Corpus des inscriptions khmères (before and during the DHARMA project).","eng|fra|san|x-oldkhmer|x-middlekhmer",1046
-1618649143195,"erc-dharma/tfb-vengicalukya-epigraphy","https://github.com/erc-dharma/tfb-vengicalukya-epigraphy","DHARMA project Task Force B, Eastern Cālukya epigraphic corpus.","eng|san|fra|tel",109
+1618664212192,"erc-dharma/tfb-vengicalukya-epigraphy","https://github.com/erc-dharma/tfb-vengicalukya-epigraphy","DHARMA project Task Force B, Eastern Cālukya epigraphic corpus.","eng|san|fra|tel",109
 1616936295747,"ethiopicist/texts","https://github.com/ethiopicist/texts","TEI-encoded texts.","",2
 1618507492443,"erc-dharma/tfc-nusantara-epigraphy","https://github.com/erc-dharma/tfc-nusantara-epigraphy","DHARMA project task force C, Nusantara epigraphic corpus ","kaw|eng|x-oldsun|ndl",339
 1618507492472,"erc-dharma/tfd-nusantara-philology","https://github.com/erc-dharma/tfd-nusantara-philology","DHARMA project, task force D","san|kaw|x-oldsun|tam|kan|tel",43
@@ -2660,7 +2660,7 @@
 1590816557096,"fotisj/python_intermediate","https://github.com/fotisj/python_intermediate","An intermediate course in python using ipython notebooks (in German!). Follow up to python_intro","",1
 1615899176841,"faillas/tesi.github.io","https://github.com/faillas/tesi.github.io","tesi digitale","ita",1
 1617612542163,"FloChiff/Introduction_TEI","https://github.com/FloChiff/Introduction_TEI","Cours d'introduction à la TEI, 13-14 avril 2021, URFIST de Rennes","fra|eng",6
-1618649143961,"FrederikeNeuber/lewald-correspondence-metadata","https://github.com/FrederikeNeuber/lewald-correspondence-metadata","Metadata of Fanny Lewald's correspondences in CMIF-format","",4
+1618664212958,"FrederikeNeuber/lewald-correspondence-metadata","https://github.com/FrederikeNeuber/lewald-correspondence-metadata","Metadata of Fanny Lewald's correspondences in CMIF-format","",4
 1617741695764,"Francescap97/Progetto_Codifica_Di_Testi_19-20","https://github.com/Francescap97/Progetto_Codifica_Di_Testi_19-20","-","ita|fra",1
 1618203277992,"GarthKiepper/Ruskin","https://github.com/GarthKiepper/Ruskin","-","",1335
 1615482694200,"gtank94/fortini_evt_dipl","https://github.com/gtank94/fortini_evt_dipl","-","",9
@@ -3466,7 +3466,7 @@
 1613006123641,"HuygensING/visitei","https://github.com/HuygensING/visitei","Tools for parsing TEI files and other XML","",1
 1608008000693,"HistoryAtState/conferences","https://github.com/HistoryAtState/conferences","Source data for Conferences","",4
 1610356249446,"HCMID/EditorsRepo.jl","https://github.com/HCMID/EditorsRepo.jl","A Julia module for working with an editorial repository organized following HCMID conventions.","",5
-1618649143186,"HistoryAtState/other-publications","https://github.com/HistoryAtState/other-publications","Other Publications","",80
+1618664212183,"HistoryAtState/other-publications","https://github.com/HistoryAtState/other-publications","Other Publications","",80
 1605645155481,"hbeyer/pylib","https://github.com/hbeyer/pylib","Personal python library","",1
 1611597478820,"HuygensING/mvn-xml","https://github.com/HuygensING/mvn-xml","XML for Huygens ING MVN editions","",3
 1611996587955,"herreio/cmif","https://github.com/herreio/cmif","handle data in CMI format","",2
@@ -3741,7 +3741,7 @@
 1616504154965,"Heresta/notes-de-cours","https://github.com/Heresta/notes-de-cours","-","",1
 1616763479335,"humlab/penelope","https://github.com/humlab/penelope","Some utility scripts for basic text analysis tasks","",2
 1616936295681,"hmteditors/iliad3-e3","https://github.com/hmteditors/iliad3-e3","-","",1
-1618649143988,"hmteditors/iliad3-msB","https://github.com/hmteditors/iliad3-msB","-","",1
+1618664212985,"hmteditors/iliad3-msB","https://github.com/hmteditors/iliad3-msB","-","",1
 1617353726515,"hurlus/hurlus-xml","https://github.com/hurlus/hurlus-xml","-","fra",2
 1618562933948,"hurlus/hurlus-tei","https://github.com/hurlus/hurlus-tei","-","fra|eng",38
 1618562933114,"hazikha/projet_XSLT","https://github.com/hazikha/projet_XSLT","-","",1
@@ -3753,7 +3753,7 @@
 1611910326622,"iwein-digital/transcriptions","https://github.com/iwein-digital/transcriptions","Manuscript transcriptions","",39
 1605097940035,"igdj/jewish-history-online","https://github.com/igdj/jewish-history-online","Code for http://jewish-history-online.net/","",8
 1611752304225,"icaruseu/mom-ca","https://github.com/icaruseu/mom-ca","Monasterium.net (http://www.monasterium.net/mom) - repository and collaborative archive","",13
-1618649143964,"IreneVagionakis/Fiscus_bis","https://github.com/IreneVagionakis/Fiscus_bis","Fiscus database","rus|eng|grc",260
+1618664212961,"IreneVagionakis/Fiscus_bis","https://github.com/IreneVagionakis/Fiscus_bis","Fiscus database","rus|eng|grc",260
 1594960319817,"ilovan/cwrc-writer-samples","https://github.com/ilovan/cwrc-writer-samples","-","eng|ita|lat",10
 1618420854017,"IreneVagionakis/CretanInscriptions","https://github.com/IreneVagionakis/CretanInscriptions","An EFES EpiDoc collection of inscriptions pertaining to Cretan institutions (VII-I century BC)","grc|ara|eng|fra|deu|ell|heb|ita|lat|rus",641
 1616763479327,"i-d-e/ride","https://github.com/i-d-e/ride","A review journal for digital editions and resources","eng|fra|deu",296
@@ -4862,7 +4862,7 @@
 1618432838025,"lb42/Ossian-1773","https://github.com/lb42/Ossian-1773","A TEI transcription of the 1773 edition of the works of ""Ossian""","eng|lat|ell|gla",2
 1618217291411,"MelissaBradshaw/ALLP","https://github.com/MelissaBradshaw/ALLP","Work space for the Amy Lowell Letters Project","",72
 1615207936916,"Marianne-Moore-Digital-Archive/notebooks","https://github.com/Marianne-Moore-Digital-Archive/notebooks","notebook TEI-XML files","",3
-1618649143995,"morethanbooks/XML-TEI-Bible","https://github.com/morethanbooks/XML-TEI-Bible","Encoding the Bibel in TEI, starting with the Gospels","fra|eng",140
+1618664212992,"morethanbooks/XML-TEI-Bible","https://github.com/morethanbooks/XML-TEI-Bible","Encoding the Bibel in TEI, starting with the Gospels","fra|eng",140
 1618507492419,"MiMoText/roman18","https://github.com/MiMoText/roman18","Collection de romans français du dix-huitième siècle (1750-1800) / Collection of Eighteenth-Century French Novels (1750-1800)","fra|deu|ita|eng",244
 1602146030785,"milnegeneseo/digital-scholarly-editing","https://github.com/milnegeneseo/digital-scholarly-editing","Modules for teaching digital scholarly editing using the manuscript of Thoreau's Walden as example.","eng",20
 1618476404032,"medieval-source-book/texts","https://github.com/medieval-source-book/texts","TEI-XML files of texts in the GMS.","lat|deu",255
@@ -5332,7 +5332,7 @@
 1607345721896,"newtfire/digitProjectDesign-Hub","https://github.com/newtfire/digitProjectDesign-Hub","shared repo for Digital Project Design class","",87
 1594226067114,"nomadicoder/tufts","https://github.com/nomadicoder/tufts","Tufts Admin interface","eng",4
 1607345721978,"notesjor/corpusexplorer2.0","https://github.com/notesjor/corpusexplorer2.0","Korpuslinguistik war noch nie so einfach...","",16
-1618217291844,"nevenjovanovic/modruski-temrezah","https://github.com/nevenjovanovic/modruski-temrezah","A CTS edition of Nicolaus of Modruš Latin works: oration for Pietro Riario (Rome, 1474), Defensio ecclesiasticae libertatis (1479)","lat",27
+1618664212999,"nevenjovanovic/modruski-temrezah","https://github.com/nevenjovanovic/modruski-temrezah","A CTS edition of Nicolaus of Modruš Latin works: oration for Pietro Riario (Rome, 1474), Defensio ecclesiasticae libertatis (1479)","lat",27
 1601469372034,"nivaca/smtrad-scheme","https://github.com/nivaca/smtrad-scheme","RNG scheme for SMTrad","",2
 1601469372080,"niklil/Edith","https://github.com/niklil/Edith","-","fin",16
 1594931540208,"nakamura196/saji","https://github.com/nakamura196/saji","-","",1346
@@ -5568,7 +5568,7 @@ This software provides a convenient way to organizing information and making it 
 1618476404030,"ndw/xslt40-test","https://github.com/ndw/xslt40-test","My copy of the qt4cg/xslt40-test repository","",2
 1615667941937,"OpenArabicPE/journal_al-muqtabas","https://github.com/OpenArabicPE/journal_al-muqtabas","Digital edition (TEI XML) of the Arabic monthly journal *al-Muqtabas* (مجلة المقتبس), published by Muḥammad Kurd ʿAlī in Cairo and Damascus between 1906 and 1917/18","ara|eng|fas|fra|ota|tur",38
 1614588278629,"oeaw-ministerratsprotokolle/mp-edition-data","https://github.com/oeaw-ministerratsprotokolle/mp-edition-data","Repo for TEI XML data from the `Ministerratsprotokolle` edition project that has been published on the web already","",975
-1618649143985,"opentorah/alter-rebbe.org","https://github.com/opentorah/alter-rebbe.org","19 Kislev Archive","rus|pol|deu|fra|heb|lit",7249
+1618664212982,"opentorah/alter-rebbe.org","https://github.com/opentorah/alter-rebbe.org","19 Kislev Archive","rus|pol|deu|fra|heb|lit",7249
 1601281940565,"oeuvres/Teinte","https://github.com/oeuvres/Teinte","TEI ► html, a transform pack for XML/TEI, in XSLT1 (compatible PHP, browser, Python…)","",16
 1618562933117,"OpenGreekAndLatin/First1KGreek","https://github.com/OpenGreekAndLatin/First1KGreek","XML files for the works in the First Thousand Years of Greek Project. ","grc|lat|eng|fra|deu|ell|cop|nld",1050
 1618491485071,"OpenArabicPE/authority-files","https://github.com/OpenArabicPE/authority-files","Repository containing authority files (for persons, organisations, places, and works) and various tools","ara|eng|tur|ota|deu|fra|ita|fas",11
@@ -5780,7 +5780,7 @@ This software provides a convenient way to organizing information and making it 
 1590816600275,"olesar/DictionaryRussian11-17","https://github.com/olesar/DictionaryRussian11-17","Digitization project of the Dictionary of the Russian Language of the 11th-7th centuries.","",1
 1616763479053,"OpenScriptureInformationStandard/Schemas","https://github.com/OpenScriptureInformationStandard/Schemas","The actual schema versions and doc for OSIS.","",2
 1618451010069,"obaskerville/personal-site","https://github.com/obaskerville/personal-site","Personal site for me","",2
-1618649143999,"papyri/idp.data","https://github.com/papyri/idp.data","Data from the Integrating Digital Papyrology project","eng|grc|lat|fra|deu|ita|spa|ell|cop|egy|ara|syc|arc|heb|und",182025
+1618664212997,"papyri/idp.data","https://github.com/papyri/idp.data","Data from the Integrating Digital Papyrology project","eng|grc|lat|fra|deu|ita|spa|ell|cop|egy|ara|syc|arc|heb|und",182025
 1618000872984,"Petrarchive/The-Petrarchive","https://github.com/Petrarchive/The-Petrarchive","-","",115
 1614791769755,"pierre-amadio/packard","https://github.com/pierre-amadio/packard"," Packard's Morphological Analysis Codes module for the Sword engine.","",1
 1618507492162,"peterwebster/henson","https://github.com/peterwebster/henson","Master data store for the Hensley Henson Journals project, and issue tracker. The application code is kept elsewhere.","",3350
@@ -5999,7 +5999,7 @@ This software provides a convenient way to organizing information and making it 
 1590816599961,"pulsetracker/bluesnet","https://github.com/pulsetracker/bluesnet","-","",1
 1590816581639,"praaline/Praaline","https://github.com/praaline/Praaline","Praaline is an open-source system to manage, annotate, visualise and analyse spoken language corpora","",1
 1590816600156,"pab124/PabPage","https://github.com/pab124/PabPage","Patrick's Repository","eng|por",3
-1618649143986,"projectEndings/Endings","https://github.com/projectEndings/Endings","Core repository for the project","eng",3
+1618664212983,"projectEndings/Endings","https://github.com/projectEndings/Endings","Core repository for the project","eng",3
 1590816583930,"paddymcall/sarit-ceteicean","https://github.com/paddymcall/sarit-ceteicean","Wrap the SARIT library in CETEIcean","",1
 1590816583878,"pdinger/MySite","https://github.com/pdinger/MySite","Test","",1
 1590816586905,"pickettj/pahlavi_digital_projects","https://github.com/pickettj/pahlavi_digital_projects","Working on a number of projects related to Pahlavi (Middle Persian) texts.","",1
@@ -7200,14 +7200,14 @@ This software provides a convenient way to organizing information and making it 
 1604075532049,"tillgrallert/digital-muqtabas","https://github.com/tillgrallert/digital-muqtabas","Digital edition (TEI XML) of the Arabic monthly journal *al-Muqtabas* (مجلة المقتبس), published by Muḥammad Kurd ʿAlī in Cairo and Damascus between 1906 and 1917/18","ara|eng|fas|fra|ota|tur",46
 1618491485180,"thecdil/mancini_source","https://github.com/thecdil/mancini_source","-","ita|fra|eng",115
 1618507492454,"TST-Project/editor","https://github.com/TST-Project/editor","TEI XML editor for the TST Project","",3
-1618649143978,"TST-Project/mss","https://github.com/TST-Project/mss","Woking repository for the TST project","fra|san|tam|eng|por",76
+1618664212975,"TST-Project/mss","https://github.com/TST-Project/mss","Woking repository for the TST project","fra|san|tam|eng|por",76
 1609349294009,"tnhaider/antikoerperchen-german-annotated-poetry","https://github.com/tnhaider/antikoerperchen-german-annotated-poetry","German Canon Poetry Corpus with Annotation","deu",487
 1608687335080,"tillgrallert/test-github-actions","https://github.com/tillgrallert/test-github-actions","-","ara",2
 1595349137077,"throneless-tech/pubpub","https://github.com/throneless-tech/pubpub","A mirror of PubPub to test and build for PREreview.","",1
 1613364161558,"ThLebee/CoEg","https://github.com/ThLebee/CoEg","Plateforme rassemblant les ressources de l'édition numérique des lettres de l'égyptologue Auguste Mariette (1821-1881).","fra",10
 1609837355999,"tameney22/jekyllTest","https://github.com/tameney22/jekyllTest","-","eng|fin",61
 1607101451696,"thl-texts/thl_converter_stack","https://github.com/thl-texts/thl_converter_stack","Reworking of THL text converter to use a header stack methodology","ara|mya|zho|dzo|eng|fra|deu|hin|ind|ita|jpn|kor|lao|lat|mal|mnc|mon|nxq|nep|non|pli|pan|fas|pol|rus|san|sin|spa|tam|tel|tha|bod|tur|urd|vie",4
-1618649143977,"TEIC/Documentation","https://github.com/TEIC/Documentation","Repo for Council documentation maintained separately from the TEI Website","eng|deu|fra|ita",9
+1618664212974,"TEIC/Documentation","https://github.com/TEIC/Documentation","Repo for Council documentation maintained separately from the TEI Website","eng|deu|fra|ita",9
 1604421743199,"tillgrallert/diwan-al-rusafi","https://github.com/tillgrallert/diwan-al-rusafi","-","ara",1
 1597408328423,"textalign/TAN-2020","https://github.com/textalign/TAN-2020","TAN-2020 (alpha release)","eng",14
 1596213121713,"TEI-Correspondence-SIG/CMIF","https://github.com/TEI-Correspondence-SIG/CMIF","Correspondence Metadata Interchange Format","",8
@@ -35078,7 +35078,7 @@ This software provides a convenient way to organizing information and making it 
 1593333185517,"whitmanarchive/whitman-manuscripts","https://github.com/whitmanarchive/whitman-manuscripts","Data Repo | Whitman Manuscripts TEI","",316
 1614343836455,"windauer/ws21-tp7-ws","https://github.com/windauer/ws21-tp7-ws","Uni Wuppertal ""Winter School"" event 2021 - TEI Publisher 7 hands on workshop","",32
 1613524577122,"whitmanarchive/whitman-marginalia","https://github.com/whitmanarchive/whitman-marginalia","Data Repo | Whitman Marginalia TEI","",118
-1618649143996,"WoPoss-project/source_texts","https://github.com/WoPoss-project/source_texts","Works being curated prior to corpus creation","lat|grc|eng|deu|fra",228
+1618664212993,"WoPoss-project/source_texts","https://github.com/WoPoss-project/source_texts","Works being curated prior to corpus creation","lat|grc|eng|deu|fra",228
 1593405127752,"wujastyk/GRETIL-mirror","https://github.com/wujastyk/GRETIL-mirror","Snapshots of the GRETIL repository of South Asian (Sanskrit, Pali, etc.) etexts","eng|san|xct|tam|pra",24
 1611952994252,"wcventure/UAF-Fuzzer-TestSuite","https://github.com/wcventure/UAF-Fuzzer-TestSuite","Use-after-free testsuite used for fuzzing experiment","",1
 1596213121978,"WoPoss/source_texts","https://github.com/WoPoss/source_texts","Works being curated prior to corpus creation","lat|grc|eng|deu|fra|ita",121
