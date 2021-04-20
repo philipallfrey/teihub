@@ -2161,7 +2161,7 @@
 1611752304482,"earlyprint/epmetadata","https://github.com/earlyprint/epmetadata","EarlyPrint project standoff metadata","",45718
 1603385084335,"edbkeogh/datavisusquecano","https://github.com/edbkeogh/datavisusquecano","Ed Keogh's site for exploring data visualizations","grc|lat",5
 1617353726087,"enjotel/ekbindu","https://github.com/enjotel/ekbindu","-","",1
-1618562933129,"eba-diary/tagged-volumes","https://github.com/eba-diary/tagged-volumes","XML files based on output from Historical Markup Tool, with additional manual tagging by Dr. Ketchley and interns","",7
+1618883033996,"eba-diary/tagged-volumes","https://github.com/eba-diary/tagged-volumes","XML files based on output from Historical Markup Tool, with additional manual tagging by Dr. Ketchley and interns","",7
 1611752304928,"e-ditiones/CORPUS17","https://github.com/e-ditiones/CORPUS17","17th c. French texts corpus.","fra",28
 1618507492169,"elmusfi/harambee_dinner","https://github.com/elmusfi/harambee_dinner","Archive of Penn State Behrend's Harambee Dinner programs","",4
 1597408328779,"ebeshero/newtFire-webDev","https://github.com/ebeshero/newtFire-webDev","for development of the newtFire website at http://newtfire.org","eng|fra|lat",3628
@@ -3748,7 +3748,7 @@
 1617353726515,"hurlus/hurlus-xml","https://github.com/hurlus/hurlus-xml","-","fra",2
 1618807944147,"hurlus/hurlus-tei","https://github.com/hurlus/hurlus-tei","-","fra|eng",42
 1618562933114,"hazikha/projet_XSLT","https://github.com/hazikha/projet_XSLT","-","",1
-1618000872201,"ISicily/ISicily","https://github.com/ISicily/ISicily","EpiDoc files for the I.Sicily project","eng|ita|grc|lat|heb|phn|xpu|osc|xly|scx|sxc",5671
+1618883033995,"ISicily/ISicily","https://github.com/ISicily/ISicily","EpiDoc files for the I.Sicily project","eng|ita|grc|lat|heb|phn|xpu|osc|xly|scx|sxc",5726
 1607131440144,"ilrt/Beyond2022TeiTemplate","https://github.com/ilrt/Beyond2022TeiTemplate","Work on creating a template for the TEI/XML that will be used in the Medieval Gold Seam and other seams","eng",6
 1598099517019,"innawendell/European_Comedy","https://github.com/innawendell/European_Comedy","The quantitative study of the evolution of the Russian and French 5-act comedy in verse.","fra|rus",106
 1599526896066,"istex/odd-istex","https://github.com/istex/odd-istex","Schéma ODD TEI pour le projet ISTEX","",4
@@ -34955,7 +34955,7 @@ This software provides a convenient way to organizing information and making it 
 1590816580462,"utttar/hw2","https://github.com/utttar/hw2","hw2","",1
 1590816587162,"umr5037/skepsis","https://github.com/umr5037/skepsis","-","",1
 1590816592251,"ubbo/sade-textgrid-default-project","https://github.com/ubbo/sade-textgrid-default-project","Default TextGrid project for SADE","",3
-1618864864997,"VandyVRC/tcadrt","https://github.com/VandyVRC/tcadrt","-","eng|zho|zh-latn|ara|cop|chu|deu|spa|fra|gez|grc|hye|ita|kat|lat|nld|por|rus|sog|syr",785
+1618883033999,"VandyVRC/tcadrt","https://github.com/VandyVRC/tcadrt","-","eng|zho|zh-latn|ara|cop|chu|deu|spa|fra|gez|grc|hye|ita|kat|lat|nld|por|rus|sog|syr",785
 1608427782028,"vedph/PapyroLogos","https://github.com/vedph/PapyroLogos","-","eng|grc|lat",523
 1611597478598,"vlebedynska/word-embeddings-childrens-books","https://github.com/vlebedynska/word-embeddings-childrens-books","-","",29
 1594197118016,"ValerioSalvetti/Progetto-Esame-LL1.14","https://github.com/ValerioSalvetti/Progetto-Esame-LL1.14","-","ita",3
