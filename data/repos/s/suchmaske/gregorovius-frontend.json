@@ -1,0 +1,1 @@
+{"date":1590816600998,"name":"suchmaske/gregorovius-frontend","url":"https://github.com/suchmaske/gregorovius-frontend","desc":"Main frontend and edition guidelines of the Gregorovius Correspondence Edition","langs":[],"count":2,"created":"2019-09-24T16:40:22Z","files":["src/views/LettersDetail.vue","src/assets/xslt/LettersMsDesc.xslt"]}
