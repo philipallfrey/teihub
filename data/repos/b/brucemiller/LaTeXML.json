@@ -1,1 +1,1 @@
-{"date":1620982238375,"name":"brucemiller/LaTeXML","url":"https://github.com/brucemiller/LaTeXML","desc":"LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.","files":["t/daemon/formats/tei.xml","lib/LaTeXML/resources/XSLT/LaTeXML-tei.xsl"],"langs":[]}
+{"date":1620997316346,"name":"brucemiller/LaTeXML","url":"https://github.com/brucemiller/LaTeXML","desc":"LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.","files":["t/daemon/formats/tei.xml","lib/LaTeXML/resources/XSLT/LaTeXML-tei.xsl"],"langs":[]}
