@@ -1,1 +1,1 @@
-{"date":1590816597356,"name":"acdh-oeaw/veh","url":"https://github.com/acdh-oeaw/veh","desc":"VEH - Vienna Entity Hub","files":["teimporter/teimodule/tei.py","teimporter/teimodule/static/listperson_sample.xml","csv2listperson.ipynb"],"langs":[]}
+{"date":1590816597356,"name":"acdh-oeaw/veh","url":"https://github.com/acdh-oeaw/veh","desc":"VEH - Vienna Entity Hub","langs":[],"count":3,"created":"2018-11-21T08:26:55Z","files":["teimporter/teimodule/static/listperson_sample.xml"]}

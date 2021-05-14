@@ -1,1 +1,1 @@
-{"date":1590816594094,"name":"agrafix/grabcite","url":"https://github.com/agrafix/grabcite","desc":"Haskell: Library/Executable to extract citations from scientific papers","files":["test-xml/W00-0104.tei.xml","src/GrabCite/Tei.hs"],"langs":["eng"]}
+{"date":1590816594094,"name":"agrafix/grabcite","url":"https://github.com/agrafix/grabcite","desc":"Haskell: Library/Executable to extract citations from scientific papers","langs":["eng"],"count":2,"created":"2017-05-18T14:48:57Z","files":["test-xml/W00-0104.tei.xml"]}

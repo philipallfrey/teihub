@@ -1,1 +1,0 @@
-{"date":1590816600512,"name":"alexfrankcodes/twitter-opinion-analyzer","url":"https://github.com/alexfrankcodes/twitter-opinion-analyzer","desc":"🐤 A python web app that lets a user enter a topic and get the current polarity on that topic through sentiment analysis on recent tweets.","files":["env/Lib/site-packages/nltk/corpus/reader/bnc.py"],"langs":[]}

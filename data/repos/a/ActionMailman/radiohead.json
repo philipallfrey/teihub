@@ -1,1 +1,0 @@
-{"date":1590816600157,"name":"ActionMailman/radiohead","url":"https://github.com/ActionMailman/radiohead","desc":"A flask web app that takes the takes the lyrics of every Radiohead song and using markov chains, restructures those phrases into new sentences.","files":["venv/Lib/site-packages/nltk/corpus/reader/bnc.py"],"langs":[]}

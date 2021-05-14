@@ -1,1 +1,0 @@
-{"date":1590816599848,"name":"acdh-oeaw/cr-xq-mets","url":"https://github.com/acdh-oeaw/cr-xq-mets","desc":"a XQuery (/eXist-db) framework to publish language resources, especially historical texts (towards digital editions)","files":["src/modules/fcs/fcs.xqm","src/core/resource.xqm","src/sandbox_init_resource.xql","src/modules/facsviewer/facsviewer.xqm"],"langs":[]}

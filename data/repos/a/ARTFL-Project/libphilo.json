@@ -1,1 +1,0 @@
-{"date":1590816586723,"name":"ARTFL-Project/libphilo","url":"https://github.com/ARTFL-Project/libphilo","desc":"libphilo--a library for vectorized tree search and retrieval, with a focus on corpus queries.","files":["python/examples/loader.py","python/examples/shlaxtractor2.py","python/philologic/Parser.py"],"langs":[]}

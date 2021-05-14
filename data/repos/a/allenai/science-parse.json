@@ -1,1 +1,0 @@
-{"date":1590816562735,"name":"allenai/science-parse","url":"https://github.com/allenai/science-parse","desc":"Science Parse parses scientific papers (in PDF form) and returns them in structured form.","files":["core/src/main/scala/org/allenai/scienceparse/GrobidParser.scala"],"langs":[]}
