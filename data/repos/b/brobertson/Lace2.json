@@ -1,1 +1,0 @@
-{"date":1590816599383,"name":"brobertson/Lace2","url":"https://github.com/brobertson/Lace2","desc":"In-broswer OCR editing program that transforms OCR results into structured, citable TEI. No XML experience required!","files":["modules/teiGeneration.xql","resources/schemas/teisimple.rng","getTeiVolume.xq"],"langs":[]}

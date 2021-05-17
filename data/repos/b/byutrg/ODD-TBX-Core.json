@@ -1,1 +1,0 @@
-{"date":1590816593206,"name":"byutrg/ODD-TBX-Core","url":"https://github.com/byutrg/ODD-TBX-Core","desc":"This ODD file is used to generate validation schemas for TBX files which include namespace support and rely on a TBX core structure as the default namespace.","files":["TBX_ISO30042-Core.odd"],"langs":[]}

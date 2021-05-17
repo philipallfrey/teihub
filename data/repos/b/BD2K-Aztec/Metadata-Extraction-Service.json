@@ -1,1 +1,0 @@
-{"date":1590816572468,"name":"BD2K-Aztec/Metadata-Extraction-Service","url":"https://github.com/BD2K-Aztec/Metadata-Extraction-Service","desc":"This repository contains the source code for the metadata extraction service that runs with the Aztec website.","files":["web/scripts/parse_extracts.py"],"langs":[]}

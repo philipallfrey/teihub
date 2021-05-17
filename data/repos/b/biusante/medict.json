@@ -1,1 +1,1 @@
-{"date":1613364161977,"name":"biusante/medict","url":"https://github.com/biusante/medict","desc":"Dictionnaires de médecine, interface","files":["schema/littre1908.xml"],"langs":["fra"]}
+{"date":1613364161977,"name":"biusante/medict","url":"https://github.com/biusante/medict","desc":"Dictionnaires de médecine, interface","langs":["fra"],"count":1,"created":"2021-02-14T22:45:53Z","files":["schema/littre1908.xml","xml/medict37020d.xml","xml/medict37020d_glossaires.xml"]}

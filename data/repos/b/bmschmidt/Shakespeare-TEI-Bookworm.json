@@ -1,1 +1,0 @@
-{"date":1590816579291,"name":"bmschmidt/Shakespeare-TEI-Bookworm","url":"https://github.com/bmschmidt/Shakespeare-TEI-Bookworm","desc":"Scripts for creating a bookworm from the Folger TEI files: useful as a proof-of-concept on treating \"texts\" as TEI tag interactions","files":["TEIparser.py"],"langs":[]}

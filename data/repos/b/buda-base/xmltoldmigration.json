@@ -1,1 +1,0 @@
-{"date":1590816585113,"name":"buda-base/xmltoldmigration","url":"https://github.com/buda-base/xmltoldmigration","desc":"App to migrate from TBRC XML files to BDRC RDF LD","files":["src/main/java/io/bdrc/xmltoldmigration/xml2files/EtextMigration.java","src/test/xml/EtextTest.xml"],"langs":[]}
