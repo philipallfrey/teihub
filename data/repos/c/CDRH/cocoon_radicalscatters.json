@@ -1,1 +1,1 @@
-{"date":1590816592024,"name":"CDRH/cocoon_radicalscatters","url":"https://github.com/CDRH/cocoon_radicalscatters","desc":"Radical Scatters","files":["xsl/rsc.globals.xsl","xsl/rsc.indexes.xsl","xsl/rsc.tei.xsl"],"langs":[]}
+{"date":1590816592024,"name":"CDRH/cocoon_radicalscatters","url":"https://github.com/CDRH/cocoon_radicalscatters","desc":"Radical Scatters","langs":[],"count":3,"created":"2017-02-06T21:14:00Z","files":["xml/rsc.whole.xml","xml/rsc.whole_old.xml"]}

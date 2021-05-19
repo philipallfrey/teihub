@@ -1,1 +1,0 @@
-{"date":1590816600474,"name":"CSCfi/Kielipankki-utilities","url":"https://github.com/CSCfi/Kielipankki-utilities","desc":"Scripts for data conversion ","files":["corp/lonnrot/conv_scripts/convert_loennrot.xsl","scripts/ftb3-augment-loc.py","corp/kotus-al/scripts/convert_aikakaus_with_meta.xsl","scripts/tei2vrt.py"],"langs":[]}

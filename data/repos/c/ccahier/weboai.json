@@ -1,1 +1,1 @@
-{"date":1590816600961,"name":"ccahier/weboai","url":"https://github.com/ccahier/weboai","desc":"-","files":["transform/tei2oai.xsl","schema/teiHeader.html","transform/teiHeader2html.xsl","lib/Pub.php","lib/Weboai.php","schema/teiHeader.rng","lib/weboai.sql","schema/teiHeader.sch","schema/teiHeader.xml","schema/teiHeader.xsd","README.md"],"langs":[]}
+{"date":1590816600961,"name":"ccahier/weboai","url":"https://github.com/ccahier/weboai","desc":"-","langs":[],"count":11,"created":"2017-05-13T08:27:39Z","files":["schema/teiHeader.xml"]}

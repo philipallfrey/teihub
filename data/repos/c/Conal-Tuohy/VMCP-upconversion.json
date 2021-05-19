@@ -1,1 +1,0 @@
-{"date":1590816585989,"name":"Conal-Tuohy/VMCP-upconversion","url":"https://github.com/Conal-Tuohy/VMCP-upconversion","desc":"Ferdinand von Mueller's correspondence upconversion from MS Word to TEI XML","files":["xproc/upconvert.xpl","xslt/odt-styles-and-content-to-tei.xsl","xslt/extract-metadata.xsl"],"langs":[]}

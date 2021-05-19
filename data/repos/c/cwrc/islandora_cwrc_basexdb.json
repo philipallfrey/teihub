@@ -1,1 +1,0 @@
-{"date":1590816578042,"name":"cwrc/islandora_cwrc_basexdb","url":"https://github.com/cwrc/islandora_cwrc_basexdb","desc":"Offers increased flexibility of querying/analysis by indexing XML content within a read-only XML Database.  This module connects Islandora/Fedora to an XML database. ","files":["xq/cwrc_plot_it_json.xq"],"langs":[]}

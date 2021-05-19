@@ -1,1 +1,1 @@
-{"date":1614343836987,"name":"chartes/capitainizer","url":"https://github.com/chartes/capitainizer","desc":"Conversion d’un corpus TEI selon les guidelines Capitains","files":["templates/edition.xml","capitainizer/position.py"],"langs":["lat","fra"]}
+{"date":1614343836987,"name":"chartes/capitainizer","url":"https://github.com/chartes/capitainizer","desc":"Conversion d’un corpus TEI selon les guidelines Capitains","langs":["lat","fra"],"count":2,"created":"2020-10-01T13:33:27Z","files":["templates/edition.xml"]}

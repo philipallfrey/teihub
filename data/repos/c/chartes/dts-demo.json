@@ -1,1 +1,0 @@
-{"date":1590816600325,"name":"chartes/dts-demo","url":"https://github.com/chartes/dts-demo","desc":"A simple webapp to demonstrate some DTS features","files":["app/static/xsl/tei2html.xsl","app/static/xsl/teiHeader2html.xsl","app/static/xsl/tei2txt.xsl","app/static/xsl/common.xsl","app/static/xsl/tei.rdfs"],"langs":[]}
