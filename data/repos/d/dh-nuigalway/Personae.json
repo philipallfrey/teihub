@@ -1,1 +1,1 @@
-{"date":1590816598629,"name":"dh-nuigalway/Personae","url":"https://github.com/dh-nuigalway/Personae","desc":"A Character-Visualisation Tool for Dramatic Texts","files":["data-processing/input/xml/coe/nvs.rng","data-processing/input/xml/wt/nvs.rng"],"langs":[]}
+{"date":1590816598629,"name":"dh-nuigalway/Personae","url":"https://github.com/dh-nuigalway/Personae","desc":"A Character-Visualisation Tool for Dramatic Texts","langs":[],"count":2,"created":"2016-07-29T15:15:18Z","files":["data-processing/input/xml/coe/coe_driver.xml","data-processing/input/xml/wt/wt_driver.xml"]}

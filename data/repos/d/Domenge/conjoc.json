@@ -1,1 +1,0 @@
-{"date":1590816563486,"name":"Domenge/conjoc","url":"https://github.com/Domenge/conjoc","desc":"Class library for conjugating some occitan dialects (lengadocian, provençal, gascon). Expandable, ready for leveraging, this class library is used in a Drupal module but can be ported to any environment.","files":["php/includes/ConverterTEI.inc"],"langs":[]}

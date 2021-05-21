@@ -1,1 +1,0 @@
-{"date":1590816596053,"name":"d-flood/Tendon","url":"https://github.com/d-flood/Tendon","desc":"A tool for connecting the Online Transcription Editor (OTE) and the Collation Editor maintained by ITSEE and INTF. Tendon manages the workflow from transcription output to collation input.","files":["py/xml_to_text.py","py/xml_to_json.py"],"langs":[]}
