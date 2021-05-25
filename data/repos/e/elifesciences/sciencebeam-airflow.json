@@ -1,1 +1,0 @@
-{"date":1590816569868,"name":"elifesciences/sciencebeam-airflow","url":"https://github.com/elifesciences/sciencebeam-airflow","desc":"Airflow pipeline for ScienceBeam related training and evaluation","files":["Makefile","tests/sciencebeam_watch_experiments_test.py"],"langs":[]}

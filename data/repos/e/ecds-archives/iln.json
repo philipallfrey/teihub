@@ -1,1 +1,0 @@
-{"date":1590816593453,"name":"ecds-archives/iln","url":"https://github.com/ecds-archives/iln","desc":"presenting the Illustrated London News","files":["iln_app/xslt/teiheader-dc.xsl","iln_app/models.py","iln_app/xslt/common.xsl"],"langs":[]}

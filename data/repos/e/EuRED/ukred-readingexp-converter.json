@@ -1,1 +1,1 @@
-{"date":1590816587716,"name":"EuRED/ukred-readingexp-converter","url":"https://github.com/EuRED/ukred-readingexp-converter","desc":"PHP Converter from UK Red CSV to TEI Reading Exp structure - http://eured.univ-lemans.fr","files":["convert.php","target.xml"],"langs":["fra"]}
+{"date":1590816587716,"name":"EuRED/ukred-readingexp-converter","url":"https://github.com/EuRED/ukred-readingexp-converter","desc":"PHP Converter from UK Red CSV to TEI Reading Exp structure - http://eured.univ-lemans.fr","langs":["fra"],"count":2,"created":"2016-04-15T19:22:39Z","files":["target.xml"]}

@@ -1,1 +1,0 @@
-{"date":1590816553659,"name":"ecds/teifacsimile-to-jekyll","url":"https://github.com/ecds/teifacsimile-to-jekyll","desc":" Jekyll site generator that builds from annotated TEI facsimile data.","files":["lib/teifacsimile_to_jekyll/tei.rb"],"langs":[]}

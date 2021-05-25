@@ -1,1 +1,1 @@
-{"date":1590816599893,"name":"e-ditiones/SEG17","url":"https://github.com/e-ditiones/SEG17","desc":"Script processing segmentation, normalization and lemmatization of XML-TEI encoded files.","files":["Dictionaries/intermediary_dict.xml","XSLT/Level-2_to_level-3.xsl"],"langs":[]}
+{"date":1590816599893,"name":"e-ditiones/SEG17","url":"https://github.com/e-ditiones/SEG17","desc":"Script processing segmentation, normalization and lemmatization of XML-TEI encoded files.","langs":[],"count":2,"created":"2020-05-08T13:04:33Z","files":["Dictionaries/intermediary_dict.xml"]}

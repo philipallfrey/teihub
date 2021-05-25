@@ -1,1 +1,1 @@
-{"date":1590816571898,"name":"ecds/namedropper-py","url":"https://github.com/ecds/namedropper-py","desc":"Python module and scripts for identifying names and linking them to authoritative identifiers","files":["test/fixtures/ILNnamesTestSample.xml"],"langs":[]}
+{"date":1590816571898,"name":"ecds/namedropper-py","url":"https://github.com/ecds/namedropper-py","desc":"Python module and scripts for identifying names and linking them to authoritative identifiers","langs":[],"count":1,"created":"2012-11-16T20:11:43Z","files":["test/fixtures/ILNnamesTestSample.xml"]}
