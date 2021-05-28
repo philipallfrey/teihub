@@ -1,1 +1,1 @@
-{"date":1590816600974,"name":"FranklinChen/micase-to-chat","url":"https://github.com/FranklinChen/micase-to-chat","desc":"Convert MICASE XML documents to CHAT","files":["src/main/xsd/micasex.xsd","src/test/resources/adv700ju023.xml","micasex.dtd"],"langs":[]}
+{"date":1590816600974,"name":"FranklinChen/micase-to-chat","url":"https://github.com/FranklinChen/micase-to-chat","desc":"Convert MICASE XML documents to CHAT","langs":[],"created":"2013-12-11T21:23:44Z","files":["src/test/resources/adv700ju023.xml"]}
