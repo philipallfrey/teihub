@@ -1,1 +1,1 @@
-{"date":1590816598861,"name":"gimsieke/sxedit","url":"https://github.com/gimsieke/sxedit","desc":"XML editor based on Saxon CE, CKEditor, and BaseX","files":["customizations/TEI_P5/html2tei.xsl","auxiliary/TEI_P5/Project_Gutenberg/P5/tei_vdf.rng"],"langs":[]}
+{"date":1590816598861,"name":"gimsieke/sxedit","url":"https://github.com/gimsieke/sxedit","desc":"XML editor based on Saxon CE, CKEditor, and BaseX","langs":[],"created":"2013-11-15T13:45:53Z","files":["auxiliary/TEI_P5/Project_Gutenberg/P5/32856.tei.xml","auxiliary/TEI_P5/Project_Gutenberg/PG/32856.tei.xml"]}

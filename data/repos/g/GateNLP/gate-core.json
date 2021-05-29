@@ -1,1 +1,0 @@
-{"date":1590816593061,"name":"GateNLP/gate-core","url":"https://github.com/GateNLP/gate-core","desc":"The GATE Embedded core API and GATE Developer application ","files":["src/test/resources/gate/resources/texts/bnc/bnc.xml","src/test/resources/gate/resources/gate.ac.uk/tests/xml/dtd/xheader.elt","src/test/resources/gate/resources/texts/xces/dtd/xheader.elt"],"langs":[]}

@@ -1,1 +1,1 @@
-{"date":1590816599263,"name":"gitpan/Text-Tradition","url":"https://github.com/gitpan/Text-Tradition","desc":"Read-only release history for Text-Tradition","files":["t/data/florilegium_tei_cte.xml","t/data/florilegium_tei_ps.xml"],"langs":[]}
+{"date":1590816599263,"name":"gitpan/Text-Tradition","url":"https://github.com/gitpan/Text-Tradition","desc":"Read-only release history for Text-Tradition","langs":[],"created":"2014-10-22T01:17:48Z","files":["t/data/florilegium_tei_cte.xml","t/data/florilegium_tei_ps.xml","t/data/witnesses/group.xml","t/data/witnesses/teiwit.xml"]}

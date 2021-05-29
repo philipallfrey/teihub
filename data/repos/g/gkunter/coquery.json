@@ -1,1 +1,0 @@
-{"date":1590816599465,"name":"gkunter/coquery","url":"https://github.com/gkunter/coquery","desc":"Coquery is a free corpus query tool for linguists, lexicographers, translators, and anybody who wishes to search and analyse a text corpus.","files":["coquery/installer/coq_install_bnc.py","coquery/corpusbuilder.py","test/test_corpusbuilder.py"],"langs":[]}

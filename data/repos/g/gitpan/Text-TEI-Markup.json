@@ -1,1 +1,1 @@
-{"date":1590816600303,"name":"gitpan/Text-TEI-Markup","url":"https://github.com/gitpan/Text-TEI-Markup","desc":"Read-only release history for Text-TEI-Markup","files":["lib/Text/TEI/Markup.pm","t/02markup.t"],"langs":[]}
+{"date":1590816600303,"name":"gitpan/Text-TEI-Markup","url":"https://github.com/gitpan/Text-TEI-Markup","desc":"Read-only release history for Text-TEI-Markup","langs":[],"created":"2014-10-22T13:41:07Z","files":["t/data/test_nest.xml","t/data/test_nowrap.xml","t/data/test_wrap.xml"]}

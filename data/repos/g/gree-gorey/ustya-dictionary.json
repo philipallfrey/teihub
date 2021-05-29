@@ -1,1 +1,1 @@
-{"date":1590816593058,"name":"gree-gorey/ustya-dictionary","url":"https://github.com/gree-gorey/ustya-dictionary","desc":"Web app for Dictionary of Ustya dialect (Russian)","files":["parsing/parse.py","app/export_tei.py"],"langs":[]}
+{"date":1590816593058,"name":"gree-gorey/ustya-dictionary","url":"https://github.com/gree-gorey/ustya-dictionary","desc":"Web app for Dictionary of Ustya dialect (Russian)","langs":[],"created":"2017-03-29T19:16:30Z","files":["parsing/output.xml"]}

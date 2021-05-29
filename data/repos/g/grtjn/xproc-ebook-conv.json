@@ -1,1 +1,1 @@
-{"date":1590816600995,"name":"grtjn/xproc-ebook-conv","url":"https://github.com/grtjn/xproc-ebook-conv","desc":"XProc E-Book Processor","files":["dtd/teixlite.dtd","src/nl/grtjn/xproc/ebook/input-adapters/tei/get-metadata.xsl","src/nl/grtjn/xproc/ebook/input-adapters/tei/get-front-matter.xsl"],"langs":[]}
+{"date":1590816600995,"name":"grtjn/xproc-ebook-conv","url":"https://github.com/grtjn/xproc-ebook-conv","desc":"XProc E-Book Processor","langs":[],"created":"2011-10-21T06:43:03Z","files":["in/mult001mill01_01.xml"]}
