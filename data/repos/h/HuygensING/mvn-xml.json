@@ -1,1 +1,1 @@
-{"date":1611597478820,"name":"HuygensING/mvn-xml","url":"https://github.com/HuygensING/mvn-xml","desc":"XML for Huygens ING MVN editions","files":["docu/Richtlijnen MVN digitaal.xml","schema/TEI_MVN.xml","framework/mvn/templates/TEI_MVN_nieuw_document.xml"],"langs":[]}
+{"date":1611597478820,"name":"HuygensING/mvn-xml","url":"https://github.com/HuygensING/mvn-xml","desc":"XML for Huygens ING MVN editions","langs":[],"created":"2021-01-25T08:45:19Z","files":["docu/Richtlijnen MVN digitaal.xml","framework/mvn/templates/TEI_MVN_nieuw_document.xml","schema/TEI_MVN.xml"]}
