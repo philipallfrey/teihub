@@ -1,1 +1,1 @@
-{"date":1590816578375,"name":"INL/COBALT","url":"https://github.com/INL/COBALT","desc":"Corpus annotation tool","files":["Tokenizer_with_XMLFunctionality/xmlParser/EventHandler/buildTeiEntry.2012-02-06.pm","Tokenizer_with_XMLFunctionality/xmlParser/EventHandler/buildTeiEntry.pm"],"langs":[]}
+{"date":1590816578375,"name":"INL/COBALT","url":"https://github.com/INL/COBALT","desc":"Corpus annotation tool","langs":[],"created":"2015-04-02T09:01:19Z","files":["Documentation/exampleData/_vol002volm01_01.tok.frogmodernized.sampled.tei.xml"]}

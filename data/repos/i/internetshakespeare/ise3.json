@@ -1,1 +1,0 @@
-{"date":1590816600255,"name":"internetshakespeare/ise3","url":"https://github.com/internetshakespeare/ise3","desc":"Proof-of-concept infrastructure for the creation of a \"static\" TEI version of the Internet Shakespeare Editions","files":["schema/out/ise.rng","xsl/create_proofing_xhtml.xsl","schema/ise.odd"],"langs":[]}

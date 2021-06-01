@@ -1,1 +1,1 @@
-{"date":1590816597690,"name":"INL/BlackLab","url":"https://github.com/INL/BlackLab","desc":"A corpus retrieval engine based on Apache Lucene","files":["core/doc/test-data/TEI P4.xml","core/src/test/resources/yaml/nodups.blf.yaml"],"langs":[]}
+{"date":1590816597690,"name":"INL/BlackLab","url":"https://github.com/INL/BlackLab","desc":"A corpus retrieval engine based on Apache Lucene","langs":[],"created":"2012-10-04T10:59:42Z","files":["core/doc/test-data/TEI P4.xml"]}

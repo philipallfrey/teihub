@@ -1,1 +1,1 @@
-{"date":1590816598583,"name":"inspirehep/invenio-grobid","url":"https://github.com/inspirehep/invenio-grobid","desc":"Invenio package for integration of the Grobid metadata extraction service","files":["tests/fixtures/article.xml"],"langs":["eng"]}
+{"date":1590816598583,"name":"inspirehep/invenio-grobid","url":"https://github.com/inspirehep/invenio-grobid","desc":"Invenio package for integration of the Grobid metadata extraction service","langs":["eng"],"created":"2015-08-12T13:03:00Z","files":["tests/fixtures/article.xml"]}
