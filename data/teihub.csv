@@ -14,12 +14,12 @@
 1609333241174,"7h3f0x/Part-of-Speech-Tagging","https://github.com/7h3f0x/Part-of-Speech-Tagging","-","",635
 1590816600424,"7PartidasDigital/AnaText","https://github.com/7PartidasDigital/AnaText","Materiales del curso Análisis de textos y estilometría usando R","",21
 1622540935093,"7PartidasDigital/XML-TEI","https://github.com/7PartidasDigital/XML-TEI","Codificación XML-TEI de los testimonios de las Siete Partidas","spa",11
-1622642748898,"84000/data-tei","https://github.com/84000/data-tei","TEI files of the translations","san|eng|bod|pli|deu",4644
+1622670636306,"84000/data-tei","https://github.com/84000/data-tei","TEI files of the translations","san|eng|bod|pli|deu",4644
 1590816600998,"84000/data","https://github.com/84000/data","84000 XML data files","bod|san|eng|pli",4442
 1590816600823,"84000/translations","https://github.com/84000/translations","Repository for 84000 translations","san|eng|bod|emg",31
 1590816598985,"8Raouf24/Projet-S6","https://github.com/8Raouf24/Projet-S6","Repository for our works in the field of web semantic and structured documents","",2
 1590816595896,"84000/tei-scripts","https://github.com/84000/tei-scripts","Python TEI conversion scripts for 84000","",1
-1622051882504,"Ammeister/ProjetEchevinsDeStrasbourg","https://github.com/Ammeister/ProjetEchevinsDeStrasbourg","Projet de Master","gmh",5
+1622670636555,"Ammeister/ProjetEchevinsDeStrasbourg","https://github.com/Ammeister/ProjetEchevinsDeStrasbourg","Projet de Master","gmh",6
 1618852933939,"aso2101/prakrit_texts","https://github.com/aso2101/prakrit_texts","Digital texts in Prakrit","pka|eng|pra|san",18
 1616504154330,"axellelecroq/apollinaire-project","https://github.com/axellelecroq/apollinaire-project","Repository pour le projet collaboratif sur les poèmes manuscrits et le dossier de presse d'Alcools de Guillaume Apollinaire .","fra",56
 1618807944175,"amclark42/a-life-in-lists","https://github.com/amclark42/a-life-in-lists","A collection of lists. Self-maintained metadata, largely for my own use.","",12
@@ -380,22 +380,22 @@
 1622540935210,"agnesecam/CodificaFdS","https://github.com/agnesecam/CodificaFdS","Studio, progettazione e implementazione di un modello di codifica per la rappresentazione digitale, conservazione e pubblicazione degli appunti di Ferdinand de Saussure.","fra",2
 1621284149109,"AMGavrilescu/Esercizi","https://github.com/AMGavrilescu/Esercizi","-","",2
 1621400154978,"agile-humanities/ddhi-repository","https://github.com/agile-humanities/ddhi-repository","A development repository for the DDHI Oral History Project.","eng",88
-1622555880019,"Antonomaz/Corpus","https://github.com/Antonomaz/Corpus","Ce répertoire contient les mazarinades encodées en XML-TEI.","fra",307
+1622670636295,"Antonomaz/Corpus","https://github.com/Antonomaz/Corpus","Ce répertoire contient les mazarinades encodées en XML-TEI.","fra",597
 1622208914329,"Antonomaz/ODD","https://github.com/Antonomaz/ODD","Ce répertoire contient les schémas de validation des textes encodés ainsi que la documentation de l'encodage.","",3
 1621919813688,"adelaidelunardi/esame-lunardi","https://github.com/adelaidelunardi/esame-lunardi","Esame per il corso di DH ","",1
 1622575349477,"acdh-oeaw/legalkraus-documentation","https://github.com/acdh-oeaw/legalkraus-documentation","Documentation and Schemas of the Project ""Karl Kraus Legal Papers""","",2
 1622628973304,"Ariannads99/Codifica-di-Testi-20-21","https://github.com/Ariannads99/Codifica-di-Testi-20-21","-","",4
 1622642748808,"Brown-University-Library/iip-texts","https://github.com/Brown-University-Library/iip-texts","IIP inscriptions encoded in Epidoc XML and supporting files","grc|heb|lat|arc|kat|x-unknown|phn",9109
 1614430164909,"Beth-Mardutho/hugoye-data","https://github.com/Beth-Mardutho/hugoye-data","Data repository for Hugoye TEI records. ","eng|ita|ara|cop|chu|deu|spa|fra|gez|grc|hye|kat|lat|nld|por|rus|sog|syr",623
-1622642748302,"bodleian/medieval-mss","https://github.com/bodleian/medieval-mss","Medieval Manuscripts in Oxford Libraries: TEI catalogue descriptions","lat|fra|eng|grc|deu|nld|por|ita|zxx|cor|cym|spa|chu|isl|rus|ell|gle|cat|cop|ara|heb|ces|enm",10283
+1622670636327,"bodleian/medieval-mss","https://github.com/bodleian/medieval-mss","Medieval Manuscripts in Oxford Libraries: TEI catalogue descriptions","lat|fra|eng|grc|deu|nld|por|ita|zxx|cor|cym|spa|chu|isl|rus|ell|gle|cat|cop|ara|heb|ces|enm",10283
 1622575349475,"BetaMasaheft/Works","https://github.com/BetaMasaheft/Works","Ethiopian Literature edited in TEI","eng|gez|tir|ara|syr|grc|lat|amh|ita|heb|deu|cop|kat|pal|fra",4716
 1622555880022,"BetaMasaheft/Persons","https://github.com/BetaMasaheft/Persons","Authority files for each person","eng|gez|grc|ara|cop|ita|por|lat|syr|amh|rus|deu|tir",13431
-1622642748723,"BetaMasaheft/Manuscripts","https://github.com/BetaMasaheft/Manuscripts","Manuscripts descriptions","gez|grc|eng|ara|tir|ita|amh|lat|fra|deu|spa|rus|cop|heb|syr",15491
+1622670636451,"BetaMasaheft/Manuscripts","https://github.com/BetaMasaheft/Manuscripts","Manuscripts descriptions","gez|grc|eng|ara|tir|ita|amh|lat|fra|deu|spa|rus|cop|heb|syr",15517
 1616504154654,"Beth-Mardutho/surayt-data","https://github.com/Beth-Mardutho/surayt-data","-","tru|ara|cop|chu|deu|eng|spa|fra|gez|grc|hye|ita|kat|lat|nld|por|rus|sog|syr",185
 1614933918592,"BucknellDSC/florentineCodex","https://github.com/BucknellDSC/florentineCodex","Florentine Codex Project","spa|nau|spn",80
 1617943968935,"BetaMasaheft/guidelines","https://github.com/BetaMasaheft/guidelines","source files of the new encoding guidelines edited in XML","gez|eng|amh|tir|rus|lat|ara|ita",219
 1617741695935,"BucknellDSC/suzette","https://github.com/BucknellDSC/suzette","-","fra|eng",210
-1622122070078,"Brown-University-Library/usep-data","https://github.com/Brown-University-Library/usep-data","inscriptions and related data files for 'http://library.brown.edu/projects/usep/'","grc|lat|und|ett|zxx|etr|xrr|phn",3151
+1622670636999,"Brown-University-Library/usep-data","https://github.com/Brown-University-Library/usep-data","inscriptions and related data files for 'http://library.brown.edu/projects/usep/'","grc|lat|und|ett|zxx|etr|xrr|phn",3159
 1598257934097,"BetaMasaheft/Narrative","https://github.com/BetaMasaheft/Narrative","Narrative units","",179
 1621154829003,"brucemiller/LaTeXML","https://github.com/brucemiller/LaTeXML","LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.","",1
 1597869129958,"bodleian/karchak-mss","https://github.com/bodleian/karchak-mss","Tibetan MSS TEI Catalogue","bod|eng",1388
@@ -550,8 +550,8 @@
 1620148359510,"bryanachristman/DaughteroftheSamurai","https://github.com/bryanachristman/DaughteroftheSamurai","-","jpn",2
 1622540935211,"Bess6598/codifica_di_testi","https://github.com/Bess6598/codifica_di_testi","Esercizi corso di Codifica di testi, Informatica Umanistica, Università di Pisa, Anno accademico 2020/2021","eng|fra|ita",7
 1622540935242,"beatrice57/mcvf-plus-ppchf","https://github.com/beatrice57/mcvf-plus-ppchf","MCVF plus Penn-BFM Parsed Corpus of Historical French","fra",44
-1622642748266,"cceh/pessoa","https://github.com/cceh/pessoa","Digital Edition of Fernando Pessoa","por|eng|deu|fra",522
-1622642748693,"CivilWarGovernorsOfKentucky/Documents","https://github.com/CivilWarGovernorsOfKentucky/Documents","CWGK Documents in TEI-XML Format","",21943
+1622670636391,"cceh/pessoa","https://github.com/cceh/pessoa","Digital Edition of Fernando Pessoa","por|eng|deu|fra",522
+1622670636480,"CivilWarGovernorsOfKentucky/Documents","https://github.com/CivilWarGovernorsOfKentucky/Documents","CWGK Documents in TEI-XML Format","",21946
 1622540935061,"clarin-eric/ParlaMint","https://github.com/clarin-eric/ParlaMint","ParlaMint: Comparable Parliamentary Corpora","ces|slv|bul|nld|eng|dan|ron|isl|hrv|ita|hun|lav|spa|fra",175
 1614343836995,"COST-ELTeC/ELTeC-srp-ext","https://github.com/COST-ELTeC/ELTeC-srp-ext","-","srp",8
 1622208914385,"COST-ELTeC/ELTeC-srp","https://github.com/COST-ELTeC/ELTeC-srp","-","srp",95
@@ -951,7 +951,7 @@
 1622520828998,"corpusnormae/corpusnormae","https://github.com/corpusnormae/corpusnormae","El repositorio para la publicación del proyecto.","spa",1
 1622575349420,"Conal-Tuohy/vmcp","https://github.com/Conal-Tuohy/vmcp","Ferdinand von Mueller correspondence","",1
 1614430164991,"DallasAustin/The-Dallas-Chronicles-","https://github.com/DallasAustin/The-Dallas-Chronicles-","-","",1
-1622208914291,"Digital-Humanities-Quarterly/dhq-journal","https://github.com/Digital-Humanities-Quarterly/dhq-journal","-","eng|spa|fra|lat|ita",1215
+1622670636462,"Digital-Humanities-Quarterly/dhq-journal","https://github.com/Digital-Humanities-Quarterly/dhq-journal","-","eng|spa|fra|lat|ita",1215
 1620290707639,"Descot21/Lycian","https://github.com/Descot21/Lycian","A systematic digital corpus of Lycian texts","",52
 1620809270640,"dracor-org/gerdracor","https://github.com/dracor-org/gerdracor","German Drama Corpus","deu|ger",538
 1604161955209,"djakacki/suzette","https://github.com/djakacki/suzette","-","fra|eng",210
@@ -1087,7 +1087,7 @@
 1590816600937,"DILA-edu/bza-xml","https://github.com/DILA-edu/bza-xml","別譯雜阿含專案 XML 及說明","pli|san|bod|eng|uig",1504
 1590816600863,"djakacki/moravianlives","https://github.com/djakacki/moravianlives","-","eng|deu",178
 1590816600710,"DHBern/DD2016","https://github.com/DHBern/DD2016","Repository for the FS2016 Digital Data class","grc|eng|fra",171
-1622642748997,"dsldk/tycho-brahe","https://github.com/dsldk/tycho-brahe","-","lat|deu|dan",558
+1622670636549,"dsldk/tycho-brahe","https://github.com/dsldk/tycho-brahe","-","lat|deu|dan",558
 1590816600695,"duncdrum/cbdb-data","https://github.com/duncdrum/cbdb-data","China Biographical Database (CBDB) data for use with exist-db.","zho|eng",5
 1590816600964,"dlschwartz/HIST280","https://github.com/dlschwartz/HIST280","This repo contains a TEI encoding of the Select Letters of Severus of Antioch for using in HIST 280: The Historians Craft at Texas A&M University.","",123
 1590816597543,"dwight911pdx/Richard-Allen","https://github.com/dwight911pdx/Richard-Allen","-","eng",1
@@ -1304,7 +1304,7 @@
 1620407924480,"DHd-Verband/DHd-Abstracts-2018","https://github.com/DHd-Verband/DHd-Abstracts-2018","-","",160
 1620407924320,"DHd-Verband/DHd-Abstracts-2019","https://github.com/DHd-Verband/DHd-Abstracts-2019","-","",137
 1620407924185,"DHd-Verband/DHd-Abstracts-2020","https://github.com/DHd-Verband/DHd-Abstracts-2020","-","",137
-1622642748271,"dchanson/Ruskin","https://github.com/dchanson/Ruskin","-","",1356
+1622670636550,"dchanson/Ruskin","https://github.com/dchanson/Ruskin","-","",1356
 1620667222421,"daniel-gomm/kd-documents","https://github.com/daniel-gomm/kd-documents","-","tur",20
 1621154829171,"dmgustavhi/dmgustavhi.github.io","https://github.com/dmgustavhi/dmgustavhi.github.io","Repository for Kanikau","",12
 1621313982499,"d-flood/MarkdownTEI","https://github.com/d-flood/MarkdownTEI","convert a repurposed subset of markdown syntax to valid TEI XML designed to be compatible with the IGNTP specifications","grc",2
@@ -1315,16 +1315,16 @@
 1622540935207,"DomiElia/EserciziCodifica","https://github.com/DomiElia/EserciziCodifica","-","",3
 1622642748776,"digicademy/xml-modellieren-strukturieren-repraesentieren","https://github.com/digicademy/xml-modellieren-strukturieren-repraesentieren","Dieses Repositoriums enthält die Folien und die Übungsmaterialien zur Datenmodellierung und Datenverarbeitung in XML der Veranstaltung ""Grundlagen Digitaler Methodik in den Geistes- und Kulturwissenschaften"". Zusätzlich finden sich Folien zu TEI-XML und TEI-EpiDoc","",1
 1614430164996,"emidrouin/EDN6101-ateliers_et_travaux","https://github.com/emidrouin/EDN6101-ateliers_et_travaux","Travaux réalisés dans le cadre du cours EDN6101 - Édition critique avec la TEI (hiver 2021)","fra",4
-1622642748217,"erc-dharma/tfc-khmer-epigraphy","https://github.com/erc-dharma/tfc-khmer-epigraphy","This repository assembles data produced by the project Corpus des inscriptions khmères (before and during the DHARMA project).","eng|fra|san|x-oldkhmer|x-middlekhmer",614
+1622670636393,"erc-dharma/tfc-khmer-epigraphy","https://github.com/erc-dharma/tfc-khmer-epigraphy","This repository assembles data produced by the project Corpus des inscriptions khmères (before and during the DHARMA project).","eng|fra|san|x-oldkhmer|x-middlekhmer",614
 1622280352015,"erc-dharma/tfb-vengicalukya-epigraphy","https://github.com/erc-dharma/tfb-vengicalukya-epigraphy","DHARMA project Task Force B, Eastern Cālukya epigraphic corpus.","eng|san|fra|tel",65
 1616936295747,"ethiopicist/texts","https://github.com/ethiopicist/texts","TEI-encoded texts.","",2
 1622628973283,"erc-dharma/tfc-nusantara-epigraphy","https://github.com/erc-dharma/tfc-nusantara-epigraphy","DHARMA project task force C, Nusantara epigraphic corpus ","kaw|eng|x-oldsun|ndl",215
-1622575349511,"erc-dharma/tfd-nusantara-philology","https://github.com/erc-dharma/tfd-nusantara-philology","DHARMA project, task force D","san|kaw|x-oldsun|tam|kan|tel",23
+1622670636380,"erc-dharma/tfd-nusantara-philology","https://github.com/erc-dharma/tfd-nusantara-philology","DHARMA project, task force D","san|kaw|x-oldsun|tam|kan|tel",23
 1617328328551,"erc-dharma/tfa-tamilnadu-epigraphy","https://github.com/erc-dharma/tfa-tamilnadu-epigraphy","DHARMA project Task Force A Tamil Nadu, South India, Tamil Nadu (varia) epigraphic corpus.","",20
-1622628973278,"erc-dharma/project-documentation","https://github.com/erc-dharma/project-documentation","DHARMA Project Documentation","san|kaw|tam|kan|tel|eng",10
+1622670636452,"erc-dharma/project-documentation","https://github.com/erc-dharma/project-documentation","DHARMA Project Documentation","san|kaw|tam|kan|tel|eng",11
 1594269121053,"ebalzac/corpussecondaire","https://github.com/ebalzac/corpussecondaire","-","fra",204
 1611752304448,"eRougemont/livres","https://github.com/eRougemont/livres","Denis de Rougemont, les livres en XML/TEI","fra",38
-1621170108003,"erc-dharma/tfa-pallava-epigraphy","https://github.com/erc-dharma/tfa-pallava-epigraphy","DHARMA Task Force A Tamil Nadu, South India, Pallava corpus","eng|tam|fra",309
+1622670636386,"erc-dharma/tfa-pallava-epigraphy","https://github.com/erc-dharma/tfa-pallava-epigraphy","DHARMA Task Force A Tamil Nadu, South India, Pallava corpus","eng|tam|fra",317
 1611597478572,"eRougemont/articles","https://github.com/eRougemont/articles","Denis de Rougemont, compilations d’articles de revue en XML/TEI","fra",10
 1613983055055,"eeditiones/tei-publisher-app","https://github.com/eeditiones/tei-publisher-app","The main TEI Publisher app","spa|lat|fra|eng|pol",14
 1619513293990,"erc-dharma/tfb-telugu-epigraphy","https://github.com/erc-dharma/tfb-telugu-epigraphy","DHARMA project Task Force B Telugu epigraphic corpus","eng|tel",196
@@ -1332,7 +1332,7 @@
 1601901457554,"ejmbrauchler/BullingerWebApp","https://github.com/ejmbrauchler/BullingerWebApp","-","eng",3
 1600936390654,"erinnerungslandschaft/dataProcessing","https://github.com/erinnerungslandschaft/dataProcessing","-","",2
 1622642748809,"erc-dharma/tfc-campa-epigraphy","https://github.com/erc-dharma/tfc-campa-epigraphy","DHARMA project Task Force C Campa epigraphic corpus. Some files have be reused from the Corpus of the Inscriptions of Campā.","fra|san|x-oldcham|eng",144
-1621500494156,"erc-dharma/tfb-maitraka-epigraphy","https://github.com/erc-dharma/tfb-maitraka-epigraphy","DHARMA project Task Force B, Maitraka epigraphic corpus.","san|eng",85
+1622670636297,"erc-dharma/tfb-maitraka-epigraphy","https://github.com/erc-dharma/tfb-maitraka-epigraphy","DHARMA project Task Force B, Maitraka epigraphic corpus.","san|eng",85
 1611910326722,"erc-dharma/tfb-eiad-epigraphy","https://github.com/erc-dharma/tfb-eiad-epigraphy","Early Inscriptions of Āndhradeśa, DHARMA task force B","",173
 1613235800058,"erc-dharma/tfb-daksinakosala-epigraphy","https://github.com/erc-dharma/tfb-daksinakosala-epigraphy","-","",36
 1622628973301,"erc-dharma/tfb-bengalcharters-epigraphy","https://github.com/erc-dharma/tfb-bengalcharters-epigraphy","DHARMA project Task Force B, Bengal charters on copper plates, stones and other supports.","eng|san",31
@@ -1588,10 +1588,10 @@
 1621919813717,"entitiesofentities/mmconference","https://github.com/entitiesofentities/mmconference","-","",1
 1622051882537,"elviramercatanti/Codifica_Testimonianze_Orali_Voci_Dall_Inferno","https://github.com/elviramercatanti/Codifica_Testimonianze_Orali_Voci_Dall_Inferno","-","",5
 1622642748772,"Elisa-Ra/Codifica-di-testi-2021","https://github.com/Elisa-Ra/Codifica-di-testi-2021","Esercizi per il corso Codifica dei testi 2021","",3
-1622642748692,"ebalzac/theatre","https://github.com/ebalzac/theatre","Numérisation du théâtre de Balzac","fra",6
+1622670636394,"ebalzac/theatre","https://github.com/ebalzac/theatre","Numérisation du théâtre de Balzac","fra",6
 1622642748884,"fihristorg/fihrist-mss","https://github.com/fihristorg/fihrist-mss","Fihrist TEI Catalogue","fas|ara|gez|ota|swa|tur|lat|eng|syr|urd|ita|syc|kur|heb|jpr|msa|hau|uig|ave|chg",13518
-1622642748269,"fetes17/merveilles17","https://github.com/fetes17/merveilles17","-","fra",73
-1622642748768,"FloChiff/DAHNProject","https://github.com/FloChiff/DAHNProject","Project DAHN ""Digital Edition of historical manuscripts (correspondences)""","fra|deu|eng|lat|grc|ita|swa|nld",641
+1622670636392,"fetes17/merveilles17","https://github.com/fetes17/merveilles17","-","fra",73
+1622670636300,"FloChiff/DAHNProject","https://github.com/FloChiff/DAHNProject","Project DAHN ""Digital Edition of historical manuscripts (correspondences)""","fra|deu|eng|lat|grc|ita|swa|nld",641
 1596688340082,"filosofas/femgen","https://github.com/filosofas/femgen","Feminist genealogies","",10
 1616704907129,"fkettelhoit/wittgenstein-nachlass-xml","https://github.com/fkettelhoit/wittgenstein-nachlass-xml","5000 pages of Wittgenstein's Nachlass as XML","eng|deu",19
 1613364161070,"funkyfuture/delb","https://github.com/funkyfuture/delb","A library that provides an ergonomic model for XML encoded text documents (e.g. with TEI-XML).","deu",4
@@ -2042,7 +2042,7 @@
 1620722814179,"humboldtdigital/development","https://github.com/humboldtdigital/development","Playground! In Progress! Do not open this box","fra|eng|deu",16
 1611752304968,"humboldtdigital/ediarum.PROHD.edit","https://github.com/humboldtdigital/ediarum.PROHD.edit","Last public release of ediarum framework for Proyecto Humboldt Digital including localization into Spanish","fra|deu",7
 1614242771912,"HistoryAtState/frus","https://github.com/HistoryAtState/frus","Foreign Relations of the United States - TEI XML source files","",544
-1614055409210,"hdcaicyt/Relacion-de-las-cosas-sucedidas","https://github.com/hdcaicyt/Relacion-de-las-cosas-sucedidas","-","spa",1
+1622670636476,"hdcaicyt/Relacion-de-las-cosas-sucedidas","https://github.com/hdcaicyt/Relacion-de-las-cosas-sucedidas","-","spa",1
 1614069827063,"HCMID/validatormodel","https://github.com/HCMID/validatormodel","-","grc|eng",7
 1611062807694,"hawc2/beggarsopera","https://github.com/hawc2/beggarsopera","CeTEIcean demo for beggars opera","deu",2
 1611062807666,"HCMID/bnflat981","https://github.com/HCMID/bnflat981","Ptolemy, Cosmographia in MS BNF latin 981","",1
@@ -2271,7 +2271,7 @@
 1598099517019,"innawendell/European_Comedy","https://github.com/innawendell/European_Comedy","The quantitative study of the evolution of the Russian and French 5-act comedy in verse.","fra|rus",115
 1599526896066,"istex/odd-istex","https://github.com/istex/odd-istex","Schéma ODD TEI pour le projet ISTEX","",1
 1620103817003,"iwein-digital/transcriptions","https://github.com/iwein-digital/transcriptions","Manuscript transcriptions","",39
-1622642748897,"IreneVagionakis/Fiscus_bis","https://github.com/IreneVagionakis/Fiscus_bis","Fiscus database","rus|eng|grc",477
+1622670636382,"IreneVagionakis/Fiscus_bis","https://github.com/IreneVagionakis/Fiscus_bis","Fiscus database","rus|eng|grc",477
 1594960319817,"ilovan/cwrc-writer-samples","https://github.com/ilovan/cwrc-writer-samples","-","eng|ita|lat",9
 1618420854017,"IreneVagionakis/CretanInscriptions","https://github.com/IreneVagionakis/CretanInscriptions","An EFES EpiDoc collection of inscriptions pertaining to Cretan institutions (VII-I century BC)","grc|ara|eng|fra|deu|ell|heb|ita|lat|rus",627
 1619686009993,"i-d-e/ride","https://github.com/i-d-e/ride","A review journal for digital editions and resources","eng|fra|deu",143
@@ -2375,347 +2375,207 @@
 1620463496974,"inoblivionem/xslt-playground","https://github.com/inoblivionem/xslt-playground","trying funny things with xslt","",10
 1622258397234,"IvanAntiba/ParlaMint","https://github.com/IvanAntiba/ParlaMint","-","cat|eng",217
 1616763479938,"igdj/demo-edition","https://github.com/igdj/demo-edition","Demo edition showing the use of igdj/tei-edition-bundle ","deu",4
-1619513293613,"jhellingman/tei2html","https://github.com/jhellingman/tei2html","XSLT stylesheets to convert TEI to HTML and ePub format.","eng|nld|lat|deu|fra",45
-1607909602356,"Jean-Baptiste-Camps/Geste","https://github.com/Jean-Baptiste-Camps/Geste","Un corpus de chansons de geste","fro|xno|wln|fra",61
+1619513293613,"jhellingman/tei2html","https://github.com/jhellingman/tei2html","XSLT stylesheets to convert TEI to HTML and ePub format.","eng|nld|lat|deu|fra",8
+1607909602356,"Jean-Baptiste-Camps/Geste","https://github.com/Jean-Baptiste-Camps/Geste","Un corpus de chansons de geste","fro|xno|wln|fra",40
 1595349137180,"jakub-simek/czech-georgica","https://github.com/jakub-simek/czech-georgica","New Czech verse translation of Virgil's Georgica","",1
 1594226067102,"jakub-simek/carmina","https://github.com/jakub-simek/carmina","Carmina de cultura hortorum minora","",2
-1601901457823,"jcowey/P3","https://github.com/jcowey/P3","This is intended as a sandbox for the Papyrological Publishing Platform (P3). Files and mock ups may be found here.","fra|eng|deu|ita|spa|lat|ell|grc",18
-1604608355494,"joeytakeda/joeytakeda.github.io","https://github.com/joeytakeda/joeytakeda.github.io","-","",5
-1601038006232,"juleetanner/Richelieu","https://github.com/juleetanner/Richelieu","-","fra",70
-1605890868950,"jjmccollum/open-cbgm","https://github.com/jjmccollum/open-cbgm","Fast, compact, open-source, TEI-compliant C++ implementation of the Coherence-Based Genealogical Method","grc",6
-1594960319574,"JessedeDoes/clariah-wp6-scripts","https://github.com/JessedeDoes/clariah-wp6-scripts","Conversion scripts for CLARIAH wp6 use case","nld",80
-1604262762259,"jtauber/plato-texts","https://github.com/jtauber/plato-texts","Greek texts (eventually) with linguistic annotation (for Greek Learner Texts Project)","grc|eng|lat",13
+1601901457823,"jcowey/P3","https://github.com/jcowey/P3","This is intended as a sandbox for the Papyrological Publishing Platform (P3). Files and mock ups may be found here.","fra|eng|deu|ita|spa|lat|ell|grc",10
+1604608355494,"joeytakeda/joeytakeda.github.io","https://github.com/joeytakeda/joeytakeda.github.io","-","",3
+1601038006232,"juleetanner/Richelieu","https://github.com/juleetanner/Richelieu","-","fra",67
+1605890868950,"jjmccollum/open-cbgm","https://github.com/jjmccollum/open-cbgm","Fast, compact, open-source, TEI-compliant C++ implementation of the Coherence-Based Genealogical Method","grc",4
+1594960319574,"JessedeDoes/clariah-wp6-scripts","https://github.com/JessedeDoes/clariah-wp6-scripts","Conversion scripts for CLARIAH wp6 use case","nld",79
+1604262762259,"jtauber/plato-texts","https://github.com/jtauber/plato-texts","Greek texts (eventually) with linguistic annotation (for Greek Learner Texts Project)","grc|eng|lat",24
 1609823118014,"jakebeerli/Aelfric-Project","https://github.com/jakebeerli/Aelfric-Project","-","",1
 1611048090057,"JyLIU-emma/projet-documents-structures","https://github.com/JyLIU-emma/projet-documents-structures","construire un web app exist-db à partir des fichiers odt","",6
-1607590276119,"JamesMTucker/Damascus","https://github.com/JamesMTucker/Damascus","Critical Editions of Qumran Damascus Scrolls and Cairo Genizah Codices ","",5
-1607590276021,"Joachim-Raff-Archiv/jraOxygenXML","https://github.com/Joachim-Raff-Archiv/jraOxygenXML","Framework for OxygenXML to mangage data at Joachim-Raff-Archiv","",4
+1607590276021,"Joachim-Raff-Archiv/jraOxygenXML","https://github.com/Joachim-Raff-Archiv/jraOxygenXML","Framework for OxygenXML to mangage data at Joachim-Raff-Archiv","",1
 1610442689453,"jakevanderkolk/Digital-Humanities","https://github.com/jakevanderkolk/Digital-Humanities","-","deu|lat|ita",1
-1621602350998,"johnloque/bergson-synoptique","https://github.com/johnloque/bergson-synoptique","synoptic edition of Henri Bergson's major works (xml sources and binary txm corpus)","",4
-1616748384101,"jamescummings/REED","https://github.com/jamescummings/REED","Various work for REED project in Toronto","",6
+1621602350998,"johnloque/bergson-synoptique","https://github.com/johnloque/bergson-synoptique","synoptic edition of Henri Bergson's major works (xml sources and binary txm corpus)","",16
+1616748384101,"jamescummings/REED","https://github.com/jamescummings/REED","Various work for REED project in Toronto","",7
 1616504154651,"jadetex/jadetex","https://github.com/jadetex/jadetex","jadetex sources (from sourcefourge cvs)","",1
-1606394341960,"Joan-Tobe/TEI-Basetis-app","https://github.com/Joan-Tobe/TEI-Basetis-app","-","",24
+1606394341960,"Joan-Tobe/TEI-Basetis-app","https://github.com/Joan-Tobe/TEI-Basetis-app","-","",2
 1613667966387,"janiveer/Flecty","https://github.com/janiveer/Flecty","Mining Wiktionary to create machine-readable morphosyntactic dictionaries","",1
 1614603033017,"jason-prentice/digital-genesis","https://github.com/jason-prentice/digital-genesis","-","",3
-1602146030738,"juanmoo/bayer-ie","https://github.com/juanmoo/bayer-ie","CSAIL NLP | Bayer Project","eng",91
+1602146030738,"juanmoo/bayer-ie","https://github.com/juanmoo/bayer-ie","CSAIL NLP | Bayer Project","eng",109
 1603053245530,"jakub-simek/brachmann_terpnotes","https://github.com/jakub-simek/brachmann_terpnotes","A scholarly digital edition and translation of ""Johannes Brachmann: Terpnotes (Liegnitz 1600)"" ","",3
 1608295988857,"Jean-Baptiste-Camps/stemmatology","https://github.com/Jean-Baptiste-Camps/stemmatology","Stemmatological Analysis of Textual Traditions","",2
 1599726738705,"Joelpie/my_repo_110","https://github.com/Joelpie/my_repo_110","110 repo","",1
-1612544681300,"Jinntec/tuttle-demo","https://github.com/Jinntec/tuttle-demo","demo package for Tuttle git-integration","",8
+1612544681300,"Jinntec/tuttle-demo","https://github.com/Jinntec/tuttle-demo","demo package for Tuttle git-integration","",11
 1612544681256,"JamesMTucker/CommunityRule","https://github.com/JamesMTucker/CommunityRule","-","",53
-1600259648947,"JoernT/Fore","https://github.com/JoernT/Fore","-","",2
-1611149459254,"jmotis/IdEMB","https://github.com/jmotis/IdEMB","Code associated with A Text By Any Other Citation: Identifying Early Modern Printed Books","",2
+1600259648947,"JoernT/Fore","https://github.com/JoernT/Fore","-","",1
+1611149459254,"jmotis/IdEMB","https://github.com/jmotis/IdEMB","Code associated with A Text By Any Other Citation: Identifying Early Modern Printed Books","",1
 1600331551988,"jxta/2020-lectures","https://github.com/jxta/2020-lectures","-","",1
-1607432119008,"jarmoza/twic2","https://github.com/jarmoza/twic2","The newest version of the topic modeling visualization, ""Topic Words in Context""","",1684
-1600101169175,"JonathanReeve/jonreeve.com","https://github.com/JonathanReeve/jonreeve.com","My Personal Website","eng",4
-1616504154972,"JonasLauLau/AbesabesiGrammar","https://github.com/JonasLauLau/AbesabesiGrammar","This is the code for a digital reference grammar of Abesabesi. The running app can be found at http://abesabesi.cceh.uni-koeln.de/","",8
-1609879823633,"jaimeranchal/zenodotos","https://github.com/jaimeranchal/zenodotos","Proyecto de digitalización de textos en latín y griego antiguo.","",8
-1614791769396,"jbperry004/bliss_senior_thesis","https://github.com/jbperry004/bliss_senior_thesis","Repository containing notebooks for Bliss's senior thesis","eng|grc",345
-1590816600986,"JamesWolfe753/First1KGreek","https://github.com/JamesWolfe753/First1KGreek","A collection of Greek works from Homer to 250CE that do not already appear in the Perseus Digital Library (Open Greek and Latin Project)","grc|lat|fra|deu|eng|ell|cop|nld",936
-1590816600972,"jihunsuk/ChatBot","https://github.com/jihunsuk/ChatBot","-","",140
-1590816600994,"jmclawson/DHQ_TM","https://github.com/jmclawson/DHQ_TM","Digital Humanities Quarterly Topic Modeling","eng|fra",200
-1590816600965,"jawalsh/tei_text","https://github.com/jawalsh/tei_text","-","eng|fra|lat|grc|deu|spa|ita",8614
-1590816600976,"JEMHcorpus/corpora","https://github.com/JEMHcorpus/corpora","Repository for releases of corpora in JEMH","",2994
-1590816600970,"jfix/grobid-oecd-workingpapers","https://github.com/jfix/grobid-oecd-workingpapers","training data to improve the generic grobid model recognize and handle OECD working papers","eng",1523
-1590816600877,"joewiz/adst","https://github.com/joewiz/adst","Prototype app for browsing and searching Association for Diplomatic Studies and Training (ADST) Oral History Interviews","",1369
-1590816600827,"JonathanReeve/corpus-SHC-SimpleSHCStandard","https://github.com/JonathanReeve/corpus-SHC-SimpleSHCStandard","A submodule of the Shakespeare His Contemporaries corpus with standardized spelling.  ","eng|unk",441
-1590816600950,"jmolina116/latin-author-identifier","https://github.com/jmolina116/latin-author-identifier","[December 2016] Class Project: Latin Authorship Identification final project for a Machine Learning class.","lat|eng|deu|fra|ita",461
-1590816600902,"JamesWolfe753/Patrologia-Latina-Corrected","https://github.com/JamesWolfe753/Patrologia-Latina-Corrected","-","lat|grc",3659
-1590816600997,"jagrutichavan/grobid","https://github.com/jagrutichavan/grobid","-","eng|fra|deu|spa|ita|pol",41
-1590816600969,"jcboyd/pykelet","https://github.com/jcboyd/pykelet","Master thesis 2015","eng|fra|deu|spa|ita|pol",568
-1590816600141,"JonathanReeve/corpus-SHC-SimpleSHCb","https://github.com/JonathanReeve/corpus-SHC-SimpleSHCb","A submodule of the Shakespeare His Contemporaries corpus, containing the second section of the annotated corpus.","eng",4
-1590816600965,"jeddobson/ENGL64.05-19F","https://github.com/jeddobson/ENGL64.05-19F","Repository for Cultural Analytics (Fall 2019)","eng|fra|spa|lat|ita|nai",226
-1590816600943,"jeddobson/cdh","https://github.com/jeddobson/cdh","Critical Digital Humanities: The Search for a Methodology","eng|fra|spa|lat|ita|nai",225
-1590816600905,"JohannGillium/modern_english_ed","https://github.com/JohannGillium/modern_english_ed","-","eng|deu|lat|fra|ita|grk|san|ell|grc|rus",865
-1590816600934,"Jean-Baptiste-Camps/geste-nemo","https://github.com/Jean-Baptiste-Camps/geste-nemo","Publication of the Geste corpus with Nemo","fro|xno|fra",21
-1590816600998,"jgrossi/masters-met","https://github.com/jgrossi/masters-met","Metadata Extraction Test (MET) from my Masters' thesis","eng|por",110
-1590816597345,"jojo2234/probable-barnacle","https://github.com/jojo2234/probable-barnacle","Text encoding project, for university. The file named readme is written in Italian.","eng",5
-1590816600995,"jkaupp/DHQ","https://github.com/jkaupp/DHQ","Repository for IVMOOC 2015: Visualizing the Digital Humanities Project","eng|fra",192
-1590816600988,"jcowey/apd.data","https://github.com/jcowey/apd.data","Setting up repo for arabic data","fra|eng|deu|ita|spa|lat|ell",3772
-1590816600874,"johnflanigan/shakespeare-character-genders","https://github.com/johnflanigan/shakespeare-character-genders","-","eng|lat",41
-1590816600746,"Jean-Baptiste-Camps/HumNumCasa","https://github.com/Jean-Baptiste-Camps/HumNumCasa","-","fra",74
-1590816600999,"Jean-Baptiste-Camps/FoPhil-Neuchatel","https://github.com/Jean-Baptiste-Camps/FoPhil-Neuchatel","Formation en philologie numérique - École d'hiver | Neuchâtel, 12-16 février 2018","fra|deu",118
-1590816598739,"jawalsh/tei2html","https://github.com/jawalsh/tei2html","XSLT Stylesheets, etc. for TEI P5 to HTML transformations","",18
-1590816599000,"jamescummings/SRO-ODD","https://github.com/jamescummings/SRO-ODD","Stationers' Register Online, TEI Customization ODD files","",3
-1590816600998,"JocelynTriplett/Stylesheets-master","https://github.com/JocelynTriplett/Stylesheets-master","-","ava|srt|eng|fra|deu|spa|ita|kor|zho|lat|ell|srp|isl|cym|dan|lit|fro|heb|sqi|slv|non",165
-1590816600875,"jhu-digital-manuscripts/rosademo","https://github.com/jhu-digital-manuscripts/rosademo","Backend services for annotation interop demo","",408
-1590816600990,"jahsenglee/colenso_project","https://github.com/jahsenglee/colenso_project","-","",1500
-1590816600994,"Josh1994/ColensoWebsite","https://github.com/Josh1994/ColensoWebsite","Colenso website project written in nodeJS","",1334
-1590816600998,"JULIELab/DH","https://github.com/JULIELab/DH","-","",26
-1590816578469,"jamesgawley/cts_check","https://github.com/jamesgawley/cts_check","-","",3
+1600101169175,"JonathanReeve/jonreeve.com","https://github.com/JonathanReeve/jonreeve.com","My Personal Website","eng",2
+1616504154972,"JonasLauLau/AbesabesiGrammar","https://github.com/JonasLauLau/AbesabesiGrammar","This is the code for a digital reference grammar of Abesabesi. The running app can be found at http://abesabesi.cceh.uni-koeln.de/","",9
+1609879823633,"jaimeranchal/zenodotos","https://github.com/jaimeranchal/zenodotos","Proyecto de digitalización de textos en latín y griego antiguo.","",11
+1614791769396,"jbperry004/bliss_senior_thesis","https://github.com/jbperry004/bliss_senior_thesis","Repository containing notebooks for Bliss's senior thesis","eng|grc",367
+1590816600986,"JamesWolfe753/First1KGreek","https://github.com/JamesWolfe753/First1KGreek","A collection of Greek works from Homer to 250CE that do not already appear in the Perseus Digital Library (Open Greek and Latin Project)","grc|lat|fra|deu|eng|ell|cop|nld",1373
+1590816600994,"jmclawson/DHQ_TM","https://github.com/jmclawson/DHQ_TM","Digital Humanities Quarterly Topic Modeling","eng|fra",201
+1590816600965,"jawalsh/tei_text","https://github.com/jawalsh/tei_text","-","eng|fra|lat|grc|deu|spa|ita",10915
+1590816600976,"JEMHcorpus/corpora","https://github.com/JEMHcorpus/corpora","Repository for releases of corpora in JEMH","",3055
+1590816600970,"jfix/grobid-oecd-workingpapers","https://github.com/jfix/grobid-oecd-workingpapers","training data to improve the generic grobid model recognize and handle OECD working papers","eng",1546
+1590816600877,"joewiz/adst","https://github.com/joewiz/adst","Prototype app for browsing and searching Association for Diplomatic Studies and Training (ADST) Oral History Interviews","",1724
+1590816600827,"JonathanReeve/corpus-SHC-SimpleSHCStandard","https://github.com/JonathanReeve/corpus-SHC-SimpleSHCStandard","A submodule of the Shakespeare His Contemporaries corpus with standardized spelling.  ","eng|unk",509
+1590816600950,"jmolina116/latin-author-identifier","https://github.com/jmolina116/latin-author-identifier","[December 2016] Class Project: Latin Authorship Identification final project for a Machine Learning class.","lat|eng|deu|fra|ita",366
+1590816600902,"JamesWolfe753/Patrologia-Latina-Corrected","https://github.com/JamesWolfe753/Patrologia-Latina-Corrected","-","lat|grc",4241
+1590816600997,"jagrutichavan/grobid","https://github.com/jagrutichavan/grobid","-","eng|fra|deu|spa|ita|pol",17
+1590816600969,"jcboyd/pykelet","https://github.com/jcboyd/pykelet","Master thesis 2015","eng|fra|deu|spa|ita|pol",574
+1590816600141,"JonathanReeve/corpus-SHC-SimpleSHCb","https://github.com/JonathanReeve/corpus-SHC-SimpleSHCb","A submodule of the Shakespeare His Contemporaries corpus, containing the second section of the annotated corpus.","eng",296
+1590816600965,"jeddobson/ENGL64.05-19F","https://github.com/jeddobson/ENGL64.05-19F","Repository for Cultural Analytics (Fall 2019)","eng|fra|spa|lat|ita|nai",294
+1590816600943,"jeddobson/cdh","https://github.com/jeddobson/cdh","Critical Digital Humanities: The Search for a Methodology","eng|fra|spa|lat|ita|nai",294
+1590816600905,"JohannGillium/modern_english_ed","https://github.com/JohannGillium/modern_english_ed","-","eng|deu|lat|fra|ita|grk|san|ell|grc|rus",948
+1590816600934,"Jean-Baptiste-Camps/geste-nemo","https://github.com/Jean-Baptiste-Camps/geste-nemo","Publication of the Geste corpus with Nemo","fro|xno|fra",35
+1590816600998,"jgrossi/masters-met","https://github.com/jgrossi/masters-met","Metadata Extraction Test (MET) from my Masters' thesis","eng|por",112
+1590816597345,"jojo2234/probable-barnacle","https://github.com/jojo2234/probable-barnacle","Text encoding project, for university. The file named readme is written in Italian.","eng",2
+1590816600995,"jkaupp/DHQ","https://github.com/jkaupp/DHQ","Repository for IVMOOC 2015: Visualizing the Digital Humanities Project","eng|fra",195
+1590816600988,"jcowey/apd.data","https://github.com/jcowey/apd.data","Setting up repo for arabic data","fra|eng|deu|ita|spa|lat|ell",3846
+1590816600874,"johnflanigan/shakespeare-character-genders","https://github.com/johnflanigan/shakespeare-character-genders","-","eng|lat",43
+1590816600746,"Jean-Baptiste-Camps/HumNumCasa","https://github.com/Jean-Baptiste-Camps/HumNumCasa","-","fra",73
+1590816600999,"Jean-Baptiste-Camps/FoPhil-Neuchatel","https://github.com/Jean-Baptiste-Camps/FoPhil-Neuchatel","Formation en philologie numérique - École d'hiver | Neuchâtel, 12-16 février 2018","fra|deu",115
+1590816599000,"jamescummings/SRO-ODD","https://github.com/jamescummings/SRO-ODD","Stationers' Register Online, TEI Customization ODD files","",9
+1590816600998,"JocelynTriplett/Stylesheets-master","https://github.com/JocelynTriplett/Stylesheets-master","-","ava|srt|eng|fra|deu|spa|ita|kor|zho|lat|ell|srp|isl|cym|dan|lit|fro|heb|sqi|slv|non",61
+1590816600875,"jhu-digital-manuscripts/rosademo","https://github.com/jhu-digital-manuscripts/rosademo","Backend services for annotation interop demo","",415
+1590816600990,"jahsenglee/colenso_project","https://github.com/jahsenglee/colenso_project","-","",1503
+1590816600994,"Josh1994/ColensoWebsite","https://github.com/Josh1994/ColensoWebsite","Colenso website project written in nodeJS","",1342
+1590816600998,"JULIELab/DH","https://github.com/JULIELab/DH","-","",24
 1590816596894,"jochack/dig-eg-gaz","https://github.com/jochack/dig-eg-gaz","course work for IFS 2116","",2
-1590816599529,"JiangWenqi/GROBID-GUI","https://github.com/JiangWenqi/GROBID-GUI","科技论文逻辑结构抽取工具","",19
-1590816599212,"JonPrag/catania-museo-civico-mostra","https://github.com/JonPrag/catania-museo-civico-mostra","ISicily files for inscriptions in the Voci di Pietra exhibition, Catania Museo Civico 2017","eng|ita|lat|grc|osc|scx|heb",45
-1590816596973,"JohnAustinDev/osis-converters","https://github.com/JohnAustinDev/osis-converters","Automatically exported from code.google.com/p/osis-converters","",1
-1590816599794,"JonathanReeve/hs-tei-transform","https://github.com/JonathanReeve/hs-tei-transform","Experiments in transforming TEI XML, using Haskell","eng",3
-1590816600959,"johnjung/goodspeed","https://github.com/johnjung/goodspeed","An experiment with digital collections data and Elasticsearch.","hye|grc|lat|ell|ara|chu|syr|gez|amh|heb",70
-1590816600896,"johnjung/gms","https://github.com/johnjung/gms","-","hye|grc|lat|ell|ara|chu|syr|gez|amh|heb",70
-1590816600999,"jamescummings/godwindiary","https://github.com/jamescummings/godwindiary","Underlying materials for godwindiary.bodleian.ox.ac.uk","",82
+1590816599212,"JonPrag/catania-museo-civico-mostra","https://github.com/JonPrag/catania-museo-civico-mostra","ISicily files for inscriptions in the Voci di Pietra exhibition, Catania Museo Civico 2017","eng|ita|lat|grc|osc|scx|heb",47
+1590816599794,"JonathanReeve/hs-tei-transform","https://github.com/JonathanReeve/hs-tei-transform","Experiments in transforming TEI XML, using Haskell","eng",2
+1590816600959,"johnjung/goodspeed","https://github.com/johnjung/goodspeed","An experiment with digital collections data and Elasticsearch.","hye|grc|lat|ell|ara|chu|syr|gez|amh|heb",68
+1590816600896,"johnjung/gms","https://github.com/johnjung/gms","-","hye|grc|lat|ell|ara|chu|syr|gez|amh|heb",68
+1590816600999,"jamescummings/godwindiary","https://github.com/jamescummings/godwindiary","Underlying materials for godwindiary.bodleian.ox.ac.uk","",75
 1590816600303,"johncliu/webanno","https://github.com/johncliu/webanno","Automatically exported from code.google.com/p/webanno","dan",1
 1590816588657,"jnphilipp/virginal","https://github.com/jnphilipp/virginal","Cod. Pal. germ. 324","deu",2
-1590816600956,"JoannaBy/Stylo-in-Galway","https://github.com/JoannaBy/Stylo-in-Galway","Materials and notes for Stylometry with R tutorial at Distant Reading COST Action workshop on Methods and Tools of Distant Reading Adapted to Multiple European Languages","fra|ita|deu|slv|hun|lat|grc",65
+1590816600956,"JoannaBy/Stylo-in-Galway","https://github.com/JoannaBy/Stylo-in-Galway","Materials and notes for Stylometry with R tutorial at Distant Reading COST Action workshop on Methods and Tools of Distant Reading Adapted to Multiple European Languages","fra|ita|deu|slv|hun|lat|grc",161
 1590816600521,"JonathanReeve/plato-analysis","https://github.com/JonathanReeve/plato-analysis","Analyses of Platonic dialogues, including a Socratic dialogue generator.","eng",2
-1590816600910,"jeffreysternberg530/compss","https://github.com/jeffreysternberg530/compss","Computational Social Science","",21
-1590816595667,"jdmartin/XML-Applications","https://github.com/jdmartin/XML-Applications","For DHSI 2017 / DHSI 2018","",2
-1590816600905,"JamesWolfe753/Wright-Catalogue-Syriac-Manuscripts","https://github.com/JamesWolfe753/Wright-Catalogue-Syriac-Manuscripts","Wright's Catalogue of Syriac Manuscripts in the British Library","syr|ara|eng|fra|deu|lat|grc|cop",18
-1590816592668,"jedwardwalters/syriaca_mss","https://github.com/jedwardwalters/syriaca_mss","-","",1
-1590816600996,"jonhoranic/theGraveyard","https://github.com/jonhoranic/theGraveyard","Here is where the Graveyard archiving project begins! Welcome to everyone wishing to contribute.","",7
-1590816598045,"JULIELab/jcore-base","https://github.com/JULIELab/jcore-base","Base modules of JCoRe","deu",3
-1590816597815,"JULIELab/dta-converter","https://github.com/JULIELab/dta-converter","converts dta corpus into (normalized) plain text files and a meta data file","deu",2
-1590816600417,"jimwhite/GATE","https://github.com/jimwhite/GATE","-","",6
-1590816578881,"johntday/tools","https://github.com/johntday/tools","Tools settings and configurations","",4
-1590816583922,"JEibinger/xtech2","https://github.com/JEibinger/xtech2","-","",2
-1590816583909,"jozeglavic/xtech","https://github.com/jozeglavic/xtech","-","",2
-1590816583869,"johannafleischanderl/XTech2","https://github.com/johannafleischanderl/XTech2","-","",2
-1590816548651,"jwhittle933/lexica","https://github.com/jwhittle933/lexica","Lexical Store and Parser for LSJ and LS (Perseus XML)","eng|lat|fra",1
-1590816596274,"jnaiman/IS-452AO-Fall2019","https://github.com/jnaiman/IS-452AO-Fall2019","Repo for the online version of IS452","",8
-1590816600867,"JMstd/cartellaEsameCodifica","https://github.com/JMstd/cartellaEsameCodifica","-","ita",8
-1590816597025,"jawalsh/cbml","https://github.com/jawalsh/cbml","Comic Book Markup Language","",5
-1590816600251,"jamescummings/cursus","https://github.com/jamescummings/cursus","Repository for the Cursus Project: CURSUS An Online Resource of Medieval Liturgical Texts","",20
-1590816598730,"jiezhi320/F1-Dev-Board-RT-Thread","https://github.com/jiezhi320/F1-Dev-Board-RT-Thread","魔笛F1 RT-Thread学习平台是专门为rt-thread做的一款开发板，由本人进行了3年多的持续例程更新。为了方便大家学习，现在讲所有软、硬件（包含pcb源文件）资料公开。","",1
+1590816600910,"jeffreysternberg530/compss","https://github.com/jeffreysternberg530/compss","Computational Social Science","",43
+1590816595667,"jdmartin/XML-Applications","https://github.com/jdmartin/XML-Applications","For DHSI 2017 / DHSI 2018","",8
+1590816600905,"JamesWolfe753/Wright-Catalogue-Syriac-Manuscripts","https://github.com/JamesWolfe753/Wright-Catalogue-Syriac-Manuscripts","Wright's Catalogue of Syriac Manuscripts in the British Library","syr|ara|eng|fra|deu|lat|grc|cop",16
+1590816600996,"jonhoranic/theGraveyard","https://github.com/jonhoranic/theGraveyard","Here is where the Graveyard archiving project begins! Welcome to everyone wishing to contribute.","",3
+1590816598045,"JULIELab/jcore-base","https://github.com/JULIELab/jcore-base","Base modules of JCoRe","deu",1
+1590816597815,"JULIELab/dta-converter","https://github.com/JULIELab/dta-converter","converts dta corpus into (normalized) plain text files and a meta data file","deu",1
+1590816583922,"JEibinger/xtech2","https://github.com/JEibinger/xtech2","-","",1
+1590816583909,"jozeglavic/xtech","https://github.com/jozeglavic/xtech","-","",1
+1590816583869,"johannafleischanderl/XTech2","https://github.com/johannafleischanderl/XTech2","-","",1
+1590816548651,"jwhittle933/lexica","https://github.com/jwhittle933/lexica","Lexical Store and Parser for LSJ and LS (Perseus XML)","eng|lat|fra",29
+1590816596274,"jnaiman/IS-452AO-Fall2019","https://github.com/jnaiman/IS-452AO-Fall2019","Repo for the online version of IS452","",7
+1590816600867,"JMstd/cartellaEsameCodifica","https://github.com/JMstd/cartellaEsameCodifica","-","ita",5
+1590816597025,"jawalsh/cbml","https://github.com/jawalsh/cbml","Comic Book Markup Language","",3
 1590816595976,"jdintest/newCitations","https://github.com/jdintest/newCitations","-","",1
-1590816600978,"jchartrand/CWRCEditor","https://github.com/jchartrand/CWRCEditor","CWRC-Writer is a WYSIWYG JQuery editor for scholarly annotation using TEI/RDF.","",10
-1590816600857,"jrladd/python_text_analysis","https://github.com/jrladd/python_text_analysis","A summer course for faculty on literary text analysis in Python","eng",2
-1590816591459,"jing-library/digital-edition","https://github.com/jing-library/digital-edition","assignment for the course Programming4Humanists. syllabus http://programming4humanists.tamu.edu/syllabus-fall-2016/","",3
-1590816598367,"jensopetersen/merula","https://github.com/jensopetersen/merula","A Standoff Implementation of TEI (Text Encoding Initiative) markup","",11
-1590816600427,"jhellingman/phildict","https://github.com/jhellingman/phildict","Repository for Philippine language dictionary data","",15
-1590816600994,"jfinkels/hopper","https://github.com/jfinkels/hopper","Perseus Hopper","",15
-1590816599038,"jpeak5/TEI_Interact","https://github.com/jpeak5/TEI_Interact","omeka plugin that exposes TEI elements that have been rendered by the Scholar's Lab Tei Display plugin","",12
-1590816600083,"john-zhang1/Wire","https://github.com/john-zhang1/Wire","-","",4
-1590816591290,"jhu-digital-manuscripts/rosa2","https://github.com/jhu-digital-manuscripts/rosa2","-","",6
-1590816600978,"jamescummings/Bodleian-msDesc-ODD","https://github.com/jamescummings/Bodleian-msDesc-ODD","Bodleian TEI Manuscript Description ODD Customisation ","",4
+1590816600978,"jchartrand/CWRCEditor","https://github.com/jchartrand/CWRCEditor","CWRC-Writer is a WYSIWYG JQuery editor for scholarly annotation using TEI/RDF.","",6
+1590816600857,"jrladd/python_text_analysis","https://github.com/jrladd/python_text_analysis","A summer course for faculty on literary text analysis in Python","eng",3
+1590816591459,"jing-library/digital-edition","https://github.com/jing-library/digital-edition","assignment for the course Programming4Humanists. syllabus http://programming4humanists.tamu.edu/syllabus-fall-2016/","",5
+1590816598367,"jensopetersen/merula","https://github.com/jensopetersen/merula","A Standoff Implementation of TEI (Text Encoding Initiative) markup","",4
+1590816600427,"jhellingman/phildict","https://github.com/jhellingman/phildict","Repository for Philippine language dictionary data","",4
+1590816600994,"jfinkels/hopper","https://github.com/jfinkels/hopper","Perseus Hopper","",1
+1590816591290,"jhu-digital-manuscripts/rosa2","https://github.com/jhu-digital-manuscripts/rosa2","-","",7
 1590816594891,"jpeak5/tei-examples","https://github.com/jpeak5/tei-examples","scratch space for tei snippets","",6
-1590816600081,"JacobStefonek/dig-eg-gaz","https://github.com/JacobStefonek/dig-eg-gaz","coursework for IFS 2116","",6
-1590816599318,"JonathanReeve/sanger","https://github.com/JonathanReeve/sanger","Margaret Sanger Papers Project Search Engine","",1
-1590816593139,"juanreveles/JMRF","https://github.com/juanreveles/JMRF","-","",3
-1590816593075,"jhbecares/botzzaroni","https://github.com/jhbecares/botzzaroni","-","",3
-1590816599694,"jojo2234/LinComp","https://github.com/jojo2234/LinComp","Computational linguistics project for university. The file named readme is written in Italian.","eng",3
-1590816596452,"jdickie/TEILiteEditor","https://github.com/jdickie/TEILiteEditor","Using CKEditor and the TEI-Ann plugin to generate a schema-oriented XML editor","",6
-1590816580466,"JessedeDoes/LMServer","https://github.com/JessedeDoes/LMServer","-","",1
-1590816600156,"jtauber/apostolic-fathers","https://github.com/jtauber/apostolic-fathers","Corrected Lake Greek Text and (eventually) analysis","grc|lat",14
-1590816597759,"jamescummings/LEAP-XSLT","https://github.com/jamescummings/LEAP-XSLT","Repository containing XSLT for the Livingstone-online Enrichment and Access Project","eng",4
-1590816596050,"jpoles/jpoles.github.io","https://github.com/jpoles/jpoles.github.io","-","",20
-1590816589086,"jamesgawley/tesserae-obvil","https://github.com/jamesgawley/tesserae-obvil","Une iteration de le Projet Tesserae qui spécialise dans la litterature français","",1
-1590816598350,"Jorgito18/IDC","https://github.com/Jorgito18/IDC","-","fra",6
-1590816599787,"jensopetersen/jiaguwen","https://github.com/jensopetersen/jiaguwen","Porting Thesaurus Linguae Sericae to eXist-db","",16
-1590816596727,"JessedeDoes/DutchTagger","https://github.com/JessedeDoes/DutchTagger","-","",10
-1590816596511,"JessedeDoes/ImpactIR","https://github.com/JessedeDoes/ImpactIR","-","",10
-1590816592158,"jeffreycwitt/hedon-d3c6-reviewed-repo","https://github.com/jeffreycwitt/hedon-d3c6-reviewed-repo","-","lat|eng",2
+1590816600081,"JacobStefonek/dig-eg-gaz","https://github.com/JacobStefonek/dig-eg-gaz","coursework for IFS 2116","",4
+1590816599694,"jojo2234/LinComp","https://github.com/jojo2234/LinComp","Computational linguistics project for university. The file named readme is written in Italian.","eng",2
+1590816600156,"jtauber/apostolic-fathers","https://github.com/jtauber/apostolic-fathers","Corrected Lake Greek Text and (eventually) analysis","grc|lat",15
+1590816597759,"jamescummings/LEAP-XSLT","https://github.com/jamescummings/LEAP-XSLT","Repository containing XSLT for the Livingstone-online Enrichment and Access Project","eng",1
+1590816596050,"jpoles/jpoles.github.io","https://github.com/jpoles/jpoles.github.io","-","",14
+1590816589086,"jamesgawley/tesserae-obvil","https://github.com/jamesgawley/tesserae-obvil","Une iteration de le Projet Tesserae qui spécialise dans la litterature français","",3
+1590816598350,"Jorgito18/IDC","https://github.com/Jorgito18/IDC","-","fra",4
+1590816599787,"jensopetersen/jiaguwen","https://github.com/jensopetersen/jiaguwen","Porting Thesaurus Linguae Sericae to eXist-db","",10
+1590816592158,"jeffreycwitt/hedon-d3c6-reviewed-repo","https://github.com/jeffreycwitt/hedon-d3c6-reviewed-repo","-","lat|eng",3
 1590816600867,"joewiz/punch","https://github.com/joewiz/punch","A simple app demonstrating how to create a dynamic, searchable website for TEI text using XQuery and eXist","fra",20
-1590816600119,"jensopetersen/Deutsche-Gesetze","https://github.com/jensopetersen/Deutsche-Gesetze","An app for eXist-db based on German law texts marked up with TEI","",3
-1590816600902,"joemfb/query-expansion-demo","https://github.com/joemfb/query-expansion-demo","semantic query expansion demo","",7
-1590816598457,"jamescummings/LEAP-ODD","https://github.com/jamescummings/LEAP-ODD","Repository containing the LEAP ODD (and generated output) for the Livingstone-online Enrichment and Access Project","eng|lat",4
-1590816600997,"jnewton3edinburgh/miniLazarilloClone","https://github.com/jnewton3edinburgh/miniLazarilloClone","-","",4
-1590816595713,"jobrien62/Oroonoko","https://github.com/jobrien62/Oroonoko","This is the XML file of the 1688 edition of Aphra Behn's Oroonoko for ENEC 8600 to edit collaboratively","",1
-1590816598612,"jamesjbrownjr/Virgilio-Archive","https://github.com/jamesjbrownjr/Virgilio-Archive","-","",14
-1590816581243,"johnlaudun/textalytics.net","https://github.com/johnlaudun/textalytics.net","-","",2
+1590816600119,"jensopetersen/Deutsche-Gesetze","https://github.com/jensopetersen/Deutsche-Gesetze","An app for eXist-db based on German law texts marked up with TEI","",7
+1590816600902,"joemfb/query-expansion-demo","https://github.com/joemfb/query-expansion-demo","semantic query expansion demo","",42
+1590816598457,"jamescummings/LEAP-ODD","https://github.com/jamescummings/LEAP-ODD","Repository containing the LEAP ODD (and generated output) for the Livingstone-online Enrichment and Access Project","eng|lat",3
+1590816600997,"jnewton3edinburgh/miniLazarilloClone","https://github.com/jnewton3edinburgh/miniLazarilloClone","-","",1
+1590816598612,"jamesjbrownjr/Virgilio-Archive","https://github.com/jamesjbrownjr/Virgilio-Archive","-","",8
 1590816590907,"jchartrand/myTest","https://github.com/jchartrand/myTest","a test repo","eng|ita|grc|lat",3
 1590816567093,"jairomelo/jairomelo.github.io","https://github.com/jairomelo/jairomelo.github.io","Mi sitio personal","",1
-1590816600983,"jensopetersen/mopane","https://github.com/jensopetersen/mopane","A collection of XQuery scripts facilitating standoff markup of TEI documents","",3
-1590816598683,"jeandamien-genero/TNAH-XML-TEI-XSLT","https://github.com/jeandamien-genero/TNAH-XML-TEI-XSLT","Vita of saint Brice of Tours' XML-TEI encoding and XSL transformation (BnF, ms. fr. 411, f. 169-170).","fro",6
-1590816600114,"JonathanReeve/corpus-SHC-SimpleSHCa","https://github.com/JonathanReeve/corpus-SHC-SimpleSHCa","A submodule of the Shakespeare His Contemporaries corpus, containing the first section of the annotated corpus. ","eng",5
-1590816586939,"jellypbc/poster","https://github.com/jellypbc/poster","Jelly demo toy app that turns PDFs into editable posts","",3
-1590816598462,"jeffreycwitt/jeffreycwitt.github.io","https://github.com/jeffreycwitt/jeffreycwitt.github.io","-","",4
-1590816598174,"Jorgito18/IDC3","https://github.com/Jorgito18/IDC3","-","fra",3
-1590816600362,"jensopetersen/tei-compactor","https://github.com/jensopetersen/tei-compactor","A script to list all unique paths in a TEI (Text Encoding Initiative) document and construct a TEI instance incorporating only used paths.","",7
-1590816600300,"JMstd/codifica","https://github.com/JMstd/codifica","-","ita",8
-1590816583395,"jgm/pandoc","https://github.com/jgm/pandoc","Universal markup converter","",1
-1590816599250,"jensopetersen/zarit","https://github.com/jensopetersen/zarit","you name it …","san",5
-1590816600910,"jesteve3/dig-eg-gaz","https://github.com/jesteve3/dig-eg-gaz","coursework for IFS 2116","",5
+1590816600983,"jensopetersen/mopane","https://github.com/jensopetersen/mopane","A collection of XQuery scripts facilitating standoff markup of TEI documents","",2
+1590816598683,"jeandamien-genero/TNAH-XML-TEI-XSLT","https://github.com/jeandamien-genero/TNAH-XML-TEI-XSLT","Vita of saint Brice of Tours' XML-TEI encoding and XSL transformation (BnF, ms. fr. 411, f. 169-170).","fro",4
+1590816600114,"JonathanReeve/corpus-SHC-SimpleSHCa","https://github.com/JonathanReeve/corpus-SHC-SimpleSHCa","A submodule of the Shakespeare His Contemporaries corpus, containing the first section of the annotated corpus. ","eng",214
+1590816598174,"Jorgito18/IDC3","https://github.com/Jorgito18/IDC3","-","fra",2
+1590816600362,"jensopetersen/tei-compactor","https://github.com/jensopetersen/tei-compactor","A script to list all unique paths in a TEI (Text Encoding Initiative) document and construct a TEI instance incorporating only used paths.","",3
+1590816600300,"JMstd/codifica","https://github.com/JMstd/codifica","-","ita",7
+1590816599250,"jensopetersen/zarit","https://github.com/jensopetersen/zarit","you name it …","san",4
+1590816600910,"jesteve3/dig-eg-gaz","https://github.com/jesteve3/dig-eg-gaz","coursework for IFS 2116","",6
 1590816599407,"jcw3/coursework-for-ifs2116-image-files","https://github.com/jcw3/coursework-for-ifs2116-image-files","Images for IFS 2116.","",6
 1590816599353,"jcw3/dig-eg-gaz","https://github.com/jcw3/dig-eg-gaz","IFS 2116, Egyptian Gazette","",12
-1590816598573,"JakobMakovac/nlp_project","https://github.com/JakobMakovac/nlp_project","NLP project repository","slv|eng",10
+1590816598573,"JakobMakovac/nlp_project","https://github.com/JakobMakovac/nlp_project","NLP project repository","slv|eng",8
 1590816597320,"jfvallee/cymbalum","https://github.com/jfvallee/cymbalum","La cymbale du monde numérique ","frm|lat",1
-1590816587486,"joakiol/ReportSummaryDistance","https://github.com/joakiol/ReportSummaryDistance","Code repository for TMA4500 Industriell matematikk, fordjupingsprosjekt","",7
-1590816594163,"javicorvi/treatment_related_effect_plot","https://github.com/javicorvi/treatment_related_effect_plot","-","",5
 1590816600066,"JSchaeuble/Ulysses-NLI-Notebooks","https://github.com/JSchaeuble/Ulysses-NLI-Notebooks","Encoding Project for James Joyces common place notebooks on Ulysses","",2
-1590816600674,"justazorg/myhomeworks","https://github.com/justazorg/myhomeworks","homeworks","",1
-1590816600926,"jharrimansmith/prompter","https://github.com/jharrimansmith/prompter","-","eng",3
-1590816600809,"julianbrooke/GutenTag","https://github.com/julianbrooke/GutenTag","-","",1
-1590816599613,"jobrien62/Equiano_1","https://github.com/jobrien62/Equiano_1","This is the repository for volume 1 of Equiano's Interesting Narrative","",3
+1590816600926,"jharrimansmith/prompter","https://github.com/jharrimansmith/prompter","-","eng",4
 1590816592874,"jmclawson/tei","https://github.com/jmclawson/tei","Playing around with TEI documents","",1
-1590816551794,"jjarosch/Pelagios-RDF-Lifting","https://github.com/jjarosch/Pelagios-RDF-Lifting","-","",1
-1590816600123,"jfriviere/tei.openedition.localized","https://github.com/jfriviere/tei.openedition.localized","Translations of OpenEdition TEI documentation","",4
 1590816554881,"jjemharper/Dilyara","https://github.com/jjemharper/Dilyara","-","",1
-1590816600675,"jordandukart/islandora_cwrc_writer","https://github.com/jordandukart/islandora_cwrc_writer","Islandora wrapper for the CWRC-Writer.","",6
-1590816598878,"jgbarbosa/ProseVis","https://github.com/jgbarbosa/ProseVis","A tool for visualizing the sound of text","eng",1
+1590816598878,"jgbarbosa/ProseVis","https://github.com/jgbarbosa/ProseVis","A tool for visualizing the sound of text","eng",7
 1590816595911,"jenniferstipe/xslt","https://github.com/jenniferstipe/xslt","Beginnng XSLT","",2
 1590816577805,"JuliaNeumann/computerlinguistik_texttechnologie","https://github.com/JuliaNeumann/computerlinguistik_texttechnologie","Meine Lösungen zu den Aufgaben aus ""Computerlinguistik und Texttechnologie"" (Lobin)","",1
-1590816591214,"juddy/GIP","https://github.com/juddy/GIP","GIP isn't PHP Code Genie","",1
 1590816590858,"Julifunk/BA-Informationssystem-Kreolsprachen","https://github.com/Julifunk/BA-Informationssystem-Kreolsprachen","Web-based information system for a collection of interviews with native creole speakers. ","fra",1
-1590816590660,"jamescummings/conluvies","https://github.com/jamescummings/conluvies","collection of impurities , filth; washings, offscourings, dregs; i.e. miscellaneous crap.","eng",6
+1590816590660,"jamescummings/conluvies","https://github.com/jamescummings/conluvies","collection of impurities , filth; washings, offscourings, dregs; i.e. miscellaneous crap.","eng",2
 1590816591958,"janabeck/gortyn","https://github.com/janabeck/gortyn","The Gortyn Law Code, permissively licensed in a variety of digital formats.","grc|eng",1
-1590816600981,"jsbien/Parkosz-traktat","https://github.com/jsbien/Parkosz-traktat","Różne materiały związane z traktatem Parkosza. Patrz także https://www.zotero.org/groups/2193838/traktat_parkosza .","",76
-1590816588855,"jmccrae/metashare-ontology-msw4","https://github.com/jmccrae/metashare-ontology-msw4","Paper about the Metashare Ontology for MSW4","",1
-1590816598195,"jbhoward-dublin/tamboti","https://github.com/jbhoward-dublin/tamboti","Tamboti Metadata Framework","",1
-1590816599995,"jorfsson/chatbot","https://github.com/jorfsson/chatbot","Chatbot practice","",500
-1590816599761,"jeffthemaximum/word-pair-frequency-calculator","https://github.com/jeffthemaximum/word-pair-frequency-calculator","A Flask app that calculates word-frequency pairs based on the text from a given URL","",500
-1590816570753,"jpallen/latex-chroot","https://github.com/jpallen/latex-chroot","A complete Texlive LaTeX environment which can be run in a chroot jail","",1
+1590816600981,"jsbien/Parkosz-traktat","https://github.com/jsbien/Parkosz-traktat","Różne materiały związane z traktatem Parkosza. Patrz także https://www.zotero.org/groups/2193838/traktat_parkosza .","",40
+1590816599995,"jorfsson/chatbot","https://github.com/jorfsson/chatbot","Chatbot practice","",501
+1590816599761,"jeffthemaximum/word-pair-frequency-calculator","https://github.com/jeffthemaximum/word-pair-frequency-calculator","A Flask app that calculates word-frequency pairs based on the text from a given URL","",501
 1590816572405,"Jathrone/Hamlet_Data_Scraping","https://github.com/Jathrone/Hamlet_Data_Scraping","Converting Hamlet play data into group chat logs. Thank you Folger Digital Texts for your amazing API! https://www.folgerdigitaltexts.org/","",1
-1590816576345,"jlansner/Shakespeare","https://github.com/jlansner/Shakespeare","Parse XML-based Shakespeare script to assign multiple roles without any overlap","eng|lat",1
-1590816597903,"jeandamien-genero/Memoire-TNAH","https://github.com/jeandamien-genero/Memoire-TNAH","Mémoire pour le Master TNAH de l'ENC (2020)","",4
-1590816584853,"JYWangGeneCosmo/Text-Edition-with-XSL-XSD-CSS-HTML","https://github.com/JYWangGeneCosmo/Text-Edition-with-XSL-XSD-CSS-HTML","This is a course exercise project in which the TED-Talk transcript is encoded with focus on the rhetoric devices.","eng|deu",2
-1590816588413,"jeschollaert/Diamondback-Encoding","https://github.com/jeschollaert/Diamondback-Encoding","-","eng",4
+1590816576345,"jlansner/Shakespeare","https://github.com/jlansner/Shakespeare","Parse XML-based Shakespeare script to assign multiple roles without any overlap","eng|lat",43
+1590816584853,"JYWangGeneCosmo/Text-Edition-with-XSL-XSD-CSS-HTML","https://github.com/JYWangGeneCosmo/Text-Edition-with-XSL-XSD-CSS-HTML","This is a course exercise project in which the TED-Talk transcript is encoded with focus on the rhetoric devices.","eng|deu",1
+1590816588413,"jeschollaert/Diamondback-Encoding","https://github.com/jeschollaert/Diamondback-Encoding","-","eng",2
 1590816592775,"je-wi/DCO_extractIssueXML","https://github.com/je-wi/DCO_extractIssueXML","Extract single files from issue.xml created from the Native XML Plugin in OJS 3.x. ","fra|eng|deu|ita|spa|lat|ell",1
-1590816580136,"Jean-Baptiste-Camps/TEItoLaTeX","https://github.com/Jean-Baptiste-Camps/TEItoLaTeX","Stylesheet to turn TEI encoded scholarly editions into PDF ","",3
 1590816592913,"jhannaeugenio/coursework-for-IFS-2116","https://github.com/jhannaeugenio/coursework-for-IFS-2116","-","",6
-1590816600248,"joeytakeda/misc","https://github.com/joeytakeda/misc","Miscellaneous stuff","",1
-1590816599586,"jacquehtidwell/versioning_practice","https://github.com/jacquehtidwell/versioning_practice","-","",3
-1590816600633,"JonathanReeve/corpus-mansfield-garden-party-TEI","https://github.com/JonathanReeve/corpus-mansfield-garden-party-TEI","A TEI edition of Katherine Mansfield's short story ""The Garden Party.""","eng",3
+1590816599586,"jacquehtidwell/versioning_practice","https://github.com/jacquehtidwell/versioning_practice","-","",6
+1590816600633,"JonathanReeve/corpus-mansfield-garden-party-TEI","https://github.com/JonathanReeve/corpus-mansfield-garden-party-TEI","A TEI edition of Katherine Mansfield's short story ""The Garden Party.""","eng",1
 1590816583101,"julieweeds/newton","https://github.com/julieweeds/newton","-","lat|eng|ell|heb",1
-1590816583908,"jmrankin/mith735project","https://github.com/jmrankin/mith735project","-","",4
+1590816583908,"jmrankin/mith735project","https://github.com/jmrankin/mith735project","-","",2
 1590816586987,"jacobamador19/dig-eg-gaz","https://github.com/jacobamador19/dig-eg-gaz","Coursework for IFS 2116","",3
-1590816587256,"JiangtianQian/network_in_real_world_code","https://github.com/JiangtianQian/network_in_real_world_code","Course material of pattern","",3
-1590816587247,"JLiangWaterloo/sat","https://github.com/JLiangWaterloo/sat","-","",3
-1590816588820,"JonathanGaede/Narragonien","https://github.com/JonathanGaede/Narragonien","Narragonien","",1
-1590816592322,"JSchaeuble/DigFAST","https://github.com/JSchaeuble/DigFAST","-","",2
-1590816600118,"jamescummings/jamescummings.github.io","https://github.com/jamescummings/jamescummings.github.io","github.io pages","",2
-1590816599873,"JoannaBy/myELTeC","https://github.com/JoannaBy/myELTeC","exercises from Budapest workshop","pol",2
-1590816591074,"jesnead/programming_4_humanists","https://github.com/jesnead/programming_4_humanists","Files for Fall 2016 P4C course","",1
-1590816597616,"jdickie/Portfolio","https://github.com/jdickie/Portfolio","Working on portfolio site using Wordpress","",7
-1590816600878,"jobrien62/Behn_Rover","https://github.com/jobrien62/Behn_Rover","This is the xml file for the edition of The Rover edited by students in ENEC 3400 in fall 2016","",1
-1590816600724,"jpkarlsberg/passional-test","https://github.com/jpkarlsberg/passional-test","An annotated digital edition created with Readux","",1
-1590816600564,"jpkarlsberg/passional-christi-vnnd-antichristi","https://github.com/jpkarlsberg/passional-christi-vnnd-antichristi","An annotated digital edition created with Readux","",1
+1590816592322,"JSchaeuble/DigFAST","https://github.com/JSchaeuble/DigFAST","-","",1
+1590816599873,"JoannaBy/myELTeC","https://github.com/JoannaBy/myELTeC","exercises from Budapest workshop","pol",1
+1590816591074,"jesnead/programming_4_humanists","https://github.com/jesnead/programming_4_humanists","Files for Fall 2016 P4C course","",3
+1590816597616,"jdickie/Portfolio","https://github.com/jdickie/Portfolio","Working on portfolio site using Wordpress","",1
 1590816599992,"jirinkam22/jirinka-algoritmy","https://github.com/jirinkam22/jirinka-algoritmy","-","",1
 1590816598917,"jacobjacobson/jacobjacobson.github.io","https://github.com/jacobjacobson/jacobjacobson.github.io","-","",1
-1590816598586,"Jromary/Rep_XML_TEI_epo_laws","https://github.com/Jromary/Rep_XML_TEI_epo_laws"," Représentation en XML TEI de la législation de Brevets Européens","",1
-1590816600086,"JonathanReeve/shakespeare-dialog-extractor","https://github.com/JonathanReeve/shakespeare-dialog-extractor","An application to extract dialog from Shakespeare plays, as encoded into TEI by the Folger Library. ","",1
-1590816587622,"joelkim/docs-korean-docutils","https://github.com/joelkim/docs-korean-docutils","-","",3
-1590816575065,"jheek/cqpweb","https://github.com/jheek/cqpweb","-","",1
-1617943968945,"Juliettejns/NDF","https://github.com/Juliettejns/NDF","Application Flask pour une édition numérique de Notes d'une Frondeuse de Séverine","fra",6
+1590816598586,"Jromary/Rep_XML_TEI_epo_laws","https://github.com/Jromary/Rep_XML_TEI_epo_laws"," Représentation en XML TEI de la législation de Brevets Européens","",2
+1590816600086,"JonathanReeve/shakespeare-dialog-extractor","https://github.com/JonathanReeve/shakespeare-dialog-extractor","An application to extract dialog from Shakespeare plays, as encoded into TEI by the Folger Library. ","",3
+1590816587622,"joelkim/docs-korean-docutils","https://github.com/joelkim/docs-korean-docutils","-","",2
+1617943968945,"Juliettejns/NDF","https://github.com/Juliettejns/NDF","Application Flask pour une édition numérique de Notes d'une Frondeuse de Séverine","fra",2
 1590816600067,"josebakmoreno/lanuevaliteratura","https://github.com/josebakmoreno/lanuevaliteratura","-","",1
-1590816586365,"jeffreycwitt/gracilis-b1q1-reviewed-repo","https://github.com/jeffreycwitt/gracilis-b1q1-reviewed-repo","-","eng",2
-1590816595800,"jmccrae/linghub-jlre","https://github.com/jmccrae/linghub-jlre","Linghub JLRE paper","",1
+1590816586365,"jeffreycwitt/gracilis-b1q1-reviewed-repo","https://github.com/jeffreycwitt/gracilis-b1q1-reviewed-repo","-","eng",5
 1590816599534,"joeytakeda/tei17_workshop","https://github.com/joeytakeda/tei17_workshop","Sample project space for the ""Introduction to TEI"" workshop at TEI2017 in Victoria, BC, Canada","",1
-1590816599350,"jeffreycwitt/lbp_latex_example","https://github.com/jeffreycwitt/lbp_latex_example","-","eng",2
-1590816593642,"jchappypig/auto_language_detection","https://github.com/jchappypig/auto_language_detection","API to detect language automatically using linguist","",1
-1590816600991,"JonasOsnabruegge/DB_Aktuell","https://github.com/JonasOsnabruegge/DB_Aktuell","current xml files","deu",1815
-1590816600543,"JiKook31/thesis","https://github.com/JiKook31/thesis","-","",1
-1590816600408,"jondhc/Vector-Space-Model","https://github.com/jondhc/Vector-Space-Model","-","",1
-1590816600405,"jshph/newsmosaic","https://github.com/jshph/newsmosaic","-","",1
-1590816600394,"jaimedeverall/Sumarize-Newsfeed-Articles","https://github.com/jaimedeverall/Sumarize-Newsfeed-Articles","-","",1
-1590816600383,"jrhenriquerf/PythonAPITickets","https://github.com/jrhenriquerf/PythonAPITickets","API para colocar prioridade em tickets de serviço com base no texto da interação do usuário com o vendedor, no tempo de espera e na quantidade de interações, retornando os tickets com as prioridades e permitindo filtrar, ordenar, ou paginar com base nos JSON enviado na requisição","",1
-1590816600380,"joemersonsouza/examples_python","https://github.com/joemersonsouza/examples_python","-","",1
-1590816600361,"JeqTech/aulaCIW","https://github.com/JeqTech/aulaCIW","-","",1
-1590816600355,"jinesh08/DemoDjango","https://github.com/jinesh08/DemoDjango","-","",1
-1590816600352,"junjang17/pictoset","https://github.com/junjang17/pictoset","Webapp that takes in an image of a word/definition list and creates a Quizlet set for the user","",1
+1590816599350,"jeffreycwitt/lbp_latex_example","https://github.com/jeffreycwitt/lbp_latex_example","-","eng",1
+1590816600991,"JonasOsnabruegge/DB_Aktuell","https://github.com/JonasOsnabruegge/DB_Aktuell","current xml files","deu",1818
 1590816600740,"jchartrand/cheeeeeese","https://github.com/jchartrand/cheeeeeese","Automagically created by CWRC","",1
 1590816600819,"jonathandfitzgerald/Viral-Texts-R","https://github.com/jonathandfitzgerald/Viral-Texts-R","This is where I keep all the code, albeit in a disorganized fashion, for my contribution to the Viral Texts Project","",63
-1590816600941,"JirawanJMV8/SearchEngine","https://github.com/JirawanJMV8/SearchEngine","-","",1
-1590816600925,"jiuningzhong/EducationalDataClassifier","https://github.com/jiuningzhong/EducationalDataClassifier","use jupyter to classify educational nodes","",1
-1590816600915,"jdportugal/CRFIBERLEF","https://github.com/jdportugal/CRFIBERLEF","-","",1
-1590816600901,"jiang50/diversity_mining","https://github.com/jiang50/diversity_mining","-","",1
-1590816600800,"jy-repo/NewsABGN","https://github.com/jy-repo/NewsABGN","-","",1
-1590816600790,"Jhonan01/mercadodetrocas","https://github.com/Jhonan01/mercadodetrocas","-","",3
-1590816600719,"jessti6/Essay","https://github.com/jessti6/Essay","-","",1
-1590816600700,"jinik21/hackcbs-backend","https://github.com/jinik21/hackcbs-backend","-","",1
-1590816600694,"JQuinteroC/Api-Twitter","https://github.com/JQuinteroC/Api-Twitter","-","",1
-1590816600681,"jplowri0/opinions","https://github.com/jplowri0/opinions","-","",1
-1590816600675,"jordanswong/autograder","https://github.com/jordanswong/autograder","A website that uses a basic machine learning algorithm to try to grade short essays.","",1
-1590816600667,"Jigar098/news-summary-flask","https://github.com/Jigar098/news-summary-flask","-","",1
-1590816600588,"jdportugal/QuestionGen","https://github.com/jdportugal/QuestionGen","-","",2
-1590816600553,"j-c-carr/Stock-Analysis","https://github.com/j-c-carr/Stock-Analysis","Stock prediction and analysis with historical stock price, News and Twitter data","",1
-1590816600543,"Jhonan01/Escambio","https://github.com/Jhonan01/Escambio","site de trocas","",3
-1590816600514,"jay-kakkad/StockMarketPrediction_using_SVR","https://github.com/jay-kakkad/StockMarketPrediction_using_SVR","-","",1
-1590816600485,"johSchm/webScraper","https://github.com/johSchm/webScraper","Web scraper tool.","",1
-1590816600481,"jishin/SemtimentAnalysis","https://github.com/jishin/SemtimentAnalysis","-","",1
-1590816600478,"JameTran/Twitter-Streamer","https://github.com/JameTran/Twitter-Streamer","-","",1
-1590816600443,"jagpreetsingh796/Twitter-Sentiment-Analysis","https://github.com/jagpreetsingh796/Twitter-Sentiment-Analysis","-","",1
-1590816600433,"JaccoPrins/NLTK","https://github.com/JaccoPrins/NLTK","-","",1
-1590816600426,"JBatista1/NaiveBayesHotel","https://github.com/JBatista1/NaiveBayesHotel","-","",1
-1590816600368,"jacobaxel/flaskproject","https://github.com/jacobaxel/flaskproject","Make projects using flask","",1
-1590816600364,"JacobDuvall/the-summarizer","https://github.com/JacobDuvall/the-summarizer","Text summaries of COVID-19 articles sourced from https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge","",1
-1590816600352,"JoaoVitorDeOliveira/tcc","https://github.com/JoaoVitorDeOliveira/tcc","Pegando dados do tweeter","",1
-1590816600297,"jishnusaurav/SentiMental","https://github.com/jishnusaurav/SentiMental","-","",1
-1590816600288,"JoaoVictorViana/Redes-Neurais-Recorrentes","https://github.com/JoaoVictorViana/Redes-Neurais-Recorrentes","-","",1
-1590816600231,"jiuningzhong/CNEpistemicCluster","https://github.com/jiuningzhong/CNEpistemicCluster","-","",1
-1590816600212,"JiahuiKChen/Coreference-Resolution","https://github.com/JiahuiKChen/Coreference-Resolution","Noun Phrase coreference resolution - final project for NLP course","",1
-1590816600200,"jakfarshodiq230/python-LSA_TF-IDF","https://github.com/jakfarshodiq230/python-LSA_TF-IDF","-","",1
-1590816600167,"jessicachakmlee/pythonCalculator","https://github.com/jessicachakmlee/pythonCalculator","-","",1
-1590816600125,"JackCollins1991/SimpleTwitterScrapper","https://github.com/JackCollins1991/SimpleTwitterScrapper","Uses Twitter API, Face++, and Sentiment Analysis to mine data from a filtered search. ","",1
-1590816600066,"jeffreyzhang2001/PSumm","https://github.com/jeffreyzhang2001/PSumm","Django-based implementation of various summarization algorithms using sumy","",1
-1590816600029,"Joystick27/medibot-with-flask-with-appoitent","https://github.com/Joystick27/medibot-with-flask-with-appoitent","-","",1
-1590816600001,"JuyoungHam/2020Project","https://github.com/JuyoungHam/2020Project","2020년 인천직업능력교육원 프로젝트","",1
-1590816596600,"jarulsamy/calicolrc","https://github.com/jarulsamy/calicolrc","-","",1
-1590816596520,"jparise/haitwu-appengine","https://github.com/jparise/haitwu-appengine","Haitwu - Find Haikus in Tweets","",1
-1590816595736,"jgsmith/radiant-tei-tools","https://github.com/jgsmith/radiant-tei-tools","Useful tags and other bits that help Radiant handle TEI","",3
-1590816570091,"johhonn/flask-redis-example","https://github.com/johhonn/flask-redis-example","-","",1
-1590816570068,"Journo-App/flask-by-example","https://github.com/Journo-App/flask-by-example","Under Contruction: A Flask app that uses Requests, Beautiful Soup and NLTK to analyze the news","",1
-1590816570063,"jhyun0919/ML-DL_jhyun","https://github.com/jhyun0919/ML-DL_jhyun","-","",1
 1590816575834,"jamescummings/test","https://github.com/jamescummings/test","test","",1
-1590816599718,"jnregretter1en/HW2","https://github.com/jnregretter1en/HW2","-","",2
-1590816595763,"jmague/CID111_montaigne","https://github.com/jmague/CID111_montaigne","-","",2
-1590816588403,"julisagarkova/HW2","https://github.com/julisagarkova/HW2","-","",2
-1590816599407,"johnBradley501/TACT","https://github.com/johnBradley501/TACT","Source code for TACT text analysis software, developed 1986-1996","",1
-1590816594783,"jakubglinka/nlp","https://github.com/jakubglinka/nlp","My NLP library","",1
 1590816599043,"jgarry98/testvalidation","https://github.com/jgarry98/testvalidation","-","",1
-1590816530631,"jhellingman/sgml-tex","https://github.com/jhellingman/sgml-tex","Automatically exported from code.google.com/p/sgml-tex","",1
-1590816534350,"joemac875/poetexts","https://github.com/joemac875/poetexts","A client-server system to text users poems that match desired tags.","",1
-1590816593253,"jacquehtidwell/transcriber_sample","https://github.com/jacquehtidwell/transcriber_sample","-","",3
-1590816559670,"Jomula/qarid-al-mutaqilin","https://github.com/Jomula/qarid-al-mutaqilin","Qarīd al-Muʿtaqilīn: Exemplary Files.","",1
-1590816560444,"jjmccollum/itsee-to-open-cbgm","https://github.com/jjmccollum/itsee-to-open-cbgm","Utility script for reformatting the TEI XML output of the ITSEE Collation Editor","",1
-1590816537775,"JonathanReeve/course-computational-literary-analysis","https://github.com/JonathanReeve/course-computational-literary-analysis","Course materials for Introduction to Computational Literary Analysis, taught at UC Berkeley in Summer 2018, 2019, and 2020, and at Columbia University in Fall 2020.","",1
-1590816558443,"jimregan/jngramtool","https://github.com/jimregan/jngramtool","-","",1
-1590816600942,"jarmoza/twic","https://github.com/jarmoza/twic","Topic Words in Context (TWiC) is a highly-interactive, browser-based visualization for MALLET topic models","",1079
+1590816534350,"joemac875/poetexts","https://github.com/joemac875/poetexts","A client-server system to text users poems that match desired tags.","",356
+1590816593253,"jacquehtidwell/transcriber_sample","https://github.com/jacquehtidwell/transcriber_sample","-","",2
+1590816559670,"Jomula/qarid-al-mutaqilin","https://github.com/Jomula/qarid-al-mutaqilin","Qarīd al-Muʿtaqilīn: Exemplary Files.","",4
 1590816571289,"jedwardwalters/syriac_critical_text","https://github.com/jedwardwalters/syriac_critical_text","-","",1
-1590816575645,"jimregan/ainm-ner-corpus","https://github.com/jimregan/ainm-ner-corpus","-","",1
-1590816578352,"jeffreycwitt/tei-web-editor","https://github.com/jeffreycwitt/tei-web-editor","-","",1
 1590816592096,"jeffblackadar/hist3814o","https://github.com/jeffblackadar/hist3814o","Course work for hist3814o at Carleton University","",1
-1590816574277,"joeytakeda/tei-lod","https://github.com/joeytakeda/tei-lod","A TEI to RDF/JSON transformation based off of MoEML's data","",1
-1590816586731,"juh2/tei-style-dta-context","https://github.com/juh2/tei-style-dta-context","ConTeXt environment to typeset XML (TEI P5) from Deutsches Textarchiv","",1
 1590816586993,"justinek/poetry","https://github.com/justinek/poetry","-","eng",1
 1590816598448,"jasonsungblog/SequoiaDB","https://github.com/jasonsungblog/SequoiaDB","-","",1
-1614862267895,"JoshSige/DIGIT210","https://github.com/JoshSige/DIGIT210","-","",8
-1590816589141,"jskripchuk/jskripchuk.github.io","https://github.com/jskripchuk/jskripchuk.github.io","-","",1
-1590816593742,"jackvandrunen/essentials-of-economics","https://github.com/jackvandrunen/essentials-of-economics","Digital edition of Faustino Ballvé's primer on economics.","",1
-1590816593548,"joelslee/textbook","https://github.com/joelslee/textbook","""text"" analysis for ""books""","",1
-1590816592326,"jsilvamoises/and-bible","https://github.com/jsilvamoises/and-bible","Automatically exported from code.google.com/p/and-bible","",1
-1590816574194,"jchartrand/zenodo-git-up","https://github.com/jchartrand/zenodo-git-up","Upload a directory of files from a Github repository to Zenodo, creating one DOI for each file.","",3
+1614862267895,"JoshSige/DIGIT210","https://github.com/JoshSige/DIGIT210","-","",42
 1590816575360,"Joerg99/thesis","https://github.com/Joerg99/thesis","-","deu",1
-1590816598961,"JULIELab/alz","https://github.com/JULIELab/alz","This repository provides the compiled full-text corpus of the Allgemeine Literatur-Zeitung (General Literature Gazette) published from 1785 to 1849","",16
-1590816581205,"jd-s/OSIS-helper","https://github.com/jd-s/OSIS-helper","Little tools to support the generation of OSIS modules ","",1
-1590816577365,"JessedeDoes/SparkStuff","https://github.com/JessedeDoes/SparkStuff","-","",1
-1590816594646,"jdickie/digitalpalimpsest2.0","https://github.com/jdickie/digitalpalimpsest2.0","Digital Palimpsest Code now using MITHGRID (http://github.com/umd-mith/mithgrid)","",2
-1590816594643,"jdickie/digitalpalimpsest","https://github.com/jdickie/digitalpalimpsest","Original code for the Archimedes Palimpsest Project","",2
-1590816568553,"jbalint/banshee-sympatico","https://github.com/jbalint/banshee-sympatico","An integrated knowledge processing system","",1
-1590816577383,"jacobthill/dissertation","https://github.com/jacobthill/dissertation","-","",1
-1590816597076,"jarleEbe/elasticsearch-on-corpora","https://github.com/jarleEbe/elasticsearch-on-corpora","Code snippets for indexing and searching corpora with Elastic(search)","",1
-1590816599380,"jharnettlenzi/EpidocFall2014","https://github.com/jharnettlenzi/EpidocFall2014","-","",1
-1590816568872,"jginther/T-PEN","https://github.com/jginther/T-PEN","-","",1
-1590816570536,"JaniceXiong/pdfToJson","https://github.com/JaniceXiong/pdfToJson","-","",1
-1590816575458,"jgraniero52/lab-4","https://github.com/jgraniero52/lab-4","Lab 4 for COMP_490","",1
-1590816554567,"jheek/hcp","https://github.com/jheek/hcp","Huddersfield Corpus Preprocessor","",1
+1590816598961,"JULIELab/alz","https://github.com/JULIELab/alz","This repository provides the compiled full-text corpus of the Allgemeine Literatur-Zeitung (General Literature Gazette) published from 1785 to 1849","",714
+1590816599380,"jharnettlenzi/EpidocFall2014","https://github.com/jharnettlenzi/EpidocFall2014","-","",2
 1590816560885,"JY42/Propertius2.1","https://github.com/JY42/Propertius2.1","A Map of the Explicit and Implicit locations in poem 2.1 of the Augustan era poet Propertius","",1
-1590816574247,"jeffreycwitt/rastrum","https://github.com/jeffreycwitt/rastrum","-","",1
 1590816587074,"joeytakeda/cv","https://github.com/joeytakeda/cv","Another CV builder","",1
-1590816557768,"jgarry98/hawara","https://github.com/jgarry98/hawara","Edition of the intact lines of the Hawara Homer","",1
-1590816563627,"johnjung/gms-builder","https://github.com/johnjung/gms-builder","-","",1
 1590816569943,"JasmineDW/MWilson_Emoji","https://github.com/JasmineDW/MWilson_Emoji","Test Emoji tags","",1
-1590816569867,"jpt4/prc","https://github.com/jpt4/prc","Computronium","",2
-1590816600913,"jkakar/ietf-rfcs","https://github.com/jkakar/ietf-rfcs","All IETF RFCs","",1
-1590816597394,"jx3fans/scite-ru-src","https://github.com/jx3fans/scite-ru-src","给scite-ru新增设置行间距功能。","",1
-1590816599552,"jenniferkager/tm","https://github.com/jenniferkager/tm","-","",1
-1590816565956,"jcdevaney/teiTest","https://github.com/jcdevaney/teiTest","-","",2
-1590816593106,"JessedeDoes/Mapping","https://github.com/JessedeDoes/Mapping","-","",1
+1590816599552,"jenniferkager/tm","https://github.com/jenniferkager/tm","-","",2
+1590816565956,"jcdevaney/teiTest","https://github.com/jcdevaney/teiTest","-","",4
+1590816593106,"JessedeDoes/Mapping","https://github.com/JessedeDoes/Mapping","-","",12
 1615294342807,"joewiz/my-first-repository","https://github.com/joewiz/my-first-repository","A gentle introduction to Git","",1
 1615538802985,"julottevanderbeek/LSDP2021-Group5","https://github.com/julottevanderbeek/LSDP2021-Group5","LSDP2021-Group5","nld",75
-1617612542232,"Jinntec/Fore","https://github.com/Jinntec/Fore","Fore - xformish web forms as web components","",2
+1617612542232,"Jinntec/Fore","https://github.com/Jinntec/Fore","Fore - xformish web forms as web components","",1
 1615667941949,"joeytakeda/xsl-schematron","https://github.com/joeytakeda/xsl-schematron","An XSLT implementation of schematron validation","",4
 1615667941974,"jmprentice/testing-wip","https://github.com/jmprentice/testing-wip","-","",1
 1615899176829,"jason-edsall/wes2","https://github.com/jason-edsall/wes2","-","",3
 1616748384109,"JSchoonmaker/PDF-Text-Extraction","https://github.com/JSchoonmaker/PDF-Text-Extraction","-","eng",1
-1616763479594,"jeddobson/ENGL64.05-21S","https://github.com/jeddobson/ENGL64.05-21S","Repository for 21S instance of ENGL 64.05 ""Cultural Analytics""","eng",234
+1616763479594,"jeddobson/ENGL64.05-21S","https://github.com/jeddobson/ENGL64.05-21S","Repository for 21S instance of ENGL 64.05 ""Cultural Analytics""","eng",294
 1618217291834,"Juliettejns/XSLT-EugeneSue","https://github.com/Juliettejns/XSLT-EugeneSue","Devoir du module XSLT du master 2 TNAH de l'École nationale des Chartes","fra",2
-1617643717022,"jdapaah/togas_and_gyros","https://github.com/jdapaah/togas_and_gyros","HackPrinceton Spring 21 Submission. ","lat",4
+1617643717022,"jdapaah/togas_and_gyros","https://github.com/jdapaah/togas_and_gyros","HackPrinceton Spring 21 Submission. ","lat",2
 1619686009952,"jieyanzhu/hacking-the-archive","https://github.com/jieyanzhu/hacking-the-archive","-","eng",1
 1618217291785,"joosepgit/Keeletehnoloogia","https://github.com/joosepgit/Keeletehnoloogia","-","",24
 1618491485260,"joeytakeda/xml-validate-action","https://github.com/joeytakeda/xml-validate-action","RNG Validation action","eng",7
-1618507492171,"joeytakeda/lim-schema","https://github.com/joeytakeda/lim-schema","The TEI for the Lyon in Mourning Project","",2
 1620046829072,"jm3684/MaryChurchTerrell","https://github.com/jm3684/MaryChurchTerrell","-","",2
 1620046829068,"jm3684/TerrellSpeech","https://github.com/jm3684/TerrellSpeech","Mary Church Terrell","",1
-1622208914269,"jeandamien-genero/actes-bourbon","https://github.com/jeandamien-genero/actes-bourbon","-","frm",3
-1622051882546,"Jean-Baptiste-Camps/word_segmentation_data","https://github.com/Jean-Baptiste-Camps/word_segmentation_data","-","fro",3
+1622208914269,"jeandamien-genero/actes-bourbon","https://github.com/jeandamien-genero/actes-bourbon","-","frm",2
+1622051882546,"Jean-Baptiste-Camps/word_segmentation_data","https://github.com/Jean-Baptiste-Camps/word_segmentation_data","-","fro",20
 1622540935219,"jorgeuribe19/e-Wilde-PP-and-DP","https://github.com/jorgeuribe19/e-Wilde-PP-and-DP","Digital collaborative edition and translation into Spanish of Oscar Wilde's Prose Poems and short version of the De Profundis. Created By Semillero de Poética y Traducción Universidad EAFIT.","por",1
-1590816584117,"johnlaudun/corpora","https://github.com/johnlaudun/corpora","-","",1
 1613566110984,"KONDE-AT/thun-data","https://github.com/KONDE-AT/thun-data","XML/TEI encoded transcriptions of the correspondence of Leo Thun Hohenstein.","",872
 1606740170245,"KorAP/KorAP-XML-TEI","https://github.com/KorAP/KorAP-XML-TEI","Conversion of TEI P5 based formats to KorAP-XML","deu",4
 1620031608108,"KGruenwald/db_for_medieval_legal_transactions","https://github.com/KGruenwald/db_for_medieval_legal_transactions","-","",14139
@@ -3324,7 +3184,7 @@
 1590816579751,"lattice-8094/analec","https://github.com/lattice-8094/analec","Annotation and analysis of written corpora. Written by Bernard Vittori (Lattice, ENS, CNRS)","",1
 1590816600994,"L1DER32/TextEncoder","https://github.com/L1DER32/TextEncoder","Simplified TEI.2 text tagger.","",1
 1622575349254,"LaBretelle/Exemple_TEI","https://github.com/LaBretelle/Exemple_TEI","Exemple d'une pièce en TEI avec une ODD, un schéma RNG et und doc XHTML","lat",2
-1622575349505,"LeaMaronet/Archetype","https://github.com/LeaMaronet/Archetype","Repository of Archetype related files","",19
+1622670636326,"LeaMaronet/Archetype","https://github.com/LeaMaronet/Archetype","Repository of Archetype related files","",20
 1620463496994,"MelissaBradshaw/ALLP","https://github.com/MelissaBradshaw/ALLP","Work space for the Amy Lowell Letters Project","",75
 1621919813718,"Marianne-Moore-Digital-Archive/notebooks","https://github.com/Marianne-Moore-Digital-Archive/notebooks","notebook TEI-XML files","",4
 1622575349447,"morethanbooks/XML-TEI-Bible","https://github.com/morethanbooks/XML-TEI-Bible","Encoding the Bibel in TEI, starting with the Gospels","fra|eng",174
@@ -3349,7 +3209,7 @@
 1594960319555,"moscatestefano/esame-codifica-di-testi","https://github.com/moscatestefano/esame-codifica-di-testi","Repository contenente i file per l'esame di Codifica di Testi con il prof. Del Grosso a.a. 2019/2020","ita",8
 1618491485284,"MauPalantir/syiao","https://github.com/MauPalantir/syiao","Syiao Mei, the fictional cat language","hun",3
 1597321923295,"MiMoText/roman-dixhuit","https://github.com/MiMoText/roman-dixhuit","Eighteenth-Century French Novels.","",5
-1596688340239,"marrus-sh/marrus-sh.github.io","https://github.com/marrus-sh/marrus-sh.github.io","What's Hapenig On git Hub dog com","eng",51
+1622670636557,"marrus-sh/marrus-sh.github.io","https://github.com/marrus-sh/marrus-sh.github.io","What's Hapenig On git Hub dog com","eng",51
 1622642748999,"MEDEAEditions/DEPCHA","https://github.com/MEDEAEditions/DEPCHA","Data for the DEPCHA project","eng|fra",254
 1606999391263,"MattsCurrie/dihu301_dracula_tei","https://github.com/MattsCurrie/dihu301_dracula_tei","-","",6
 1606999391378,"mrmxf/md-publish","https://github.com/mrmxf/md-publish","tools, templates and boilerplate for publishing technical documents from markdown","",2
@@ -4635,7 +4495,7 @@ This software provides a convenient way to organizing information and making it 
 1590816580785,"pfefferniels/probstuecke-digital","https://github.com/pfefferniels/probstuecke-digital","A digital edition of the 24 Probstücke of the Oberclasse by Johann Mattheson.","",1
 1590816581950,"providedh/visual-uncertainty-annotator","https://github.com/providedh/visual-uncertainty-annotator","-","",1
 1615351215376,"perseids-tools/epi-doc-validator-api","https://github.com/perseids-tools/epi-doc-validator-api","API for validating EpiDoc ","",3
-1622642748215,"publicarchi/objectModel","https://github.com/publicarchi/objectModel","Object modelisation with TEI and CIDOC-CRM","",2
+1622670636302,"publicarchi/objectModel","https://github.com/publicarchi/objectModel","Object modelisation with TEI and CIDOC-CRM","",2
 1615899176800,"programminghistorian/ph-submissions","https://github.com/programminghistorian/ph-submissions","A work-in-progress site for submitting and reviewing new Programming Historian lessons","spa",2
 1616071974326,"pablogalvezprojectosdaw/scissorsandpaste-master","https://github.com/pablogalvezprojectosdaw/scissorsandpaste-master","-","",221
 1617136907160,"PonteIneptique/Tresors_de_TNAH","https://github.com/PonteIneptique/Tresors_de_TNAH","Ce dépôt a été créé dans le cadre d'un cours Git du master Technologies numériques appliquées à l'Histoire au sein de l'Ecole nationale des chartes à Paris. Il s'agit de créer un dépôt contenant des séries de données concernant les mémoires de nos prédécesseurs dans ce master. Les données récoltées auprès d'eux sont encodées en Dublin Core.","",2
@@ -4942,7 +4802,7 @@ This software provides a convenient way to organizing information and making it 
 1604565141070,"scta-texts/UD1xh4","https://github.com/scta-texts/UD1xh4","repo for HenrichBullingerSermonumDecades","lat|eng|deu|fra",74
 1604421743249,"scta-texts/vn58an","https://github.com/scta-texts/vn58an","-","lat",455
 1608295988718,"srophe/caesarea","https://github.com/srophe/caesarea","Application repository for Caesarea-Maritima.org","",19
-1622258397157,"SIstory/PNZ","https://github.com/SIstory/PNZ","Prispevki za novejšo zgodovino / Contributions to Contemporary History","slv|eng",298
+1622670636470,"SIstory/PNZ","https://github.com/SIstory/PNZ","Prispevki za novejšo zgodovino / Contributions to Contemporary History","slv|eng",300
 1609823118979,"scta-texts/aristotlemetaphysics","https://github.com/scta-texts/aristotlemetaphysics","-","lat|eng",41
 1609823118914,"scta-texts/xch7dn","https://github.com/scta-texts/xch7dn","averroes metaphysics commentary","lat",9
 1596083533527,"siongui/tipitaka-romn","https://github.com/siongui/tipitaka-romn","https://www.tipitaka.org/romn/","",2298
@@ -5693,7 +5553,7 @@ This software provides a convenient way to organizing information and making it 
 1590816600998,"solirom/dlr-data-old","https://github.com/solirom/dlr-data-old","-","ron|fra",4
 1620290707840,"scta-texts/JMAet9","https://github.com/scta-texts/JMAet9","John Mair's Commentary on Aristotle's Ethics","lat",116
 1620290707842,"suchmaske/gregorovius-ediarum","https://github.com/suchmaske/gregorovius-ediarum","The ediarum based oXygen XML framework for the Gregorovius Correspondence Edition ","",4
-1621241294073,"sidih/voices","https://github.com/sidih/voices","-","eng|slv",16
+1622670636453,"sidih/voices","https://github.com/sidih/voices","-","eng|slv",16
 1620290707908,"scta-texts/juht5y","https://github.com/scta-texts/juht5y","Zabarella Decretals commentary","lat",1
 1620290707904,"scta-texts/hby3dh","https://github.com/scta-texts/hby3dh","fishacresentcommentary Fishacre Commentary on the Sentences","lat",3
 1620463496972,"starfoi/ceti","https://github.com/starfoi/ceti","-","",1
@@ -5718,7 +5578,7 @@ This software provides a convenient way to organizing information and making it 
 1604075532049,"tillgrallert/digital-muqtabas","https://github.com/tillgrallert/digital-muqtabas","Digital edition (TEI XML) of the Arabic monthly journal *al-Muqtabas* (مجلة المقتبس), published by Muḥammad Kurd ʿAlī in Cairo and Damascus between 1906 and 1917/18","ara|eng|fas|fra|ota|tur",46
 1621313982999,"thecdil/mancini_source","https://github.com/thecdil/mancini_source","-","ita|fra|eng",217
 1621227548967,"TST-Project/editor","https://github.com/TST-Project/editor","TEI XML editor for the TST Project","",3
-1622642748769,"TST-Project/mss","https://github.com/TST-Project/mss","Woking repository for the TST project","fra|san|tam|eng|por",154
+1622670636551,"TST-Project/mss","https://github.com/TST-Project/mss","Woking repository for the TST project","fra|san|tam|eng|por",154
 1609349294009,"tnhaider/antikoerperchen-german-annotated-poetry","https://github.com/tnhaider/antikoerperchen-german-annotated-poetry","German Canon Poetry Corpus with Annotation","deu",487
 1608687335080,"tillgrallert/test-github-actions","https://github.com/tillgrallert/test-github-actions","-","ara",2
 1595349137077,"throneless-tech/pubpub","https://github.com/throneless-tech/pubpub","A mirror of PubPub to test and build for PREreview.","",1
@@ -33474,7 +33334,7 @@ This software provides a convenient way to organizing information and making it 
 1590816587162,"umr5037/skepsis","https://github.com/umr5037/skepsis","-","",1
 1590816592251,"ubbo/sade-textgrid-default-project","https://github.com/ubbo/sade-textgrid-default-project","Default TextGrid project for SADE","",3
 1619585664438,"UTKcataloging/TDH_cleanup","https://github.com/UTKcataloging/TDH_cleanup","Clean data present in https://github.com/utkdigitalinitiatives/spc-tei from Tennessee Documentary History.","",26
-1622642748694,"VandyVRC/tcadrt","https://github.com/VandyVRC/tcadrt","-","eng|zho|ara|cop|chu|deu|spa|fra|gez|grc|hye|ita|kat|lat|nld|por|rus|sog|syr",797
+1622670636475,"VandyVRC/tcadrt","https://github.com/VandyVRC/tcadrt","-","eng|zho|ara|cop|chu|deu|spa|fra|gez|grc|hye|ita|kat|lat|nld|por|rus|sog|syr",799
 1608427782028,"vedph/PapyroLogos","https://github.com/vedph/PapyroLogos","-","eng|grc|lat",523
 1611597478598,"vlebedynska/word-embeddings-childrens-books","https://github.com/vlebedynska/word-embeddings-childrens-books","-","",29
 1594197118016,"ValerioSalvetti/Progetto-Esame-LL1.14","https://github.com/ValerioSalvetti/Progetto-Esame-LL1.14","-","ita",3
