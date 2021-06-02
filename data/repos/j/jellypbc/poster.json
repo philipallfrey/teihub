@@ -1,1 +1,0 @@
-{"date":1590816586939,"name":"jellypbc/poster","url":"https://github.com/jellypbc/poster","desc":"Jelly demo toy app that turns PDFs into editable posts","files":["db/seeds.rb","app/services/diborg_service.rb","app/models/upload_tei.rb"],"langs":[]}

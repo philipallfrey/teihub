@@ -1,1 +1,1 @@
-{"date":1590816599794,"name":"JonathanReeve/hs-tei-transform","url":"https://github.com/JonathanReeve/hs-tei-transform","desc":"Experiments in transforming TEI XML, using Haskell","files":["test-data/3020.xml","Main.hs","test-data/header.xml"],"langs":["eng"]}
+{"date":1590816599794,"name":"JonathanReeve/hs-tei-transform","url":"https://github.com/JonathanReeve/hs-tei-transform","desc":"Experiments in transforming TEI XML, using Haskell","langs":["eng"],"created":"2019-09-29T18:02:48Z","files":["test-data/3020.xml","test-data/header.xml"]}
