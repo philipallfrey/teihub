@@ -1,1 +1,1 @@
-{"date":1619025864821,"name":"biblia-arabica/mss-catalog-pilot","url":"https://github.com/biblia-arabica/mss-catalog-pilot","desc":"Workspace for exploring manuscript cataloguing solutions in TEI","langs":[],"count":1,"created":"2021-04-21T09:28:04Z","files":["schemas/mss.xml"]}
+{"date":1622727707532,"name":"biblia-arabica/mss-catalog-pilot","url":"https://github.com/biblia-arabica/mss-catalog-pilot","desc":"Workspace for exploring manuscript cataloguing solutions in TEI","files":["schemas/mss.xml","mss-samples/blank-example.xml"],"langs":["eng"]}

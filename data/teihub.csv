@@ -14,7 +14,7 @@
 1609333241174,"7h3f0x/Part-of-Speech-Tagging","https://github.com/7h3f0x/Part-of-Speech-Tagging","-","",635
 1590816600424,"7PartidasDigital/AnaText","https://github.com/7PartidasDigital/AnaText","Materiales del curso Análisis de textos y estilometría usando R","",21
 1622540935093,"7PartidasDigital/XML-TEI","https://github.com/7PartidasDigital/XML-TEI","Codificación XML-TEI de los testimonios de las Siete Partidas","spa",11
-1622701290546,"84000/data-tei","https://github.com/84000/data-tei","TEI files of the translations","san|eng|bod|pli|deu",4644
+1622727707795,"84000/data-tei","https://github.com/84000/data-tei","TEI files of the translations","san|eng|bod|pli|deu",4644
 1590816600998,"84000/data","https://github.com/84000/data","84000 XML data files","bod|san|eng|pli",4442
 1590816600823,"84000/translations","https://github.com/84000/translations","Repository for 84000 translations","san|eng|bod|emg",31
 1590816598985,"8Raouf24/Projet-S6","https://github.com/8Raouf24/Projet-S6","Repository for our works in the field of web semantic and structured documents","",2
@@ -380,17 +380,17 @@
 1622540935210,"agnesecam/CodificaFdS","https://github.com/agnesecam/CodificaFdS","Studio, progettazione e implementazione di un modello di codifica per la rappresentazione digitale, conservazione e pubblicazione degli appunti di Ferdinand de Saussure.","fra",2
 1621284149109,"AMGavrilescu/Esercizi","https://github.com/AMGavrilescu/Esercizi","-","",2
 1621400154978,"agile-humanities/ddhi-repository","https://github.com/agile-humanities/ddhi-repository","A development repository for the DDHI Oral History Project.","eng",88
-1622712779986,"Antonomaz/Corpus","https://github.com/Antonomaz/Corpus","Ce répertoire contient les mazarinades encodées en XML-TEI.","fra",746
-1622712779959,"Antonomaz/ODD","https://github.com/Antonomaz/ODD","Ce répertoire contient les schémas de validation des textes encodés ainsi que la documentation de l'encodage.","",3
+1622727707591,"Antonomaz/Corpus","https://github.com/Antonomaz/Corpus","Ce répertoire contient les mazarinades encodées en XML-TEI.","fra",746
+1622727707729,"Antonomaz/ODD","https://github.com/Antonomaz/ODD","Ce répertoire contient les schémas de validation des textes encodés ainsi que la documentation de l'encodage.","",3
 1621919813688,"adelaidelunardi/esame-lunardi","https://github.com/adelaidelunardi/esame-lunardi","Esame per il corso di DH ","",1
 1622575349477,"acdh-oeaw/legalkraus-documentation","https://github.com/acdh-oeaw/legalkraus-documentation","Documentation and Schemas of the Project ""Karl Kraus Legal Papers""","",2
 1622628973304,"Ariannads99/Codifica-di-Testi-20-21","https://github.com/Ariannads99/Codifica-di-Testi-20-21","-","",4
-1622642748808,"Brown-University-Library/iip-texts","https://github.com/Brown-University-Library/iip-texts","IIP inscriptions encoded in Epidoc XML and supporting files","grc|heb|lat|arc|kat|x-unknown|phn",9109
+1622727707592,"Brown-University-Library/iip-texts","https://github.com/Brown-University-Library/iip-texts","IIP inscriptions encoded in Epidoc XML and supporting files","grc|heb|lat|arc|kat|x-unknown|phn",9109
 1614430164909,"Beth-Mardutho/hugoye-data","https://github.com/Beth-Mardutho/hugoye-data","Data repository for Hugoye TEI records. ","eng|ita|ara|cop|chu|deu|spa|fra|gez|grc|hye|kat|lat|nld|por|rus|sog|syr",623
-1622712779976,"bodleian/medieval-mss","https://github.com/bodleian/medieval-mss","Medieval Manuscripts in Oxford Libraries: TEI catalogue descriptions","lat|fra|eng|grc|deu|nld|por|ita|zxx|cor|cym|spa|chu|isl|rus|ell|gle|cat|cop|ara|heb|ces|enm",10283
+1622727707512,"bodleian/medieval-mss","https://github.com/bodleian/medieval-mss","Medieval Manuscripts in Oxford Libraries: TEI catalogue descriptions","lat|fra|eng|grc|deu|nld|por|ita|zxx|cor|cym|spa|chu|isl|rus|ell|gle|cat|cop|ara|heb|ces|enm",10283
 1622575349475,"BetaMasaheft/Works","https://github.com/BetaMasaheft/Works","Ethiopian Literature edited in TEI","eng|gez|tir|ara|syr|grc|lat|amh|ita|heb|deu|cop|kat|pal|fra",4716
 1622555880022,"BetaMasaheft/Persons","https://github.com/BetaMasaheft/Persons","Authority files for each person","eng|gez|grc|ara|cop|ita|por|lat|syr|amh|rus|deu|tir",13431
-1622701290691,"BetaMasaheft/Manuscripts","https://github.com/BetaMasaheft/Manuscripts","Manuscripts descriptions","gez|grc|eng|ara|tir|ita|amh|lat|fra|deu|spa|rus|cop|heb|syr",15517
+1622727707574,"BetaMasaheft/Manuscripts","https://github.com/BetaMasaheft/Manuscripts","Manuscripts descriptions","gez|grc|eng|ara|tir|ita|amh|lat|fra|deu|spa|rus|cop|heb|syr",15517
 1616504154654,"Beth-Mardutho/surayt-data","https://github.com/Beth-Mardutho/surayt-data","-","tru|ara|cop|chu|deu|eng|spa|fra|gez|grc|hye|ita|kat|lat|nld|por|rus|sog|syr",185
 1614933918592,"BucknellDSC/florentineCodex","https://github.com/BucknellDSC/florentineCodex","Florentine Codex Project","spa|nau|spn",80
 1617943968935,"BetaMasaheft/guidelines","https://github.com/BetaMasaheft/guidelines","source files of the new encoding guidelines edited in XML","gez|eng|amh|tir|rus|lat|ara|ita",219
@@ -545,7 +545,7 @@
 1615482694057,"bleierr/NERDPool","https://github.com/bleierr/NERDPool","-","",76
 1616748384073,"bennigeir/ASR-setup-and-testing","https://github.com/bennigeir/ASR-setup-and-testing","-","",4
 1617180510595,"bembus/pico","https://github.com/bembus/pico","-","",4
-1619025864821,"biblia-arabica/mss-catalog-pilot","https://github.com/biblia-arabica/mss-catalog-pilot","Workspace for exploring manuscript cataloguing solutions in TEI","",1
+1622727707532,"biblia-arabica/mss-catalog-pilot","https://github.com/biblia-arabica/mss-catalog-pilot","Workspace for exploring manuscript cataloguing solutions in TEI","eng",2
 1620046829032,"blalbrit/blalbrit.github.io","https://github.com/blalbrit/blalbrit.github.io","-","",1
 1620148359510,"bryanachristman/DaughteroftheSamurai","https://github.com/bryanachristman/DaughteroftheSamurai","-","jpn",2
 1622540935211,"Bess6598/codifica_di_testi","https://github.com/Bess6598/codifica_di_testi","Esercizi corso di Codifica di testi, Informatica Umanistica, Università di Pisa, Anno accademico 2020/2021","eng|fra|ita",7
@@ -554,7 +554,7 @@
 1622701290721,"CivilWarGovernorsOfKentucky/Documents","https://github.com/CivilWarGovernorsOfKentucky/Documents","CWGK Documents in TEI-XML Format","",21946
 1622540935061,"clarin-eric/ParlaMint","https://github.com/clarin-eric/ParlaMint","ParlaMint: Comparable Parliamentary Corpora","ces|slv|bul|nld|eng|dan|ron|isl|hrv|ita|hun|lav|spa|fra",175
 1614343836995,"COST-ELTeC/ELTeC-srp-ext","https://github.com/COST-ELTeC/ELTeC-srp-ext","-","srp",8
-1622712779977,"COST-ELTeC/ELTeC-srp","https://github.com/COST-ELTeC/ELTeC-srp","-","srp",96
+1622727707513,"COST-ELTeC/ELTeC-srp","https://github.com/COST-ELTeC/ELTeC-srp","-","srp",96
 1622575349260,"cbeta-git/xml-p5a","https://github.com/cbeta-git/xml-p5a","CBETA XML P5a 版本","eng|zho|san|pli|x-unknown",4864
 1601901457130,"carolinecorbieres/ArtlasCatalogues","https://github.com/carolinecorbieres/ArtlasCatalogues","Workflow to encode exhibition catalogues","fra|por",256
 1618000872443,"COST-ELTeC/ELTeC-fra","https://github.com/COST-ELTeC/ELTeC-fra","French novel collection for the ELTeC (European Literary Text Collection)","fra",100
@@ -1313,20 +1313,20 @@
 1621919813475,"dariok/xfhl","https://github.com/dariok/xfhl","X-Technologies for Digital Humanists and Librarians","eng",3
 1621919813892,"d-flood/TEI-to-JSON","https://github.com/d-flood/TEI-to-JSON","Convert full document TEI transcriptions to single-verse JSON files that are compatible with the ITSEE Collation Editor","grc",1
 1622540935207,"DomiElia/EserciziCodifica","https://github.com/DomiElia/EserciziCodifica","-","",3
-1622642748776,"digicademy/xml-modellieren-strukturieren-repraesentieren","https://github.com/digicademy/xml-modellieren-strukturieren-repraesentieren","Dieses Repositoriums enthält die Folien und die Übungsmaterialien zur Datenmodellierung und Datenverarbeitung in XML der Veranstaltung ""Grundlagen Digitaler Methodik in den Geistes- und Kulturwissenschaften"". Zusätzlich finden sich Folien zu TEI-XML und TEI-EpiDoc","",1
+1622727707539,"digicademy/xml-modellieren-strukturieren-repraesentieren","https://github.com/digicademy/xml-modellieren-strukturieren-repraesentieren","Dieses Repositoriums enthält die Folien und die Übungsmaterialien zur Datenmodellierung und Datenverarbeitung in XML der Veranstaltung ""Grundlagen Digitaler Methodik in den Geistes- und Kulturwissenschaften"". Zusätzlich finden sich Folien zu TEI-XML und TEI-EpiDoc","",2
 1614430164996,"emidrouin/EDN6101-ateliers_et_travaux","https://github.com/emidrouin/EDN6101-ateliers_et_travaux","Travaux réalisés dans le cadre du cours EDN6101 - Édition critique avec la TEI (hiver 2021)","fra",4
 1622701290633,"erc-dharma/tfc-khmer-epigraphy","https://github.com/erc-dharma/tfc-khmer-epigraphy","This repository assembles data produced by the project Corpus des inscriptions khmères (before and during the DHARMA project).","eng|fra|san|x-oldkhmer|x-middlekhmer",614
 1622280352015,"erc-dharma/tfb-vengicalukya-epigraphy","https://github.com/erc-dharma/tfb-vengicalukya-epigraphy","DHARMA project Task Force B, Eastern Cālukya epigraphic corpus.","eng|san|fra|tel",65
 1616936295747,"ethiopicist/texts","https://github.com/ethiopicist/texts","TEI-encoded texts.","",2
 1622712779501,"erc-dharma/tfc-nusantara-epigraphy","https://github.com/erc-dharma/tfc-nusantara-epigraphy","DHARMA project task force C, Nusantara epigraphic corpus ","kaw|eng|x-oldsun|ndl",215
-1622701290620,"erc-dharma/tfd-nusantara-philology","https://github.com/erc-dharma/tfd-nusantara-philology","DHARMA project, task force D","san|kaw|x-oldsun|tam|kan|tel",23
+1622727707536,"erc-dharma/tfd-nusantara-philology","https://github.com/erc-dharma/tfd-nusantara-philology","DHARMA project, task force D","san|kaw|x-oldsun|tam|kan|tel",23
 1617328328551,"erc-dharma/tfa-tamilnadu-epigraphy","https://github.com/erc-dharma/tfa-tamilnadu-epigraphy","DHARMA project Task Force A Tamil Nadu, South India, Tamil Nadu (varia) epigraphic corpus.","",20
-1622712779980,"erc-dharma/project-documentation","https://github.com/erc-dharma/project-documentation","DHARMA Project Documentation","san|kaw|tam|kan|tel|eng",13
+1622727707530,"erc-dharma/project-documentation","https://github.com/erc-dharma/project-documentation","DHARMA Project Documentation","san|kaw|tam|kan|tel|eng",13
 1594269121053,"ebalzac/corpussecondaire","https://github.com/ebalzac/corpussecondaire","-","fra",204
 1611752304448,"eRougemont/livres","https://github.com/eRougemont/livres","Denis de Rougemont, les livres en XML/TEI","fra",38
 1622701290626,"erc-dharma/tfa-pallava-epigraphy","https://github.com/erc-dharma/tfa-pallava-epigraphy","DHARMA Task Force A Tamil Nadu, South India, Pallava corpus","eng|tam|fra",317
 1611597478572,"eRougemont/articles","https://github.com/eRougemont/articles","Denis de Rougemont, compilations d’articles de revue en XML/TEI","fra",10
-1613983055055,"eeditiones/tei-publisher-app","https://github.com/eeditiones/tei-publisher-app","The main TEI Publisher app","spa|lat|fra|eng|pol",14
+1622727707528,"eeditiones/tei-publisher-app","https://github.com/eeditiones/tei-publisher-app","The main TEI Publisher app","spa|lat|fra|eng|pol",15
 1619513293990,"erc-dharma/tfb-telugu-epigraphy","https://github.com/erc-dharma/tfb-telugu-epigraphy","DHARMA project Task Force B Telugu epigraphic corpus","eng|tel",196
 1612773788795,"ErikaPistolesi1/progetto-codifica-testi","https://github.com/ErikaPistolesi1/progetto-codifica-testi","-","ita",6
 1601901457554,"ejmbrauchler/BullingerWebApp","https://github.com/ejmbrauchler/BullingerWebApp","-","eng",3
@@ -1577,7 +1577,7 @@
 1590816566462,"Early-Modern-OCR/Juxta-cl","https://github.com/Early-Modern-OCR/Juxta-cl","Forked version of the Juxta Command Line tool created for eMOP by Performant Software Solutions. Will be official after eMOP is complete (10/1/14).","",3
 1621241294279,"EDelacroix/schema","https://github.com/EDelacroix/schema","-","fra",3
 1615985561561,"eeditiones/tei-guidelines","https://github.com/eeditiones/tei-guidelines","-","",2
-1622712779925,"evgeniaanikeeva/codifica_di_testi","https://github.com/evgeniaanikeeva/codifica_di_testi","-","",3
+1622727707456,"evgeniaanikeeva/codifica_di_testi","https://github.com/evgeniaanikeeva/codifica_di_testi","-","",3
 1617973121360,"ELTE-DH/verskorpusz","https://github.com/ELTE-DH/verskorpusz","Magyar versek TEI XML korpusza gépi annotációval","hun",45471
 1617973121409,"ELTE-DH/regenykorpusz","https://github.com/ELTE-DH/regenykorpusz","-","hun",200
 1618852933779,"elviramercatanti/Progetto_Esame_Codifica_Di_Testi","https://github.com/elviramercatanti/Progetto_Esame_Codifica_Di_Testi","-","ita",1
@@ -1588,7 +1588,7 @@
 1621919813717,"entitiesofentities/mmconference","https://github.com/entitiesofentities/mmconference","-","",1
 1622051882537,"elviramercatanti/Codifica_Testimonianze_Orali_Voci_Dall_Inferno","https://github.com/elviramercatanti/Codifica_Testimonianze_Orali_Voci_Dall_Inferno","-","",5
 1622642748772,"Elisa-Ra/Codifica-di-testi-2021","https://github.com/Elisa-Ra/Codifica-di-testi-2021","Esercizi per il corso Codifica dei testi 2021","",3
-1622712779933,"ebalzac/theatre","https://github.com/ebalzac/theatre","Numérisation du théâtre de Balzac","fra",6
+1622727707589,"ebalzac/theatre","https://github.com/ebalzac/theatre","Numérisation du théâtre de Balzac","fra",6
 1622642748884,"fihristorg/fihrist-mss","https://github.com/fihristorg/fihrist-mss","Fihrist TEI Catalogue","fas|ara|gez|ota|swa|tur|lat|eng|syr|urd|ita|syc|kur|heb|jpr|msa|hau|uig|ave|chg",13518
 1622701290632,"fetes17/merveilles17","https://github.com/fetes17/merveilles17","-","fra",73
 1622701290540,"FloChiff/DAHNProject","https://github.com/FloChiff/DAHNProject","Project DAHN ""Digital Edition of historical manuscripts (correspondences)""","fra|deu|eng|lat|grc|ita|swa|nld",641
@@ -2266,13 +2266,13 @@
 1620809270995,"HelRei80/X-Technologie","https://github.com/HelRei80/X-Technologie","-","",1
 1622258397132,"hmteditors/upsilon1.1-2021","https://github.com/hmteditors/upsilon1.1-2021","Unified validation of HMT editing of Upsilon 1.1","",3
 1622575349269,"hmteditors/vb-2021","https://github.com/hmteditors/vb-2021","Unified validation of HMT editing in Venetus B MS","",4
-1622712779920,"hmteditors/burney86-book8","https://github.com/hmteditors/burney86-book8","-","",2
-1622712779992,"ISicily/ISicily","https://github.com/ISicily/ISicily","EpiDoc files for the I.Sicily project","eng|ita|grc|lat|heb|phn|xpu|osc|xly|scx|sxc",5104
+1622727707451,"hmteditors/burney86-book8","https://github.com/hmteditors/burney86-book8","-","",2
+1622727707526,"ISicily/ISicily","https://github.com/ISicily/ISicily","EpiDoc files for the I.Sicily project","eng|ita|grc|lat|heb|phn|xpu|osc|xly|scx|sxc",5104
 1607131440144,"ilrt/Beyond2022TeiTemplate","https://github.com/ilrt/Beyond2022TeiTemplate","Work on creating a template for the TEI/XML that will be used in the Medieval Gold Seam and other seams","eng",5
 1598099517019,"innawendell/European_Comedy","https://github.com/innawendell/European_Comedy","The quantitative study of the evolution of the Russian and French 5-act comedy in verse.","fra|rus",115
 1599526896066,"istex/odd-istex","https://github.com/istex/odd-istex","Schéma ODD TEI pour le projet ISTEX","",1
 1620103817003,"iwein-digital/transcriptions","https://github.com/iwein-digital/transcriptions","Manuscript transcriptions","",39
-1622712779999,"IreneVagionakis/Fiscus_bis","https://github.com/IreneVagionakis/Fiscus_bis","Fiscus database","rus|eng|grc",480
+1622727707852,"IreneVagionakis/Fiscus_bis","https://github.com/IreneVagionakis/Fiscus_bis","Fiscus database","rus|eng|grc",481
 1594960319817,"ilovan/cwrc-writer-samples","https://github.com/ilovan/cwrc-writer-samples","-","eng|ita|lat",9
 1618420854017,"IreneVagionakis/CretanInscriptions","https://github.com/IreneVagionakis/CretanInscriptions","An EFES EpiDoc collection of inscriptions pertaining to Cretan institutions (VII-I century BC)","grc|ara|eng|fra|deu|ell|heb|ita|lat|rus",627
 1619686009993,"i-d-e/ride","https://github.com/i-d-e/ride","A review journal for digital editions and resources","eng|fra|deu",143
@@ -2906,7 +2906,7 @@
 1612816632279,"lunamellace/Progetto-codica","https://github.com/lunamellace/Progetto-codica","Progetto per l'esame di codifica di testi a cura di Luna Mellace e Giorgia Nicosia","ita",1
 1606826587317,"lexml/xtf","https://github.com/lexml/xtf","Mirror of the XTF Mercurial repo (xtf.cdlib.org)","",8
 1598977959853,"lascivaroma/priapeia","https://github.com/lascivaroma/priapeia","Corpus of Priapeia","lat|grc|eng",5
-1622712779954,"LorenzoT94/LorenzoT94-Progetto-Esame-Codifica-di-Testi","https://github.com/LorenzoT94/LorenzoT94-Progetto-Esame-Codifica-di-Testi","Contiene il progetto per l'esame di Codifica di testi (a.a.2019/2020)","ita|fra",2
+1622727707493,"LorenzoT94/LorenzoT94-Progetto-Esame-Codifica-di-Testi","https://github.com/LorenzoT94/LorenzoT94-Progetto-Esame-Codifica-di-Testi","Contiene il progetto per l'esame di Codifica di testi (a.a.2019/2020)","ita|fra",2
 1612600896996,"lunamellace/progetto-codifica-esame","https://github.com/lunamellace/progetto-codifica-esame","Progetto codifica di testi a cura di Luna Mellace e Giorgia Nicosia.","ita",1
 1590816600999,"LingSIG/lingsig.github.io","https://github.com/LingSIG/lingsig.github.io","-","",270
 1590816600986,"LukeMurphey/perseus-greek-and-roman-texts","https://github.com/LukeMurphey/perseus-greek-and-roman-texts","Contains various Greek and Roman works of antiquity that were originally provided as part of the Perseus project (http://www.perseus.tufts.edu/).","eng|lat|deu|fra|ita",830
@@ -3047,7 +3047,7 @@
 1590816592592,"levvarvara/programming","https://github.com/levvarvara/programming","-","",1
 1590816592568,"lerunok/Hausarbeit","https://github.com/lerunok/Hausarbeit","-","",1
 1590816592418,"luckysandra/proga","https://github.com/luckysandra/proga","For my Programming homework / Для домашних заданий по программированию","",1
-1622712779957,"LorenzoT94/Esercizi-Codifica-di-Testi","https://github.com/LorenzoT94/Esercizi-Codifica-di-Testi","Esercizi Codifica di Testi","ita|fra",6
+1622727707496,"LorenzoT94/Esercizi-Codifica-di-Testi","https://github.com/LorenzoT94/Esercizi-Codifica-di-Testi","Esercizi Codifica di Testi","ita|fra",6
 1590816598036,"lit-mod-viz/avant-garde-networks","https://github.com/lit-mod-viz/avant-garde-networks","-","",1
 1590816600986,"laurentromary/CALSinTEI","https://github.com/laurentromary/CALSinTEI","TEI-ODD specification of the OASIS CALS format","",2
 1590816600958,"ldsad7/The-Structural-Diversity-of-Russian-Drama-Explored-with-Neural-Networks","https://github.com/ldsad7/The-Structural-Diversity-of-Russian-Drama-Explored-with-Neural-Networks","My coursework at the third year of studying","rus",2
@@ -4121,7 +4121,7 @@ This software provides a convenient way to organizing information and making it 
 1616763479053,"OpenScriptureInformationStandard/Schemas","https://github.com/OpenScriptureInformationStandard/Schemas","The actual schema versions and doc for OSIS.","",2
 1618451010069,"obaskerville/personal-site","https://github.com/obaskerville/personal-site","Personal site for me","",2
 1621313982504,"oeuvres/teinte","https://github.com/oeuvres/teinte","TEI ► html, a transform pack for XML/TEI, in XSLT1 (compatible PHP, browser, Python…)","",1
-1622642748835,"papyri/idp.data","https://github.com/papyri/idp.data","Data from the Integrating Digital Papyrology project","eng|grc|lat|fra|deu|ita|spa|ell|cop|egy|ara|syc|arc|heb|und",182756
+1622727707588,"papyri/idp.data","https://github.com/papyri/idp.data","Data from the Integrating Digital Papyrology project","eng|grc|lat|fra|deu|ita|spa|ell|cop|egy|ara|syc|arc|heb|und",182762
 1621515888238,"Petrarchive/The-Petrarchive","https://github.com/Petrarchive/The-Petrarchive","-","",116
 1614791769755,"pierre-amadio/packard","https://github.com/pierre-amadio/packard"," Packard's Morphological Analysis Codes module for the Sword engine.","",1
 1622575349361,"peterwebster/henson","https://github.com/peterwebster/henson","Master data store for the Hensley Henson Journals project, and issue tracker. The application code is kept elsewhere.","",3579
@@ -4830,7 +4830,7 @@ This software provides a convenient way to organizing information and making it 
 1620290707911,"scta-texts/n6MsPi","https://github.com/scta-texts/n6MsPi","Augustine In EpistolamIoannis Ad Parthos","lat",11
 1597336325148,"socialsoftware/edition","https://github.com/socialsoftware/edition","-","por",17
 1598603542832,"spedraca/cwrc-test-files","https://github.com/spedraca/cwrc-test-files","Automagically created by CWRC","",2
-1600259648019,"scta-texts/wo8uy7","https://github.com/scta-texts/wo8uy7","ockham sentences commentary","lat",175
+1622727707555,"scta-texts/wo8uy7","https://github.com/scta-texts/wo8uy7","ockham sentences commentary","lat",175
 1619686009914,"scta-texts/lombardsententia","https://github.com/scta-texts/lombardsententia","-","lat|eng",978
 1612184347293,"scta-texts/erf8hf","https://github.com/scta-texts/erf8hf","melanchthonlocicommunes","lat",45
 1610457309476,"Solveig87/projet-documents-structures","https://github.com/Solveig87/projet-documents-structures","-","",7
@@ -5536,7 +5536,7 @@ This software provides a convenient way to organizing information and making it 
 1619513293956,"SigiDoc/SigiDoc_Latest","https://github.com/SigiDoc/SigiDoc_Latest","Latest SigiDoc Stylesheet AS - MF","grc",184
 1615667941976,"scta-texts/aristotledephysica","https://github.com/scta-texts/aristotledephysica","Aristotle De Physica","lat",10
 1615754293695,"svakulenk0/uva-lsdp-course","https://github.com/svakulenk0/uva-lsdp-course","Language, Speech and Dialogue Processing course @ University of Amsterdam 2021","nld",1955
-1622642748682,"scta-texts/M8ag89","https://github.com/scta-texts/M8ag89","Petrus Peregrinus de Maricourt treatise on magnetism","lat",6
+1622727707694,"scta-texts/M8ag89","https://github.com/scta-texts/M8ag89","Petrus Peregrinus de Maricourt treatise on magnetism","lat",6
 1615899176110,"statsmaths/fwp-life-histories-layers","https://github.com/statsmaths/fwp-life-histories-layers","Text From FWP Project","",9
 1616244730146,"solirom/dlr-data","https://github.com/solirom/dlr-data","-","ron",1100
 1616504154505,"Segolene-Albouy/Segolene-Albouy.github.io","https://github.com/Segolene-Albouy/Segolene-Albouy.github.io","Édition en XML TEI de la vie de saint Sixte dans le manuscrit Français 412","fra",2
@@ -5554,7 +5554,7 @@ This software provides a convenient way to organizing information and making it 
 1590816600998,"solirom/dlr-data-old","https://github.com/solirom/dlr-data-old","-","ron|fra",4
 1620290707840,"scta-texts/JMAet9","https://github.com/scta-texts/JMAet9","John Mair's Commentary on Aristotle's Ethics","lat",116
 1620290707842,"suchmaske/gregorovius-ediarum","https://github.com/suchmaske/gregorovius-ediarum","The ediarum based oXygen XML framework for the Gregorovius Correspondence Edition ","",4
-1622712779978,"sidih/voices","https://github.com/sidih/voices","-","eng|slv",16
+1622727707534,"sidih/voices","https://github.com/sidih/voices","-","eng|slv",16
 1620290707908,"scta-texts/juht5y","https://github.com/scta-texts/juht5y","Zabarella Decretals commentary","lat",1
 1620290707904,"scta-texts/hby3dh","https://github.com/scta-texts/hby3dh","fishacresentcommentary Fishacre Commentary on the Sentences","lat",3
 1620463496972,"starfoi/ceti","https://github.com/starfoi/ceti","-","",1
@@ -5569,6 +5569,7 @@ This software provides a convenient way to organizing information and making it 
 1622051882510,"scta-texts/Gi9qrR","https://github.com/scta-texts/Gi9qrR","Giles of Rome Sentences Commentary","lat",221
 1621919813844,"sarahalang/dissertation-code","https://github.com/sarahalang/dissertation-code","Repository mit dem Code zur Dissertation","",3
 1622051882466,"SusanBrown/Sample_texts","https://github.com/SusanBrown/Sample_texts","-","",4
+1622727707551,"s205246/Projektarbetevt21","https://github.com/s205246/Projektarbetevt21","-","",12
 1614430164852,"TuftsUniversity-deprecated/tufts_models","https://github.com/TuftsUniversity-deprecated/tufts_models","Hydra models for Tufts","eng",4
 1614430164843,"TuftsUniversity-deprecated/tufts_hydra_admin","https://github.com/TuftsUniversity-deprecated/tufts_hydra_admin","-","eng",21
 1614430164822,"TuftsUniversity-deprecated/tuftsification-hydra","https://github.com/TuftsUniversity-deprecated/tuftsification-hydra","-","eng",26
@@ -33226,8 +33227,384 @@ This software provides a convenient way to organizing information and making it 
 1620046829472,"tmancinelli/bologna2021","https://github.com/tmancinelli/bologna2021","Laboratory IIIF & XML laboratory April 2021","",2
 1621313982501,"transform-my-tei/transform-my-tei.github.io","https://github.com/transform-my-tei/transform-my-tei.github.io","-","",1
 1622366058076,"thanneken/TheologicalQuestions","https://github.com/thanneken/TheologicalQuestions","Open Educational Resource (OER) Textbook for College Introduction to Theology","",1
-1621919813207,"textcreationpartnership/A00416","https://github.com/textcreationpartnership/A00416","-","eng",1
-1622642748225,"textcreationpartnership/A01178","https://github.com/textcreationpartnership/A01178","-","eng",1
+1622727707603,"textcreationpartnership/A00416","https://github.com/textcreationpartnership/A00416","-","eng",1
+1622727707593,"textcreationpartnership/A01178","https://github.com/textcreationpartnership/A01178","-","eng",1
+1622727707999,"textcreationpartnership/A40278","https://github.com/textcreationpartnership/A40278","-","eng",1
+1622727707998,"textcreationpartnership/A40260","https://github.com/textcreationpartnership/A40260","-","eng",1
+1622727707997,"textcreationpartnership/A40268","https://github.com/textcreationpartnership/A40268","-","eng",1
+1622727707996,"textcreationpartnership/A40258","https://github.com/textcreationpartnership/A40258","-","eng",1
+1622727707995,"textcreationpartnership/A40273","https://github.com/textcreationpartnership/A40273","-","eng",1
+1622727707994,"textcreationpartnership/A40286","https://github.com/textcreationpartnership/A40286","-","eng",1
+1622727707993,"textcreationpartnership/A40271","https://github.com/textcreationpartnership/A40271","-","eng",1
+1622727707992,"textcreationpartnership/A40252","https://github.com/textcreationpartnership/A40252","-","eng",1
+1622727707991,"textcreationpartnership/A40236","https://github.com/textcreationpartnership/A40236","-","eng",1
+1622727707990,"textcreationpartnership/A40244","https://github.com/textcreationpartnership/A40244","-","eng",1
+1622727707989,"textcreationpartnership/A40249","https://github.com/textcreationpartnership/A40249","-","eng",1
+1622727707988,"textcreationpartnership/A40251","https://github.com/textcreationpartnership/A40251","-","eng",1
+1622727707987,"textcreationpartnership/A40238","https://github.com/textcreationpartnership/A40238","-","eng",1
+1622727707986,"textcreationpartnership/A40215","https://github.com/textcreationpartnership/A40215","-","eng",1
+1622727707985,"textcreationpartnership/A40203","https://github.com/textcreationpartnership/A40203","-","eng",1
+1622727707984,"textcreationpartnership/A40224","https://github.com/textcreationpartnership/A40224","-","eng",1
+1622727707983,"textcreationpartnership/A40228","https://github.com/textcreationpartnership/A40228","-","eng",1
+1622727707982,"textcreationpartnership/A40194","https://github.com/textcreationpartnership/A40194","-","eng",1
+1622727707981,"textcreationpartnership/A40214","https://github.com/textcreationpartnership/A40214","-","eng",1
+1622727707980,"textcreationpartnership/A40184","https://github.com/textcreationpartnership/A40184","-","eng",1
+1622727707979,"textcreationpartnership/A40192","https://github.com/textcreationpartnership/A40192","-","eng",1
+1622727707978,"textcreationpartnership/A40213","https://github.com/textcreationpartnership/A40213","-","eng",1
+1622727707977,"textcreationpartnership/A40147","https://github.com/textcreationpartnership/A40147","-","eng",1
+1622727707976,"textcreationpartnership/A40166","https://github.com/textcreationpartnership/A40166","-","eng",1
+1622727707975,"textcreationpartnership/A40152","https://github.com/textcreationpartnership/A40152","-","eng",1
+1622727707974,"textcreationpartnership/A40165","https://github.com/textcreationpartnership/A40165","-","eng",1
+1622727707973,"textcreationpartnership/A40174","https://github.com/textcreationpartnership/A40174","-","eng",1
+1622727707972,"textcreationpartnership/A40164","https://github.com/textcreationpartnership/A40164","-","eng",1
+1622727707971,"textcreationpartnership/A40176","https://github.com/textcreationpartnership/A40176","-","eng",1
+1622727707970,"textcreationpartnership/A40167","https://github.com/textcreationpartnership/A40167","-","eng",1
+1622727707969,"textcreationpartnership/A40114","https://github.com/textcreationpartnership/A40114","-","eng",1
+1622727707968,"textcreationpartnership/A40126","https://github.com/textcreationpartnership/A40126","-","eng",1
+1622727707967,"textcreationpartnership/A40109","https://github.com/textcreationpartnership/A40109","-","eng",1
+1622727707966,"textcreationpartnership/A40066","https://github.com/textcreationpartnership/A40066","-","eng",1
+1622727707965,"textcreationpartnership/A40146","https://github.com/textcreationpartnership/A40146","-","eng",1
+1622727707964,"textcreationpartnership/A40106","https://github.com/textcreationpartnership/A40106","-","eng",1
+1622727707963,"textcreationpartnership/A40117","https://github.com/textcreationpartnership/A40117","-","eng",1
+1622727707962,"textcreationpartnership/A40136","https://github.com/textcreationpartnership/A40136","-","eng",1
+1622727707961,"textcreationpartnership/A39919","https://github.com/textcreationpartnership/A39919","-","eng",1
+1622727707960,"textcreationpartnership/A39968","https://github.com/textcreationpartnership/A39968","-","eng",1
+1622727707959,"textcreationpartnership/A39986","https://github.com/textcreationpartnership/A39986","-","eng",1
+1622727707958,"textcreationpartnership/A39924","https://github.com/textcreationpartnership/A39924","-","eng",1
+1622727707957,"textcreationpartnership/A40064","https://github.com/textcreationpartnership/A40064","-","eng",1
+1622727707956,"textcreationpartnership/A39991","https://github.com/textcreationpartnership/A39991","-","eng",1
+1622727707955,"textcreationpartnership/A39914","https://github.com/textcreationpartnership/A39914","-","eng",1
+1622727707954,"textcreationpartnership/A39908","https://github.com/textcreationpartnership/A39908","-","eng",1
+1622727707953,"textcreationpartnership/A39877","https://github.com/textcreationpartnership/A39877","-","eng",1
+1622727707952,"textcreationpartnership/A39851","https://github.com/textcreationpartnership/A39851","-","eng",1
+1622727707951,"textcreationpartnership/A39776","https://github.com/textcreationpartnership/A39776","-","eng",1
+1622727707950,"textcreationpartnership/A39904","https://github.com/textcreationpartnership/A39904","-","eng",1
+1622727707949,"textcreationpartnership/A39788","https://github.com/textcreationpartnership/A39788","-","eng",1
+1622727707948,"textcreationpartnership/A39715","https://github.com/textcreationpartnership/A39715","-","eng",1
+1622727707947,"textcreationpartnership/A39699","https://github.com/textcreationpartnership/A39699","-","eng",1
+1622727707946,"textcreationpartnership/A39516","https://github.com/textcreationpartnership/A39516","-","eng",1
+1622727707945,"textcreationpartnership/A39596","https://github.com/textcreationpartnership/A39596","-","fra",1
+1622727707944,"textcreationpartnership/A39579","https://github.com/textcreationpartnership/A39579","-","eng",1
+1622727707943,"textcreationpartnership/A39743","https://github.com/textcreationpartnership/A39743","-","eng",1
+1622727707942,"textcreationpartnership/A39693","https://github.com/textcreationpartnership/A39693","-","eng",1
+1622727707941,"textcreationpartnership/A39565","https://github.com/textcreationpartnership/A39565","-","eng",1
+1622727707940,"textcreationpartnership/A39746","https://github.com/textcreationpartnership/A39746","-","eng",1
+1622727707939,"textcreationpartnership/A39732","https://github.com/textcreationpartnership/A39732","-","eng",1
+1622727707938,"textcreationpartnership/A39115","https://github.com/textcreationpartnership/A39115","-","eng",1
+1622727707937,"textcreationpartnership/A39066","https://github.com/textcreationpartnership/A39066","-","eng",1
+1622727707936,"textcreationpartnership/A39284","https://github.com/textcreationpartnership/A39284","-","eng",1
+1622727707935,"textcreationpartnership/A39079","https://github.com/textcreationpartnership/A39079","-","eng",1
+1622727707934,"textcreationpartnership/A39072","https://github.com/textcreationpartnership/A39072","-","eng",1
+1622727707933,"textcreationpartnership/A39481","https://github.com/textcreationpartnership/A39481","-","eng",1
+1622727707932,"textcreationpartnership/A39310","https://github.com/textcreationpartnership/A39310","-","eng",1
+1622727707931,"textcreationpartnership/A38639","https://github.com/textcreationpartnership/A38639","-","eng",1
+1622727707930,"textcreationpartnership/A38643","https://github.com/textcreationpartnership/A38643","-","eng",1
+1622727707929,"textcreationpartnership/A38685","https://github.com/textcreationpartnership/A38685","-","eng",1
+1622727707928,"textcreationpartnership/A38964","https://github.com/textcreationpartnership/A38964","-","eng",1
+1622727707927,"textcreationpartnership/A38682","https://github.com/textcreationpartnership/A38682","-","eng",1
+1622727707926,"textcreationpartnership/A38929","https://github.com/textcreationpartnership/A38929","-","eng",1
+1622727707925,"textcreationpartnership/A38765","https://github.com/textcreationpartnership/A38765","-","eng",1
+1622727707924,"textcreationpartnership/A39014","https://github.com/textcreationpartnership/A39014","-","eng",1
+1622727707923,"textcreationpartnership/A39037","https://github.com/textcreationpartnership/A39037","-","eng",1
+1622727707922,"textcreationpartnership/A38301","https://github.com/textcreationpartnership/A38301","-","eng",1
+1622727707921,"textcreationpartnership/A38295","https://github.com/textcreationpartnership/A38295","-","eng",1
+1622727707920,"textcreationpartnership/A38488","https://github.com/textcreationpartnership/A38488","-","eng",1
+1622727707919,"textcreationpartnership/A38495","https://github.com/textcreationpartnership/A38495","-","eng",1
+1622727707918,"textcreationpartnership/A38469","https://github.com/textcreationpartnership/A38469","-","eng",1
+1622727707917,"textcreationpartnership/A38637","https://github.com/textcreationpartnership/A38637","-","eng",1
+1622727707916,"textcreationpartnership/A38527","https://github.com/textcreationpartnership/A38527","-","eng",1
+1622727707915,"textcreationpartnership/A38623","https://github.com/textcreationpartnership/A38623","-","eng",1
+1622727707914,"textcreationpartnership/A38282","https://github.com/textcreationpartnership/A38282","-","eng",2
+1622727707913,"textcreationpartnership/A38274","https://github.com/textcreationpartnership/A38274","-","eng",2
+1622727707912,"textcreationpartnership/A38259","https://github.com/textcreationpartnership/A38259","-","eng",2
+1622727707911,"textcreationpartnership/A38256","https://github.com/textcreationpartnership/A38256","-","eng",2
+1622727707910,"textcreationpartnership/A38229","https://github.com/textcreationpartnership/A38229","-","eng",2
+1622727707909,"textcreationpartnership/A38233","https://github.com/textcreationpartnership/A38233","-","eng",2
+1622727707908,"textcreationpartnership/A38260","https://github.com/textcreationpartnership/A38260","-","eng",2
+1622727707907,"textcreationpartnership/A38137","https://github.com/textcreationpartnership/A38137","-","eng",2
+1622727707906,"textcreationpartnership/A38092","https://github.com/textcreationpartnership/A38092","-","eng",2
+1622727707896,"textcreationpartnership/A38168","https://github.com/textcreationpartnership/A38168","-","eng",1
+1622727707895,"textcreationpartnership/A38156","https://github.com/textcreationpartnership/A38156","-","eng",1
+1622727707894,"textcreationpartnership/A38206","https://github.com/textcreationpartnership/A38206","-","eng",1
+1622727707893,"textcreationpartnership/A38144","https://github.com/textcreationpartnership/A38144","-","eng",1
+1622727707892,"textcreationpartnership/A38217","https://github.com/textcreationpartnership/A38217","-","eng",1
+1622727707891,"textcreationpartnership/A38184","https://github.com/textcreationpartnership/A38184","-","eng",1
+1622727707890,"textcreationpartnership/A37572","https://github.com/textcreationpartnership/A37572","-","eng",1
+1622727707889,"textcreationpartnership/A37703","https://github.com/textcreationpartnership/A37703","-","eng",1
+1622727707888,"textcreationpartnership/A37962","https://github.com/textcreationpartnership/A37962","-","eng",1
+1622727707887,"textcreationpartnership/A38074","https://github.com/textcreationpartnership/A38074","-","eng",1
+1622727707886,"textcreationpartnership/A38056","https://github.com/textcreationpartnership/A38056","-","eng",1
+1622727707885,"textcreationpartnership/A38059","https://github.com/textcreationpartnership/A38059","-","eng",1
+1622727707884,"textcreationpartnership/A38044","https://github.com/textcreationpartnership/A38044","-","eng",1
+1622727707883,"textcreationpartnership/A37687","https://github.com/textcreationpartnership/A37687","-","frm",1
+1622727707882,"textcreationpartnership/A37504","https://github.com/textcreationpartnership/A37504","-","eng",1
+1622727707881,"textcreationpartnership/A37314","https://github.com/textcreationpartnership/A37314","-","eng",1
+1622727707880,"textcreationpartnership/A37323","https://github.com/textcreationpartnership/A37323","-","eng",1
+1622727707879,"textcreationpartnership/A37295","https://github.com/textcreationpartnership/A37295","-","eng",1
+1622727707878,"textcreationpartnership/A37265","https://github.com/textcreationpartnership/A37265","-","eng",1
+1622727707877,"textcreationpartnership/A37501","https://github.com/textcreationpartnership/A37501","-","eng",1
+1622727707876,"textcreationpartnership/A37266","https://github.com/textcreationpartnership/A37266","-","eng",1
+1622727707875,"textcreationpartnership/A37526","https://github.com/textcreationpartnership/A37526","-","eng",1
+1622727707874,"textcreationpartnership/A37486","https://github.com/textcreationpartnership/A37486","-","eng",1
+1622727707873,"textcreationpartnership/A37462","https://github.com/textcreationpartnership/A37462","-","eng",1
+1622727707872,"textcreationpartnership/A37341","https://github.com/textcreationpartnership/A37341","-","eng",1
+1622727707871,"textcreationpartnership/A37261","https://github.com/textcreationpartnership/A37261","-","eng",1
+1622727707870,"textcreationpartnership/A37264","https://github.com/textcreationpartnership/A37264","-","eng",1
+1622727707869,"textcreationpartnership/A37228","https://github.com/textcreationpartnership/A37228","-","eng",1
+1622727707868,"textcreationpartnership/A37094","https://github.com/textcreationpartnership/A37094","-","eng",1
+1622727707867,"textcreationpartnership/A37204","https://github.com/textcreationpartnership/A37204","-","eng",1
+1622727707866,"textcreationpartnership/A37087","https://github.com/textcreationpartnership/A37087","-","eng",1
+1622727707865,"textcreationpartnership/A37197","https://github.com/textcreationpartnership/A37197","-","eng",1
+1622727707864,"textcreationpartnership/A37203","https://github.com/textcreationpartnership/A37203","-","eng",1
+1622727707863,"textcreationpartnership/A37149","https://github.com/textcreationpartnership/A37149","-","eng",1
+1622727707862,"textcreationpartnership/A37103","https://github.com/textcreationpartnership/A37103","-","eng",1
+1622727707861,"textcreationpartnership/A37063","https://github.com/textcreationpartnership/A37063","-","eng",1
+1622727707860,"textcreationpartnership/A37085","https://github.com/textcreationpartnership/A37085","-","eng",1
+1622727707859,"textcreationpartnership/A36931","https://github.com/textcreationpartnership/A36931","-","eng",1
+1622727707858,"textcreationpartnership/A36942","https://github.com/textcreationpartnership/A36942","-","eng",1
+1622727707857,"textcreationpartnership/A36843","https://github.com/textcreationpartnership/A36843","-","eng",1
+1622727707856,"textcreationpartnership/A36904","https://github.com/textcreationpartnership/A36904","-","eng",1
+1622727707855,"textcreationpartnership/A36828","https://github.com/textcreationpartnership/A36828","-","eng",1
+1622727707854,"textcreationpartnership/A36809","https://github.com/textcreationpartnership/A36809","-","eng",1
+1622727707853,"textcreationpartnership/A36772","https://github.com/textcreationpartnership/A36772","-","eng",1
+1622727707851,"textcreationpartnership/A36847","https://github.com/textcreationpartnership/A36847","-","eng",1
+1622727707850,"textcreationpartnership/A36853","https://github.com/textcreationpartnership/A36853","-","eng",1
+1622727707849,"textcreationpartnership/A36880","https://github.com/textcreationpartnership/A36880","-","eng",1
+1622727707848,"textcreationpartnership/A36844","https://github.com/textcreationpartnership/A36844","-","eng",1
+1622727707847,"textcreationpartnership/A36510","https://github.com/textcreationpartnership/A36510","-","eng",1
+1622727707846,"textcreationpartnership/A36514","https://github.com/textcreationpartnership/A36514","-","eng",1
+1622727707845,"textcreationpartnership/A36733","https://github.com/textcreationpartnership/A36733","-","eng",1
+1622727707843,"textcreationpartnership/A36411","https://github.com/textcreationpartnership/A36411","-","eng",1
+1622727707842,"textcreationpartnership/A36455","https://github.com/textcreationpartnership/A36455","-","eng",1
+1622727707841,"textcreationpartnership/A36327","https://github.com/textcreationpartnership/A36327","-","eng",1
+1622727707840,"textcreationpartnership/A36234","https://github.com/textcreationpartnership/A36234","-","eng",1
+1622727707839,"textcreationpartnership/A36264","https://github.com/textcreationpartnership/A36264","-","eng",1
+1622727707838,"textcreationpartnership/A36364","https://github.com/textcreationpartnership/A36364","-","eng",1
+1622727707837,"textcreationpartnership/A36330","https://github.com/textcreationpartnership/A36330","-","eng",1
+1622727707836,"textcreationpartnership/A36183","https://github.com/textcreationpartnership/A36183","-","eng",1
+1622727707835,"textcreationpartnership/A36232","https://github.com/textcreationpartnership/A36232","-","eng",1
+1622727707834,"textcreationpartnership/A36094","https://github.com/textcreationpartnership/A36094","-","eng",1
+1622727707833,"textcreationpartnership/A36178","https://github.com/textcreationpartnership/A36178","-","eng",1
+1622727707832,"textcreationpartnership/A36085","https://github.com/textcreationpartnership/A36085","-","eng",1
+1622727707831,"textcreationpartnership/A36112","https://github.com/textcreationpartnership/A36112","-","eng",1
+1622727707830,"textcreationpartnership/A36113","https://github.com/textcreationpartnership/A36113","-","eng",1
+1622727707829,"textcreationpartnership/A36087","https://github.com/textcreationpartnership/A36087","-","eng",1
+1622727707828,"textcreationpartnership/A36167","https://github.com/textcreationpartnership/A36167","-","eng",1
+1622727707827,"textcreationpartnership/A36099","https://github.com/textcreationpartnership/A36099","-","eng",1
+1622727707826,"textcreationpartnership/A36176","https://github.com/textcreationpartnership/A36176","-","eng",1
+1622727707825,"textcreationpartnership/A36105","https://github.com/textcreationpartnership/A36105","-","eng",1
+1622727707824,"textcreationpartnership/A36157","https://github.com/textcreationpartnership/A36157","-","eng",1
+1622727707823,"textcreationpartnership/A35598","https://github.com/textcreationpartnership/A35598","-","eng",1
+1622727707822,"textcreationpartnership/A36072","https://github.com/textcreationpartnership/A36072","-","eng",1
+1622727707821,"textcreationpartnership/A35691","https://github.com/textcreationpartnership/A35691","-","eng",1
+1622727707819,"textcreationpartnership/A35929","https://github.com/textcreationpartnership/A35929","-","eng",1
+1622727707818,"textcreationpartnership/A35714","https://github.com/textcreationpartnership/A35714","-","eng",1
+1622727707817,"textcreationpartnership/A36079","https://github.com/textcreationpartnership/A36079","-","eng",1
+1622727707816,"textcreationpartnership/A35664","https://github.com/textcreationpartnership/A35664","-","eng",2
+1622727707815,"textcreationpartnership/A35883","https://github.com/textcreationpartnership/A35883","-","eng",2
+1622727707814,"textcreationpartnership/A35350","https://github.com/textcreationpartnership/A35350","-","eng",2
+1622727707813,"textcreationpartnership/A35402","https://github.com/textcreationpartnership/A35402","-","eng",2
+1622727707812,"textcreationpartnership/A35319","https://github.com/textcreationpartnership/A35319","-","eng",2
+1622727707811,"textcreationpartnership/A35324","https://github.com/textcreationpartnership/A35324","-","eng",2
+1622727707810,"textcreationpartnership/A35509","https://github.com/textcreationpartnership/A35509","-","eng",2
+1622727707809,"textcreationpartnership/A35318","https://github.com/textcreationpartnership/A35318","-","eng",2
+1622727707800,"textcreationpartnership/A35323","https://github.com/textcreationpartnership/A35323","-","eng",1
+1622727707799,"textcreationpartnership/A35322","https://github.com/textcreationpartnership/A35322","-","eng",1
+1622727707798,"textcreationpartnership/A35405","https://github.com/textcreationpartnership/A35405","-","eng",1
+1622727707797,"textcreationpartnership/A35048","https://github.com/textcreationpartnership/A35048","-","eng",1
+1622727707796,"textcreationpartnership/A35012","https://github.com/textcreationpartnership/A35012","-","eng",1
+1622727707794,"textcreationpartnership/A35093","https://github.com/textcreationpartnership/A35093","-","eng",1
+1622727707793,"textcreationpartnership/A35169","https://github.com/textcreationpartnership/A35169","-","eng",1
+1622727707792,"textcreationpartnership/A35073","https://github.com/textcreationpartnership/A35073","-","eng",1
+1622727707791,"textcreationpartnership/A35176","https://github.com/textcreationpartnership/A35176","-","eng",1
+1622727707790,"textcreationpartnership/A35173","https://github.com/textcreationpartnership/A35173","-","eng",1
+1622727707789,"textcreationpartnership/A35143","https://github.com/textcreationpartnership/A35143","-","eng",1
+1622727707788,"textcreationpartnership/A34995","https://github.com/textcreationpartnership/A34995","-","eng",1
+1622727707787,"textcreationpartnership/A34785","https://github.com/textcreationpartnership/A34785","-","eng",1
+1622727707786,"textcreationpartnership/A33888","https://github.com/textcreationpartnership/A33888","-","eng",1
+1622727707785,"textcreationpartnership/A34690","https://github.com/textcreationpartnership/A34690","-","eng",1
+1622727707784,"textcreationpartnership/A34596","https://github.com/textcreationpartnership/A34596","-","eng",1
+1622727707783,"textcreationpartnership/A34737","https://github.com/textcreationpartnership/A34737","-","eng",1
+1622727707782,"textcreationpartnership/A34783","https://github.com/textcreationpartnership/A34783","-","eng",1
+1622727707781,"textcreationpartnership/A33881","https://github.com/textcreationpartnership/A33881","-","eng",1
+1622727707780,"textcreationpartnership/A33194","https://github.com/textcreationpartnership/A33194","-","eng",1
+1622727707779,"textcreationpartnership/A33472","https://github.com/textcreationpartnership/A33472","-","eng",1
+1622727707778,"textcreationpartnership/A33033","https://github.com/textcreationpartnership/A33033","-","eng",1
+1622727707777,"textcreationpartnership/A32946","https://github.com/textcreationpartnership/A32946","-","eng",1
+1622727707776,"textcreationpartnership/A33082","https://github.com/textcreationpartnership/A33082","-","eng",1
+1622727707775,"textcreationpartnership/A33075","https://github.com/textcreationpartnership/A33075","-","eng",1
+1622727707774,"textcreationpartnership/A32735","https://github.com/textcreationpartnership/A32735","-","eng",1
+1622727707773,"textcreationpartnership/A32876","https://github.com/textcreationpartnership/A32876","-","eng",1
+1622727707772,"textcreationpartnership/A32938","https://github.com/textcreationpartnership/A32938","-","eng",1
+1622727707771,"textcreationpartnership/A32333","https://github.com/textcreationpartnership/A32333","-","eng",1
+1622727707770,"textcreationpartnership/A32214","https://github.com/textcreationpartnership/A32214","-","eng",1
+1622727707769,"textcreationpartnership/A32226","https://github.com/textcreationpartnership/A32226","-","eng",1
+1622727707768,"textcreationpartnership/A32657","https://github.com/textcreationpartnership/A32657","-","eng",1
+1622727707767,"textcreationpartnership/A31958","https://github.com/textcreationpartnership/A31958","-","eng",1
+1622727707766,"textcreationpartnership/A31950","https://github.com/textcreationpartnership/A31950","-","eng",1
+1622727707765,"textcreationpartnership/A31789","https://github.com/textcreationpartnership/A31789","-","eng",1
+1622727707764,"textcreationpartnership/A32034","https://github.com/textcreationpartnership/A32034","-","eng",1
+1622727707763,"textcreationpartnership/A31962","https://github.com/textcreationpartnership/A31962","-","eng",1
+1622727707762,"textcreationpartnership/A31973","https://github.com/textcreationpartnership/A31973","-","eng",1
+1622727707761,"textcreationpartnership/A31938","https://github.com/textcreationpartnership/A31938","-","eng",1
+1622727707760,"textcreationpartnership/A31990","https://github.com/textcreationpartnership/A31990","-","eng",1
+1622727707759,"textcreationpartnership/A31495","https://github.com/textcreationpartnership/A31495","-","eng",1
+1622727707758,"textcreationpartnership/A31248","https://github.com/textcreationpartnership/A31248","-","fra",1
+1622727707757,"textcreationpartnership/A31277","https://github.com/textcreationpartnership/A31277","-","eng",1
+1622727707756,"textcreationpartnership/A31242","https://github.com/textcreationpartnership/A31242","-","eng",1
+1622727707755,"textcreationpartnership/A31406","https://github.com/textcreationpartnership/A31406","-","eng",1
+1622727707754,"textcreationpartnership/A31244","https://github.com/textcreationpartnership/A31244","-","fra",1
+1622727707753,"textcreationpartnership/A31241","https://github.com/textcreationpartnership/A31241","-","eng",1
+1622727707752,"textcreationpartnership/A31522","https://github.com/textcreationpartnership/A31522","-","eng",1
+1622727707751,"textcreationpartnership/A28311","https://github.com/textcreationpartnership/A28311","-","eng",1
+1622727707750,"textcreationpartnership/A29598","https://github.com/textcreationpartnership/A29598","-","eng",1
+1622727707749,"textcreationpartnership/A30832","https://github.com/textcreationpartnership/A30832","-","eng",1
+1622727707748,"textcreationpartnership/A29651","https://github.com/textcreationpartnership/A29651","-","eng",1
+1622727707747,"textcreationpartnership/A28266","https://github.com/textcreationpartnership/A28266","-","eng",1
+1622727707746,"textcreationpartnership/A27629","https://github.com/textcreationpartnership/A27629","-","eng",1
+1622727707745,"textcreationpartnership/A28245","https://github.com/textcreationpartnership/A28245","-","eng",1
+1622727707744,"textcreationpartnership/A28221","https://github.com/textcreationpartnership/A28221","-","eng",1
+1622727707743,"textcreationpartnership/A28213","https://github.com/textcreationpartnership/A28213","-","eng",1
+1622727707742,"textcreationpartnership/A27529","https://github.com/textcreationpartnership/A27529","-","eng",1
+1622727707741,"textcreationpartnership/A28241","https://github.com/textcreationpartnership/A28241","-","eng",1
+1622727707740,"textcreationpartnership/A28250","https://github.com/textcreationpartnership/A28250","-","eng",1
+1622727707739,"textcreationpartnership/A24427","https://github.com/textcreationpartnership/A24427","-","eng",1
+1622727707738,"textcreationpartnership/A23033","https://github.com/textcreationpartnership/A23033","-","eng",1
+1622727707737,"textcreationpartnership/A25639","https://github.com/textcreationpartnership/A25639","-","eng",1
+1622727707736,"textcreationpartnership/A26313","https://github.com/textcreationpartnership/A26313","-","eng",1
+1622727707735,"textcreationpartnership/A25548","https://github.com/textcreationpartnership/A25548","-","eng",1
+1622727707734,"textcreationpartnership/A27413","https://github.com/textcreationpartnership/A27413","-","eng",1
+1622727707733,"textcreationpartnership/A27400","https://github.com/textcreationpartnership/A27400","-","eng",1
+1622727707732,"textcreationpartnership/A22542","https://github.com/textcreationpartnership/A22542","-","eng",1
+1622727707731,"textcreationpartnership/A21933","https://github.com/textcreationpartnership/A21933","-","eng",1
+1622727707730,"textcreationpartnership/A22448","https://github.com/textcreationpartnership/A22448","-","eng",1
+1622727707727,"textcreationpartnership/A22595","https://github.com/textcreationpartnership/A22595","-","eng",1
+1622727707726,"textcreationpartnership/A22333","https://github.com/textcreationpartnership/A22333","-","eng",1
+1622727707725,"textcreationpartnership/A22549","https://github.com/textcreationpartnership/A22549","-","eng",1
+1622727707724,"textcreationpartnership/A21925","https://github.com/textcreationpartnership/A21925","-","eng",2
+1622727707722,"textcreationpartnership/A22933","https://github.com/textcreationpartnership/A22933","-","eng",1
+1622727707721,"textcreationpartnership/A21055","https://github.com/textcreationpartnership/A21055","-","eng",1
+1622727707720,"textcreationpartnership/A20588","https://github.com/textcreationpartnership/A20588","-","eng",1
+1622727707719,"textcreationpartnership/A20411","https://github.com/textcreationpartnership/A20411","-","eng",1
+1622727707718,"textcreationpartnership/A20670","https://github.com/textcreationpartnership/A20670","-","eng",1
+1622727707717,"textcreationpartnership/A19263","https://github.com/textcreationpartnership/A19263","-","eng",1
+1622727707716,"textcreationpartnership/A19980","https://github.com/textcreationpartnership/A19980","-","eng",1
+1622727707715,"textcreationpartnership/A19715","https://github.com/textcreationpartnership/A19715","-","eng",1
+1622727707714,"textcreationpartnership/A20405","https://github.com/textcreationpartnership/A20405","-","eng",1
+1622727707713,"textcreationpartnership/A19722","https://github.com/textcreationpartnership/A19722","-","eng",1
+1622727707712,"textcreationpartnership/A20150","https://github.com/textcreationpartnership/A20150","-","eng",1
+1622727707711,"textcreationpartnership/A19579","https://github.com/textcreationpartnership/A19579","-","lat",1
+1622727707710,"textcreationpartnership/A18684","https://github.com/textcreationpartnership/A18684","-","eng",1
+1622727707709,"textcreationpartnership/A18183","https://github.com/textcreationpartnership/A18183","-","eng",1
+1622727707708,"textcreationpartnership/A17933","https://github.com/textcreationpartnership/A17933","-","eng",1
+1622727707707,"textcreationpartnership/A18449","https://github.com/textcreationpartnership/A18449","-","eng",1
+1622727707706,"textcreationpartnership/A14784","https://github.com/textcreationpartnership/A14784","-","eng",1
+1622727707705,"textcreationpartnership/A11851","https://github.com/textcreationpartnership/A11851","-","eng",1
+1622727707704,"textcreationpartnership/A12874","https://github.com/textcreationpartnership/A12874","-","lat",1
+1622727707703,"textcreationpartnership/A12069","https://github.com/textcreationpartnership/A12069","-","eng",1
+1622727707702,"textcreationpartnership/A11727","https://github.com/textcreationpartnership/A11727","-","eng",1
+1622727707701,"textcreationpartnership/A13550","https://github.com/textcreationpartnership/A13550","-","eng",1
+1622727707700,"textcreationpartnership/A13338","https://github.com/textcreationpartnership/A13338","-","ita",1
+1622727707699,"textcreationpartnership/A12086","https://github.com/textcreationpartnership/A12086","-","eng",1
+1622727707698,"textcreationpartnership/A14760","https://github.com/textcreationpartnership/A14760","-","eng",1
+1622727707697,"textcreationpartnership/A10289","https://github.com/textcreationpartnership/A10289","-","eng",1
+1622727707696,"textcreationpartnership/A10789","https://github.com/textcreationpartnership/A10789","-","eng",1
+1622727707695,"textcreationpartnership/A11418","https://github.com/textcreationpartnership/A11418","-","eng",1
+1622727707693,"textcreationpartnership/A10415","https://github.com/textcreationpartnership/A10415","-","eng",1
+1622727707692,"textcreationpartnership/A11633","https://github.com/textcreationpartnership/A11633","-","sco",1
+1622727707691,"textcreationpartnership/A09724","https://github.com/textcreationpartnership/A09724","-","eng",1
+1622727707690,"textcreationpartnership/A09731","https://github.com/textcreationpartnership/A09731","-","eng",1
+1622727707689,"textcreationpartnership/A09631","https://github.com/textcreationpartnership/A09631","-","eng",1
+1622727707688,"textcreationpartnership/A10211","https://github.com/textcreationpartnership/A10211","-","fra",1
+1622727707687,"textcreationpartnership/A08985","https://github.com/textcreationpartnership/A08985","-","eng",1
+1622727707686,"textcreationpartnership/A09759","https://github.com/textcreationpartnership/A09759","-","eng",1
+1622727707685,"textcreationpartnership/A09957","https://github.com/textcreationpartnership/A09957","-","eng",1
+1622727707684,"textcreationpartnership/A09748","https://github.com/textcreationpartnership/A09748","-","lat",1
+1622727707683,"textcreationpartnership/A08524","https://github.com/textcreationpartnership/A08524","-","eng",1
+1622727707682,"textcreationpartnership/A08520","https://github.com/textcreationpartnership/A08520","-","eng",1
+1622727707681,"textcreationpartnership/A08930","https://github.com/textcreationpartnership/A08930","-","eng",1
+1622727707680,"textcreationpartnership/A08144","https://github.com/textcreationpartnership/A08144","-","eng",1
+1622727707679,"textcreationpartnership/A08572","https://github.com/textcreationpartnership/A08572","-","eng",1
+1622727707678,"textcreationpartnership/A08573","https://github.com/textcreationpartnership/A08573","-","eng",1
+1622727707677,"textcreationpartnership/A08155","https://github.com/textcreationpartnership/A08155","-","eng",1
+1622727707676,"textcreationpartnership/A08216","https://github.com/textcreationpartnership/A08216","-","eng",1
+1622727707675,"textcreationpartnership/A07589","https://github.com/textcreationpartnership/A07589","-","eng",1
+1622727707674,"textcreationpartnership/A07808","https://github.com/textcreationpartnership/A07808","-","eng",1
+1622727707673,"textcreationpartnership/A07277","https://github.com/textcreationpartnership/A07277","-","eng",1
+1622727707672,"textcreationpartnership/A06749","https://github.com/textcreationpartnership/A06749","-","eng",1
+1622727707671,"textcreationpartnership/A07148","https://github.com/textcreationpartnership/A07148","-","fra",1
+1622727707670,"textcreationpartnership/A07272","https://github.com/textcreationpartnership/A07272","-","eng",2
+1622727707669,"textcreationpartnership/A07098","https://github.com/textcreationpartnership/A07098","-","eng",2
+1622727707668,"textcreationpartnership/A06872","https://github.com/textcreationpartnership/A06872","-","eng",2
+1622727707667,"textcreationpartnership/A07107","https://github.com/textcreationpartnership/A07107","-","fra",2
+1622727707664,"textcreationpartnership/A07013","https://github.com/textcreationpartnership/A07013","-","eng",1
+1622727707662,"textcreationpartnership/A07042","https://github.com/textcreationpartnership/A07042","-","eng",1
+1622727707660,"textcreationpartnership/A06689","https://github.com/textcreationpartnership/A06689","-","eng",1
+1622727707659,"textcreationpartnership/A05292","https://github.com/textcreationpartnership/A05292","-","lat",1
+1622727707658,"textcreationpartnership/A06403","https://github.com/textcreationpartnership/A06403","-","eng",1
+1622727707657,"textcreationpartnership/A06383","https://github.com/textcreationpartnership/A06383","-","eng",1
+1622727707656,"textcreationpartnership/A06102","https://github.com/textcreationpartnership/A06102","-","eng",1
+1622727707655,"textcreationpartnership/A05189","https://github.com/textcreationpartnership/A05189","-","eng",1
+1622727707654,"textcreationpartnership/A04963","https://github.com/textcreationpartnership/A04963","-","eng",1
+1622727707653,"textcreationpartnership/A04771","https://github.com/textcreationpartnership/A04771","-","eng",1
+1622727707652,"textcreationpartnership/A05192","https://github.com/textcreationpartnership/A05192","-","eng",1
+1622727707651,"textcreationpartnership/A05053","https://github.com/textcreationpartnership/A05053","-","eng",1
+1622727707650,"textcreationpartnership/A05177","https://github.com/textcreationpartnership/A05177","-","eng",1
+1622727707649,"textcreationpartnership/A05198","https://github.com/textcreationpartnership/A05198","-","eng",1
+1622727707648,"textcreationpartnership/A04538","https://github.com/textcreationpartnership/A04538","-","eng",1
+1622727707647,"textcreationpartnership/A04222","https://github.com/textcreationpartnership/A04222","-","eng",1
+1622727707646,"textcreationpartnership/A04427","https://github.com/textcreationpartnership/A04427","-","eng",1
+1622727707645,"textcreationpartnership/A04424","https://github.com/textcreationpartnership/A04424","-","eng",1
+1622727707644,"textcreationpartnership/A04282","https://github.com/textcreationpartnership/A04282","-","eng",1
+1622727707643,"textcreationpartnership/A04265","https://github.com/textcreationpartnership/A04265","-","eng",1
+1622727707642,"textcreationpartnership/A04575","https://github.com/textcreationpartnership/A04575","-","eng",1
+1622727707641,"textcreationpartnership/A04573","https://github.com/textcreationpartnership/A04573","-","eng",1
+1622727707640,"textcreationpartnership/A04126","https://github.com/textcreationpartnership/A04126","-","eng",1
+1622727707639,"textcreationpartnership/A04198","https://github.com/textcreationpartnership/A04198","-","eng",1
+1622727707638,"textcreationpartnership/A04219","https://github.com/textcreationpartnership/A04219","-","eng",1
+1622727707637,"textcreationpartnership/A03799","https://github.com/textcreationpartnership/A03799","-","eng",1
+1622727707636,"textcreationpartnership/A03803","https://github.com/textcreationpartnership/A03803","-","eng",1
+1622727707635,"textcreationpartnership/A04152","https://github.com/textcreationpartnership/A04152","-","eng",1
+1622727707634,"textcreationpartnership/A04212","https://github.com/textcreationpartnership/A04212","-","eng",1
+1622727707633,"textcreationpartnership/A02962","https://github.com/textcreationpartnership/A02962","-","eng",1
+1622727707632,"textcreationpartnership/A03309","https://github.com/textcreationpartnership/A03309","-","eng",1
+1622727707631,"textcreationpartnership/A02954","https://github.com/textcreationpartnership/A02954","-","eng",1
+1622727707630,"textcreationpartnership/A03580","https://github.com/textcreationpartnership/A03580","-","eng",1
+1622727707629,"textcreationpartnership/A02980","https://github.com/textcreationpartnership/A02980","-","eng",1
+1622727707628,"textcreationpartnership/A03474","https://github.com/textcreationpartnership/A03474","-","lat",1
+1622727707627,"textcreationpartnership/A02394","https://github.com/textcreationpartnership/A02394","-","eng",1
+1622727707626,"textcreationpartnership/A02395","https://github.com/textcreationpartnership/A02395","-","eng",1
+1622727707625,"textcreationpartnership/A02374","https://github.com/textcreationpartnership/A02374","-","eng",1
+1622727707624,"textcreationpartnership/A01431","https://github.com/textcreationpartnership/A01431","-","eng",1
+1622727707623,"textcreationpartnership/A01274","https://github.com/textcreationpartnership/A01274","-","eng",1
+1622727707622,"textcreationpartnership/A01417","https://github.com/textcreationpartnership/A01417","-","eng",1
+1622727707621,"textcreationpartnership/A01438","https://github.com/textcreationpartnership/A01438","-","eng",1
+1622727707620,"textcreationpartnership/A01906","https://github.com/textcreationpartnership/A01906","-","eng",1
+1622727707619,"textcreationpartnership/A01277","https://github.com/textcreationpartnership/A01277","-","eng",1
+1622727707618,"textcreationpartnership/A01285","https://github.com/textcreationpartnership/A01285","-","eng",1
+1622727707617,"textcreationpartnership/A01249","https://github.com/textcreationpartnership/A01249","-","eng",1
+1622727707616,"textcreationpartnership/A01213","https://github.com/textcreationpartnership/A01213","-","lat",1
+1622727707615,"textcreationpartnership/A01184","https://github.com/textcreationpartnership/A01184","-","eng",1
+1622727707614,"textcreationpartnership/A01242","https://github.com/textcreationpartnership/A01242","-","eng",1
+1622727707613,"textcreationpartnership/A00944","https://github.com/textcreationpartnership/A00944","-","eng",1
+1622727707612,"textcreationpartnership/A00822","https://github.com/textcreationpartnership/A00822","-","eng",1
+1622727707611,"textcreationpartnership/A00681","https://github.com/textcreationpartnership/A00681","-","eng",1
+1622727707610,"textcreationpartnership/A00684","https://github.com/textcreationpartnership/A00684","-","eng",1
+1622727707609,"textcreationpartnership/A00814","https://github.com/textcreationpartnership/A00814","-","eng",1
+1622727707608,"textcreationpartnership/A00757","https://github.com/textcreationpartnership/A00757","-","eng",1
+1622727707607,"textcreationpartnership/A00866","https://github.com/textcreationpartnership/A00866","-","eng",1
+1622727707606,"textcreationpartnership/A00697","https://github.com/textcreationpartnership/A00697","-","eng",1
+1622727707605,"textcreationpartnership/A00434","https://github.com/textcreationpartnership/A00434","-","eng",1
+1622727707604,"textcreationpartnership/A00530","https://github.com/textcreationpartnership/A00530","-","eng",1
+1622727707602,"textcreationpartnership/A00266","https://github.com/textcreationpartnership/A00266","-","eng",1
+1622727707601,"textcreationpartnership/A00237","https://github.com/textcreationpartnership/A00237","-","eng",1
+1622727707600,"textcreationpartnership/A00536","https://github.com/textcreationpartnership/A00536","-","eng",1
+1622727707599,"textcreationpartnership/A00169","https://github.com/textcreationpartnership/A00169","-","eng",1
+1622727707598,"textcreationpartnership/A00172","https://github.com/textcreationpartnership/A00172","-","eng",1
+1622727707597,"textcreationpartnership/A00175","https://github.com/textcreationpartnership/A00175","-","eng",1
+1622727707596,"textcreationpartnership/A00174","https://github.com/textcreationpartnership/A00174","-","eng",1
+1622727707595,"textcreationpartnership/A00041","https://github.com/textcreationpartnership/A00041","-","eng",1
+1622727707594,"textcreationpartnership/A00189","https://github.com/textcreationpartnership/A00189","-","eng",1
 1610687957010,"ubermichael/presentations","https://github.com/ubermichael/presentations","-","",8
 1597005117800,"usaybia/srophe-eXist-app","https://github.com/usaybia/srophe-eXist-app","eXist code for Syriaca.org: The Syriac Reference Portal","eng|syr|ara|fra|deu|lat|grc|cop",43
 1594960319849,"UTKcataloging/tatum_remediation","https://github.com/UTKcataloging/tatum_remediation","Remediation of metadata for Tatum diaries and album following migration from TEI / SCOUT to MODS / Islandora.","",7
