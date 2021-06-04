@@ -1,1 +1,1 @@
-{"date":1590816595393,"name":"kofnego-jw/igwee-wikidiff","url":"https://github.com/kofnego-jw/igwee-wikidiff","desc":"A web application designed to view and review Wikipedia pages.","files":["src/test/resources/tei.xml","src/main/resources/xslt/userExportTei.xsl"],"langs":["deu"]}
+{"date":1590816595393,"name":"kofnego-jw/igwee-wikidiff","url":"https://github.com/kofnego-jw/igwee-wikidiff","desc":"A web application designed to view and review Wikipedia pages.","langs":["deu"],"created":"2016-06-20T07:52:29Z","files":["src/test/resources/tei.xml"]}

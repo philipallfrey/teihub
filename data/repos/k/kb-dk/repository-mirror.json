@@ -1,1 +1,1 @@
-{"date":1590816600084,"name":"kb-dk/repository-mirror","url":"https://github.com/kb-dk/repository-mirror","desc":"Tools for mirroring data maintained by an external project, for preservation or presentation","files":["collections/tei_all.rnc"],"langs":[]}
+{"date":1590816600084,"name":"kb-dk/repository-mirror","url":"https://github.com/kb-dk/repository-mirror","desc":"Tools for mirroring data maintained by an external project, for preservation or presentation","langs":[],"created":"2019-01-04T09:09:40Z","files":["text-service-backend/src/test/resources/text.xml"]}
