@@ -1,1 +1,1 @@
-{"date":1590816577590,"name":"lemma-oc/BOMM","url":"https://github.com/lemma-oc/BOMM","desc":"Base de l'occitan médiéval et pré-moderne","files":["xsl/tei_to_pandora_train.xsl"],"langs":[]}
+{"date":1590816577590,"name":"lemma-oc/BOMM","url":"https://github.com/lemma-oc/BOMM","desc":"Base de l'occitan médiéval et pré-moderne","langs":[],"created":"2019-03-25T18:28:38Z","files":["xml/Flamenca.xml","xml/Montferrand.xml","xml/Montferrand_pos.xml"]}

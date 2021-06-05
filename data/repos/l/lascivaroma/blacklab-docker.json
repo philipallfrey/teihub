@@ -1,1 +1,1 @@
-{"date":1590816587247,"name":"lascivaroma/blacklab-docker","url":"https://github.com/lascivaroma/blacklab-docker","desc":"Blacklab Docker Repository","files":["blacklab/formats/tei-msd.blf.yaml"],"langs":[]}
+{"date":1590816587247,"name":"lascivaroma/blacklab-docker","url":"https://github.com/lascivaroma/blacklab-docker","desc":"Blacklab Docker Repository","langs":[],"created":"2020-08-20T10:28:10Z","files":["corpora/example/urn:cts:latinLit:phi0119.phi002.perseus-lat2.xml","corpora/example/urn:cts:latinLit:phi0119.phi003.perseus-lat2.xml"]}
