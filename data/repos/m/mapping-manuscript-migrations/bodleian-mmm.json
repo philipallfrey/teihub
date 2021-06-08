@@ -1,1 +1,0 @@
-{"date":1590816600307,"name":"mapping-manuscript-migrations/bodleian-mmm","url":"https://github.com/mapping-manuscript-migrations/bodleian-mmm","desc":"Bodleian Library scripts for producing RDF from TEI-XML for the MMM Project","files":["xquery/simplify-records-for-x3ml.xquery"],"langs":[]}

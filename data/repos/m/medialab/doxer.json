@@ -1,1 +1,1 @@
-{"date":1590816588604,"name":"medialab/doxer","url":"https://github.com/medialab/doxer","desc":"experimental ngram extractor (using django + solr)","files":["media/sample/_example.txmtxt.xml"],"langs":[]}
+{"date":1590816588604,"name":"medialab/doxer","url":"https://github.com/medialab/doxer","desc":"experimental ngram extractor (using django + solr)","langs":[],"created":"2012-03-05T13:51:53Z","files":["media/sample/_example.txmtxt.xml"]}

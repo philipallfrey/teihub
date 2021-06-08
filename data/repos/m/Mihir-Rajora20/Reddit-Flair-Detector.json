@@ -1,1 +1,0 @@
-{"date":1590816600228,"name":"Mihir-Rajora20/Reddit-Flair-Detector","url":"https://github.com/Mihir-Rajora20/Reddit-Flair-Detector","desc":"A machine learning classifier to predict the flairs of posts of the r/india subreddit deployed to Heroku using the Flask API","files":["Main_Project/webapp_virtual/Lib/site-packages/nltk/corpus/reader/bnc.py"],"langs":[]}

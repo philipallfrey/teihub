@@ -1,1 +1,0 @@
-{"date":1590816593411,"name":"mapping-manuscript-migrations/oxford-tei-updates","url":"https://github.com/mapping-manuscript-migrations/oxford-tei-updates","desc":"Ruby script to modify Oxford TEI files with provenance and acquisition information.","files":["update_oxford_prov.rb"],"langs":[]}
