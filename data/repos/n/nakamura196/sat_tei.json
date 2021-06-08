@@ -1,1 +1,1 @@
-{"date":1615985561582,"name":"nakamura196/sat_tei","url":"https://github.com/nakamura196/sat_tei","desc":"-","files":["static/data/sat.xml","src/data/校譌・音釋の入力例（修正）.xml","static/data/sat.xml_20210317.xml"],"langs":[]}
+{"date":1615985561582,"name":"nakamura196/sat_tei","url":"https://github.com/nakamura196/sat_tei","desc":"-","langs":[],"created":"2020-09-14T05:23:15Z","files":["src/data/sat.xml","src/data/校譌・音釋の入力例（修正）.xml","static/data/letter.xml","static/data/sat.xml","static/data/sat.xml_20210317.xml","static/tei/mktei_1916.xml"]}

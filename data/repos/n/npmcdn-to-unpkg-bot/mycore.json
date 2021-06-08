@@ -1,1 +1,1 @@
-{"date":1590816594230,"name":"npmcdn-to-unpkg-bot/mycore","url":"https://github.com/npmcdn-to-unpkg-bot/mycore","desc":"-","files":["mycore-coma/src/main/resources/xsd/ns1.xsd","mycore-coma/src/test/resources/xml/validTei.xml","mycore-coma/src/test/resources/xml/invalidTei.xml"],"langs":[]}
+{"date":1590816594230,"name":"npmcdn-to-unpkg-bot/mycore","url":"https://github.com/npmcdn-to-unpkg-bot/mycore","desc":"-","langs":[],"created":"2016-09-02T19:45:56Z","files":["mycore-coma/src/test/resources/xml/invalidTei.xml","mycore-coma/src/test/resources/xml/validTei.xml"]}
