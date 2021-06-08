@@ -1,1 +1,1 @@
-{"date":1623157729944,"name":"anneferger/ege-validator","url":"https://github.com/anneferger/ege-validator","desc":"EGE validation plugin. Provides validation for EGE XML supported formats.","files":["src/main/resources/tei-schema/enrich.xsd"],"langs":[]}
+{"date":1623173675494,"name":"anneferger/ege-validator","url":"https://github.com/anneferger/ege-validator","desc":"EGE validation plugin. Provides validation for EGE XML supported formats.","files":["src/main/resources/tei-schema/enrich.xsd"],"langs":[]}
