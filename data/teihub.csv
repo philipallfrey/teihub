@@ -2283,6 +2283,7 @@
 1623301845917,"hmteditors/burney86-book8","https://github.com/hmteditors/burney86-book8","-","",2
 1623142233513,"hmteditors/omega1.12-book8-2021","https://github.com/hmteditors/omega1.12-book8-2021","-","",2
 1623259476333,"HCMID/CitableTeiReaders.jl","https://github.com/HCMID/CitableTeiReaders.jl","A Julia module for converting TEI XML documents to instances of a CitableCorpus.","",1
+1590816600745,"hieubz/translator_vietnamese","https://github.com/hieubz/translator_vietnamese","-","",1
 1623301845975,"ISicily/ISicily","https://github.com/ISicily/ISicily","EpiDoc files for the I.Sicily project","eng|ita|grc|lat|heb|phn|xpu|osc|xly|scx|sxc",5126
 1607131440144,"ilrt/Beyond2022TeiTemplate","https://github.com/ilrt/Beyond2022TeiTemplate","Work on creating a template for the TEI/XML that will be used in the Medieval Gold Seam and other seams","eng",5
 1598099517019,"innawendell/European_Comedy","https://github.com/innawendell/European_Comedy","The quantitative study of the evolution of the Russian and French 5-act comedy in verse.","fra|rus",115
@@ -3580,7 +3581,6 @@ This software provides a convenient way to organizing information and making it 
 1607101451373,"peterverhaar/dmt-2020","https://github.com/peterverhaar/dmt-2020","-","nld|eng|dut",61
 1622258397160,"Project-Cairo-Urban-News/CairoUrbanNews","https://github.com/Project-Cairo-Urban-News/CairoUrbanNews","Al-Waqa'i' al-Misriyya Urban News","ara|eng",28
 1623243982022,"PerseusDL/canonical-greekLit","https://github.com/PerseusDL/canonical-greekLit","XML Canonical resources for Greek Literature ","eng|grc|lat|deu|fra|ita",1333
-1601038006962,"piahh/Konfliktsimulation_MA","https://github.com/piahh/Konfliktsimulation_MA","-","",17
 1616260423579,"pfefferniels/probstuecke-data","https://github.com/pfefferniels/probstuecke-data","This repository contains the MEI and TEI encodings of Probstücke Digital","fra|lat|deu|eng",82
 1594226067093,"pombredanne/xbib","https://github.com/pombredanne/xbib","Extensible bibliographic information base","eng",15
 1608151108999,"ppasedach/ratnakara-tei","https://github.com/ppasedach/ratnakara-tei","TEI files of the works of Ratnākara","san",46
@@ -3589,7 +3589,6 @@ This software provides a convenient way to organizing information and making it 
 1600619547223,"pminhtam/entity-fishing-custom","https://github.com/pminhtam/entity-fishing-custom","-","eng|fra|deu|spa|ita|pol",5642
 1605083541001,"philipallfrey/guillim-folger-va447","https://github.com/philipallfrey/guillim-folger-va447","Transcription of John Guillim's manuscript notebook, Folger MS V.a.447","lat",120
 1599654849001,"purker/MethodDemosGit","https://github.com/purker/MethodDemosGit","-","eng|deu",38
-1599597141007,"phanje/codificaDiTesti","https://github.com/phanje/codificaDiTesti","Repository per il progetto d'esame di Codifica di testi a.a. 2019/2020","",1
 1601469372903,"p-marco/bhde-private","https://github.com/p-marco/bhde-private","bhde","eng|lat",4
 1607101451860,"providedh/collaborative-platform","https://github.com/providedh/collaborative-platform","Collaboration made easy ","deu|eng",77
 1623142233167,"PerseusDL/canonical-latinLit","https://github.com/PerseusDL/canonical-latinLit","XML Canonical resources for Latin Literature ","lat|grc|eng|deu|fra|ita",626
@@ -3609,30 +3608,21 @@ This software provides a convenient way to organizing information and making it 
 1610947205029,"pelagios/recogito2","https://github.com/pelagios/recogito2","Semantic Annotation Without the Pointy Brackets","",11
 1593361913291,"prashantbasnet94/Erm_Ruskin_Map","https://github.com/prashantbasnet94/Erm_Ruskin_Map","-","",1
 1607936000436,"pbinkley/rcb-methods","https://github.com/pbinkley/rcb-methods","Transcription of Robert C. Binkley's Methods of Reproducing Research Materials (1931)","",1
-1602146030849,"publicarchitectura/ledoux-architecture","https://github.com/publicarchitectura/ledoux-architecture","Site web du projet Ledoux","fra|lat",5
 1610010143999,"ProjectJaraid/projectjaraid.github.io","https://github.com/ProjectJaraid/projectjaraid.github.io","This is the Project Jarāʾid - 2020 Edition website.","und|mul|eng|ara|tur|ota|fas|deu|fra|ita",6
-1618203277814,"PonteIneptique/digiliblt","https://github.com/PonteIneptique/digiliblt","Capitains version of DigilibLT data","lat",379
 1609361284234,"pauljickling/pauljickling.github.io","https://github.com/pauljickling/pauljickling.github.io","blog/personal page","",1
 1613006123389,"Princeton-CDH/mep-beach-logbooks","https://github.com/Princeton-CDH/mep-beach-logbooks","A partial encoding of Sylvia Beach's logbooks for Shakespeare and Company","",25
 1613006123364,"Princeton-CDH/abcbooks","https://github.com/Princeton-CDH/abcbooks","An archive of alphabet books for English 385, Spring 2016","",58
 1613006123309,"Princeton-CDH/digitalemigre","https://github.com/Princeton-CDH/digitalemigre","encoding Russian emigre periodicals ","rus|eng",7
 1613006123302,"Princeton-CDH/bluemountain-transcriptions","https://github.com/Princeton-CDH/bluemountain-transcriptions","TEI-encoded transcriptions of Blue Mountain materials.","swe|ces|dan|deu|fra|eng|rus|ita|pol",1590
 1611597478720,"pboot/bookcrit","https://github.com/pboot/bookcrit","Online reviewers criteria for judging books","",1
-1611597478564,"publicarchitectura/chaineEditorialeXML","https://github.com/publicarchitectura/chaineEditorialeXML","Intervention séminaire Dominic Forest","fra",6
 1606811896067,"Padmapriya-09/POS-tagger_BNC-Corpus","https://github.com/Padmapriya-09/POS-tagger_BNC-Corpus","-","",404
-1614043083999,"ProjectNaggari/Data","https://github.com/ProjectNaggari/Data","-","",6
 1614112696227,"Princeton-CDH/test-data-repo","https://github.com/Princeton-CDH/test-data-repo","Test repository to prototype continuous validation for data in github","",3
 1607331018620,"paolomonella/romualdus","https://github.com/paolomonella/romualdus","Scholarly digital edition of the Chronicon by Romualdus Salernitanus (XII century)","lat",47
 1604565141063,"PonteIneptique/exemple-cours","https://github.com/PonteIneptique/exemple-cours","-","",1
-1601987867999,"phoenix-mossimo/Comprehensive_Coptic_Lexicon_V1_2","https://github.com/phoenix-mossimo/Comprehensive_Coptic_Lexicon_V1_2","Comprehensive Coptic Lexicon: Including Loanwords from Ancient Greek v 1.2","grc|cop|eng|deu|fra",1
-1612212278448,"phoenix-mossimo/ccl_rd","https://github.com/phoenix-mossimo/ccl_rd","Comprehensive Coptic Lexicon - Research Data","deu|eng|fra",44
 1613006123729,"Project-Cairo-Urban-News/teaching","https://github.com/Project-Cairo-Urban-News/teaching","this is a test depository for teaching TEI XML Arabic","ara|eng",1
 1612428152907,"phoenix-mossimo/Comprehensive-Coptic-Lexicon-Research-Data","https://github.com/phoenix-mossimo/Comprehensive-Coptic-Lexicon-Research-Data","Comprehensive Coptic Lexicon - Research Data","deu|eng|fra",45
-1596774726093,"piahh/Masterarbeit_Konfliktsimulation","https://github.com/piahh/Masterarbeit_Konfliktsimulation","-","",17
-1611996587524,"publicarchitectura/initiationTEI","https://github.com/publicarchitectura/initiationTEI","Répertoire pour l’initiation à la Text Encoding Initiative (TEI) donnée au CRIHN","fra|lat|eng",42
 1602923677887,"PonteIneptique/test-cours-hn","https://github.com/PonteIneptique/test-cours-hn","-","",1
 1614791769442,"ProjectNaggari/naggari_source","https://github.com/ProjectNaggari/naggari_source","master file","und|mul|eng|ara|tur|ota|fas|deu|fra|ita",1
-1606236689620,"Pret-a-LLOD/linghub","https://github.com/Pret-a-LLOD/linghub","-","",1
 1606394341896,"PietroLiuzzo/epiont","https://github.com/PietroLiuzzo/epiont","epigraphic ontology data","ara|eng|fra|deu|grc|ell|heb|ita|lat",1
 1598603542771,"peterverhaar/DigitalMediaTechnology","https://github.com/peterverhaar/DigitalMediaTechnology","-","",2
 1614791769569,"PatristicTextArchive/pta_manuscripts","https://github.com/PatristicTextArchive/pta_manuscripts","Database of manuscript descriptions","",521
@@ -3642,7 +3632,6 @@ This software provides a convenient way to organizing information and making it 
 1590816600560,"PaulFievre/Theatre-classique","https://github.com/PaulFievre/Theatre-classique","Textes et solutions techniques pour rendre accessible le corpus de textes de théâtre classique.","fra",1313
 1590816591243,"perseids-project/digital_milliet","https://github.com/perseids-project/digital_milliet","The Digital Milliet","",1
 1590816600958,"PatristicTextArchive/pta_nemo","https://github.com/PatristicTextArchive/pta_nemo","Reader app for PTA with the help of Capitains Nemo","grc|lat|deu",88
-1590816597880,"pghorpade/jdeveloper","https://github.com/pghorpade/jdeveloper","ucla code base backup","eng|und|heb|swh|lat|arb",3
 1590816600998,"patrickmj/MlaTei","https://github.com/patrickmj/MlaTei","An Omeka plugin for importing and doing awesomeness on the MLA's TEI data of Comedy of Errors for their Variorum Challenge http://laurientaylor.org/2012/04/12/news-from-mla-new-variorum-shakespeare-digital-challenge","eng|grc|ell|grk|lat|ita|spa|fra|deu|nld",184
 1590816600961,"ParkerWeb/descMD","https://github.com/ParkerWeb/descMD","Descriptive Metadata for Parker on the Web","lat|eng|enm|ell|ang|frm|deu|ara|fro|hye",1021
 1590816600930,"ParthenosWP4/standardsLibrary","https://github.com/ParthenosWP4/standardsLibrary","-","deu|eng|mhd|ile|mnd|got|nld|grc|lat|fra",43
@@ -3664,7 +3653,6 @@ This software provides a convenient way to organizing information and making it 
 1590816594978,"paolomonella/alim","https://github.com/paolomonella/alim","Scripts written for the ALIM (Archivio della Latinità Italiana del Medioevo) digital library.","lat",5
 1590816596170,"peterstadler/Emigrant-Letters","https://github.com/peterstadler/Emigrant-Letters","Various files for the emigrant letters project","",11
 1590816596727,"Pgarri02/TFM_ANTIGUO","https://github.com/Pgarri02/TFM_ANTIGUO","-","",3
-1590816599668,"publicarchitectura/gourlier","https://github.com/publicarchitectura/gourlier","Répertoire de travail du projet de recherche sur le Choix d’édifices publics de Gourlier, Biet et Grillon","fra",4
 1590816600991,"providedh/ACDH_Salzburg_recipes","https://github.com/providedh/ACDH_Salzburg_recipes","Parser for the XML Recipes","deu",7019
 1590816600989,"pruizf/disco","https://github.com/pruizf/disco","Diachronic Spanish Sonnet Corpus. Canonical and minor authors in Spanish (Europe and America): 15th to 19th century","spa",5262
 1590816600967,"pruizf/disco-ms","https://github.com/pruizf/disco-ms","Scripts to reproduce results of our DSH paper about the DISCO corpus","spa",24482
@@ -3678,9 +3666,7 @@ This software provides a convenient way to organizing information and making it 
 1590816597784,"promod/CoD4-Mod-Tools","https://github.com/promod/CoD4-Mod-Tools","-","",1
 1590816600995,"paregorios/srpdemo1","https://github.com/paregorios/srpdemo1","-","eng|ara|syr|fra|deu|lat",688
 1590816599380,"pielstroem/Workshop_Corpora","https://github.com/pielstroem/Workshop_Corpora","Corpora for testing the DARIAHTopicsExplorer","",30
-1590816600453,"publicarchitectura/formUdem2016-04","https://github.com/publicarchitectura/formUdem2016-04","-","fra|eng|lat",27
 1590816600953,"PatristicTextArchive/gcs-retrodigitized","https://github.com/PatristicTextArchive/gcs-retrodigitized","TEI-XML encoded files of editions in the ""Die griechischen christlichen Schrifsteller"" series","grc|lat|deu",29
-1590816599749,"publicarchitectura/atelier2019-11","https://github.com/publicarchitectura/atelier2019-11","Atelier documentaire UdeM","fra|lat",34
 1590816600908,"PierreSenellart/pdf-enrichment","https://github.com/PierreSenellart/pdf-enrichment","Tool to automatically enrich PDF of research articles with additional information (hyperlinks, metadata, etc.)","eng|fra|deu|spa|ita|pol",6
 1590816600383,"pulibrary/lapidus-project","https://github.com/pulibrary/lapidus-project","Experimental TEI/eXist-based webapp for the Sid Lapidus '59 Collection on Liberty and the American Revolution","",7
 1590816600582,"Pomilui/Akira_Page","https://github.com/Pomilui/Akira_Page","This page is for the Coding and Data Visualation project on the Akira anime.","",7
@@ -3689,7 +3675,6 @@ This software provides a convenient way to organizing information and making it 
 1590816600924,"perseids-project/cts-publications-prototypes","https://github.com/perseids-project/cts-publications-prototypes","CTS Publication Prototypes","eng|grc|fra|ita|lat|deu|cop",19
 1590816600356,"pervosled/study","https://github.com/pervosled/study","Учебный репозиторий","",9
 1590816589502,"pjheslin/DiogenesWeb","https://github.com/pjheslin/DiogenesWeb","Web application for Diogenes","",1
-1590816599617,"publicarchitectura/theorie","https://github.com/publicarchitectura/theorie","Travail sur l’édition d’architecture","fra|lat",12
 1590816600009,"paolomonella/vespa","https://github.com/paolomonella/vespa","Scholarly digital edition of the Iudicium coci et pistoris by Vespa","",8
 1590816595983,"pferguson11/Causa4","https://github.com/pferguson11/Causa4","-","",3
 1590816600997,"pantonov/serna-free","https://github.com/pantonov/serna-free","Source code for Serna Free WYSIWYG XML editor (Unmaintained)","",27
@@ -3732,7 +3717,6 @@ This software provides a convenient way to organizing information and making it 
 1590816585722,"pjheslin/easymacs","https://github.com/pjheslin/easymacs","An easy to use configuration of Emacs for students","",1
 1590816598228,"philippegaroflid/philippegaroflid.github.io","https://github.com/philippegaroflid/philippegaroflid.github.io","SPA 322","spa",26
 1590816600299,"ParthenosWP4/SSKEdition","https://github.com/ParthenosWP4/SSKEdition","-","fra|eng|jpn",40
-1590816599276,"publicarchitectura/initiationXML","https://github.com/publicarchitectura/initiationXML","Répertoire de la formation d’initiation à XML pour le CRIHN","fra|eng",19
 1590816593374,"pkiraly/anacleto","https://github.com/pkiraly/anacleto","Anacleto Digital Library","",6
 1590816598629,"PonteIneptique/automatic-github","https://github.com/PonteIneptique/automatic-github","-","",3
 1590816592903,"performant-software/juxta-ws-ruby","https://github.com/performant-software/juxta-ws-ruby","Ruby bindings for JuxtaWS","",3
@@ -3751,7 +3735,6 @@ This software provides a convenient way to organizing information and making it 
 1590816566439,"pporzig/SQE-Damascus","https://github.com/pporzig/SQE-Damascus","A New Critical Edition of the Damascus Text from Qumran and the Cairo Genizah, by James M. Tucker and Peter Porzig","",1
 1590816568968,"paleolimbot/rbbt-test-zotero","https://github.com/paleolimbot/rbbt-test-zotero","Zotero installation images for the 'rbbt' package for R","",1
 1590816571941,"PatristicTextArchive/Stylesheets","https://github.com/PatristicTextArchive/Stylesheets","XSLT for transformation of PTA XML files","",1
-1590816598840,"publicarchitectura/schemas","https://github.com/publicarchitectura/schemas","Répertoire de schemas","",1
 1590816597083,"pauljickling/Interview-with-David-Jickling","https://github.com/pauljickling/Interview-with-David-Jickling","-","",1
 1590816599745,"papyri/navigator","https://github.com/papyri/navigator","Code for the Papyrological Navigator","eng|grc",16
 1590816598831,"PonteIneptique/scale-cts","https://github.com/PonteIneptique/scale-cts","-","ara|eng|fas|fra|ota|tur",1
@@ -3771,7 +3754,6 @@ This software provides a convenient way to organizing information and making it 
 1590816599655,"puthurr/tika","https://github.com/puthurr/tika","Enhanced Tika version the handling embedded pictures better in PDF and Office documents","eng",2
 1590816593805,"peerlibrary/peerlibrary","https://github.com/peerlibrary/peerlibrary","Facilitating the global conversation on academic literature","",3
 1590816600931,"pipwillcox/BodleianFirstFolio","https://github.com/pipwillcox/BodleianFirstFolio","Repository of the XML-encoded text of the Bodleian First Folio of Shakespeare's plays","",13
-1590816594676,"publicarchitectura/carrierAquin","https://github.com/publicarchitectura/carrierAquin","Module SynopsX pour la publication du fonds Louis-Georges Carrier – Hubert Aquin (Université de Montréal)","",3
 1590816570564,"PerseusDL/Nemo","https://github.com/PerseusDL/Nemo","Nemo Browser / Configuration for Perseus","",1
 1590816600999,"Pittsburgh-NEH-Institute/Institute-Materials-2017","https://github.com/Pittsburgh-NEH-Institute/Institute-Materials-2017","NEH “Make _your_ edition” Institute: ","eng|grc|deu",27
 1590816598792,"pbexe/syncref","https://github.com/pbexe/syncref","A tool to collaboratively synchronise research","eng",1
@@ -3785,7 +3767,6 @@ This software provides a convenient way to organizing information and making it 
 1590816573010,"Polivarfolomeeva/human","https://github.com/Polivarfolomeeva/human","-","",1
 1590816591187,"PerseusDL/tei-conversion-tools","https://github.com/PerseusDL/tei-conversion-tools","Tools for TEI Conversions","eng",8
 1590816591183,"PonteIneptique/tei-conversion-tools","https://github.com/PonteIneptique/tei-conversion-tools","-","eng",8
-1590816591050,"PandasGoBamboo/Slides","https://github.com/PandasGoBamboo/Slides","-","",1
 1590816593951,"pingtzuchu/test","https://github.com/pingtzuchu/test","-","",1
 1590816596241,"paddymcall/SARIT-pdf-conversions","https://github.com/paddymcall/SARIT-pdf-conversions","XML to PDF for SARIT texts","san",2
 1590816596616,"paulbroyles/tei-workshop-letter","https://github.com/paulbroyles/tei-workshop-letter","-","eng",1
@@ -3806,7 +3787,6 @@ This software provides a convenient way to organizing information and making it 
 1590816599004,"perseids-project/thematic-annotation-prototype","https://github.com/perseids-project/thematic-annotation-prototype","Files and Code for the Thematic Annotation Prototype","eng|grc",5
 1590816599589,"phowells2/NobleDeedsOfWoman","https://github.com/phowells2/NobleDeedsOfWoman","UNL ENGL 878 Final Project","",1
 1590816600863,"proiel/proiel","https://github.com/proiel/proiel","A library for working with PROIEL treebanks","",2
-1590816600075,"pooyaX14/threepress","https://github.com/pooyaX14/threepress","Automatically exported from code.google.com/p/threepress","",1
 1590816599825,"principia12/tregex_sejong","https://github.com/principia12/tregex_sejong","-","",1
 1590816600891,"paregorios/IColButler","https://github.com/paregorios/IColButler","Inscriptions in Butler Library (Columbia)","lat|grc",120
 1590816587897,"pombredanne/docutils-mirrors","https://github.com/pombredanne/docutils-mirrors","-","",3
@@ -3816,7 +3796,6 @@ This software provides a convenient way to organizing information and making it 
 1590816600157,"PaulTopaz/clas299","https://github.com/PaulTopaz/clas299","-","",1
 1590816600139,"pstreich/Woerterbuch-Generator-DE-LU","https://github.com/pstreich/Woerterbuch-Generator-DE-LU","-","",2
 1590816599166,"PaulTPT/ISOPET1---AVIONNET","https://github.com/PaulTPT/ISOPET1---AVIONNET","Joana's website","fra|lat|frm",1
-1590816595341,"publicarchitectura/crDh","https://github.com/publicarchitectura/crDh","Recueil de notes de cours, de conférences ou de formations en DH","fra|lat",2
 1590816594484,"performant-software/juxta-desktop","https://github.com/performant-software/juxta-desktop","Juxta Desktop Application","",2
 1590816583315,"PonteIneptique/cours-api","https://github.com/PonteIneptique/cours-api","-","",1
 1590816593999,"perseids-project/TeachtheTeachers","https://github.com/perseids-project/TeachtheTeachers","Repository for teaching materials for the Teach the Teachers workshop","lat",1
@@ -3836,11 +3815,9 @@ This software provides a convenient way to organizing information and making it 
 1590816600845,"pratik-agarwal/Data-Aggregation-Big-Data-Analysis-And-Visualization","https://github.com/pratik-agarwal/Data-Aggregation-Big-Data-Analysis-And-Visualization","-","",1
 1590816600821,"pengfei99/Spark","https://github.com/pengfei99/Spark","-","",1
 1590816600804,"pemmilicious/PythonDockerSite","https://github.com/pemmilicious/PythonDockerSite","-","",1
-1590816600767,"pkhssy/restfulapiserver","https://github.com/pkhssy/restfulapiserver","django restful api server","",1
 1590816600766,"pallavi-ghimire/speech-to-text-summarizer","https://github.com/pallavi-ghimire/speech-to-text-summarizer","-","",1
 1590816600763,"PamalM/Graphical-Python-ChatBot","https://github.com/PamalM/Graphical-Python-ChatBot","Interactive, graphical python chatbot. Submission for COSC 310-Assignment3","",1
 1590816600754,"prashanth-thipparthi/WatchDogs_StockMarketAnalysis","https://github.com/prashanth-thipparthi/WatchDogs_StockMarketAnalysis","-","",4
-1590816600745,"PhamDuyHieutb/translator_vietnamese","https://github.com/PhamDuyHieutb/translator_vietnamese","-","",1
 1590816600744,"preecee/NLP-recommend_shakespeare","https://github.com/preecee/NLP-recommend_shakespeare","check recommender system as webservice @ https://rec-sonnet.herokuapp.com/ ","",1
 1590816600722,"Punarvavyas/Chomksy-Normal-Form-parser","https://github.com/Punarvavyas/Chomksy-Normal-Form-parser","-","",1
 1590816600708,"Prernapaliwal21/youtube-comment-sentiment","https://github.com/Prernapaliwal21/youtube-comment-sentiment","-","",1
@@ -3869,7 +3846,6 @@ This software provides a convenient way to organizing information and making it 
 1590816596655,"phslfo/TGSAT","https://github.com/phslfo/TGSAT","Sentiment Analysis on Twitter","",4
 1590816596614,"pnhegde/fb-music-archive","https://github.com/pnhegde/fb-music-archive","An intelligent music archive which fetches music/videos posted on a facebook post/comment thread and provides many features on top of it.","",1
 1590816596560,"prasann/Jython-NLTK","https://github.com/prasann/Jython-NLTK","Jython NLTK","",1
-1590816598602,"publicarchitectura/factoton","https://github.com/publicarchitectura/factoton","Bibliothèque de transformations de documents","",3
 1590816600996,"perseids-project/perseids_treebanking","https://github.com/perseids-project/perseids_treebanking","Repository for holding files related to student treebanking projects under Perseids (obsolete)","",1
 1590816600601,"PietroLiuzzo/epigrafidigitali","https://github.com/PietroLiuzzo/epigrafidigitali","mini progetto per testare elaborazione sito dai dati alla pubblicazione","ara|eng|fra|deu|grc|ell|heb|ita|lat",3
 1590816600435,"pinkmety/HW2","https://github.com/pinkmety/HW2","-","",1
@@ -3894,7 +3870,6 @@ This software provides a convenient way to organizing information and making it 
 1590816592061,"polyauplimer/HW2","https://github.com/polyauplimer/HW2","-","",2
 1590816584591,"pismanik/Homework_2","https://github.com/pismanik/Homework_2","-","",2
 1590816558045,"PaulinaShcherbina/HW2","https://github.com/PaulinaShcherbina/HW2","-","",1
-1590816599415,"publicarchitectura/cbc","https://github.com/publicarchitectura/cbc","Travail sur les procès-verbaux du Conseil des bâtiments civils","fra",8
 1590816593632,"puerdon/ptt_helper","https://github.com/puerdon/ptt_helper","用於處理ptt語料庫的一些功能","",1
 1590816595423,"PolMine/ctk","https://github.com/PolMine/ctk","corpus toolkit","",1
 1590816556194,"Priya22/react-annotator","https://github.com/Priya22/react-annotator","For data collection.","",1
@@ -3907,7 +3882,6 @@ This software provides a convenient way to organizing information and making it 
 1614933918615,"perseids-tools/epi-doc-validator-rb","https://github.com/perseids-tools/epi-doc-validator-rb","JRuby library for validating EpiDoc","",3
 1590816595549,"PerseusDL/canonical-itaLit","https://github.com/PerseusDL/canonical-itaLit","-","eng",2
 1590816590587,"perseids-project/dts-api","https://github.com/perseids-project/dts-api","DTS (Distributed Text Services) API","lat|eng|fra",3
-1590816588593,"publicarchitectura/prosopo","https://github.com/publicarchitectura/prosopo","Prosopographie de l’architecture publique","",2
 1590816591125,"ppppn/dh-workshop-for-historians","https://github.com/ppppn/dh-workshop-for-historians","The repository for the Digital Humanity Workshop for Historians, Tokyo.","",1
 1590816592988,"PonteIneptique/cours-python","https://github.com/PonteIneptique/cours-python","Cours de python enseigné à l'ENC basé sur le cours de M. Munson et  F. Karsdorp pour les premiers chapitres","fra",1
 1590816559162,"pjt/bizetapp","https://github.com/pjt/bizetapp","Prototype for the Bizet thematic catalog.","",1
@@ -3916,7 +3890,6 @@ This software provides a convenient way to organizing information and making it 
 1590816591295,"ponsonio/BlackLab","https://github.com/ponsonio/BlackLab","-","",1
 1620148359184,"projectEndings/diagnostics","https://github.com/projectEndings/diagnostics","A way to test TEI projects for correctness and completion.","",3
 1590816541687,"pelagios/recogito","https://github.com/pelagios/recogito","***deprecated*** A Web-based tool for validating & correcting geo-resolution results","",1
-1590816597069,"publicarchitectura/elementum","https://github.com/publicarchitectura/elementum","notes techniques diverses","",1
 1590816572984,"pxz000git/Spider","https://github.com/pxz000git/Spider","爬虫","",1
 1590816592891,"peterburk/peterburk.github.io","https://github.com/peterburk/peterburk.github.io","Github page","",1
 1590816593250,"PBCore-AV-Metadata/pbcore-av-metadata.github.io","https://github.com/PBCore-AV-Metadata/pbcore-av-metadata.github.io","Jekyll code base for the pbcore.org site","",1
@@ -3955,16 +3928,26 @@ This software provides a convenient way to organizing information and making it 
 1617136907058,"PonteIneptique/devoir_git","https://github.com/PonteIneptique/devoir_git","Edition TEI ","eng",12
 1618451010001,"pipitonedev/codifica-di-testi","https://github.com/pipitonedev/codifica-di-testi","Progetto di codifica cartoline utilizzando XML.","ita",4
 1618507492417,"PSIG-EHESS/SavoirsEN","https://github.com/PSIG-EHESS/SavoirsEN","Travail de stage d'Alex Soares sur la reconnaissance des entités nommées dans le cadre de projet Savoirs de l'Ehess,","fra",98
-1619945134994,"ptuloup/Devoir_XSLT_Pierre_Tuloup_TNAH","https://github.com/ptuloup/Devoir_XSLT_Pierre_Tuloup_TNAH","-","fra",1
 1620062620312,"ptuloup/Devoir_XSLT_Tuloup","https://github.com/ptuloup/Devoir_XSLT_Tuloup","-","fra",1
 1620062620346,"PaulineChauvet/Edition-Correspondance_Marquise_de_Sevigne","https://github.com/PaulineChauvet/Edition-Correspondance_Marquise_de_Sevigne","Édition numérique de la correspondance de Marie de Rabutin-Chantal (dite marquise de Sévigné)","",3
-1620363203755,"PatrickHelling/DHd-Abstracts-2017","https://github.com/PatrickHelling/DHd-Abstracts-2017","-","",92
-1620363203663,"PatrickHelling/DHd-Abstracts-2016","https://github.com/PatrickHelling/DHd-Abstracts-2016","-","",160
-1620363203503,"PatrickHelling/DHd-Abstracts-2019","https://github.com/PatrickHelling/DHd-Abstracts-2019","-","",135
-1620363203394,"PatrickHelling/DHd-Abstracts-2018","https://github.com/PatrickHelling/DHd-Abstracts-2018","-","",160
-1620363203208,"PatrickHelling/DHd-Abstracts-2020","https://github.com/PatrickHelling/DHd-Abstracts-2020","-","",137
 1622051882521,"PaulineJac/Memoire","https://github.com/PaulineJac/Memoire","-","",9
 1623301845105,"performant-software/mel-website","https://github.com/performant-software/mel-website","Melville Electronic Library Website","",518
+1602146030849,"publicarchi/ledoux-architecture","https://github.com/publicarchi/ledoux-architecture","Site web du projet Ledoux","fra|lat",5
+1611597478564,"publicarchi/chaineEditorialeXML","https://github.com/publicarchi/chaineEditorialeXML","Intervention séminaire Dominic Forest","fra",6
+1611996587524,"publicarchi/initiationTEI","https://github.com/publicarchi/initiationTEI","Répertoire pour l’initiation à la Text Encoding Initiative (TEI) donnée au CRIHN","fra|lat|eng",42
+1590816599668,"publicarchi/gourlier","https://github.com/publicarchi/gourlier","Répertoire de travail du projet de recherche sur le Choix d’édifices publics de Gourlier, Biet et Grillon","fra",4
+1590816600453,"publicarchi/formUdem2016-04","https://github.com/publicarchi/formUdem2016-04","-","fra|eng|lat",27
+1590816599749,"publicarchi/atelier2019-11","https://github.com/publicarchi/atelier2019-11","Atelier documentaire UdeM","fra|lat",34
+1590816599617,"publicarchi/theorie","https://github.com/publicarchi/theorie","Travail sur l’édition d’architecture","fra|lat",12
+1590816599276,"publicarchi/initiationXML","https://github.com/publicarchi/initiationXML","Répertoire de la formation d’initiation à XML pour le CRIHN","fra|eng",19
+1590816598840,"publicarchi/schemas","https://github.com/publicarchi/schemas","Répertoire de schemas","",1
+1590816594676,"publicarchi/carrierAquin","https://github.com/publicarchi/carrierAquin","Module SynopsX pour la publication du fonds Louis-Georges Carrier – Hubert Aquin (Université de Montréal)","",3
+1590816595341,"publicarchi/crDh","https://github.com/publicarchi/crDh","Recueil de notes de cours, de conférences ou de formations en DH","fra|lat",2
+1590816600767,"pkhssy/ChatBot","https://github.com/pkhssy/ChatBot","django restful api server","",1
+1590816598602,"publicarchi/factoton","https://github.com/publicarchi/factoton","Bibliothèque de transformations de documents","",3
+1590816599415,"publicarchi/cbc","https://github.com/publicarchi/cbc","Travail sur les procès-verbaux du Conseil des bâtiments civils","fra",8
+1590816588593,"publicarchi/prosopo","https://github.com/publicarchi/prosopo","Prosopographie de l’architecture publique","",2
+1590816597069,"publicarchi/elementum","https://github.com/publicarchi/elementum","notes techniques diverses","",1
 1595867516337,"qmoya/Bekker","https://github.com/qmoya/Bekker","A command-line utility that reads an Aristotelian work’s XML file from Perseus, and dumps it to the standard output in a Roam-Research-friendly format.","lat|eng|deu",1
 1600101169102,"quadrama/Corpus","https://github.com/quadrama/Corpus","The main quadrama corpus","",460
 1622035136414,"quadrama/gerdracor-coref","https://github.com/quadrama/gerdracor-coref","German Drama Corpus for Coreference","deu",356
