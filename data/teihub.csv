@@ -14,7 +14,7 @@
 1609333241174,"7h3f0x/Part-of-Speech-Tagging","https://github.com/7h3f0x/Part-of-Speech-Tagging","-","",635
 1590816600424,"7PartidasDigital/AnaText","https://github.com/7PartidasDigital/AnaText","Materiales del curso Análisis de textos y estilometría usando R","",21
 1623157729092,"7PartidasDigital/XML-TEI","https://github.com/7PartidasDigital/XML-TEI","Codificación XML-TEI de los testimonios de las Siete Partidas","spa",11
-1623443968999,"84000/data-tei","https://github.com/84000/data-tei","TEI files of the translations","san|eng|bod|pli|deu",4645
+1623461681985,"84000/data-tei","https://github.com/84000/data-tei","TEI files of the translations","san|eng|bod|pli|deu",4645
 1590816600998,"84000/data","https://github.com/84000/data","84000 XML data files","bod|san|eng|pli",4442
 1590816600823,"84000/translations","https://github.com/84000/translations","Repository for 84000 translations","san|eng|bod|emg",31
 1590816598985,"8Raouf24/Projet-S6","https://github.com/8Raouf24/Projet-S6","Repository for our works in the field of web semantic and structured documents","",2
@@ -555,7 +555,7 @@
 1622540935242,"beatrice57/mcvf-plus-ppchf","https://github.com/beatrice57/mcvf-plus-ppchf","MCVF plus Penn-BFM Parsed Corpus of Historical French","fra",44
 1623330433244,"benjaminpauley/RBS2018Pauley","https://github.com/benjaminpauley/RBS2018Pauley","Materials for Rare Book School course ""Digital Approaches to Bibliography and Book History,"" 2018","eng",1
 1622701290631,"cceh/pessoa","https://github.com/cceh/pessoa","Digital Edition of Fernando Pessoa","por|eng|deu|fra",522
-1623443968996,"CivilWarGovernorsOfKentucky/Documents","https://github.com/CivilWarGovernorsOfKentucky/Documents","CWGK Documents in TEI-XML Format","",21982
+1623461681982,"CivilWarGovernorsOfKentucky/Documents","https://github.com/CivilWarGovernorsOfKentucky/Documents","CWGK Documents in TEI-XML Format","",21982
 1623157729077,"clarin-eric/ParlaMint","https://github.com/clarin-eric/ParlaMint","ParlaMint: Comparable Parliamentary Corpora","ces|slv|bul|nld|eng|dan|ron|isl|hrv|ita|hun|lav|spa|fra",178
 1614343836995,"COST-ELTeC/ELTeC-srp-ext","https://github.com/COST-ELTeC/ELTeC-srp-ext","-","srp",8
 1622727707513,"COST-ELTeC/ELTeC-srp","https://github.com/COST-ELTeC/ELTeC-srp","-","srp",96
@@ -960,7 +960,7 @@
 1623314751007,"ChiaraDeNigris/EserciziCodifica","https://github.com/ChiaraDeNigris/EserciziCodifica","-","",1
 1623431466999,"cwulfman/derrida-seminars","https://github.com/cwulfman/derrida-seminars","-","",3
 1614430164991,"DallasAustin/The-Dallas-Chronicles-","https://github.com/DallasAustin/The-Dallas-Chronicles-","-","",1
-1623443968982,"Digital-Humanities-Quarterly/dhq-journal","https://github.com/Digital-Humanities-Quarterly/dhq-journal","-","eng|spa|fra|lat|ita",1218
+1623461681969,"Digital-Humanities-Quarterly/dhq-journal","https://github.com/Digital-Humanities-Quarterly/dhq-journal","-","eng|spa|fra|lat|ita",1218
 1620290707639,"Descot21/Lycian","https://github.com/Descot21/Lycian","A systematic digital corpus of Lycian texts","",52
 1620809270640,"dracor-org/gerdracor","https://github.com/dracor-org/gerdracor","German Drama Corpus","deu|ger",538
 1604161955209,"djakacki/suzette","https://github.com/djakacki/suzette","-","fra|eng",210
@@ -1366,7 +1366,7 @@
 1611752304482,"earlyprint/epmetadata","https://github.com/earlyprint/epmetadata","EarlyPrint project standoff metadata","",60331
 1603385084335,"edbkeogh/datavisusquecano","https://github.com/edbkeogh/datavisusquecano","Ed Keogh's site for exploring data visualizations","grc|lat",13
 1623157729158,"enjotel/ekbindu","https://github.com/enjotel/ekbindu","-","",2
-1623443968991,"eba-diary/tagged-volumes","https://github.com/eba-diary/tagged-volumes","XML files based on output from Historical Markup Tool, with additional manual tagging by Dr. Ketchley and interns","",5
+1623461681997,"eba-diary/tagged-volumes","https://github.com/eba-diary/tagged-volumes","XML files based on output from Historical Markup Tool, with additional manual tagging by Dr. Ketchley and interns","",5
 1611752304928,"e-ditiones/CORPUS17","https://github.com/e-ditiones/CORPUS17","17th c. French texts corpus.","fra",30
 1618507492169,"elmusfi/harambee_dinner","https://github.com/elmusfi/harambee_dinner","Archive of Penn State Behrend's Harambee Dinner programs","",1
 1597408328779,"ebeshero/newtFire-webDev","https://github.com/ebeshero/newtFire-webDev","for development of the newtFire website at http://newtfire.org","eng|fra|lat",3699
@@ -2280,8 +2280,8 @@
 1620062620327,"Heresta/Devoir_XSLT","https://github.com/Heresta/Devoir_XSLT","-","lat|fro",1
 1620809270995,"HelRei80/X-Technologie","https://github.com/HelRei80/X-Technologie","-","",1
 1623157729337,"hmteditors/upsilon1.1-2021","https://github.com/hmteditors/upsilon1.1-2021","Unified validation of HMT editing of Upsilon 1.1","",6
-1623431466576,"hmteditors/vb-2021","https://github.com/hmteditors/vb-2021","Unified validation of HMT editing in Venetus B MS","",6
-1623443968997,"hmteditors/burney86-book8","https://github.com/hmteditors/burney86-book8","-","",2
+1623461681987,"hmteditors/vb-2021","https://github.com/hmteditors/vb-2021","Unified validation of HMT editing in Venetus B MS","",6
+1623461681983,"hmteditors/burney86-book8","https://github.com/hmteditors/burney86-book8","-","",2
 1623142233513,"hmteditors/omega1.12-book8-2021","https://github.com/hmteditors/omega1.12-book8-2021","-","",2
 1623259476333,"HCMID/CitableTeiReaders.jl","https://github.com/HCMID/CitableTeiReaders.jl","A Julia module for converting TEI XML documents to instances of a CitableCorpus.","",1
 1590816600745,"hieubz/translator_vietnamese","https://github.com/hieubz/translator_vietnamese","-","",1
@@ -2969,7 +2969,7 @@
 1610976292015,"MilenaCorbellini/Tentativoevt","https://github.com/MilenaCorbellini/Tentativoevt","-","lat|eng|ita|lng|ara",12
 1597638725159,"Mehrdad93/Machine-Reading","https://github.com/Mehrdad93/Machine-Reading","The project is intended to Parse TEI-XML formatted book files, extracted information of interest out of it (e.g. Named Entities, Time tags, etc.), and transform all the books into three disjoint sets of train/test/dev, ready to be fed to any NER model working with CoNLL 2003 format.","",5
 1613738933259,"MAPerformance/MAP_XML","https://github.com/MAPerformance/MAP_XML","TEI Data for the MAP project","",1116
-1623443968998,"MarcoStallmann/bdnBible","https://github.com/MarcoStallmann/bdnBible","-","",12
+1623461681984,"MarcoStallmann/bdnBible","https://github.com/MarcoStallmann/bdnBible","-","",12
 1620031608099,"music-encoding/music-encoding","https://github.com/music-encoding/music-encoding","美 The Music Encoding Initiative schema and guidelines development repository","",21
 1610457309778,"MRosana/text-encoding","https://github.com/MRosana/text-encoding","-","ita",1
 1608295988853,"marrus-sh/Corpora","https://github.com/marrus-sh/Corpora","-","",14
@@ -3194,7 +3194,7 @@
 1590816571240,"Marie-ClaireBeaulieu/XSLTpractice","https://github.com/Marie-ClaireBeaulieu/XSLTpractice","-","",1
 1590816573206,"MarieGlukhova/Digital_Humanities","https://github.com/MarieGlukhova/Digital_Humanities","-","",1
 1615899176788,"MoritzMeid/DigitaleEdition_CodexSangallensis857","https://github.com/MoritzMeid/DigitaleEdition_CodexSangallensis857","-","",3
-1623431466607,"michellemtaylor/wesley-works","https://github.com/michellemtaylor/wesley-works","-","",4
+1623461681999,"michellemtaylor/wesley-works","https://github.com/michellemtaylor/wesley-works","-","",4
 1618217291737,"MalikS789/XQuery","https://github.com/MalikS789/XQuery","A set of XQuery files that can be used to execute filtering on XML files.","",5
 1620046829261,"MIracleyin/spacy_ud","https://github.com/MIracleyin/spacy_ud","-","",2
 1620133066465,"mihalyeszter/Kabdebo_levelezes-TR_export","https://github.com/mihalyeszter/Kabdebo_levelezes-TR_export","Kabdebó-levelezés Transkribus exportok","",42
@@ -3205,7 +3205,7 @@
 1621313982888,"mariaelisabethz/TEI-Dokument-mit-CETEIcean","https://github.com/mariaelisabethz/TEI-Dokument-mit-CETEIcean","X-Technologie, Aufgabe 3","deu",1
 1622642748698,"mnaglak/regia-viewer","https://github.com/mnaglak/regia-viewer","Regia journal viewer usting EVT opensource tool","",14
 1623157729201,"michalfrankl/EHRI-ODD","https://github.com/michalfrankl/EHRI-ODD","-","",1
-1623443968977,"mbod/MICUSP","https://github.com/mbod/MICUSP","Data and application files Michigan Corpus of Upper-level Student Papers (MICUSP)","",978
+1623461681964,"mbod/MICUSP","https://github.com/mbod/MICUSP","Data and application files Michigan Corpus of Upper-level Student Papers (MICUSP)","",978
 1615667941863,"nivaca/HD202110","https://github.com/nivaca/HD202110","-","spa",16
 1607345721896,"newtfire/digitProjectDesign-Hub","https://github.com/newtfire/digitProjectDesign-Hub","shared repo for Digital Project Design class","",79
 1594226067114,"nomadicoder/tufts","https://github.com/nomadicoder/tufts","Tufts Admin interface","eng",4
@@ -3365,7 +3365,7 @@ This software provides a convenient way to organizing information and making it 
 1590816599214,"nytud/hunlp-GATE","https://github.com/nytud/hunlp-GATE","Lang_Hungarian - a GATE plugin containing Hungarian NLP tools as GATE processing resources","",1
 1622051882531,"neelsmith/warmup2","https://github.com/neelsmith/warmup2","-","",2
 1623259476334,"nakamura196/yano","https://github.com/nakamura196/yano","-","",1
-1623431466992,"OpenArabicPE/journal_al-muqtabas","https://github.com/OpenArabicPE/journal_al-muqtabas","Digital edition (TEI XML) of the Arabic monthly journal *al-Muqtabas* (مجلة المقتبس), published by Muḥammad Kurd ʿAlī in Cairo and Damascus between 1906 and 1917/18","ara|eng|fas|fra|ota|tur",38
+1623461681996,"OpenArabicPE/journal_al-muqtabas","https://github.com/OpenArabicPE/journal_al-muqtabas","Digital edition (TEI XML) of the Arabic monthly journal *al-Muqtabas* (مجلة المقتبس), published by Muḥammad Kurd ʿAlī in Cairo and Damascus between 1906 and 1917/18","ara|eng|fas|fra|ota|tur",38
 1614588278629,"oeaw-ministerratsprotokolle/mp-edition-data","https://github.com/oeaw-ministerratsprotokolle/mp-edition-data","Repo for TEI XML data from the `Ministerratsprotokolle` edition project that has been published on the web already","",975
 1623387276218,"opentorah/alter-rebbe.org","https://github.com/opentorah/alter-rebbe.org","19 Kislev Archive","rus|pol|deu|fra|heb|lit",7251
 1622366058072,"OpenGreekAndLatin/First1KGreek","https://github.com/OpenGreekAndLatin/First1KGreek","XML files for the works in the First Thousand Years of Greek Project. ","grc|lat|eng|fra|deu|ell|cop|nld",1078
@@ -3577,7 +3577,7 @@ This software provides a convenient way to organizing information and making it 
 1593851518998,"OSH-2020/GDBFS","https://github.com/OSH-2020/GDBFS","x-code-nowww created by GitHub Classroom","",502
 1590816600211,"oeuvres/alix","https://github.com/oeuvres/alix","A Lucene Indexer for XML, with lexical analysis (lemmatization for French)","",9
 1590816570029,"oeuvres/depub","https://github.com/oeuvres/depub","Epub ► TEI, open epub files and extract the more data as possible","",2
-1623443968988,"papyri/idp.data","https://github.com/papyri/idp.data","Data from the Integrating Digital Papyrology project","eng|grc|lat|fra|deu|ita|spa|ell|cop|egy|ara|syc|arc|heb|und",182823
+1623461681975,"papyri/idp.data","https://github.com/papyri/idp.data","Data from the Integrating Digital Papyrology project","eng|grc|lat|fra|deu|ita|spa|ell|cop|egy|ara|syc|arc|heb|und",182823
 1621515888238,"Petrarchive/The-Petrarchive","https://github.com/Petrarchive/The-Petrarchive","-","",116
 1614791769755,"pierre-amadio/packard","https://github.com/pierre-amadio/packard"," Packard's Morphological Analysis Codes module for the Sword engine.","",1
 1622575349361,"peterwebster/henson","https://github.com/peterwebster/henson","Master data store for the Hensley Henson Journals project, and issue tracker. The application code is kept elsewhere.","",3579
@@ -35392,7 +35392,7 @@ This software provides a convenient way to organizing information and making it 
 1590816592251,"ubbo/sade-textgrid-default-project","https://github.com/ubbo/sade-textgrid-default-project","Default TextGrid project for SADE","",3
 1619585664438,"UTKcataloging/TDH_cleanup","https://github.com/UTKcataloging/TDH_cleanup","Clean data present in https://github.com/utkdigitalinitiatives/spc-tei from Tennessee Documentary History.","",26
 1623357632324,"umj95/Glarean","https://github.com/umj95/Glarean","A university project that aims at digitally presenting a portion of Heinrich Glarean’s Dodekachordon in a way that satisfies the needs of a scholarly edition and harnesses the power of web publishing","deu|grc|lat|fra",4
-1623443968990,"VandyVRC/tcadrt","https://github.com/VandyVRC/tcadrt","-","eng|zho|ara|cop|chu|deu|spa|fra|gez|grc|hye|ita|kat|lat|nld|por|rus|sog|syr",799
+1623461681998,"VandyVRC/tcadrt","https://github.com/VandyVRC/tcadrt","-","eng|zho|ara|cop|chu|deu|spa|fra|gez|grc|hye|ita|kat|lat|nld|por|rus|sog|syr",799
 1608427782028,"vedph/PapyroLogos","https://github.com/vedph/PapyroLogos","-","eng|grc|lat",523
 1611597478598,"vlebedynska/word-embeddings-childrens-books","https://github.com/vlebedynska/word-embeddings-childrens-books","-","",29
 1594197118016,"ValerioSalvetti/Progetto-Esame-LL1.14","https://github.com/ValerioSalvetti/Progetto-Esame-LL1.14","-","ita",3
