@@ -631,7 +631,7 @@
 1599726738456,"Chartes-TNAH/libretti","https://github.com/Chartes-TNAH/libretti","Dépôt Capitains de livrets d'Opéra","fra",19
 1601541155378,"carolinecorbieres/Memoire_TNAH","https://github.com/carolinecorbieres/Memoire_TNAH","Mémoire de stage de deuxième année du master ""Technologies numériques appliquées à l'histoire"" de l'École des chartes","fra|eng",246
 1602333507987,"cmosher01/Tei-To-Xhtml5","https://github.com/cmosher01/Tei-To-Xhtml5","Generate XHTML5 web pages from TEI formatted documents","eng",4
-1621586936396,"christopheparisse/evalang","https://github.com/christopheparisse/evalang","Données partagées pour le projet Evalang","fra|eng",2478
+1623502777998,"christopheparisse/evalang","https://github.com/christopheparisse/evalang","Données partagées pour le projet Evalang","fra|eng",3470
 1600245145512,"Camilla-Rossini/ReadingsArchive","https://github.com/Camilla-Rossini/ReadingsArchive","An archive of readings from Ancient Greek and Latin texts, aligned with the Perseus Library via CTS-URNs","grc|eng|lat",31
 1593779540958,"ChrisRG/Polemica","https://github.com/ChrisRG/Polemica","Transcriptions and XML transformations for Italian Renaissance literary debate (project funded by OBVIL, Sorbonne Universités)","ita|lat|ell",1
 1606826587268,"claudius108/oxygen-addon-builder-plugin","https://github.com/claudius108/oxygen-addon-builder-plugin","-","",1
@@ -2290,7 +2290,7 @@
 1598099517019,"innawendell/European_Comedy","https://github.com/innawendell/European_Comedy","The quantitative study of the evolution of the Russian and French 5-act comedy in verse.","fra|rus",115
 1599526896066,"istex/odd-istex","https://github.com/istex/odd-istex","Schéma ODD TEI pour le projet ISTEX","",1
 1623345901022,"iwein-digital/transcriptions","https://github.com/iwein-digital/transcriptions","Manuscript transcriptions","",39
-1623487347999,"IreneVagionakis/Fiscus_bis","https://github.com/IreneVagionakis/Fiscus_bis","Fiscus database","rus|eng|grc",508
+1623502777999,"IreneVagionakis/Fiscus_bis","https://github.com/IreneVagionakis/Fiscus_bis","Fiscus database","rus|eng|grc",508
 1594960319817,"ilovan/cwrc-writer-samples","https://github.com/ilovan/cwrc-writer-samples","-","eng|ita|lat",9
 1618420854017,"IreneVagionakis/CretanInscriptions","https://github.com/IreneVagionakis/CretanInscriptions","An EFES EpiDoc collection of inscriptions pertaining to Cretan institutions (VII-I century BC)","grc|ara|eng|fra|deu|ell|heb|ita|lat|rus",627
 1619686009993,"i-d-e/ride","https://github.com/i-d-e/ride","A review journal for digital editions and resources","eng|fra|deu",143
@@ -4244,7 +4244,7 @@ This software provides a convenient way to organizing information and making it 
 1604565141070,"scta-texts/UD1xh4","https://github.com/scta-texts/UD1xh4","repo for HenrichBullingerSermonumDecades","lat|eng|deu|fra",74
 1604421743249,"scta-texts/vn58an","https://github.com/scta-texts/vn58an","-","lat",455
 1608295988718,"srophe/caesarea","https://github.com/srophe/caesarea","Application repository for Caesarea-Maritima.org","",19
-1622701290711,"SIstory/PNZ","https://github.com/SIstory/PNZ","Prispevki za novejšo zgodovino / Contributions to Contemporary History","slv|eng",300
+1623502777084,"SIstory/PNZ","https://github.com/SIstory/PNZ","Prispevki za novejšo zgodovino / Contributions to Contemporary History","slv|eng",300
 1609823118979,"scta-texts/aristotlemetaphysics","https://github.com/scta-texts/aristotlemetaphysics","-","lat|eng",41
 1609823118914,"scta-texts/xch7dn","https://github.com/scta-texts/xch7dn","averroes metaphysics commentary","lat",9
 1596083533527,"siongui/tipitaka-romn","https://github.com/siongui/tipitaka-romn","https://www.tipitaka.org/romn/","",2298
