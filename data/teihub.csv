@@ -3807,25 +3807,16 @@ This software provides a convenient way to organizing information and making it 
 1590816599415,"publicarchi/cbc","https://github.com/publicarchi/cbc","Travail sur les procès-verbaux du Conseil des bâtiments civils","fra",7
 1590816588593,"publicarchi/prosopo","https://github.com/publicarchi/prosopo","Prosopographie de l’architecture publique","",2
 1595867516337,"qmoya/Bekker","https://github.com/qmoya/Bekker","A command-line utility that reads an Aristotelian work’s XML file from Perseus, and dumps it to the standard output in a Roam-Research-friendly format.","lat|eng|deu",1
-1600101169102,"quadrama/Corpus","https://github.com/quadrama/Corpus","The main quadrama corpus","",460
-1622035136414,"quadrama/gerdracor-coref","https://github.com/quadrama/gerdracor-coref","German Drama Corpus for Coreference","deu",356
-1590816592403,"q6801/deep","https://github.com/q6801/deep","examples about deep learning","",1
-1618491485236,"quranic-research/lexicon_xml","https://github.com/quranic-research/lexicon_xml","Lanes Lexicon xml-files","eng|ara|lat",9
-1590816600940,"quadrama/DramaNLP","https://github.com/quadrama/DramaNLP","UIMA NLP components for dramatic texts","",44
-1590816600847,"qcrit/PNAS_2017_QuantitativeCriticism","https://github.com/qcrit/PNAS_2017_QuantitativeCriticism","Replication code for Dexter et al., ""Quantitative criticism of literary relationships,"" PNAS 2017","lat|eng|deu",12
-1590816600997,"Quintinium/RuskinSE","https://github.com/Quintinium/RuskinSE","Search Engine","",236
-1590816600996,"qiuwei/jing-trang","https://github.com/qiuwei/jing-trang","Automatically exported from code.google.com/p/jing-trang","",8
-1590816566684,"qweasdzcx123/the-src-of-lecture","https://github.com/qweasdzcx123/the-src-of-lecture","便于文献阅读笔记引用","",1
+1600101169102,"quadrama/Corpus","https://github.com/quadrama/Corpus","The main quadrama corpus","",526
+1622035136414,"quadrama/gerdracor-coref","https://github.com/quadrama/gerdracor-coref","German Drama Corpus for Coreference","deu",370
+1618491485236,"quranic-research/lexicon_xml","https://github.com/quranic-research/lexicon_xml","Lanes Lexicon xml-files","eng|ara|lat",36
+1590816600940,"quadrama/DramaNLP","https://github.com/quadrama/DramaNLP","UIMA NLP components for dramatic texts","",58
+1590816600847,"qcrit/PNAS_2017_QuantitativeCriticism","https://github.com/qcrit/PNAS_2017_QuantitativeCriticism","Replication code for Dexter et al., ""Quantitative criticism of literary relationships,"" PNAS 2017","lat|eng|deu",45
+1590816600997,"Quintinium/RuskinSE","https://github.com/Quintinium/RuskinSE","Search Engine","",240
 1590816597452,"quadrama/quadrama.github.io","https://github.com/quadrama/quadrama.github.io","-","",1
-1590816593627,"qordobafranzi/source_classifier","https://github.com/qordobafranzi/source_classifier","-","",2
-1590816600632,"qianna97/kkn-sanansari","https://github.com/qianna97/kkn-sanansari","-","",1
-1590816600220,"quinceymok/Lematization","https://github.com/quinceymok/Lematization","Lemmatization project for LEAN","",1
-1590816600210,"Qay-Tekkie/chatbot","https://github.com/Qay-Tekkie/chatbot","-","",1
 1590816595430,"quanteda/readtext","https://github.com/quanteda/readtext","an R package for reading text files","",1
 1590816563164,"quadrama/DramaAnalysis","https://github.com/quadrama/DramaAnalysis","An R package for analysis of dramatic texts","",1
-1590816567117,"qiuhere/Bench","https://github.com/qiuhere/Bench","-","",1
-1590816573917,"quadrama/gbde_totei","https://github.com/quadrama/gbde_totei","Python script to parse drama texts from Projekt Gutenberg-DE into TEI-XML","",1
-1622051882507,"QuantitativeCriticismLab/NAACL-HLT-2021-Latin-Intertextuality","https://github.com/QuantitativeCriticismLab/NAACL-HLT-2021-Latin-Intertextuality","This repository includes the data and code relevant to the Burns, Brofos, Li, Chaudhuri, and Dexter paper for NAACL-HLT 2021","lat|eng|deu",2
+1622051882507,"QuantitativeCriticismLab/NAACL-HLT-2021-Latin-Intertextuality","https://github.com/QuantitativeCriticismLab/NAACL-HLT-2021-Latin-Intertextuality","This repository includes the data and code relevant to the Burns, Brofos, Li, Chaudhuri, and Dexter paper for NAACL-HLT 2021","lat|eng|deu",35
 1621241294068,"revuloj/voko-cikado","https://github.com/revuloj/voko-cikado","Esperantaj verkoj servataj kiel retpaĝoj kaj citaĵo-serĉilo","epo|fra|lat|eng|deu|ita|pol|rus",172
 1618852933933,"rism-ch/onstage-backend","https://github.com/rism-ch/onstage-backend","OnStage backend Solr configuration and support server","",4
 1614069827178,"rutgersdh/wsb-data","https://github.com/rutgersdh/wsb-data","letters and processing stylesheets for the War Service Bureau documentary edition","",9
@@ -3833,7 +3824,6 @@ This software provides a convenient way to organizing information and making it 
 1607936000474,"RJP43/LiliElbe_EngagedLearners","https://github.com/RJP43/LiliElbe_EngagedLearners","Lili Elbe Digital Archive practicum - learning markup via an engaged markdown community.  Visit our wiki!","",20
 1599654849023,"rettinghaus/Monatsberichte","https://github.com/rettinghaus/Monatsberichte","Hofmeister Monatsberichte","deu|fra|ita",753
 1599526896134,"rettinghaus/Oden","https://github.com/rettinghaus/Oden","Psalmen und Oden von Cramer, Gellert und Sturm","deu",180
-1601469372540,"RacimRgh/Projet-XML-L3","https://github.com/RacimRgh/Projet-XML-L3","-","",2
 1599654849115,"ryanbrate/DS_thesis","https://github.com/ryanbrate/DS_thesis","MSc Data Science thesis, University of Amsterdam","",20
 1595478725249,"Ruimdetijd/docere","https://github.com/Ruimdetijd/docere","A flexible and customisable digital (scholarly) edition publishing platform","",4
 1618217291854,"REEDLondon/inns-court","https://github.com/REEDLondon/inns-court","Inns of Court materials","eng|lat|fra",951
@@ -3853,7 +3843,6 @@ This software provides a convenient way to organizing information and making it 
 1608583300003,"RadW2020/TEI-curso-LINHD-UNED","https://github.com/RadW2020/TEI-curso-LINHD-UNED","Tecnologías digitales aplicadas al estudio de la poesía. Curso de Verano 2016 LINHD-UNED","",10
 1610976292024,"REEDLondon/Accounting","https://github.com/REEDLondon/Accounting","Research being down on accounting records","",3
 1610961666143,"Rafraf-bot2/XMLConverter","https://github.com/Rafraf-bot2/XMLConverter","-","",2
-1605760360111,"rosaliadecastro/rosaliadecastro","https://github.com/rosaliadecastro/rosaliadecastro","-","",3
 1610717082005,"rero/sonar","https://github.com/rero/sonar","SONAR - Swiss Open Access Repository","eng|ita",9
 1595795533002,"rpbarczok/rpbarczok.github.io","https://github.com/rpbarczok/rpbarczok.github.io","This is me programming","",2
 1606394341892,"rosaliadecastro/rosaliadecastro.github.io","https://github.com/rosaliadecastro/rosaliadecastro.github.io","-","",3
@@ -3888,7 +3877,6 @@ This software provides a convenient way to organizing information and making it 
 1590816600995,"rjperez94/colenso","https://github.com/rjperez94/colenso","A web platform which assists the Colenso Project in searching their XML database","ara|eng|fra|deu|grc|ell|heb|ita|lat|phn|ber",1506
 1590816600473,"rloth/refbibs-stack","https://github.com/rloth/refbibs-stack","my mirror of https://git.istex.fr/loth/refbibs-stack (CNRS project ANR-10-IDEX-0004-02)","eng|fra|deu|spa",56
 1590816600997,"RJP43/CitySlaveGirls","https://github.com/RJP43/CitySlaveGirls","The Restoration of Nell Nelson ","",91
-1590816600934,"rotemzif/digitalHumanitiesIsraeliSongs","https://github.com/rotemzif/digitalHumanitiesIsraeliSongs","-","heb",39726
 1590816596986,"richard-strauss-werke/rsw-oxygen-framework","https://github.com/richard-strauss-werke/rsw-oxygen-framework","oXygen TEI / MEI framework and extensions","",3
 1590816600157,"richard-strauss-werke/strauss-ODD","https://github.com/richard-strauss-werke/strauss-ODD","ODDs and ODD-related files for TEI / MEI encoding at the Kritische Ausgabe der Werke von Richard Strauss","mri|eng",32
 1590816600158,"rbbristow/ENC_XML-XSLT-HTML","https://github.com/rbbristow/ENC_XML-XSLT-HTML","Devoir de Master 2 TNAH (Ecole nationale des chartes) : numérisation de lettres de la marquise de Sévigné.","fra",6
@@ -3928,7 +3916,6 @@ This software provides a convenient way to organizing information and making it 
 1590816594129,"ryan-p-henderson/Sir-Gawain","https://github.com/ryan-p-henderson/Sir-Gawain","Repository for project on folklore, numerology, and symbolism in Sir Gawain and the Green Knight","enm",1
 1590816593161,"rafaelhss/analisador-dou","https://github.com/rafaelhss/analisador-dou","Automatically exported from code.google.com/p/analisador-dou","",6
 1590816597617,"rafaelsousa2099/TesteJSON","https://github.com/rafaelsousa2099/TesteJSON","Teste de métodos para extrair dados de um Json","",3
-1590816589818,"r1pp3r/JavaPlayground","https://github.com/r1pp3r/JavaPlayground","-","",3
 1590816593392,"roblib/TEI","https://github.com/roblib/TEI","A directory to hold xslts related to our automated TEI toolchain.","",1
 1590816591144,"rudgebreen/DocumentingTransmission--The-Rake-Cycle","https://github.com/rudgebreen/DocumentingTransmission--The-Rake-Cycle","This is a TEI document used to encode the lyrics and audio of thirteen songs from the 'Rake Cycle' of folk songs. ","",1
 1590816597657,"rettinghaus/Breitkopf1760","https://github.com/rettinghaus/Breitkopf1760","Breitkopf Catalogue 1760","deu",2
@@ -3991,14 +3978,12 @@ This software provides a convenient way to organizing information and making it 
 1590816600936,"russab0/SuperInnoMsgBot","https://github.com/russab0/SuperInnoMsgBot","Generator of Super Innopolis messages","",1
 1590816600841,"rahulyashona/myChatBot","https://github.com/rahulyashona/myChatBot","-","",1
 1590816600803,"rhiroakidata/polyglot-chatbot","https://github.com/rhiroakidata/polyglot-chatbot","-","",1
-1590816600798,"RomaPih/shop_online","https://github.com/RomaPih/shop_online","-","",1
 1590816600791,"rthorst/TwitterSentiment","https://github.com/rthorst/TwitterSentiment","Twitter sentiment analysis app. Python/HTML","",1
 1590816600785,"rogeralexei/Space-Apps","https://github.com/rogeralexei/Space-Apps","-","",1
 1590816600781,"radensaleh/SEVRANOMATIS-WEB","https://github.com/radensaleh/SEVRANOMATIS-WEB","Sistem Evaluasi Pembelajaran Otomatis Menggunakan Natural Language Processing (NLP)","",1
 1590816600768,"Ricky-Wilson/CodeBase","https://github.com/Ricky-Wilson/CodeBase","My CodeBase","",1
 1590816600739,"rodgo1314/Project3_Search_Engine","https://github.com/rodgo1314/Project3_Search_Engine","CS 121 project 2","",1
 1590816600735,"roshankprasad/Chatbot","https://github.com/roshankprasad/Chatbot","A simple notebook webApp for saving notes which contain Title, Content and date n time of creation, made using django .","",1
-1590816600688,"RusAl84/rknflask","https://github.com/RusAl84/rknflask","-","",1
 1590816600678,"roasate/Text-Summarizer-Python","https://github.com/roasate/Text-Summarizer-Python","Write a Simple Summarizer in Python","",1
 1590816600672,"ritusinha128/unisys-legal","https://github.com/ritusinha128/unisys-legal","-","",1
 1590816600600,"rajsinxh/Sentimental-Analysis","https://github.com/rajsinxh/Sentimental-Analysis","-","",1
@@ -4015,7 +4000,6 @@ This software provides a convenient way to organizing information and making it 
 1590816600254,"RekiLiu/Flask","https://github.com/RekiLiu/Flask","-","",1
 1590816600239,"rajtilakls2510/MovieSentimentAnalyzer","https://github.com/rajtilakls2510/MovieSentimentAnalyzer","-","",1
 1590816600221,"Riya-11/Poem-Classifier","https://github.com/Riya-11/Poem-Classifier","-","",1
-1590816600204,"rahmanrafi32/Project","https://github.com/rahmanrafi32/Project","Its a simple python project on AI and ML.","",1
 1590816600202,"rayhaneHamoumi/arduino","https://github.com/rayhaneHamoumi/arduino","FinalWork_iot-automatic-maintenance","",1
 1590816600193,"Rogi1246/AFED_LdaExport_new","https://github.com/Rogi1246/AFED_LdaExport_new","new stuff, old one will be deleted later","",1
 1590816600170,"rodrigolinsbr/melhor-bot-telegram","https://github.com/rodrigolinsbr/melhor-bot-telegram","-","",1
@@ -4027,7 +4011,6 @@ This software provides a convenient way to organizing information and making it 
 1590816600095,"ryanrusli/hoax-detection","https://github.com/ryanrusli/hoax-detection","-","",1
 1590816600091,"ritchadh/docs-like-code-demo","https://github.com/ritchadh/docs-like-code-demo","-","",1
 1590816600077,"rgoggins/NLP_question_project","https://github.com/rgoggins/NLP_question_project","NLP Final Project for Question Generation and Answering","",1
-1590816600054,"RICHIT-AI/BancoAzteca_ocr","https://github.com/RICHIT-AI/BancoAzteca_ocr","Extración de datos de credenciales de lector (IFE \ INE)","",1
 1590816600998,"rillian/cdli-cts","https://github.com/rillian/cdli-cts","Canonical Text Services export of the Cuneiform Digital Library Initiative corpus.","tso|eng|sux|akk",1175
 1590816596658,"rogerthat/podmin","https://github.com/rogerthat/podmin","tools for diaspora-podmins","",2
 1590816596633,"rlim19/pubmedylicious","https://github.com/rlim19/pubmedylicious","pubmedylicious.appspot.com","",1
@@ -4052,7 +4035,6 @@ This software provides a convenient way to organizing information and making it 
 1590816592725,"Riteshbansal/BigDataTextSummarization","https://github.com/Riteshbansal/BigDataTextSummarization","The goal of this project is to generate chapter level abstractive summaries for an ETD collection through deep learning. ","",2
 1590816585866,"RIN-ConDE/editions","https://github.com/RIN-ConDE/editions","The RIN ConDÉ database of Norman customary law texts","",1
 1590816600507,"ryanlacroix/medieval-folio-site","https://github.com/ryanlacroix/medieval-folio-site","Website for showcasing transcription work on one of Carleton University's medieval manuscripts","",1
-1590816589591,"roguedream/pyc_source","https://github.com/roguedream/pyc_source","-","",1
 1590816590778,"RockefellerArchiveCenter/XTF-RAC","https://github.com/RockefellerArchiveCenter/XTF-RAC","XTF customization for the Rockefeller Archive Center","",2
 1590816585950,"readchina/ReadAct","https://github.com/readchina/ReadAct","Worlds of Reading during China's long 1970s","",1
 1590816591847,"raffazizzi/coreBuilder","https://github.com/raffazizzi/coreBuilder","Web application to build XML stand-off markup","",3
