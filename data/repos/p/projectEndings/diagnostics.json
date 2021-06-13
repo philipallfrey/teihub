@@ -1,1 +1,1 @@
-{"date":1620148359184,"name":"projectEndings/diagnostics","url":"https://github.com/projectEndings/diagnostics","desc":"A way to test TEI projects for correctness and completion.","files":["test/corpus.xml","test/testDoc.xml","test/PERS1.xml"],"langs":[]}
+{"date":1620148359184,"name":"projectEndings/diagnostics","url":"https://github.com/projectEndings/diagnostics","desc":"A way to test TEI projects for correctness and completion.","langs":[],"created":"2017-02-22T22:05:17Z","files":["test/corpus.xml","test/PERS1.xml","test/testDoc.xml"]}

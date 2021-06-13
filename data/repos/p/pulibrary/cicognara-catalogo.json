@@ -1,1 +1,1 @@
-{"date":1590816600056,"name":"pulibrary/cicognara-catalogo","url":"https://github.com/pulibrary/cicognara-catalogo","desc":"TEI encoding of Cicognara's catalogo ragionato","files":["schemas/cicognara.rnc","schemas/cicognara.xml"],"langs":[]}
+{"date":1590816600056,"name":"pulibrary/cicognara-catalogo","url":"https://github.com/pulibrary/cicognara-catalogo","desc":"TEI encoding of Cicognara's catalogo ragionato","langs":[],"created":"2016-02-15T22:35:17Z","files":["catalogo.tei.xml","schemas/cicognara.xml"]}
