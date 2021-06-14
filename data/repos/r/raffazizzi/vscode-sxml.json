@@ -1,1 +1,1 @@
-{"date":1618476404010,"name":"raffazizzi/vscode-sxml","url":"https://github.com/raffazizzi/vscode-sxml","desc":"Scholarly XML. VSCode extension with features typically needed by academic encoding projects.","files":["src/test/data/tei_all.xml"],"langs":["spa"]}
+{"date":1618476404010,"name":"raffazizzi/vscode-sxml","url":"https://github.com/raffazizzi/vscode-sxml","desc":"Scholarly XML. VSCode extension with features typically needed by academic encoding projects.","langs":["spa"],"created":"2020-06-01T16:49:03Z","files":["src/test/data/tei_all.xml"]}
