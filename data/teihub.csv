@@ -3963,8 +3963,8 @@ This software provides a convenient way to organizing information and making it 
 1623431466828,"Romische-Inschriften-Augsburg-RIA/database","https://github.com/Romische-Inschriften-Augsburg-RIA/database","TEI Texten","ara|eng|fra|deu|grc|ell|heb|ita|lat",166
 1614430164939,"scta-texts/xAbSeN","https://github.com/scta-texts/xAbSeN","Abelard Sic et Non","lat",1
 1621919813719,"scta/scta-people","https://github.com/scta/scta-people","-","eng",1
-1623243982020,"scta-texts/graciliscommentary","https://github.com/scta-texts/graciliscommentary","-","lat|eng",143
-1623746605374,"scta-texts/plaoulreportatio","https://github.com/scta-texts/plaoulreportatio","-","lat",213
+1623243982020,"scta-texts/graciliscommentary","https://github.com/scta-texts/graciliscommentary",,"lat|eng",143
+1623746605374,"scta-texts/plaoulreportatio","https://github.com/scta-texts/plaoulreportatio",,"lat",213
 1617643717160,"scta-texts/HuYgTa","https://github.com/scta-texts/HuYgTa","Thomas of Strasbourg Sentences Commentary","lat",692
 1606740170242,"studio-arrenberg/engels-briefe","https://github.com/studio-arrenberg/engels-briefe","📜 Interface für die Engels Ausstellung ","",2
 1606725478076,"spmcginnis/HS-swbb","https://github.com/spmcginnis/HS-swbb","-","",1
@@ -3973,24 +3973,24 @@ This software provides a convenient way to organizing information and making it 
 1601281940114,"steinunnfridriks/ordtaka","https://github.com/steinunnfridriks/ordtaka","-","",952
 1598603542762,"srophe/draft-data","https://github.com/srophe/draft-data","Repository for TEI records in development. ","ara|cop|chu|deu|eng|spa|fra|gez|grc|hye|ita|kat|lat|nld|por|rus|sog|syr|zho",8799
 1596083533893,"srophe/srophe-app-data","https://github.com/srophe/srophe-app-data","Repository for Syriaca.org TEI data, used by srophe-eXist-app. ","syr|grc|eng|ara|fra|deu|lat|rus|ell|ita",11764
-1594197118034,"scta-texts/beq3sc","https://github.com/scta-texts/beq3sc","-","lat|eng",31
+1594197118034,"scta-texts/beq3sc","https://github.com/scta-texts/beq3sc",,"lat|eng",31
 1595349137018,"scmmmh/DigiEditTest","https://github.com/scmmmh/DigiEditTest","-","",1
-1595320317169,"scta-texts/anselmmonologion","https://github.com/scta-texts/anselmmonologion","-","lat",86
+1595320317169,"scta-texts/anselmmonologion","https://github.com/scta-texts/anselmmonologion",,"lat",86
 1599654849018,"sdvrie/Haandskrift","https://github.com/sdvrie/Haandskrift","Experiments for the website","",3
 1601886782020,"srophe/srophe-eXist-app","https://github.com/srophe/srophe-eXist-app","eXist code for Syriaca.org: The Syriac Reference Portal","eng|syr|ara|fra|deu|lat|grc|cop",45
-1622756226649,"scta-texts/wodehamordinatio","https://github.com/scta-texts/wodehamordinatio","-","lat",48
+1622756226649,"scta-texts/wodehamordinatio","https://github.com/scta-texts/wodehamordinatio",,"lat",48
 1623746605583,"srophe/caesarea-data","https://github.com/srophe/caesarea-data","Data repository for Caesarea-Maritima.org","lat|grc|ara|cop|chu|deu|eng|spa|fra|gez|hye|ita|kat|nld|por|rus|sog|syr",286
 1612184347290,"scta-texts/jm12w4","https://github.com/scta-texts/jm12w4","MairCommentariusInLibrumI-A","lat",73
 1604565141070,"scta-texts/UD1xh4","https://github.com/scta-texts/UD1xh4","repo for HenrichBullingerSermonumDecades","lat|eng|deu|fra",74
-1604421743249,"scta-texts/vn58an","https://github.com/scta-texts/vn58an","-","lat",455
+1604421743249,"scta-texts/vn58an","https://github.com/scta-texts/vn58an",,"lat",455
 1608295988718,"srophe/caesarea","https://github.com/srophe/caesarea","Application repository for Caesarea-Maritima.org","",19
 1623559921060,"SIstory/PNZ","https://github.com/SIstory/PNZ","Prispevki za novejšo zgodovino / Contributions to Contemporary History","slv|eng",300
-1609823118979,"scta-texts/aristotlemetaphysics","https://github.com/scta-texts/aristotlemetaphysics","-","lat|eng",41
+1609823118979,"scta-texts/aristotlemetaphysics","https://github.com/scta-texts/aristotlemetaphysics",,"lat|eng",41
 1609823118914,"scta-texts/xch7dn","https://github.com/scta-texts/xch7dn","averroes metaphysics commentary","lat",9
 1596083533527,"siongui/tipitaka-romn","https://github.com/siongui/tipitaka-romn","https://www.tipitaka.org/romn/","",2298
 1608713560458,"swithun/IslamAnatolia","https://github.com/swithun/IslamAnatolia","Repo for IslamAnatolia Project","",5
-1620290707907,"scta-texts/hiltalingencommentary","https://github.com/scta-texts/hiltalingencommentary","-","lat",19
-1623746605378,"scta-texts/plaoulcommentary","https://github.com/scta-texts/plaoulcommentary","-","lat|eng",731
+1620290707907,"scta-texts/hiltalingencommentary","https://github.com/scta-texts/hiltalingencommentary",,"lat",19
+1623746605378,"scta-texts/plaoulcommentary","https://github.com/scta-texts/plaoulcommentary",,"lat|eng",731
 1620667222554,"SteveWLU/hda","https://github.com/SteveWLU/hda","Huon d'Auvergne Digital Archive","eng",54
 1616158392026,"sorincarbunaru/oXyTest","https://github.com/sorincarbunaru/oXyTest","-","",1
 1614242771359,"StephanMa/test","https://github.com/StephanMa/test","-","deu",41
@@ -4005,14 +4005,14 @@ This software provides a convenient way to organizing information and making it 
 1611062807294,"scta-texts/GHcsDA","https://github.com/scta-texts/GHcsDA","ZimaraDeAnimaCommentary","lat",3
 1618491485272,"scta-texts/yyy8Uu","https://github.com/scta-texts/yyy8Uu","PolansdorfSyntagmaTheologiaeChristianae","lat",351
 1593520332720,"schaumju/ML","https://github.com/schaumju/ML","Top level repository for Moravian Lives project","",3
-1619585664296,"scta-texts/gratiandecretum","https://github.com/scta-texts/gratiandecretum","-","lat",314
-1618000872715,"scta-texts/bible","https://github.com/scta-texts/bible","-","",72
+1619585664296,"scta-texts/gratiandecretum","https://github.com/scta-texts/gratiandecretum",,"lat",314
+1618000872715,"scta-texts/bible","https://github.com/scta-texts/bible",,"",72
 1612184347264,"scta-texts/iuy75t","https://github.com/scta-texts/iuy75t","augustine In Evangelium Ioannis Tractatus","lat",124
 1620290707911,"scta-texts/n6MsPi","https://github.com/scta-texts/n6MsPi","Augustine In EpistolamIoannis Ad Parthos","lat",11
 1597336325148,"socialsoftware/edition","https://github.com/socialsoftware/edition","-","por",17
 1598603542832,"spedraca/cwrc-test-files","https://github.com/spedraca/cwrc-test-files","Automagically created by CWRC","",2
 1622727707555,"scta-texts/wo8uy7","https://github.com/scta-texts/wo8uy7","ockham sentences commentary","lat",175
-1619686009914,"scta-texts/lombardsententia","https://github.com/scta-texts/lombardsententia","-","lat|eng",978
+1619686009914,"scta-texts/lombardsententia","https://github.com/scta-texts/lombardsententia",,"lat|eng",978
 1612184347293,"scta-texts/erf8hf","https://github.com/scta-texts/erf8hf","melanchthonlocicommunes","lat",45
 1610457309476,"Solveig87/projet-documents-structures","https://github.com/Solveig87/projet-documents-structures","-","",7
 1610442689350,"shravansingh123/Github","https://github.com/shravansingh123/Github","-","cmn",1
@@ -4030,32 +4030,32 @@ This software provides a convenient way to organizing information and making it 
 1610010143169,"sul-dlss/dlme-metadata","https://github.com/sul-dlss/dlme-metadata","Harvested metadata for the Digital Library of the Middle East project","heb|ara|arc|jrb|fas",23484
 1597321923065,"scta-texts/lat22al","https://github.com/scta-texts/lat22al","councillateranII","lat",2
 1604421743242,"scta-texts/jMqv4a","https://github.com/scta-texts/jMqv4a","Mair IV (Badius 1516)","lat",272
-1612184347267,"scta-texts/summahalensis","https://github.com/scta-texts/summahalensis","-","lat",2368
+1612184347267,"scta-texts/summahalensis","https://github.com/scta-texts/summahalensis",,"lat",2368
 1613006123640,"StoneSutras/stonesutras7","https://github.com/StoneSutras/stonesutras7","Stonesutras website based on publisher 7","san|eng|zho",8
 1612184347292,"scta-texts/vnsSaS","https://github.com/scta-texts/vnsSaS","Holcot Moralitates","lat",46
 1612184347291,"scta-texts/v78d89","https://github.com/scta-texts/v78d89","WillamOfMelitonaLiber4SummaeHalensis","lat",1
-1612184347289,"scta-texts/n3av8a","https://github.com/scta-texts/n3av8a","-","lat",416
-1612184347265,"scta-texts/aquinasscriptum","https://github.com/scta-texts/aquinasscriptum","-","lat",346
-1612169526157,"scta-texts/bonaventurecommentary","https://github.com/scta-texts/bonaventurecommentary","-","lat",2520
+1612184347289,"scta-texts/n3av8a","https://github.com/scta-texts/n3av8a",,"lat",416
+1612184347265,"scta-texts/aquinasscriptum","https://github.com/scta-texts/aquinasscriptum",,"lat",346
+1612169526157,"scta-texts/bonaventurecommentary","https://github.com/scta-texts/bonaventurecommentary",,"lat",2520
 1610875118012,"scta-texts/raWSwa","https://github.com/scta-texts/raWSwa","Repo for BelethusRationaleDivinorumOfficiorum","lat",1
 1610875118008,"scta-texts/mnvhfy","https://github.com/scta-texts/mnvhfy","repo for generic liturgical prayers without a identifical historical source text","lat",9
 1598949136405,"Saranoja/AdvancedProgramming","https://github.com/Saranoja/AdvancedProgramming","Java Labs work for the Advanced Programming course of the 2nd year (CS) 2019-2020","eng",2
 1594341741744,"Soodeh84/MyManuscript","https://github.com/Soodeh84/MyManuscript","For my assignment","fas",1
-1610010143679,"scta-texts/liberextra","https://github.com/scta-texts/liberextra","-","lat",185
-1620407924977,"scta-texts/glossaordinariamarginalia","https://github.com/scta-texts/glossaordinariamarginalia","-","",14
+1610010143679,"scta-texts/liberextra","https://github.com/scta-texts/liberextra",,"lat",185
+1620407924977,"scta-texts/glossaordinariamarginalia","https://github.com/scta-texts/glossaordinariamarginalia",,"",14
 1610010143553,"scmmmh/tei-reader","https://github.com/scmmmh/tei-reader","-","deu",5
 1621068504079,"scta-texts/grvnZZ","https://github.com/scta-texts/grvnZZ","Rimini Sentences Commentary","lat",53
 1611597478558,"SyphaxSarni/ParserXML","https://github.com/SyphaxSarni/ParserXML","Java program that parses recursively XML files. Inputs : Directory / Output : XML files.","",2
 1614100068008,"smaugustine/Manuscripts","https://github.com/smaugustine/Manuscripts","-","",3
 1615667941995,"scta-texts/adDiLU","https://github.com/scta-texts/adDiLU","Luther Zirkular disputation De Veste Nuptiali 1537","lat",2
 1609823118022,"scta-texts/GHcsQQ","https://github.com/scta-texts/GHcsQQ","ZimaraMetaphysicsCommentary","lat",11
-1614933918652,"scta-texts/augustinedecivitatedei","https://github.com/scta-texts/augustinedecivitatedei","-","lat",22
+1614933918652,"scta-texts/augustinedecivitatedei","https://github.com/scta-texts/augustinedecivitatedei",,"lat",22
 1613566110035,"seretan/IRSB-integrator","https://github.com/seretan/IRSB-integrator","Pipeline for Digital Scholarly Editing including tokenisation, normalisation (tpen2tei), collation (CollateX), analysis (Stemmaweb & Stemmarest). From TEI XML transcriptions to variant graph editing in one command.","",8
 1613566110027,"solirom/solirom-ontology","https://github.com/solirom/solirom-ontology","-","ron",3
 1613524577088,"scta-texts/gGhHfF","https://github.com/scta-texts/gGhHfF","Zimara commentary on the Physics","lat",8
 1620290707906,"scta-texts/kdhaWs","https://github.com/scta-texts/kdhaWs","constitutiones clementinae","lat",53
 1604565141085,"san5281/San-not-sans-from-undertales-page","https://github.com/san5281/San-not-sans-from-undertales-page","DIGIT 110","",4
-1605875798502,"scta-texts/holcotcommentary","https://github.com/scta-texts/holcotcommentary","-","lat",19
+1605875798502,"scta-texts/holcotcommentary","https://github.com/scta-texts/holcotcommentary",,"lat",19
 1599755711095,"SSRQ-SDS-FDS/TEI-Documents","https://github.com/SSRQ-SDS-FDS/TEI-Documents","TEI Documents incl. metadata published in TEI Publisher","fra|deu",2251
 1620290707910,"scta-texts/pc99ia","https://github.com/scta-texts/pc99ia","Paolo Cortese Commentarius in Libros Sententiarum","lat",41
 1599726738745,"shenavall73/KWIC","https://github.com/shenavall73/KWIC","Key Word in Context","",1
@@ -4063,7 +4063,7 @@ This software provides a convenient way to organizing information and making it 
 1605213150039,"srophe/syriac-corpus","https://github.com/srophe/syriac-corpus","This is the development repository for The Oxford-BYU Syriac Corpus project.","syr|ara|cop|chu|deu|eng|spa|fra|gez|grc|hye|ita|kat|lat|nld|por|rus|sog",561
 1612730208387,"scta-texts/LuT8H6","https://github.com/scta-texts/LuT8H6","Repo for Luther's Sentences Commentary","lat",1
 1611996587828,"scta-texts/wef6td","https://github.com/scta-texts/wef6td","libersextus","lat",78
-1620407924839,"scta-texts/glossaordinaria","https://github.com/scta-texts/glossaordinaria","-","",13
+1620407924839,"scta-texts/glossaordinaria","https://github.com/scta-texts/glossaordinaria",,"",13
 1612544681957,"Simona7-code/Codifica-T.-","https://github.com/Simona7-code/Codifica-T.-","-","ita",2
 1602333507985,"SZU-SE/UAF-Fuzzer-TestSuite","https://github.com/SZU-SE/UAF-Fuzzer-TestSuite","-","",1
 1601958785931,"srophe/bethqatraye","https://github.com/srophe/bethqatraye","Srophe app for Beth Qatraye application","eng|syr|ara|fra|deu|lat|grc|cop",39
@@ -4072,7 +4072,7 @@ This software provides a convenient way to organizing information and making it 
 1593779540958,"saramaenza/Progetto_esame_codifica_di_testi","https://github.com/saramaenza/Progetto_esame_codifica_di_testi","-","ita",2
 1602247789858,"slsfi/digital_edition_required_files_template","https://github.com/slsfi/digital_edition_required_files_template","-","fin",36
 1612356844614,"spmcginnis/JAIFRP","https://github.com/spmcginnis/JAIFRP","-","",992
-1598603542800,"scta-texts/albertusdeanima","https://github.com/scta-texts/albertusdeanima","-","lat",122
+1598603542800,"scta-texts/albertusdeanima","https://github.com/scta-texts/albertusdeanima",,"lat",122
 1622208914374,"sarit/SARIT-corpus","https://github.com/sarit/SARIT-corpus","The e-texts of the SARIT project","san|eng",40
 1607131440926,"sfu-dhil/gpi","https://github.com/sfu-dhil/gpi","GPI Application","",2
 1613667966457,"stenskjaer/collator","https://github.com/stenskjaer/collator","A Python script for collating LombardPress Schema compliant transcriptions.","lat",2
@@ -4081,7 +4081,7 @@ This software provides a convenient way to organizing information and making it 
 1590816600971,"scotartt/PerseusDL_canonical","https://github.com/scotartt/PerseusDL_canonical","-","eng|grc|lat|deu|fra|ita",774
 1590816600982,"sonofmun/CJH_Test_Data","https://github.com/sonofmun/CJH_Test_Data","Test data for CJHNT environment","grc|lat",93
 1590816600431,"SIstory/PPP","https://github.com/SIstory/PPP","SIstory publication: Programi slovenskih političnih strank, organizacij in društev v letih 1890–1918","",226
-1590816597537,"scta-texts/augustinededoctrinachristiana","https://github.com/scta-texts/augustinededoctrinachristiana","-","lat",4
+1590816600000,"scta-texts/augustinededoctrinachristiana","https://github.com/scta-texts/augustinededoctrinachristiana",,"lat",4
 1590816600678,"SIstory/Labirinti","https://github.com/SIstory/Labirinti","SIstory publication. Nina Vodopivec: Labirinti socializma: Socialni spomini tekstilnih delavk in delavcev","",20
 1590816600973,"swift-poems-project/swift-transcripts","https://github.com/swift-poems-project/swift-transcripts","Transcripts for the Swift Poems Project","eng",7792
 1590816600997,"simar0at/tei-for-mecmua","https://github.com/simar0at/tei-for-mecmua","tei customization for mecmua project","fra|eng|lat|srt|deu|spa|ita|kor|zho|x-lap|ell|srp|isl|cym|dan|lit|fro|heb|sqi|non|slv|hrv",435
@@ -4097,15 +4097,15 @@ This software provides a convenient way to organizing information and making it 
 1590816598459,"susannalles/Vitae","https://github.com/susannalles/Vitae","Vitae Illustrium Virorum","",16
 1590816600970,"selayang1004/jieli_repository","https://github.com/selayang1004/jieli_repository","Jieli program ","eng|zho",97
 1590816595590,"sul-dlss/vatican_exhibits","https://github.com/sul-dlss/vatican_exhibits","Vatican installation of Spotlight","",4
-1590816600617,"scta-texts/wodehamabbreviatio","https://github.com/scta-texts/wodehamabbreviatio","-","lat",29
+1590816600617,"scta-texts/wodehamabbreviatio","https://github.com/scta-texts/wodehamabbreviatio","Old Wodeham Abbreviatio Repo; This repo is DEPRECIATED and will be deleted. It has been replaced by https://github.com/scta-texts/GHYaf3","lat",29
 1590816600355,"severinsimmler/figur-dev","https://github.com/severinsimmler/figur-dev","WORK IN PROGRESS","",80
 1590816600991,"simonebonfante/DocuDipity","https://github.com/simonebonfante/DocuDipity","-","",16
 1590816600990,"simonebonfante/new-sources","https://github.com/simonebonfante/new-sources","-","",16
 1590816600980,"Sefaria/Sefaria-Data","https://github.com/Sefaria/Sefaria-Data","Source files, scripts and data imported to Sefaria.","heb",25
 1590816597482,"sebastianrahtz/passivetex","https://github.com/sebastianrahtz/passivetex","PassiveTeX is a library of TeX macros which can be used to process an XML document which results from an XSL transformation to formatting objects.","eng",7
 1590816600958,"SIstory/Seje_DZ","https://github.com/SIstory/Seje_DZ","-","slv|eng",122
-1590816600252,"scta-texts/euclidelements","https://github.com/scta-texts/euclidelements","-","lat",12
-1619513293601,"scta-texts/augustinedetrinitate","https://github.com/scta-texts/augustinedetrinitate","-","lat",15
+1590816600252,"scta-texts/euclidelements","https://github.com/scta-texts/euclidelements",,"lat",12
+1619513293601,"scta-texts/augustinedetrinitate","https://github.com/scta-texts/augustinedetrinitate",,"lat",15
 1590816600999,"simonmeoni/termith-java","https://github.com/simonmeoni/termith-java","Termith-java est une chaîne de traitement qui enrichit des corpus xml/tei en annotations terminologiques désambiguïsées. Les annotations sont déportées (StandOff) et injectées dans les fichiers. Cette application est développée dans le cadre du projet ISTEX et peut traiter des corpus volumineux (+ de 10000 fichiers).","fra",58
 1590816600973,"samolds/demoncat","https://github.com/samolds/demoncat","Currently, just a placeholder for an upcoming project.","bul|ces|eng|est|hrv|hun|mkd|pol|ron|rus|sh|slk|slv|srp|ukr",7
 1590816600993,"srophe/manuscripts","https://github.com/srophe/manuscripts","Repository for Syriac Manuscript Projects","syr|ara|eng|fra|deu|lat|grc|cop",909
@@ -4123,7 +4123,7 @@ This software provides a convenient way to organizing information and making it 
 1590816600870,"SIstory/Stylesheets","https://github.com/SIstory/Stylesheets","SIstory TEI Stylesheets","slv|eng|cym|lit",11
 1590816600590,"scholarslab/twain","https://github.com/scholarslab/twain","Mark Twain in His Times","eng",91
 1590816588494,"sarit/sarit.github.io","https://github.com/sarit/sarit.github.io","Overview of SARIT","",1
-1590816600795,"scta-texts/vargascommentary","https://github.com/scta-texts/vargascommentary","-","lat",52
+1590816600795,"scta-texts/vargascommentary","https://github.com/scta-texts/vargascommentary",,"lat",52
 1590816598185,"sidih/jezuitika","https://github.com/sidih/jezuitika","-","",5
 1590816600874,"setriplette/golden_age","https://github.com/setriplette/golden_age","-","",53
 1590816588554,"SanjitKad/ConferenceAcceptence","https://github.com/SanjitKad/ConferenceAcceptence","-","",1
@@ -4147,7 +4147,7 @@ This software provides a convenient way to organizing information and making it 
 1590816600985,"SKHolmes/SWEN303Project1Take2","https://github.com/SKHolmes/SWEN303Project1Take2","-","",1484
 1590816600969,"swift-poems-project/tei-transcripts","https://github.com/swift-poems-project/tei-transcripts","-","eng",8604
 1620290707889,"scta-texts/Buzcv2","https://github.com/scta-texts/Buzcv2","BuridanCommentInPostAn","lat",44
-1590816589462,"scta-texts/da-49","https://github.com/scta-texts/da-49","John Dinsdale: Quaestiones in De anima I-III","eng|lat",9
+1590816600000,"scta-texts/da-49","https://github.com/scta-texts/da-49","John Dinsdale: Quaestiones in De anima I-III","eng|lat",9
 1590816600772,"scholarslab/Faulkner-Audio-Collection","https://github.com/scholarslab/Faulkner-Audio-Collection","Rails implemenation of a TEI application","",78
 1590816600921,"SKHolmes/SWEN303Project1","https://github.com/SKHolmes/SWEN303Project1","-","",1484
 1590816569295,"sgsinclair/Voyant","https://github.com/sgsinclair/Voyant","-","",3
@@ -4156,7 +4156,7 @@ This software provides a convenient way to organizing information and making it 
 1590816594090,"swift-poems-project/swift-collate","https://github.com/swift-poems-project/swift-collate","Swift Poems Project Collation API","eng",3
 1590816600784,"subugoe/archaeo18","https://github.com/subugoe/archaeo18","-","",1627
 1590816599286,"shaharlinial/metaphor_detection","https://github.com/shaharlinial/metaphor_detection","Metaphor Detection for NLP Final Project @ OpenU","eng",4
-1590816598778,"scta-texts/hispanussyncategoreumata","https://github.com/scta-texts/hispanussyncategoreumata","-","lat",12
+1590816600000,"scta-texts/hispanussyncategoreumata","https://github.com/scta-texts/hispanussyncategoreumata",,"lat",12
 1590816600553,"SAA-SDT/eac-cpf-taglibrary","https://github.com/SAA-SDT/eac-cpf-taglibrary","-","fra|eng|rus|spa|ita",21
 1590816595284,"SheepWizard/COD4-MENU-PARSER","https://github.com/SheepWizard/COD4-MENU-PARSER","Pass and display cod4 menu files","",1
 1590816599763,"SIstory/PPP2","https://github.com/SIstory/PPP2","SIstory publication: Programi slovenskih političnih strank, organizacij in združenj v letih 1918-1929","",50
@@ -4164,26 +4164,26 @@ This software provides a convenient way to organizing information and making it 
 1590816600969,"SIstory/Sejni_zapiski","https://github.com/SIstory/Sejni_zapiski","-","slv|eng",19
 1590816600991,"sologebre/Works","https://github.com/sologebre/Works","-","eng|gez|ara|ita|grc|syr|cop|amh|kat|pal|lat",2992
 1590816600987,"subugoe/metadata","https://github.com/subugoe/metadata","Repository for metadata related topics","deu|fra",173
-1590816596499,"scta-texts/J5LijF","https://github.com/scta-texts/J5LijF","repo for suttonsentcommentary","lat|eng",15
-1590816600768,"scta-texts/turrettinusinstitutio","https://github.com/scta-texts/turrettinusinstitutio","-","lat|eng",15
+1590816600000,"scta-texts/J5LijF","https://github.com/scta-texts/J5LijF","repo for suttonsentcommentary","lat|eng",15
+1590816600768,"scta-texts/turrettinusinstitutio","https://github.com/scta-texts/turrettinusinstitutio",,"lat|eng",15
 1590816600972,"srophe/places","https://github.com/srophe/places","Public Respository for Syriaca Geography Project","syr|eng|ara",2440
 1590816597803,"seunghee63/ChatBot","https://github.com/seunghee63/ChatBot","Seq2Seq 모델을 이용한 챗봇","",1
 1590816589535,"stenskjaer/lbp-print-xslt","https://github.com/stenskjaer/lbp-print-xslt","A xslt package for conversion of LombardPress Schema compliant TEI XML transcriptions to TeX format.","",6
 1590816600998,"simonmeoni/Termith-format","https://github.com/simonmeoni/Termith-format","make some adjustement and proposition in order to have the final xml format of Termith project","fra",22
 1590816600996,"scta-texts/augustine83quest","https://github.com/scta-texts/augustine83quest","augustine 83 questions","lat",83
-1590816600988,"scta-texts/hispanusdeanima","https://github.com/scta-texts/hispanusdeanima","-","lat",214
-1590816597713,"scta-texts/nataliscommentary","https://github.com/scta-texts/nataliscommentary","-","lat",7
+1590816600988,"scta-texts/hispanusdeanima","https://github.com/scta-texts/hispanusdeanima",,"lat",214
+1590816600000,"scta-texts/nataliscommentary","https://github.com/scta-texts/nataliscommentary",,"lat",7
 1590816600952,"satvikg/copenhagen-dependency-treebank","https://github.com/satvikg/copenhagen-dependency-treebank","Automatically exported from code.google.com/p/copenhagen-dependency-treebank","",5679
 1623746605349,"SofiaBlack/Progetto-Codifica-di-Testi","https://github.com/SofiaBlack/Progetto-Codifica-di-Testi","Progetto di esame del corso Codifica di Testi","ita",6
 1590816600998,"sidih/Odlivanje","https://github.com/sidih/Odlivanje","SIstory publication: Odlivanje smrti","slv",11
 1590816600992,"subugoe/SUB_Schema","https://github.com/subugoe/SUB_Schema","-","",19
-1590816598529,"scta-texts/da-28","https://github.com/scta-texts/da-28","John of Jandun: Quaestiones in De anima I–III","lat|eng",13
-1590816599844,"scta-texts/dinkelsbuhllectura","https://github.com/scta-texts/dinkelsbuhllectura","-","lat",45
-1590816600986,"scta-texts/rothwellcommentary","https://github.com/scta-texts/rothwellcommentary","-","lat",117
+1590816600000,"scta-texts/da-28","https://github.com/scta-texts/da-28","John of Jandun: Quaestiones in De anima I–III","lat|eng",13
+1590816600000,"scta-texts/dinkelsbuhllectura","https://github.com/scta-texts/dinkelsbuhllectura",,"lat",45
+1590816600986,"scta-texts/rothwellcommentary","https://github.com/scta-texts/rothwellcommentary",,"lat",117
 1590816600680,"scta-texts/Bhy7bd","https://github.com/scta-texts/Bhy7bd","PetrusHispanusScientiaLibriDeAnima","lat",14
 1590816599630,"stefaniakapitz/graph","https://github.com/stefaniakapitz/graph","-","",5
 1590816600763,"sjhuskey/Calpurnius_Siculus","https://github.com/sjhuskey/Calpurnius_Siculus","XML and assorted files related to encoding Giarratano's edition of Calpurnius Siculus.","lat",74
-1590816598183,"scta-texts/ooij7j","https://github.com/scta-texts/ooij7j","Pedro Garcia Determinationes Magistrales","lat",1
+1590816600000,"scta-texts/ooij7j","https://github.com/scta-texts/ooij7j","Pedro Garcia Determinationes Magistrales","lat",1
 1590816600346,"sebastianrahtz/Companion","https://github.com/sebastianrahtz/Companion","tei companion files","spa|eng|enm|lat|fra",20
 1590816600888,"scta/b1-d3-qun","https://github.com/scta/b1-d3-qun","-","lat",5
 1590816600612,"sibawayhi/perseus","https://github.com/sibawayhi/perseus","xml data from perseus","eng|ara|lat",8
@@ -4197,8 +4197,8 @@ This software provides a convenient way to organizing information and making it 
 1590816600817,"SobekCM/SobekCM-Web-Application","https://github.com/SobekCM/SobekCM-Web-Application","Latest code for the open source digital repository software SobekCM.","",17
 1590816600797,"siglun/texts","https://github.com/siglun/texts","-","",12
 1590816589213,"Superdu712/Foundations-of-Information-Processing","https://github.com/Superdu712/Foundations-of-Information-Processing","Projects and assignments for LIS452LE: Foundations of Information Processing in LIS  maily written in Python","",5
-1590816594742,"scta-texts/da-65","https://github.com/scta-texts/da-65","Anonymus Oriel 33: Quaestiones in De anima I–III","lat",2
-1590816599751,"scta-texts/a7y6tt","https://github.com/scta-texts/a7y6tt","repo for peter of spains commentary on dionysius's divine names","lat",13
+1590816600000,"scta-texts/da-65","https://github.com/scta-texts/da-65","Anonymus Oriel 33: Quaestiones in De anima I–III","lat",2
+1590816600000,"scta-texts/a7y6tt","https://github.com/scta-texts/a7y6tt","repo for peter of spains commentary on dionysius's divine names","lat",13
 1590816600674,"saulalbert/CABNC","https://github.com/saulalbert/CABNC","CABNC","",10
 1590816594239,"sinexu/Newbook-Software-master","https://github.com/sinexu/Newbook-Software-master","master branch-own copy","",4
 1590816599842,"stevaras2/Poster-Generation-Demo","https://github.com/stevaras2/Poster-Generation-Demo","-","eng",16
@@ -4207,13 +4207,13 @@ This software provides a convenient way to organizing information and making it 
 1590816583929,"SabineZambo/Uebung","https://github.com/SabineZambo/Uebung","-","",2
 1590816583915,"sabsiime/xtechmelcher","https://github.com/sabsiime/xtechmelcher","-","",2
 1590816583895,"stefanieschoeberl/xtech2-test","https://github.com/stefanieschoeberl/xtech2-test","-","",4
-1590816600620,"scta-texts/romacommentary","https://github.com/scta-texts/romacommentary","-","lat",13
+1590816600620,"scta-texts/romacommentary","https://github.com/scta-texts/romacommentary",,"lat",13
 1590816583870,"skrottma/xtech","https://github.com/skrottma/xtech","-","",2
 1590816590265,"shanti-uva/drupal_bhutan_site_new","https://github.com/shanti-uva/drupal_bhutan_site_new","-","",5
 1590816590255,"shanti-uva/Bhutan-D7","https://github.com/shanti-uva/Bhutan-D7","Standalone Drupal 7 site for Bhutan","",5
 1590816547933,"SayCV/SayCV_Tools_UltraEdit","https://github.com/SayCV/SayCV_Tools_UltraEdit","-","",1
 1590816600999,"sul-dlss/dlme-transform","https://github.com/sul-dlss/dlme-transform","Transforms raw DLME metadata to DLME intermediate representation","",21
-1590816562559,"scta-texts/mhy5ty","https://github.com/scta-texts/mhy5ty","PetrusHispanusMysticaTheologia","lat",3
+1590816600000,"scta-texts/mhy5ty","https://github.com/scta-texts/mhy5ty","PetrusHispanusMysticaTheologia","lat",3
 1590816593530,"simonAllier/sosie-exp","https://github.com/simonAllier/sosie-exp","-","",14
 1590816600996,"scta/scta-quotations","https://github.com/scta/scta-quotations","-","",10
 1590816550187,"StanRed/dighum","https://github.com/StanRed/dighum","the repo for DigitalHumanities course","",1
@@ -4236,13 +4236,13 @@ This software provides a convenient way to organizing information and making it 
 1590816600978,"scstanley7/tempest-cesp","https://github.com/scstanley7/tempest-cesp","-","",5
 1590816600998,"srophe/gazetteer-demo","https://github.com/srophe/gazetteer-demo","Subset of https://github.com/srophe/srophe-eXist-app with Gazetteer code only. ","",8
 1590816600162,"srophe/srophe-admin","https://github.com/srophe/srophe-admin","Admin module for Syriaca.org. Used to create/edit/curate TEI records. ","syr|eng|ara|fra|deu|lat",18
-1590816600967,"scta-texts/dionysiusangelica","https://github.com/scta-texts/dionysiusangelica","-","lat",15
+1590816600967,"scta-texts/dionysiusangelica","https://github.com/scta-texts/dionysiusangelica",,"lat",15
 1590816599205,"silencesys/lindat-tei","https://github.com/silencesys/lindat-tei","TEI guidelines for manuscript description that are used for LINDAT/CLARIAH project in Prague.","lat|ces",11
-1590816599100,"scta-texts/da-3","https://github.com/scta-texts/da-3","-","eng|lat",4
+1590816600000,"scta-texts/da-3","https://github.com/scta-texts/da-3",,"eng|lat",4
 1590816598175,"subugoe/ropen-backend","https://github.com/subugoe/ropen-backend","-","",19
 1590816560494,"semenovabnl/Digital_Humanities_Course","https://github.com/semenovabnl/Digital_Humanities_Course","-","",1
 1590816596948,"savanivishnoi/cmpe239","https://github.com/savanivishnoi/cmpe239","StackOverflow & Research Papers","",9
-1590816600997,"scta-texts/manipulusflorum","https://github.com/scta-texts/manipulusflorum","-","lat",23
+1590816600997,"scta-texts/manipulusflorum","https://github.com/scta-texts/manipulusflorum",,"lat",23
 1590816600814,"seretan/seretan.github.io","https://github.com/seretan/seretan.github.io","-","",86
 1590816598941,"sonofmun/OGL_Tools","https://github.com/sonofmun/OGL_Tools","Various tools for dealing with Open Greek and Latin data","lat",7
 1590816596449,"StephanMa/xrx","https://github.com/StephanMa/xrx","Automatically exported from code.google.com/p/xrx","",11
@@ -4256,27 +4256,27 @@ This software provides a convenient way to organizing information and making it 
 1590816597099,"segetes/segetes_data","https://github.com/segetes/segetes_data","Data exports from the Segetes Vergil application","",2
 1590816599612,"Stephanie-Kingsley/Mercedes","https://github.com/Stephanie-Kingsley/Mercedes","-","",2
 1590816596395,"scholarsgrotto/day-thoughts","https://github.com/scholarsgrotto/day-thoughts","Digital Day Thoughts","",1
-1590816600803,"scta-texts/olivicommentary","https://github.com/scta-texts/olivicommentary","-","lat",24
+1590816600803,"scta-texts/olivicommentary","https://github.com/scta-texts/olivicommentary",,"lat",24
 1590816600221,"synopsx/synopsx","https://github.com/synopsx/synopsx","SynopsX is a lightweight XML publishing framework","fra",6
 1590816593269,"srophe/syriaca","https://github.com/srophe/syriaca","Public respository for Syriaca.org: The Syriac Reference Portal","",3
 1590816593128,"samikanza/semanti-cat","https://github.com/samikanza/semanti-cat","Prototype of SemantiCat created for my PhD Thesis","",3
 1590816600169,"shijinkui/sutra-fmt","https://github.com/shijinkui/sutra-fmt","transform and format sutra","eng|zho",5
 1590816599655,"snac-pilot/xtf-cpf","https://github.com/snac-pilot/xtf-cpf","Automatically exported from code.google.com/p/xtf-cpf","",9
-1590816583660,"scta-texts/anconacommentary","https://github.com/scta-texts/anconacommentary","-","lat",2
+1590816600000,"scta-texts/anconacommentary","https://github.com/scta-texts/anconacommentary",,"lat",2
 1590816584899,"syncroWebapp/qa","https://github.com/syncroWebapp/qa","-","",4
 1590816584795,"sarthfrey/slurp","https://github.com/sarthfrey/slurp","A library of spelling correction algorithms.","eng",1
 1590816584772,"strangeloop/lambdajam2013","https://github.com/strangeloop/lambdajam2013","Lambda Jam 2013","eng",1
 1590816584771,"superneo/NLP_toy_spell_checker","https://github.com/superneo/NLP_toy_spell_checker","An implementation of the English spell checker of Peter Norvig.","eng",1
-1590816585338,"scta-texts/da-73","https://github.com/scta-texts/da-73","Henric of Wyle's Quaestiones in De anima","lat",2
+1590816600000,"scta-texts/da-73","https://github.com/scta-texts/da-73","Henric of Wyle's Quaestiones in De anima","lat",2
 1590816588203,"styczynski/docker-eniam","https://github.com/styczynski/docker-eniam","Python cross-platform wrapper and Docker image for ENIAM (http://eniam.nlp.ipipan.waw.pl/) (http://git.nlp.ipipan.waw.pl/wojciech.jaworski/ENIAM)","",4
 1590816589467,"SusanBrown/testing-Gitwriter","https://github.com/SusanBrown/testing-Gitwriter","Automagically created by CWRC","",1
 1590816600787,"sdigiulio/Brown-Squeezes-Epidoc","https://github.com/sdigiulio/Brown-Squeezes-Epidoc","EpiDoc transcriptions of Greek squeezes housed in the Brown University Departement of Classics","grc",58
 1590816592051,"starlord32/demo-git-openResearch","https://github.com/starlord32/demo-git-openResearch","demo of how to use github","",1
 1590816600215,"SIstory/Beograd","https://github.com/SIstory/Beograd","SIstory publication. Slovenci v Beogradu / Slovenes in Belgrade / Словенци у Београду","",22
 1590816591530,"sardinecan/tips","https://github.com/sardinecan/tips","-","",1
-1590816599461,"scta-texts/Huy7yz","https://github.com/scta-texts/Huy7yz","Antoine de Chandieu Loci Theologici","lat",8
-1590816596167,"scta-texts/plaoulreportatioA","https://github.com/scta-texts/plaoulreportatioA","-","lat",8
-1590816600893,"scta-texts/dionysiusecclesiastica","https://github.com/scta-texts/dionysiusecclesiastica","-","lat",7
+1590816600000,"scta-texts/Huy7yz","https://github.com/scta-texts/Huy7yz","Antoine de Chandieu Loci Theologici","lat",8
+1590816600000,"scta-texts/plaoulreportatioA","https://github.com/scta-texts/plaoulreportatioA",,"lat",8
+1590816600893,"scta-texts/dionysiusecclesiastica","https://github.com/scta-texts/dionysiusecclesiastica",,"lat",7
 1590816598877,"suzuki-akira3/tokenizer","https://github.com/suzuki-akira3/tokenizer","-","eng",2
 1590816596315,"sabineseifert/MySite","https://github.com/sabineseifert/MySite","-","deu|lat|grc",2
 1590816598496,"sebastianrahtz/TEIXSL-v1","https://github.com/sebastianrahtz/TEIXSL-v1","Family of TEI stylesheets written in XSLT 1.0. ","eng",15
@@ -4290,7 +4290,7 @@ This software provides a convenient way to organizing information and making it 
 1590816600287,"SRSTLCI/amphisbaena","https://github.com/SRSTLCI/amphisbaena","A set of technologies used to unify file types for the Wóoyake Project.","",4
 1590816597171,"sinairusinek/myCeteicean","https://github.com/sinairusinek/myCeteicean","-","eng|lat",3
 1590816600965,"smithkevin1/AWD","https://github.com/smithkevin1/AWD","for AWD3302","",3
-1590816600793,"scta-texts/b1-d3-qun","https://github.com/scta-texts/b1-d3-qun","-","lat",4
+1590816600793,"scta-texts/b1-d3-qun","https://github.com/scta-texts/b1-d3-qun",,"lat",4
 1590816562378,"srophe/projects","https://github.com/srophe/projects","This repository is for miscellaneous Syriaca.org projects.","eng|fra",1
 1590816565220,"subugoe/mets-merger","https://github.com/subugoe/mets-merger","SUB METS Merger","",1
 1590816565101,"sashasashasashasasha/repository","https://github.com/sashasashasashasasha/repository","-","",1
@@ -4299,29 +4299,29 @@ This software provides a convenient way to organizing information and making it 
 1590816599279,"scmmmh/tei-editor","https://github.com/scmmmh/tei-editor","A graphical editor for TEI documents","",5
 1590816568419,"SobekDigital/SobekcmTools","https://github.com/SobekDigital/SobekcmTools","Additional tools that are useful for some SobekCM tasks - including the SMaRT tool","",1
 1590816568657,"socheres/Zoterobearbeitung","https://github.com/socheres/Zoterobearbeitung","-","",1
-1590816600799,"scta-texts/jwalesbreviloquium","https://github.com/scta-texts/jwalesbreviloquium","-","lat",3
+1590816600799,"scta-texts/jwalesbreviloquium","https://github.com/scta-texts/jwalesbreviloquium",,"lat",3
 1590816600664,"sraybuck/Pilot","https://github.com/sraybuck/Pilot","A node app that translates TEI to HTML webpages","",8
 1590816600109,"subugoe/bdnPrint","https://github.com/subugoe/bdnPrint","bdnPrint - transforming TEI/XML to PDF","",2
 1590816599777,"sdsmnc221/visia-memoires","https://github.com/sdsmnc221/visia-memoires","La littérature immersive, vue au prisme de La Toile.","fra",3
 1590816599504,"scnevi17/Portfolio-for-Stephanie-Neville","https://github.com/scnevi17/Portfolio-for-Stephanie-Neville","Portfolio for CISS299","",2
 1590816593958,"srophe/e-gedsh-app","https://github.com/srophe/e-gedsh-app","Fork of srophe-eXist-app for running with e-gedsh data. ","",9
-1590816594248,"scta-texts/lectio34","https://github.com/scta-texts/lectio34","-","lat|eng",10
+1590816600000,"scta-texts/lectio34","https://github.com/scta-texts/lectio34",,"lat|eng",10
 1590816577423,"spenteco/big_file","https://github.com/spenteco/big_file","Testing the LFS thing.","eng",1
 1590816577235,"santex/micro-biological","https://github.com/santex/micro-biological","micro-biological is  ActiveMemory Science base repo","",1
-1622884731049,"scta-texts/picoapologia","https://github.com/scta-texts/picoapologia","-","lat|eng",4
+1622884731049,"scta-texts/picoapologia","https://github.com/scta-texts/picoapologia",,"lat|eng",4
 1590816579519,"stasiekz/PolishReadabilityChecker","https://github.com/stasiekz/PolishReadabilityChecker","Usługa sieciowa służąca do oceny zrozumiałości tekstu w języku polskim. / Web service for measuring readability of Polish texts.","",1
 1590816590395,"Siedrix/teiparser","https://github.com/Siedrix/teiparser","This is a parser for tei lite","spa",3
 1590816581071,"SimiaryLabs/Data-Ingest-Scripts","https://github.com/SimiaryLabs/Data-Ingest-Scripts","Repository containing mostly python scripts for data wrangling","",1
 1590816600256,"social-energy-atlas/georgia-municipal-codes","https://github.com/social-energy-atlas/georgia-municipal-codes","Georgia Municipal Code Dataset","eng",4
-1590816580545,"scta-texts/da-69","https://github.com/scta-texts/da-69","Anonymus Merton 275, f. 88–101: Quaestiones in De anima I","lat",2
+1590816600000,"scta-texts/da-69","https://github.com/scta-texts/da-69","Anonymus Merton 275, f. 88–101: Quaestiones in De anima I","lat",2
 1590816588676,"sarmbruster/neo4j-tei-importer","https://github.com/sarmbruster/neo4j-tei-importer","Proof of concept for importing TEI xml files into Neo4j.","lat|deu",4
 1616560870673,"stenskjaer/lbp_print","https://github.com/stenskjaer/lbp_print","Small script for processing LombardPress compliant XML files into TeX and compile with Latex","lat",4
-1590816598353,"scta-texts/hispanusangelica","https://github.com/scta-texts/hispanusangelica","-","lat",15
+1590816600000,"scta-texts/hispanusangelica","https://github.com/scta-texts/hispanusangelica",,"lat",15
 1590816586573,"smoaddeli/Rubaiyat_Khayyam_XML","https://github.com/smoaddeli/Rubaiyat_Khayyam_XML","-","",1
-1620290707916,"scta-texts/candiasentcommentary","https://github.com/scta-texts/candiasentcommentary","-","lat",1
+1620290707916,"scta-texts/candiasentcommentary","https://github.com/scta-texts/candiasentcommentary",,"lat",1
 1590816588776,"stefano-bragaglia/Corrector","https://github.com/stefano-bragaglia/Corrector","Familiarising with Norvig code for spell correction","eng",1
 1590816599768,"simonmeoni/xlo","https://github.com/simonmeoni/xlo","convert several ""log"" rnv files into a csv file","fra",8
-1590816600664,"scta-texts/hispanusecclesiastica","https://github.com/scta-texts/hispanusecclesiastica","-","lat",8
+1590816600664,"scta-texts/hispanusecclesiastica","https://github.com/scta-texts/hispanusecclesiastica",,"lat",8
 1590816590371,"simonzsolt/essay_shkspr","https://github.com/simonzsolt/essay_shkspr","-","",1
 1590816598306,"SarahOrsini/Edition_genetique_Pascoli_Crepereia-Tryphaena","https://github.com/SarahOrsini/Edition_genetique_Pascoli_Crepereia-Tryphaena","Edition génétique numérique d'un échantillon de brouillons : le dossier génétique du poème ""Crepereia Tryphaena"" de Giovanni Pascoli","ita|lat|eng",13
 1590816600881,"sarahjeansweeney/TEI2MODS","https://github.com/sarahjeansweeney/TEI2MODS","TEI2MODS is a stylesheet to transform the TEI header to MODS.","eng|ell|lat",7
@@ -4334,19 +4334,19 @@ This software provides a convenient way to organizing information and making it 
 1590816600905,"SteveNewman1970/TEIBeggar-sOperaDrafts","https://github.com/SteveNewman1970/TEIBeggar-sOperaDrafts","-","eng",2
 1590816600147,"SIstory/Infreg47","https://github.com/SIstory/Infreg47","SIstory publication. Smrtne žrtve 47. štajerskega pešpolka med prvo svetovno vojno","ita|hrv|slv|deu",12
 1590816599240,"suchmaske/ceteicean_workshop","https://github.com/suchmaske/ceteicean_workshop","-","",2
-1590816598905,"scta-texts/augustineconfessiones","https://github.com/scta-texts/augustineconfessiones","augustine confessiones","lat",13
+1590816600000,"scta-texts/augustineconfessiones","https://github.com/scta-texts/augustineconfessiones","augustine confessiones","lat",13
 1590816553785,"SIstory/Okupacijske_meje","https://github.com/SIstory/Okupacijske_meje","Digitalne razstave projekta Okupacijske meje 1941-1945","",1
 1590816600999,"saw-leipzig/csv2cmi","https://github.com/saw-leipzig/csv2cmi","a little program to transform a table of letters into the CMI format","",6
 1590816553149,"SusanBrown/Platforms","https://github.com/SusanBrown/Platforms","A shared document for platforms reviews by members of ENGL4320/6003 W2018.","",1
 1590816553790,"sgmlguru/MUK-proc","https://github.com/sgmlguru/MUK-proc","-","",1
 1590816555252,"SusanBrown/Git-Writer-demos","https://github.com/SusanBrown/Git-Writer-demos","Automagically created by CWRC","",1
-1590816555138,"scta-texts/vaurouilloncommentary","https://github.com/scta-texts/vaurouilloncommentary","-","lat",1
+1590816600000,"scta-texts/vaurouilloncommentary","https://github.com/scta-texts/vaurouilloncommentary",,"lat",1
 1590816578428,"scta/scta-community","https://github.com/scta/scta-community","-","",3
-1615985561884,"scta-texts/hispanussummulaelogicales","https://github.com/scta-texts/hispanussummulaelogicales","-","lat",16
+1615985561884,"scta-texts/hispanussummulaelogicales","https://github.com/scta-texts/hispanussummulaelogicales",,"lat",16
 1590816559395,"Sebastian1984/tika","https://github.com/Sebastian1984/tika","-","",1
 1622628973275,"SIstory/zzds","https://github.com/SIstory/zzds","Zveza zgodovinskih društev Slovenije","slv",2
 1590816600987,"satanlabs/rfc","https://github.com/satanlabs/rfc","This repo. contains all the RFCs published before 01-Jan-2019.","",4
-1590816594469,"scta-texts/da-242","https://github.com/scta-texts/da-242","Simon of Faversham: Quaestiones in De anima","lat",2
+1590816600000,"scta-texts/da-242","https://github.com/scta-texts/da-242","Simon of Faversham: Quaestiones in De anima","lat",2
 1590816596406,"swappa-unimi/swappa.it_clone","https://github.com/swappa-unimi/swappa.it_clone","Static clone of swappa.it of 26 April 2019","",2
 1590816566993,"sasfeld/BBAW_CMS","https://github.com/sasfeld/BBAW_CMS","-","",1
 1590816566889,"SharedTasksInTheDH/iaa","https://github.com/SharedTasksInTheDH/iaa","Code to calculate inter annotator agreement","",1
@@ -4354,35 +4354,35 @@ This software provides a convenient way to organizing information and making it 
 1590816570131,"stenskjaer/thesis-xslt","https://github.com/stenskjaer/thesis-xslt","XSLT scripts for converting Lombard Press compliant TEI documents to other formats","",3
 1590816570031,"SuperflySD/XSLtei2jats","https://github.com/SuperflySD/XSLtei2jats","-","",1
 1590816593956,"synopsx/project","https://github.com/synopsx/project","Quick starting project for SynopsX","",3
-1590816596686,"scta-texts/da-199","https://github.com/scta-texts/da-199","-","lat",3
-1590816582972,"scta-texts/Cnyt3a","https://github.com/scta-texts/Cnyt3a","anonymous sentences commentary contained in ms UPenn 727","lat",2
+1590816600000,"scta-texts/da-199","https://github.com/scta-texts/da-199",,"lat",3
+1590816600000,"scta-texts/Cnyt3a","https://github.com/scta-texts/Cnyt3a","anonymous sentences commentary contained in ms UPenn 727","lat",2
 1590816574421,"srophe/Linked-Data","https://github.com/srophe/Linked-Data","-","syr|eng|ara",3
 1614791769578,"snoopysecurity/OldApacheTika","https://github.com/snoopysecurity/OldApacheTika","Old Version of Apache Tika","eng",1
 1614791769714,"steinunnfridriks/ALEXIA","https://github.com/steinunnfridriks/ALEXIA","A Lexicon Aquisition Tool","",5
 1614791769699,"ShannynOakley/M3E1","https://github.com/ShannynOakley/M3E1","Module 3, exercise 1 ","",1
 1614791769698,"ShannynOakley/My-Research-Notebook","https://github.com/ShannynOakley/My-Research-Notebook","Notes for HIST3907","",1
 1590816588514,"sebastianrahtz/Byzantium","https://github.com/sebastianrahtz/Byzantium","a new Rome","",1
-1590816598506,"scta-texts/hy7y6y","https://github.com/scta-texts/hy7y6y","Boethius Consolatio Philosophiae","lat",5
-1590816590914,"scta-texts/cl-0139","https://github.com/scta-texts/cl-0139","-","lat",1
+1590816600000,"scta-texts/hy7y6y","https://github.com/scta-texts/hy7y6y","Boethius Consolatio Philosophiae","lat",5
+1590816600000,"scta-texts/cl-0139","https://github.com/scta-texts/cl-0139",,"lat",1
 1590816596137,"sdhawan1/sriw","https://github.com/sdhawan1/sriw","n/a","",2
 1590816592812,"simar0at/fcs-aggregator","https://github.com/simar0at/fcs-aggregator","-","",1
-1590816600700,"scta-texts/tarantasiacommentary","https://github.com/scta-texts/tarantasiacommentary","-","",2
-1590816600989,"scta-texts/lectio1","https://github.com/scta-texts/lectio1","-","lat|eng",8
+1590816600700,"scta-texts/tarantasiacommentary","https://github.com/scta-texts/tarantasiacommentary",,"",2
+1590816600989,"scta-texts/lectio1","https://github.com/scta-texts/lectio1",,"lat|eng",8
 1590816594542,"stuartyeates/sampler","https://github.com/stuartyeates/sampler","URIs to resources for reuse","",1
 1590816597589,"storey/lexeis-public","https://github.com/storey/lexeis-public","Code for lexeis.org","",1
 1590816599901,"subugoe/fwb-index-creator","https://github.com/subugoe/fwb-index-creator","-","",3
 1590816600958,"spb40/Iberian-Poets","https://github.com/spb40/Iberian-Poets","Project group for Computational Methods in the Humanities","",10
 1590816589597,"shperdue/People-of-the-Founding-Era","https://github.com/shperdue/People-of-the-Founding-Era","People of the Founding Era is a digital prosopography of biographies culled from papers of the Founding Fathers and other digital datasets.","eng",1
 1590816590641,"stevecassidy/hassdevl-samples","https://github.com/stevecassidy/hassdevl-samples","Sample Notebooks for the HASS DEVL project","eng",1
-1590816592657,"scta-texts/da-31","https://github.com/scta-texts/da-31","Simon Magister: Expositio in librum De anima","lat",6
-1590816592023,"scta-texts/bhyEEQ","https://github.com/scta-texts/bhyEEQ","PetrusHispanusDeMorteEtVita","lat",4
+1590816600000,"scta-texts/da-31","https://github.com/scta-texts/da-31","Simon Magister: Expositio in librum De anima","lat",6
+1590816600000,"scta-texts/bhyEEQ","https://github.com/scta-texts/bhyEEQ","PetrusHispanusDeMorteEtVita","lat",4
 1590816600682,"schneiderjan/ads_portfolio","https://github.com/schneiderjan/ads_portfolio","-","",3
 1590816600280,"SpaceK33z/applied-data-science","https://github.com/SpaceK33z/applied-data-science","-","",3
 1590816593909,"sanskrit/texts","https://github.com/sanskrit/texts","Texts, translations, commentaries, and more!","san",1
 1590816595772,"sakshijain23/Citation-Sentiment-Analysis","https://github.com/sakshijain23/Citation-Sentiment-Analysis","The R code of implementation is provided.","",1
 1620290707901,"scta-texts/Z4Yt34","https://github.com/scta-texts/Z4Yt34","De loci theologicis for Melchior Cano","lat|eng",5
 1590816597474,"s8stchro/Pollux-Onomasticon_DigEd","https://github.com/s8stchro/Pollux-Onomasticon_DigEd","-","",1
-1590816596968,"scta-texts/nbht7y","https://github.com/scta-texts/nbht7y","hostiensisCommentaryOnDecretales","lat",1
+1590816600000,"scta-texts/nbht7y","https://github.com/scta-texts/nbht7y","hostiensisCommentaryOnDecretales","lat",1
 1590816600161,"SashiniHansika/fyp","https://github.com/SashiniHansika/fyp","-","",500
 1590816600087,"steinhkl/tsgce","https://github.com/steinhkl/tsgce","Tiny Statistical Grammar Checking Engine","",500
 1590816600039,"stephenysh/translate-sunil","https://github.com/stephenysh/translate-sunil","-","",496
@@ -4390,8 +4390,8 @@ This software provides a convenient way to organizing information and making it 
 1590816572319,"spraakbanken/sparv-pipeline","https://github.com/spraakbanken/sparv-pipeline","Språkbanken's corpus annotation pipeline","",2
 1590816599402,"sho25/tika","https://github.com/sho25/tika","-","eng",2
 1590816599573,"simonmeoni/flask-visualizer","https://github.com/simonmeoni/flask-visualizer","-","fra",8
-1590816575717,"scta-texts/oytacommentary","https://github.com/scta-texts/oytacommentary","-","lat",1
-1590816586794,"scta-texts/werlcommentary","https://github.com/scta-texts/werlcommentary","-","lat",2
+1590816600000,"scta-texts/oytacommentary","https://github.com/scta-texts/oytacommentary",,"lat",1
+1590816600000,"scta-texts/werlcommentary","https://github.com/scta-texts/werlcommentary",,"lat",2
 1590816599320,"SamueLacombe/TheBible","https://github.com/SamueLacombe/TheBible","-","",2
 1590816587515,"SIstory/Between","https://github.com/SIstory/Between","SIstory publication. Between the House of Habsburg and Tito: A Look at the Slovenian Past 1861-1980","",1
 1590816590761,"SIstory/zhm","https://github.com/SIstory/zhm","Zgodovina historične misli","",1
@@ -4404,12 +4404,12 @@ This software provides a convenient way to organizing information and making it 
 1590816599865,"susanholland/test1","https://github.com/susanholland/test1","test1","",1
 1590816598012,"scholarslab/TeiDisplay","https://github.com/scholarslab/TeiDisplay","Attach TEI documents to Omeka items.","eng",1
 1590816596509,"sonofmun/canonical-lat-test","https://github.com/sonofmun/canonical-lat-test","A small portion of the canonical-latinLit repository for testing purposes","lat",1
-1590816583047,"scta-texts/qda","https://github.com/scta-texts/qda","-","lat",1
+1590816600000,"scta-texts/qda","https://github.com/scta-texts/qda",,"lat",1
 1590816584536,"srophe/zotero2bibl","https://github.com/srophe/zotero2bibl","Accesses Zotero API to load Zotero library into eXistdb and keep the eXistdb version up to date with the Zotero library. Canonical data lives in Zotero. ","",1
 1590816592586,"salzano/mith735project","https://github.com/salzano/mith735project","MITH735 project my dudes ","",3
 1590816584549,"Sebalafy/Benchmark","https://github.com/Sebalafy/Benchmark","-","",3
-1590816586119,"scta-texts/cl-0140","https://github.com/scta-texts/cl-0140","-","lat",1
-1590816586988,"scta-texts/halescommentary","https://github.com/scta-texts/halescommentary","-","lat",1
+1590816600000,"scta-texts/cl-0140","https://github.com/scta-texts/cl-0140",,"lat",1
+1590816600000,"scta-texts/halescommentary","https://github.com/scta-texts/halescommentary",,"lat",1
 1590816587253,"snap-stanford/snap-dev","https://github.com/snap-stanford/snap-dev","SNAP repository for Ringo","",3
 1590816587251,"snap-stanford/snap-dev-64","https://github.com/snap-stanford/snap-dev-64","64-bit SNAP (in development, not intended for general use)","",3
 1590816587244,"Saki-Zhang/Anomaly-Detection-in-Social-Networks","https://github.com/Saki-Zhang/Anomaly-Detection-in-Social-Networks","Identify anomalies in social networks using graph embedding","",3
@@ -4429,19 +4429,19 @@ This software provides a convenient way to organizing information and making it 
 1590816598875,"scala-philosophorum/CAL-Corpus-Alchmicorum-Latinorum","https://github.com/scala-philosophorum/CAL-Corpus-Alchmicorum-Latinorum","-","lat",2
 1590816600268,"srilatha44/threepress","https://github.com/srilatha44/threepress","Automatically exported from code.google.com/p/threepress","",8
 1590816600538,"SAA-SDT/EAC-beta","https://github.com/SAA-SDT/EAC-beta","Encoded Archival Context. Beta version (2004)","",2
-1590816598011,"scta-texts/holcotquodlibeta","https://github.com/scta-texts/holcotquodlibeta","-","lat",15
+1590816600000,"scta-texts/holcotquodlibeta","https://github.com/scta-texts/holcotquodlibeta",,"lat",15
 1590816579763,"sebastianrahtz/tei-emacs","https://github.com/sebastianrahtz/tei-emacs","TEI-emacs is a distribution of Emacs packages to turn it into a complete editing environment for TEI XML ","",2
 1590816574232,"srophe/srp-places-app","https://github.com/srophe/srp-places-app","The Syriac Reference Portal's ""Syriac Gazetteer"" project, in progress","",1
 1590816575742,"slsfi/digital_edition_api","https://github.com/slsfi/digital_edition_api","-","",1
 1590816600792,"sundaune/ebooksearch","https://github.com/sundaune/ebooksearch","Webløft-initiert plugin for å søke i e-bøker","",2
-1590816600526,"scta-texts/mirecourtcommentary","https://github.com/scta-texts/mirecourtcommentary","-","lat",2
+1590816600526,"scta-texts/mirecourtcommentary","https://github.com/scta-texts/mirecourtcommentary",,"lat",2
 1590816600135,"slpittman/clas299","https://github.com/slpittman/clas299","-","",1
 1590816599554,"skagit/nanich","https://github.com/skagit/nanich","Tools for Lushootseed Research","",1
 1590816599310,"shaman-apprentice/MyMasterThesis","https://github.com/shaman-apprentice/MyMasterThesis","My master thesis: Extracting recipe ingredients from cookbooks","",2
 1590816583318,"sebhofmann/tei-splitter","https://github.com/sebhofmann/tei-splitter","-","",1
 1619686009938,"scta-texts/GHYaf3","https://github.com/scta-texts/GHYaf3","Wodeham Sentences Commentary Abbreviatio","lat",73
 1590816590913,"sdroge/atcas","https://github.com/sdroge/atcas","atkinson's casket repository","",1
-1590816596497,"scta-texts/fitzralphcommentary","https://github.com/scta-texts/fitzralphcommentary","-","lat",3
+1590816600000,"scta-texts/fitzralphcommentary","https://github.com/scta-texts/fitzralphcommentary",,"lat",3
 1590816598767,"skycmoon/sejongpatch_old","https://github.com/skycmoon/sejongpatch_old","-","",1
 1590816599446,"subugoe/fwb-importer","https://github.com/subugoe/fwb-importer","-","",5
 1590816599332,"seereason/autobuilder-seereason","https://github.com/seereason/autobuilder-seereason","Our customized autobuilder client","",1
@@ -4452,7 +4452,7 @@ This software provides a convenient way to organizing information and making it 
 1590816596523,"sui84/tools","https://github.com/sui84/tools","-","",2
 1590816599401,"Staylix/B3421","https://github.com/Staylix/B3421","-","",1
 1590816598857,"Saxonica/xslt30-test","https://github.com/Saxonica/xslt30-test","-","",2
-1590816590789,"scta-texts/wodehamlectura","https://github.com/scta-texts/wodehamlectura","-","lat",1
+1590816600000,"scta-texts/wodehamlectura","https://github.com/scta-texts/wodehamlectura",,"lat",1
 1590816592752,"snac-cooperative/cheshire","https://github.com/snac-cooperative/cheshire","Cheshire II source code","",1
 1590816593638,"sourcerer-io/sourcerer-app","https://github.com/sourcerer-io/sourcerer-app","🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.","",1
 1590816593637,"sushildhamale/BlueOp","https://github.com/sushildhamale/BlueOp","-","",1
@@ -4469,7 +4469,7 @@ This software provides a convenient way to organizing information and making it 
 1590816599414,"songhune/F039-1_AJ_Intensive","https://github.com/songhune/F039-1_AJ_Intensive","2018 Intensive Course for Ajou University_DL","",1
 1590816598848,"scottviteri/FillInTheMissingWord","https://github.com/scottviteri/FillInTheMissingWord","-","",2
 1590816600124,"SonyaTsurik/HW2","https://github.com/SonyaTsurik/HW2","-","",2
-1590816599774,"scta-texts/cl-0142","https://github.com/scta-texts/cl-0142","-","lat",1
+1590816600000,"scta-texts/cl-0142","https://github.com/scta-texts/cl-0142",,"lat",1
 1590816600384,"sunny-slegs/tweet-sentiment-analyzer","https://github.com/sunny-slegs/tweet-sentiment-analyzer","-","",1
 1590816600302,"shivam043/goose-extractor","https://github.com/shivam043/goose-extractor","Made with flask,python goose for article extracting","",1
 1590816600861,"srmoore2/AbsentMan","https://github.com/srmoore2/AbsentMan","-","",1
@@ -4568,8 +4568,8 @@ This software provides a convenient way to organizing information and making it 
 1590816600431,"SabrinaWSY/projet_XML_exos","https://github.com/SabrinaWSY/projet_XML_exos","Projet réalisé en M1, page entièrement codé en XML avec un feuille de style xslt","",2
 1590816567966,"SIBiUSP/coletaprod","https://github.com/SIBiUSP/coletaprod","Extração e navegação de registros presentes nos curriculos Lattes","",1
 1590816596364,"sanskrit-lexicon/cologne-stardict","https://github.com/sanskrit-lexicon/cologne-stardict","Scripts to convert Cologne XMLs into babylon format for merging into Stardict format.","eng|san|lat|fra|deu|grc",36
-1590816573328,"scta-texts/lpokij","https://github.com/scta-texts/lpokij","directory for franciscoDeHerreraSententiae","lat",2
-1590816598514,"scta-texts/melanderdeanima","https://github.com/scta-texts/melanderdeanima","-","lat|eng",8
+1590816600000,"scta-texts/lpokij","https://github.com/scta-texts/lpokij","directory for franciscoDeHerreraSententiae","lat",2
+1590816600000,"scta-texts/melanderdeanima","https://github.com/scta-texts/melanderdeanima",,"lat|eng",8
 1590816574283,"SusanBrown/TestingPoetryJan2018","https://github.com/SusanBrown/TestingPoetryJan2018","Testing gitwriter.","",1
 1590816576377,"sonyasorokolet/HW2","https://github.com/sonyasorokolet/HW2","-","",1
 1590816591256,"Spunkle/EPIGRAPHY-CLUB-2015","https://github.com/Spunkle/EPIGRAPHY-CLUB-2015","A volunteer group of students creating Leiden-compliant, EpiDoc editions of the unpublished Latin & Greek inscriptions at Columbia's Rare Book & Manuscript Library","",14
@@ -4577,9 +4577,9 @@ This software provides a convenient way to organizing information and making it 
 1590816582947,"SoncheGubbana/HW2","https://github.com/SoncheGubbana/HW2","Домашнее задание 2","",1
 1590816583351,"sebastianrahtz/Vesta","https://github.com/sebastianrahtz/Vesta","A desktop program to emulate TEI Roma","",1
 1590816590089,"sommeryoun/HW2","https://github.com/sommeryoun/HW2","-","",1
-1590816596064,"scta-texts/ru7y7y","https://github.com/scta-texts/ru7y7y","EntzendorfQuaestiones","lat",2
+1590816600000,"scta-texts/ru7y7y","https://github.com/scta-texts/ru7y7y","EntzendorfQuaestiones","lat",2
 1590816595766,"synsem/texhs","https://github.com/synsem/texhs","TeX Parser in Haskell","",2
-1590816590638,"scta-texts/da-9","https://github.com/scta-texts/da-9","Anonymus Digby 55: Quaestiones in De anima I-III","",1
+1590816600000,"scta-texts/da-9","https://github.com/scta-texts/da-9","Anonymus Digby 55: Quaestiones in De anima I-III","",1
 1590816592618,"stuartyeates/GITenberg-TEI-sample","https://github.com/stuartyeates/GITenberg-TEI-sample","GITenberg TEI sample header","eng",1
 1590816581204,"scstanley7/burroughs-stylesheets","https://github.com/scstanley7/burroughs-stylesheets","Stylesheets for the Burroughs project","",3
 1590816582225,"scta/scta-app","https://github.com/scta/scta-app","exist app for scta","",1
@@ -4594,19 +4594,19 @@ This software provides a convenient way to organizing information and making it 
 1590816567050,"syokoyam/sundaymorning","https://github.com/syokoyam/sundaymorning","-","",1
 1590816600134,"sgsinclair/trombone","https://github.com/sgsinclair/trombone","-","",8
 1590816600991,"subugoe/format-converter","https://github.com/subugoe/format-converter","-","deu",12
-1590816541671,"scta-texts/cl-0141","https://github.com/scta-texts/cl-0141","-","lat",1
-1590816540978,"scta-texts/cl-0144","https://github.com/scta-texts/cl-0144","-","lat",1
-1590816551168,"scta-texts/vocabularius","https://github.com/scta-texts/vocabularius","-","lat",1
+1590816600000,"scta-texts/cl-0141","https://github.com/scta-texts/cl-0141",,"lat",1
+1590816600000,"scta-texts/cl-0144","https://github.com/scta-texts/cl-0144",,"lat",1
+1590816600000,"scta-texts/vocabularius","https://github.com/scta-texts/vocabularius",,"lat",1
 1590816589588,"slub/mets-mods2tei","https://github.com/slub/mets-mods2tei","Convert bibliographic meta data in MODS format to TEI headers","",2
 1590816554569,"stuartyeates/strawperson","https://github.com/stuartyeates/strawperson","strawperson is a framework aiming to bring together TEI document curators, tool builders and validators","",1
 1590816564009,"s0tiria/Document-structuring","https://github.com/s0tiria/Document-structuring","Using XML, XSLT and XPATH","",1
-1590816581590,"scta-texts/cl-0146","https://github.com/scta-texts/cl-0146","-","lat",1
+1590816600000,"scta-texts/cl-0146","https://github.com/scta-texts/cl-0146",,"lat",1
 1590816585370,"sonofmun/OGL_Scripts","https://github.com/sonofmun/OGL_Scripts","Various scripts for dealing with OCR results and transforming XML for CTS compatibility","",1
 1590816589811,"saiajaym/grobid_wrapper","https://github.com/saiajaym/grobid_wrapper","Post processor to convert grobid TEI output to a python object","",1
 1620074405003,"scta-texts/jdso8u","https://github.com/scta-texts/jdso8u","scotus ordinatio","lat",10
 1590816552576,"stenskjaer/pre-commit-script","https://github.com/stenskjaer/pre-commit-script","-","lat",1
 1590816574673,"ssmero/CSCE240","https://github.com/ssmero/CSCE240","Software Engineering Class Examples (C++)","",1
-1590816579815,"scta-texts/mnh3nj","https://github.com/scta-texts/mnh3nj","Speculum Fidei of Robert of Cricklade","lat",1
+1590816600000,"scta-texts/mnh3nj","https://github.com/scta-texts/mnh3nj","Speculum Fidei of Robert of Cricklade","lat",1
 1590816600996,"SIstory/Parlamentaria1","https://github.com/SIstory/Parlamentaria1","SIstory publication, zbirka Parlamentaria. Jure Gašparič: Slovenski parlament","",2
 1590816590837,"study-ai-data/nikl","https://github.com/study-ai-data/nikl","국립국어원(National Institute of Korean Language) 언어정보나눔터: 말뭉치 파일 전처리 코드","",3
 1590816588757,"swat-ds/digital-editions","https://github.com/swat-ds/digital-editions","-","",1
@@ -4645,20 +4645,20 @@ This software provides a convenient way to organizing information and making it 
 1590816583390,"sarahalang/XPath-and-XSLT-Class_VIE-TTT-LV2021","https://github.com/sarahalang/XPath-and-XSLT-Class_VIE-TTT-LV2021","This is the LaTeX source code for a `beamer/metropolis` presentation (Intro to XPath and XSLT). The repo also contains further teaching materials (PDFs, worksheets, cheatsheet) in GERMAN under `/ADDITIONAL-RESOURCES`.","",1
 1590816592499,"shashank31mar/nltk","https://github.com/shashank31mar/nltk","-","",1
 1590816592171,"scarafoni/ChineseShiritori","https://github.com/scarafoni/ChineseShiritori","chinese language practice tool fun Big Red Hacks 2014!","",1
-1590816598814,"scta-texts/b4-q2","https://github.com/scta-texts/b4-q2","-","lat",1
+1590816600000,"scta-texts/b4-q2","https://github.com/scta-texts/b4-q2",,"lat",1
 1590816577298,"sascapavlova/HW2","https://github.com/sascapavlova/HW2","-","",2
 1620290707912,"scta-texts/v23d83","https://github.com/scta-texts/v23d83","boltenhagencommentary","lat",1
 1590816577531,"Susianna/HW2","https://github.com/Susianna/HW2","-","",1
-1590816581194,"scta-texts/CBevVC","https://github.com/scta-texts/CBevVC","GoeffreyCommentaryOnDecretales","lat",1
-1590816581644,"scta-texts/vargasdeanima","https://github.com/scta-texts/vargasdeanima","-","lat",1
+1590816600000,"scta-texts/CBevVC","https://github.com/scta-texts/CBevVC","GoeffreyCommentaryOnDecretales","lat",1
+1590816600000,"scta-texts/vargasdeanima","https://github.com/scta-texts/vargasdeanima",,"lat",1
 1590816589361,"scotartt/commentarius","https://github.com/scotartt/commentarius","De Commentariis is a web app that allows social annotations and commentaries to be created on ancient texts in TEI-compliant formats","",1
 1590816592452,"stjaenicke/TRAViz","https://github.com/stjaenicke/TRAViz","Text Re-use Alignment Visualization","",1
 1590816553511,"sanskrit/learnsanskrit.org","https://github.com/sanskrit/learnsanskrit.org","Code for learnsanskrit.org","",1
-1590816562856,"scta-texts/cl-0145","https://github.com/scta-texts/cl-0145","-","lat",1
+1590816600000,"scta-texts/cl-0145","https://github.com/scta-texts/cl-0145",,"lat",1
 1590816565270,"sofagr/HW2","https://github.com/sofagr/HW2","-","",1
 1590816570498,"schassan/schassan.github.io","https://github.com/schassan/schassan.github.io","Place to collect presentations given by Torsten Schaßan","",1
 1590816580515,"SemanticComputing/semparl-data-transformation","https://github.com/SemanticComputing/semparl-data-transformation","Tools for gathering and formatting data for the Semantic Parliament dataservice and semantic portal.","",1
-1590816593637,"scta-texts/romanusmeta","https://github.com/scta-texts/romanusmeta","-","lat",1
+1590816600000,"scta-texts/romanusmeta","https://github.com/scta-texts/romanusmeta",,"lat",1
 1590816596046,"scholarslab/prosody_plugin","https://github.com/scholarslab/prosody_plugin","-","",1
 1590816597573,"SIstory/si4-mets","https://github.com/SIstory/si4-mets","-","",1
 1590816600775,"scta-texts/faw3vv","https://github.com/scta-texts/faw3vv","repo for Revised Glossa ordinaria Johannis Teutonici in Decretum By Bartholomeus Brixiensis","lat",1
@@ -4667,7 +4667,7 @@ This software provides a convenient way to organizing information and making it 
 1590816563600,"scstanley7/barnam-test-encoding","https://github.com/scstanley7/barnam-test-encoding","-","",1
 1590816562809,"sul-dlss-labs/dataQA","https://github.com/sul-dlss-labs/dataQA","Experimental repository for DLME (and other?) data QA scripts, recipes, libraries, etc.","",1
 1590816568541,"situationsarchive/providence","https://github.com/situationsarchive/providence","-","",1
-1590816572703,"scta-texts/cl-0147","https://github.com/scta-texts/cl-0147","-","lat",1
+1590816600000,"scta-texts/cl-0147","https://github.com/scta-texts/cl-0147",,"lat",1
 1590816574141,"scaife-viewer/scaife-viewer","https://github.com/scaife-viewer/scaife-viewer","new reading environment for version 5.0 of the Perseus Digital Library ","",1
 1590816600993,"scateu/communication-standard-collection","https://github.com/scateu/communication-standard-collection","-","",1
 1590816600978,"sethwoodworth/rfc-archive","https://github.com/sethwoodworth/rfc-archive","Request for Comments (RFCs) from the Internet Engineers Task Force (IETF)","",1
@@ -4676,15 +4676,15 @@ This software provides a convenient way to organizing information and making it 
 1590816599563,"sabsiime/Textmodelierung","https://github.com/sabsiime/Textmodelierung","-","",1
 1590816540434,"senyzspalding/ny3rs-xtf","https://github.com/senyzspalding/ny3rs-xtf","eadcbs7.xsl","",1
 1590816542360,"StephanHaring/xtech","https://github.com/StephanHaring/xtech","-","",1
-1590816545441,"scta-texts/gd13aa","https://github.com/scta-texts/gd13aa","Gratina Decretum (1st Redaction)","lat",1
+1590816600000,"scta-texts/gd13aa","https://github.com/scta-texts/gd13aa","Gratina Decretum (1st Redaction)","lat",1
 1590816545656,"salnikovakate/HW2","https://github.com/salnikovakate/HW2","-","",1
-1590816566959,"scta-texts/da-317","https://github.com/scta-texts/da-317","Anonymus Vat. Lat. 2170 ff. 6v-25v: Quaestiones in De anima I–II","lat",1
+1590816600000,"scta-texts/da-317","https://github.com/scta-texts/da-317","Anonymus Vat. Lat. 2170 ff. 6v-25v: Quaestiones in De anima I–II","lat",1
 1590816571721,"sofichofi/Digital-Humanities","https://github.com/sofichofi/Digital-Humanities","-","",1
 1590816600562,"sadaq/zotero-backup","https://github.com/sadaq/zotero-backup","-","",1
 1590816600487,"socheres/translators_local","https://github.com/socheres/translators_local","-","",1
 1620290707905,"scta-texts/cnag1q","https://github.com/scta-texts/cnag1q","Averroes Commentary on Aristotle's Physics","lat",5
 1619513293956,"SigiDoc/SigiDoc_Latest","https://github.com/SigiDoc/SigiDoc_Latest","Latest SigiDoc Stylesheet AS - MF","grc",184
-1615667941976,"scta-texts/aristotledephysica","https://github.com/scta-texts/aristotledephysica","Aristotle De Physica","lat",10
+1615667941976,"scta-texts/aristotledephysica","https://github.com/scta-texts/aristotledephysica","Aristotle De Physica","lat",15
 1615754293695,"svakulenk0/uva-lsdp-course","https://github.com/svakulenk0/uva-lsdp-course","Language, Speech and Dialogue Processing course @ University of Amsterdam 2021","nld",1955
 1622986961121,"scta-texts/M8ag89","https://github.com/scta-texts/M8ag89","Petrus Peregrinus de Maricourt treatise on magnetism","lat",6
 1615899176110,"statsmaths/fwp-life-histories-layers","https://github.com/statsmaths/fwp-life-histories-layers","Text From FWP Project","",9
@@ -4726,6 +4726,33 @@ This software provides a convenient way to organizing information and making it 
 1590816600266,"shaunksk/csv_rea_write","https://github.com/shaunksk/csv_rea_write","-","",1
 1590816590770,"sheldonresearch/AdaWalk","https://github.com/sheldonresearch/AdaWalk","Xiangguo Sun, Bo Liu, Qing Meng, Jiuxin Cao, Junzhou Luo, Hongzhi Yin. Group-level Personality Detection based on Text Generated Networks. World Wide Web. 2019. (Accepted, CCF-B, SCI)","eng",1
 1623746605616,"SassoGaia/progetto_esame_codifica_di_testi","https://github.com/SassoGaia/progetto_esame_codifica_di_testi","-","ita",1
+1590816600000,"scta-texts/a38jca","https://github.com/scta-texts/a38jca",,"",0
+1590816600000,"scta-texts/ad3ksj","https://github.com/scta-texts/ad3ksj",,"",0
+1590816600000,"scta-texts/almainsuperholcot","https://github.com/scta-texts/almainsuperholcot",,"",0
+1590816600000,"scta-texts/anon2deanima","https://github.com/scta-texts/anon2deanima",,"",0
+1590816600000,"scta-texts/Ans3av","https://github.com/scta-texts/Ans3av","CanonumCollectioAnselmiana","",0
+1590816600000,"scta-texts/antoniusandreametaphysica","https://github.com/scta-texts/antoniusandreametaphysica",,"",0
+1590816600000,"scta-texts/aqzw3s","https://github.com/scta-texts/aqzw3s","PeterOfSpainExpositioInEpistolasBeatiDionysi","",0
+1590816600000,"scta-texts/AuGch8","https://github.com/scta-texts/AuGch8","fulgentius De Fide Ad Petrum","",0
+1590816600000,"scta-texts/boninimetaph","https://github.com/scta-texts/boninimetaph",,"",0
+1590816600000,"scta-texts/capreolusdefensiones","https://github.com/scta-texts/capreolusdefensiones",,"",0
+1590816600000,"scta-texts/cl-0143","https://github.com/scta-texts/cl-0143",,"",0
+1590816600000,"scta-texts/ddbrugescommentary","https://github.com/scta-texts/ddbrugescommentary",,"",0
+1590816600000,"scta-texts/dn4nx8","https://github.com/scta-texts/dn4nx8",,"",0
+1590816600000,"scta-texts/gilesromaquodlibeta","https://github.com/scta-texts/gilesromaquodlibeta",,"",0
+1590816600000,"scta-texts/hugolinocommentary","https://github.com/scta-texts/hugolinocommentary",,"",0
+1590816600000,"scta-texts/Ly8dhJ","https://github.com/scta-texts/Ly8dhJ","DionysiusMysticaTheologia","",0
+1590816600000,"scta-texts/mairsent2b","https://github.com/scta-texts/mairsent2b",,"",0
+1590816600000,"scta-texts/mastridisputationestheologicae","https://github.com/scta-texts/mastridisputationestheologicae",,"",0
+1590816600000,"scta-texts/MeyronnesTractNot","https://github.com/scta-texts/MeyronnesTractNot",,"",0
+1590816600000,"scta-texts/nnny6v","https://github.com/scta-texts/nnny6v",,"",0
+1590816600000,"scta-texts/Ou7yHg","https://github.com/scta-texts/Ou7yHg","DionysiusEpistolas","",0
+1590816600000,"scta-texts/perusiacommentary","https://github.com/scta-texts/perusiacommentary",,"",0
+1590816600000,"scta-texts/ran7ae","https://github.com/scta-texts/ran7ae","anonleipzig419commentary","",0
+1590816600000,"scta-texts/v27ab7","https://github.com/scta-texts/v27ab7",,"",0
+1590816600000,"scta-texts/vnad2h","https://github.com/scta-texts/vnad2h","phah-libernaturales Petrus Hispanus  Liber naturalis de rebus principalibus","",0
+1590816600000,"scta-texts/wasialectura","https://github.com/scta-texts/wasialectura",,"",0
+1590816600000,"scta-texts/zckje7","https://github.com/scta-texts/zckje7",,"",0
 1614430164852,"TuftsUniversity-deprecated/tufts_models","https://github.com/TuftsUniversity-deprecated/tufts_models","Hydra models for Tufts","eng",4
 1614430164843,"TuftsUniversity-deprecated/tufts_hydra_admin","https://github.com/TuftsUniversity-deprecated/tufts_hydra_admin","-","eng",21
 1614430164822,"TuftsUniversity-deprecated/tuftsification-hydra","https://github.com/TuftsUniversity-deprecated/tuftsification-hydra","-","eng",26
