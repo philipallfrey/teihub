@@ -14,7 +14,7 @@
 1609333241174,"7h3f0x/Part-of-Speech-Tagging","https://github.com/7h3f0x/Part-of-Speech-Tagging","-","",635
 1590816600424,"7PartidasDigital/AnaText","https://github.com/7PartidasDigital/AnaText","Materiales del curso Análisis de textos y estilometría usando R","",21
 1623157729092,"7PartidasDigital/XML-TEI","https://github.com/7PartidasDigital/XML-TEI","Codificación XML-TEI de los testimonios de las Siete Partidas","spa",11
-1623789598662,"84000/data-tei","https://github.com/84000/data-tei","TEI files of the translations","san|eng|bod|pli|deu",4645
+1623819286993,"84000/data-tei","https://github.com/84000/data-tei","TEI files of the translations","san|eng|bod|pli|deu",4645
 1590816600998,"84000/data","https://github.com/84000/data","84000 XML data files","bod|san|eng|pli",4442
 1590816600823,"84000/translations","https://github.com/84000/translations","Repository for 84000 translations","san|eng|bod|emg",31
 1590816598985,"8Raouf24/Projet-S6","https://github.com/8Raouf24/Projet-S6","Repository for our works in the field of web semantic and structured documents","",2
@@ -391,7 +391,7 @@
 1623746605176,"axelberndt/MPM","https://github.com/axelberndt/MPM","Music Performance Markup (MPM)","",1
 1623789598611,"AsiaGr99/ProgettoCodificaDiTesti","https://github.com/AsiaGr99/ProgettoCodificaDiTesti","Repository contenente il progetto di Codifica ""Cartoline di guerra""","ita|fra|eng",1
 1623789598607,"AsiaGr99/EserciziCodifica","https://github.com/AsiaGr99/EserciziCodifica","Esercitazioni codifica di test","ita|fra|eng",1
-1623789598999,"Brown-University-Library/iip-texts","https://github.com/Brown-University-Library/iip-texts","IIP inscriptions encoded in Epidoc XML and supporting files","grc|heb|lat|arc|kat|x-unknown|phn",9128
+1623819286996,"Brown-University-Library/iip-texts","https://github.com/Brown-University-Library/iip-texts","IIP inscriptions encoded in Epidoc XML and supporting files","grc|heb|lat|arc|kat|x-unknown|phn",9128
 1614430164909,"Beth-Mardutho/hugoye-data","https://github.com/Beth-Mardutho/hugoye-data","Data repository for Hugoye TEI records. ","eng|ita|ara|cop|chu|deu|spa|fra|gez|grc|hye|kat|lat|nld|por|rus|sog|syr",623
 1623789598595,"bodleian/medieval-mss","https://github.com/bodleian/medieval-mss","Medieval Manuscripts in Oxford Libraries: TEI catalogue descriptions","lat|fra|eng|grc|deu|nld|por|ita|zxx|cor|cym|spa|chu|isl|rus|ell|gle|cat|cop|ara|heb|ces|enm",10286
 1623400986166,"BetaMasaheft/Works","https://github.com/BetaMasaheft/Works","Ethiopian Literature edited in TEI","eng|gez|tir|ara|syr|grc|lat|amh|ita|heb|deu|cop|kat|pal|fra",4757
@@ -1316,7 +1316,7 @@
 1620407924480,"DHd-Verband/DHd-Abstracts-2018","https://github.com/DHd-Verband/DHd-Abstracts-2018","-","",160
 1620407924320,"DHd-Verband/DHd-Abstracts-2019","https://github.com/DHd-Verband/DHd-Abstracts-2019","-","",137
 1620407924185,"DHd-Verband/DHd-Abstracts-2020","https://github.com/DHd-Verband/DHd-Abstracts-2020","-","",137
-1623789598979,"dchanson/Ruskin","https://github.com/dchanson/Ruskin","-","",1356
+1623819286991,"dchanson/Ruskin","https://github.com/dchanson/Ruskin","-","",1356
 1620667222421,"daniel-gomm/kd-documents","https://github.com/daniel-gomm/kd-documents","-","tur",20
 1621154829171,"dmgustavhi/dmgustavhi.github.io","https://github.com/dmgustavhi/dmgustavhi.github.io","Repository for Kanikau","",12
 1621313982499,"d-flood/MarkdownTEI","https://github.com/d-flood/MarkdownTEI","convert a repurposed subset of markdown syntax to valid TEI XML designed to be compatible with the IGNTP specifications","grc",2
@@ -2297,7 +2297,7 @@
 1623259476333,"HCMID/CitableTeiReaders.jl","https://github.com/HCMID/CitableTeiReaders.jl","A Julia module for converting TEI XML documents to instances of a CitableCorpus.","",1
 1590816600745,"hieubz/translator_vietnamese","https://github.com/hieubz/translator_vietnamese","-","",1
 1623732808432,"HelenaSabel/prototype_hyperdiplomatique","https://github.com/HelenaSabel/prototype_hyperdiplomatique","-","glg|por",2
-1623789598992,"ISicily/ISicily","https://github.com/ISicily/ISicily","EpiDoc files for the I.Sicily project","eng|ita|grc|lat|heb|phn|xpu|osc|xly|scx|sxc",5176
+1623819286989,"ISicily/ISicily","https://github.com/ISicily/ISicily","EpiDoc files for the I.Sicily project","eng|ita|grc|lat|heb|phn|xpu|osc|xly|scx|sxc",5176
 1607131440144,"ilrt/Beyond2022TeiTemplate","https://github.com/ilrt/Beyond2022TeiTemplate","Work on creating a template for the TEI/XML that will be used in the Medieval Gold Seam and other seams","eng",5
 1598099517019,"innawendell/European_Comedy","https://github.com/innawendell/European_Comedy","The quantitative study of the evolution of the Russian and French 5-act comedy in verse.","fra|rus",115
 1599526896066,"istex/odd-istex","https://github.com/istex/odd-istex","Schéma ODD TEI pour le projet ISTEX","",1
@@ -3593,7 +3593,7 @@ This software provides a convenient way to organizing information and making it 
 1593851518998,"OSH-2020/GDBFS","https://github.com/OSH-2020/GDBFS","x-code-nowww created by GitHub Classroom","",502
 1590816600211,"oeuvres/alix","https://github.com/oeuvres/alix","A Lucene Indexer for XML, with lexical analysis (lemmatization for French)","",9
 1590816570029,"oeuvres/depub","https://github.com/oeuvres/depub","Epub ► TEI, open epub files and extract the more data as possible","",2
-1623789598666,"papyri/idp.data","https://github.com/papyri/idp.data","Data from the Integrating Digital Papyrology project","eng|grc|lat|fra|deu|ita|spa|ell|cop|egy|ara|syc|arc|heb|und",184469
+1623819286995,"papyri/idp.data","https://github.com/papyri/idp.data","Data from the Integrating Digital Papyrology project","eng|grc|lat|fra|deu|ita|spa|ell|cop|egy|ara|syc|arc|heb|und",184469
 1621515888238,"Petrarchive/The-Petrarchive","https://github.com/Petrarchive/The-Petrarchive","-","",100
 1614791769755,"pierre-amadio/packard","https://github.com/pierre-amadio/packard"," Packard's Morphological Analysis Codes module for the Sword engine.","",1
 1622575349361,"peterwebster/henson","https://github.com/peterwebster/henson","Master data store for the Hensley Henson Journals project, and issue tracker. The application code is kept elsewhere.","",3610
@@ -4759,6 +4759,7 @@ This software provides a convenient way to organizing information and making it 
 1590816600000,"scta-texts/zckje7","https://github.com/scta-texts/zckje7",,"",0
 1623789598615,"Satsu99/Codifica-di-Testi","https://github.com/Satsu99/Codifica-di-Testi","-","ita",3
 1623789598610,"Satsu99/Progetto-Codifica-di-testi-","https://github.com/Satsu99/Progetto-Codifica-di-testi-","Progetto del corso Codifica di testi (2020/2021)","ita|fra|eng",1
+1623819286994,"scta-texts/JRPxXx","https://github.com/scta-texts/JRPxXx","Sentences commentary by John of Ripa","lat",1
 1614430164852,"TuftsUniversity-deprecated/tufts_models","https://github.com/TuftsUniversity-deprecated/tufts_models","Hydra models for Tufts","eng",4
 1614430164843,"TuftsUniversity-deprecated/tufts_hydra_admin","https://github.com/TuftsUniversity-deprecated/tufts_hydra_admin","-","eng",21
 1614430164822,"TuftsUniversity-deprecated/tuftsification-hydra","https://github.com/TuftsUniversity-deprecated/tuftsification-hydra","-","eng",26
@@ -35260,7 +35261,7 @@ This software provides a convenient way to organizing information and making it 
 1619513293794,"whanley/ilcorpus","https://github.com/whanley/ilcorpus","Various resources for International Law corpus project","",716
 1615495163959,"welfare-state-analytics/riksdagen-corpus","https://github.com/welfare-state-analytics/riksdagen-corpus","-","",2869
 1609405149137,"welfare-state-analytics/parliament_data","https://github.com/welfare-state-analytics/parliament_data","Preprocess the proceedings of the Swedish parliament","eng|slv|swe",8
-1623142233234,"winnifredeatonarchive/wea_data","https://github.com/winnifredeatonarchive/wea_data","The data for the WEA archive website","eng|fra",386
+1623819286999,"winnifredeatonarchive/wea_data","https://github.com/winnifredeatonarchive/wea_data","The data for the WEA archive website","eng|fra",386
 1623789598606,"wellcomecollection/wellcome-collection-tei","https://github.com/wellcomecollection/wellcome-collection-tei","Manuscript Descriptions encoded according to the Text Encoding Initiative","heb|grc|ell|ara|ita|hin|msa|san|eng|fas|pka|guj|jpn|jav|lat|yid|bbc|btd|btx|btk|cop|egy",620
 1611062807291,"wenamun/notes-from-egypt","https://github.com/wenamun/notes-from-egypt","eXist-db webapplication/publication of letters & diaries from 19th century Egypt","",232
 1602765693859,"wdjacca/myRepository","https://github.com/wdjacca/myRepository","Repository for DIGIT 110","",7
