@@ -1,1 +1,1 @@
-{"date":1590816559395,"name":"Sebastian1984/tika","url":"https://github.com/Sebastian1984/tika","desc":"-","files":["tika-parsers/src/main/java/org/apache/tika/parser/journal/TEIDOMParser.java"],"langs":[]}
+{"date":1590816559395,"name":"Sebastian1984/tika","url":"https://github.com/Sebastian1984/tika","desc":"-","langs":[],"created":"2018-11-29T19:31:09Z","files":["tika-parsers/src/test/resources/test-documents/testTEI.xml"]}

@@ -1,1 +1,1 @@
-{"date":1590816565220,"name":"subugoe/mets-merger","url":"https://github.com/subugoe/mets-merger","desc":"SUB METS Merger","files":["src/main/resources/xslt/tei2mets.xsl"],"langs":[]}
+{"date":1590816565220,"name":"subugoe/mets-merger","url":"https://github.com/subugoe/mets-merger","desc":"SUB METS Merger","langs":[],"created":"2012-11-28T06:47:39Z","files":["src/test/resources/tei/rom-heyne1798.tei.xml","src/test/resources/tei/weimar-hs-2056.tei.xml"]}

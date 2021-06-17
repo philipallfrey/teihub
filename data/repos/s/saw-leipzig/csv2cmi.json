@@ -1,1 +1,0 @@
-{"date":1590816600999,"name":"saw-leipzig/csv2cmi","url":"https://github.com/saw-leipzig/csv2cmi","desc":"a little program to transform a table of letters into the CMI format","files":["csv2cmi.py","cmi-customization.rng","cmi2csv.xsl","examples/Example-delimiter.xml","examples/shorttitle-replacement/Example.xml","examples/Example.xml"],"langs":[]}

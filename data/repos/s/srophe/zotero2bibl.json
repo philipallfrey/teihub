@@ -1,1 +1,0 @@
-{"date":1590816584536,"name":"srophe/zotero2bibl","url":"https://github.com/srophe/zotero2bibl","desc":"Accesses Zotero API to load Zotero library into eXistdb and keep the eXistdb version up to date with the Zotero library. Canonical data lives in Zotero. ","files":["zotero2tei.xqm"],"langs":[]}

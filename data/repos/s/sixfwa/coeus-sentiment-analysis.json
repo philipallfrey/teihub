@@ -1,1 +1,0 @@
-{"date":1590816600335,"name":"sixfwa/coeus-sentiment-analysis","url":"https://github.com/sixfwa/coeus-sentiment-analysis","desc":"A simple Flask application which uses TextBlob for users to apply sentiment analysis on a piece of text.","files":["coeus/lib/python3.7/site-packages/nltk/corpus/reader/bnc.py"],"langs":[]}

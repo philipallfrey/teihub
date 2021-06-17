@@ -1,1 +1,1 @@
-{"date":1590816600221,"name":"synopsx/synopsx","url":"https://github.com/synopsx/synopsx","desc":"SynopsX is a lightweight XML publishing framework","files":["files/xml/teiSample.xml","files/xsl/tei2html.xsl","files/xml/synopsx.xml","_restxq/oai.xqm","models/tei.xqm","mappings/tei2html.xqm"],"langs":["fra"]}
+{"date":1590816600221,"name":"synopsx/synopsx","url":"https://github.com/synopsx/synopsx","desc":"SynopsX is a lightweight XML publishing framework","langs":["fra"],"created":"2015-10-22T13:24:54Z","files":["files/xml/synopsx.xml","files/xml/teiSample.xml"]}

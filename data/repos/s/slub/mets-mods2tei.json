@@ -1,1 +1,1 @@
-{"date":1590816589588,"name":"slub/mets-mods2tei","url":"https://github.com/slub/mets-mods2tei","desc":"Convert bibliographic meta data in MODS format to TEI headers","files":["docs/presentations/slub_april_2020/content.md","mets_mods2tei/data/tei_skeleton.xml"],"langs":[]}
+{"date":1590816589588,"name":"slub/mets-mods2tei","url":"https://github.com/slub/mets-mods2tei","desc":"Convert bibliographic meta data in MODS format to TEI headers","langs":[],"created":"2019-05-08T08:32:51Z","files":["mets_mods2tei/data/tei_skeleton.xml"]}

@@ -1,1 +1,0 @@
-{"date":1590816595413,"name":"srophe/srophe-xslt","url":"https://github.com/srophe/srophe-xslt","desc":"XSLT files (and sample data) for transforming Syriaca.org data. For XSLT files bundled with the app, see srophe-eXist-app.","files":["works-spreadsheet2tei.xsl","keywords-spreadsheet2tei.xsl","taxonomy-spreadsheet2tei.xsl"],"langs":[]}

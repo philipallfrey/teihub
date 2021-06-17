@@ -1,1 +1,1 @@
-{"date":1590816599840,"name":"SabineTittel/corpus_dict_datathon","url":"https://github.com/SabineTittel/corpus_dict_datathon","desc":"-","files":["edition/scripts/originals_datathon/xml-to-tei.xsl","edition/ancillary-files/tei-rdfa.xml","edition/scripts/xml-to-tei.xsl"],"langs":[]}
+{"date":1590816599840,"name":"SabineTittel/corpus_dict_datathon","url":"https://github.com/SabineTittel/corpus_dict_datathon","desc":"-","langs":[],"created":"2017-06-27T15:10:30Z","files":["edition/ancillary-files/tei-rdfa.xml","edition/tei-edition.xml","edition/tei-edition_expanded-uris.xml"]}
