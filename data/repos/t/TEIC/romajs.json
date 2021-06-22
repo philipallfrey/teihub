@@ -1,1 +1,0 @@
-{"date":1590816596151,"name":"TEIC/romajs","url":"https://github.com/TEIC/romajs","desc":"A web app for creating and editing ODD documents","files":["test/fakeData/tei_lite.json","test/fakeData/bare.json","test/fakeData/tei_lite.odd","test/fakeData/bare.odd","test/reducers/index.js","src/reducers/updateOdd.js","src/reducers/index.js"],"langs":[]}

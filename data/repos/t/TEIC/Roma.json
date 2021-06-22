@@ -1,1 +1,1 @@
-{"date":1590816592997,"name":"TEIC/Roma","url":"https://github.com/TEIC/Roma","desc":"This repository houses the code for Roma, the web based TEI software for generating customisations.","files":["ChangeLog","roma/romadom.php","roma/xml/roma.xml","roma/oddschema.odd"],"langs":[]}
+{"date":1590816592997,"name":"TEIC/Roma","url":"https://github.com/TEIC/Roma","desc":"This repository houses the code for Roma, the web based TEI software for generating customisations.","langs":[],"created":"2013-08-01T07:54:42Z","files":["roma/xml/roma.xml"]}

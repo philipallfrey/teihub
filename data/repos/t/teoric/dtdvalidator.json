@@ -1,1 +1,0 @@
-{"date":1590816589797,"name":"teoric/dtdvalidator","url":"https://github.com/teoric/dtdvalidator","desc":"validate XML against legacy DTD","files":["src/test/resources/goe.dtdinvalid.i5.xml","src/test/resources/goe.invalidEntity.i5.xml","src/test/resources/goe.dtdvalid.i5.xml","src/test/resources/goe.illformed.i5.xml"],"langs":["deu"]}

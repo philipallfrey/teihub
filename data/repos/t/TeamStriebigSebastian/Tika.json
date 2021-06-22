@@ -1,1 +1,1 @@
-{"date":1590816599197,"name":"TeamStriebigSebastian/Tika","url":"https://github.com/TeamStriebigSebastian/Tika","desc":"Mirror of Apache Tika","files":["tika-parsers/src/main/java/org/apache/tika/parser/journal/TEIDOMParser.java","tika-parsers/src/test/resources/test-documents/testTEI.xml"],"langs":["eng"]}
+{"date":1590816599197,"name":"TeamStriebigSebastian/Tika","url":"https://github.com/TeamStriebigSebastian/Tika","desc":"Mirror of Apache Tika","langs":["eng"],"created":"2018-10-29T07:09:15Z","files":["tika-parsers/src/test/resources/test-documents/testTEI.xml"]}
