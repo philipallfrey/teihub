@@ -1,1 +1,0 @@
-{"date":1590816574221,"name":"UCLA-BD2K/Metadata-Extraction-Service","url":"https://github.com/UCLA-BD2K/Metadata-Extraction-Service","desc":"Python scripts including Flask REST app for metadata extraction","files":["flask_rest/scripts/parse_extracts.py"],"langs":[]}

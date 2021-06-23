@@ -1,1 +1,0 @@
-{"date":1590816596793,"name":"umd-mith/mishnah-align","url":"https://github.com/umd-mith/mishnah-align","desc":"A simple nodejs script to convert Mishnah-Tosefta alignment data from csv to standoff TEI","files":["toTEI.js"],"langs":[]}
