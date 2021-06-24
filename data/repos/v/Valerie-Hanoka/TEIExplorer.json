@@ -1,1 +1,0 @@
-{"date":1590816568529,"name":"Valerie-Hanoka/TEIExplorer","url":"https://github.com/Valerie-Hanoka/TEIExplorer","desc":"A tool to explore and compare XML/TEI corpus","files":["teiexplorer/corpusreader/tei_content_scraper.py","teiexplorer/utils/sqlite_basic.py"],"langs":[]}
