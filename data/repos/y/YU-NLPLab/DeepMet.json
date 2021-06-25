@@ -1,1 +1,1 @@
-{"date":1590816599338,"name":"YU-NLPLab/DeepMet","url":"https://github.com/YU-NLPLab/DeepMet","desc":"-","files":["corpora/VUA/2541/VUAMC.rng","data/VUA/raw/VUAMC.rng","corpora/VUA/2541/VUAMC.odd","data/VUA/raw/VUAMC.odd","corpora/VUA/2541/VUAMC.rnc","data/VUA/raw/VUAMC.rnc","corpora/VUA/2541.xml"],"langs":["eng"]}
+{"date":1590816599338,"name":"YU-NLPLab/DeepMet","url":"https://github.com/YU-NLPLab/DeepMet","desc":"-","langs":["eng"],"created":"2020-05-18T05:49:10Z","files":["corpora/VUA/2541/VUAMC.xml","corpora/VUA/2541.xml","data/VUA/raw/VUAMC.xml"]}
