@@ -1,1 +1,1 @@
-{"date":1590816588191,"name":"acdh-oeaw/apis-core","url":"https://github.com/acdh-oeaw/apis-core","desc":"-","langs":[],"count":1,"created":"2017-07-04T09:04:29Z","files":["apis_core/apis_metainfo/templates/apis_metainfo/TEI_renderer.xml"]}
+{"date":1626368465488,"name":"acdh-oeaw/apis-core","url":"https://github.com/acdh-oeaw/apis-core","desc":"-","files":["apis_core/apis_metainfo/templates/apis_metainfo/TEI_renderer.xml","apis_core/apis_tei/templates/apis_tei/tei.xml"],"langs":[]}
