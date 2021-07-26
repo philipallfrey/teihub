@@ -1,1 +1,1 @@
-{"date":1590816591644,"name":"acdh-oeaw/teilex","url":"https://github.com/acdh-oeaw/teilex","desc":"A django project to deal with dictionaries which were once encoded in TEI","langs":[],"count":1,"created":"2017-09-17T13:33:27Z","files":["words/data/data.xml"]}
+{"date":1590816591644,"name":"acdh-oeaw/teilex","url":"https://github.com/acdh-oeaw/teilex","desc":"A django project to deal with dictionaries which were once encoded in TEI","langs":["ara","deu","eng","fra"],"count":1,"created":"2017-09-17T13:33:27Z","files":["words/data/data.xml"]}
