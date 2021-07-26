@@ -1,1 +1,1 @@
-{"date":1590816582054,"name":"istex/istex-nerd","url":"https://github.com/istex/istex-nerd","desc":"ISTEX interface for the (N)ERD service","langs":[],"created":"2017-07-20T11:54:13Z","files":["resources/nerd.template.tei.xml","resources/standoff_NERD.xml"]}
+{"date":1590816582054,"name":"istex/istex-nerd","url":"https://github.com/istex/istex-nerd","desc":"ISTEX interface for the (N)ERD service","langs":["eng"],"created":"2017-07-20T11:54:13Z","files":["resources/nerd.template.tei.xml","resources/standoff_NERD.xml"]}
