@@ -1,1 +1,1 @@
-{"date":1623157729090,"name":"elexis-eu/dictionary-matrix","url":"https://github.com/elexis-eu/dictionary-matrix","desc":"-","files":["examples/example-tei.xml"],"langs":["eng","slv"]}
+{"date":1627405290974,"name":"elexis-eu/dictionary-matrix","url":"https://github.com/elexis-eu/dictionary-matrix","desc":"-","files":["examples/example-tei.xml","tests/test_example.xml"],"langs":["eng","slv"]}
