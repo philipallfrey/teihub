@@ -1,1 +1,1 @@
-{"date":1590816600139,"name":"pstreich/Woerterbuch-Generator-DE-LU","url":"https://github.com/pstreich/Woerterbuch-Generator-DE-LU","desc":"-","langs":[],"created":"2018-12-12T09:48:59Z","files":["data_to_publish/de_dict_tei.xml","data_to_publish/lu_dict_tei.xml"]}
+{"date":1590816600139,"name":"pstreich/Woerterbuch-Generator-DE-LU","url":"https://github.com/pstreich/Woerterbuch-Generator-DE-LU","desc":"-","langs":["lub","deu"],"created":"2018-12-12T09:48:59Z","files":["data_to_publish/de_dict_tei.xml","data_to_publish/lu_dict_tei.xml"]}

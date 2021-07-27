@@ -1,1 +1,1 @@
-{"date":1590816575149,"name":"thegsi/epidoc-headers","url":"https://github.com/thegsi/epidoc-headers","desc":"Create epidoc headers for Siddham metadata","langs":[],"created":"2017-08-15T17:51:38Z","files":["headed/IN00001.xml","templates/epidoc.xml"]}
+{"date":1590816575149,"name":"thegsi/epidoc-headers","url":"https://github.com/thegsi/epidoc-headers","desc":"Create epidoc headers for Siddham metadata","langs":["san"],"created":"2017-08-15T17:51:38Z","files":["headed/IN00001.xml","templates/epidoc.xml"]}
