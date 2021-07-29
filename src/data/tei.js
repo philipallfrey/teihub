@@ -53,8 +53,8 @@ module.exports = async function() {
 
   const description = [...repos].sort((a, b) => {
     //Sort empty descriptions to end
-    if(a.desc === '-') return 1;
-    if(b.desc === '-') return -1;
+    if(a.desc === '-' || a.desc === null) return 1;
+    if(b.desc === '-' || b.desc === null) return -1;
     //Otherwise do case/diacritic insensitive sort
     return a.desc.localeCompare(b.desc);
   });
