@@ -1,1 +1,1 @@
-{"date":1629392435256,"name":"TEIC/ege-validator","url":"https://github.com/TEIC/ege-validator","desc":"EGE validation plugin. Provides validation for EGE XML supported formats.","files":["src/main/resources/tei-schema/enrich.xsd"],"langs":[]}
+{"date":1629435043254,"name":"TEIC/ege-validator","url":"https://github.com/TEIC/ege-validator","desc":"EGE validation plugin. Provides validation for EGE XML supported formats.","files":["src/main/resources/tei-schema/enrich.xsd"],"langs":[]}
