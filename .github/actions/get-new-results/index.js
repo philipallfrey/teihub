@@ -156,8 +156,8 @@ async function run() {
   //Get the 1000 most recently indexed matches in batches of 100
   try {
     for(let i=1; i<=10; i++){
-      //Delay to avoid hitting abuse limit warning from GitHub API
-      await sleep(30000);
+      //Delay to avoid hitting secondary rate limit warning from GitHub API
+      await sleep(40000);
       const { data } = await octokit.search.code({
         q: 'teiheader+language:xml',
         sort: 'indexed',
