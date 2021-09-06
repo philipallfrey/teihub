@@ -1,0 +1,45 @@
+---
+layout: layout
+pagination:
+  data: langs-2021
+  size: 50
+codeOrder: 'asc'
+countOrder: 'desc'
+---
+<h2 class="ui top attached block header">
+  Languages (2021 dataset)
+</h2>
+<div class="ui attached segment">
+  <p>The method I use to collect data for TEIhub (i.e. recording recently changed TEI-encoded files every four hours using the GitHub API) has the obvious limitation that it only captures files since I started this project. There are however many more TEI files on GitHub which may be of interest.</p>
+  <p>Over a period of approximately 6 months I used semi-automated queries to retrieve almost 1,995,583 TEI-encoded files from public GitHub repositories. Because one step involved cloning the entire repository if it was found to contain a TEI-encoded file, I was able to look in every TEI file for explicitly specified languages. The methodology is the same as described on the <a href="/languages/count/desc">languages</a> page except that I used regular expressions rather than XPath to extract the languages, because of the size/structure of some files. As a quick summary, the language code(s) for a file are taken from the first of the following tags to specify a language (in order)</p>
+  <ol>
+    <li> <code>&lt;langUsage&gt;&lt;language id(ent)="xx(x)"&gt;...&lt;/language&gt;&lt;/langUsage&gt;</code></li>
+    <li> <code>&lt;text xml:lang="xx(x)"&gt;</code></li>
+    <li> <code>&lt;body xml:lang="xx(x)"&gt;</code></li>
+    <li> <code>&lt;textLang mainLang="xx(x)"&gt;</code>. While this technically applies to the language of the manuscript, not necessarily of the TEI file, it was often used in files where only a facsimile was provided in the body.</li>
+    <li> <code>&lt;TEI xml:lang="xx(x)"&gt;</code>, but only where the language code is not en, as I found this did not reliably match the language used in the rest of the file.</code></li>
+    <li> <code>xml:lang</code> on any element within body, excluding <code>&lt;foreign&gt;</code>,<code>&lt;title&gt;</code>,<code>&lt;code&gt;</code>, <code>&lt;q&gt;</code>, <code>&lt;hi&gt;</code>, and <code>&lt;schemaSpec&gt;</code> tags</li>
+  </ol>
+
+</div>
+
+<table class="ui unstackable collapsing celled padded table">
+  <thead>
+    <tr>
+      <th><a class="{{'active' if active.code}}" href="/languages/code/{{codeOrder}}/">Language Code</a></th>
+      <th>Language Name</th>
+      <th><a class="{{'active' if active.count}}" href="/languages/count/{{countOrder}}/">Matching Files</a></th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for lang in pagination.items %}
+  <tr>
+    <td><a href="https://en.wikipedia.org/wiki/ISO_639:{{lang.code}}" target="_blank">{{lang.code}}</a></td>
+    <td class="{{lang.dir}}"><span class="{{'local' if lang.isLocalName else 'english'}}">{{lang.name}}</span></td>
+    <td>{{lang.count}}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+  <tfoot>
+  </tfoot>
+</table>

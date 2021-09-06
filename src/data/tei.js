@@ -1,4 +1,5 @@
-const repos = require('../../data/teihub.json');
+const allRepos = require('../../data/teihub.json');
+const languages = require('../../lib/iso-639-2/iso-639-2.js');
 const fs = require('fs');
 
 // Human-readable filesize function taken from https://github.com/hustcc/filesize.js/
@@ -19,10 +20,31 @@ function filesize(path, fixed) {
 }
 
 module.exports = async function() {
-  const repoCount = repos.length;
-  const docCount = repos.reduce( (sum, current) => {
+  const repoCount = allRepos.length;
+  const docCount = allRepos.reduce( (sum, current) => {
     return sum + current.count;
   }, 0);
+
+  const greylist = ['textcreationpartnership'];
+  const shorterRepos = allRepos.reduce((reducedRepos, current) => {
+    const owner = current.name.split('/')[0];
+    if(greylist.includes(owner)){
+      if(!reducedRepos.has(owner)){
+        current.name = `${owner} (all repos)`;
+        current.desc = `(${owner} uses one repository per text. To make this table smaller they have been aggregated into one entry)`;
+        reducedRepos.set(owner, current);
+      } else {
+        let item = reducedRepos.get(owner);
+        item.count += current.count;
+        reducedRepos.set(owner, item);
+      }
+    } else {
+      reducedRepos.set(owner, current);
+    }
+    return reducedRepos;
+  }, new Map());
+
+  const repos = [...shorterRepos.values()];
 
   const langs = repos.reduce( (allLangs, current) => {
     current.langs = current.langs || [];
@@ -40,7 +62,7 @@ module.exports = async function() {
 
   const langObjects = [...langs.entries()]
     .map(x => {
-      return {code: x[0], count: x[1]};
+      return {code: x[0], count: x[1], name: languages.getName(x[0], 'name')};
     })
 
   const langCounts = [...langObjects]
@@ -53,8 +75,8 @@ module.exports = async function() {
 
   const description = [...repos].sort((a, b) => {
     //Sort empty descriptions to end
-    if(a.desc === '-' || a.desc === null) return 1;
-    if(b.desc === '-' || b.desc === null) return -1;
+    if(a.desc === '-' || a.desc == null) return 1;
+    if(b.desc === '-' || b.desc == null) return -1;
     //Otherwise do case/diacritic insensitive sort
     return a.desc.localeCompare(b.desc);
   });

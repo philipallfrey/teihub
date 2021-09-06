@@ -34,6 +34,7 @@ countOrder: 'desc'
   <thead>
     <tr>
       <th><a class="{{'active' if active.code}}" href="/languages/code/{{codeOrder}}/">Language Code</a></th>
+      <th>Language Name</th>
       <th><a class="{{'active' if active.count}}" href="/languages/count/{{countOrder}}/">Matching Repositories</a></th>
     </tr>
   </thead>
@@ -41,6 +42,7 @@ countOrder: 'desc'
   {% for lang in pagination.items %}
   <tr>
     <td><a href="https://en.wikipedia.org/wiki/ISO_639:{{lang.code}}" target="_blank">{{lang.code}}</a></td>
+    <td class="{{lang.dir}}"><span class="{{'local' if lang.isLocalName else 'english'}}">{{lang.name}}</span></td>
     <td>{{lang.count}}</td>
   </tr>
   {% endfor %}
