@@ -13,7 +13,6 @@ module.exports = async function() {
         name: languages.getName(x.lang, 'name'),
       };
     });
-    console.log(langObjects);
 
   const langCounts = [...langObjects]
     .sort((a, b) => b.count - a.count);

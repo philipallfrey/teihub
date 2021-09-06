@@ -39,7 +39,7 @@ module.exports = async function() {
         reducedRepos.set(owner, item);
       }
     } else {
-      reducedRepos.set(owner, current);
+      reducedRepos.set(current.name, current);
     }
     return reducedRepos;
   }, new Map());
@@ -60,10 +60,16 @@ module.exports = async function() {
     return allLangs;
   }, new Map());
 
-  const langObjects = [...langs.entries()]
+  const langObjects = [...langs]
     .map(x => {
-      return {code: x[0], count: x[1], name: languages.getName(x[0], 'name')};
-    })
+      return {
+        code: x[0],
+        count: x[1],
+        dir: languages.getDir(x[0]),
+        isLocalName: languages.isLocalName(x[0]),
+        name: languages.getName(x[0], 'name'),
+      };
+    });
 
   const langCounts = [...langObjects]
     .sort((a, b) => b.count - a.count);
