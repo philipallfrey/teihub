@@ -1,0 +1,38 @@
+---
+layout: layout
+pagination:
+  data: tei-tags-2021
+  size: 50
+tagOrder: 'asc'
+moduleOrder: 'asc'
+countOrder: 'desc'
+---
+<h2 class="ui top attached block header">
+  TEI tags (2021 dataset)
+</h2>
+<div class="ui attached segment">
+    <p>Over a period of approximately 6 months in 2020/2021 I used semi-automated queries to retrieve 1,995,583 TEI-encoded files from public GitHub repositories.</p>
+    <p>The table below shows how many times each of the official TEI tags was used, and which TEI module it belongs to.</p>
+    <p>There are also a few thousand other tags used which I am still collating.</p>
+</div>
+
+<table class="ui unstackable collapsing celled padded table">
+  <thead>
+    <tr>
+      <th><a class="{{'active' if active.tag}}" href="/tei-tags-2021/tag/{{tagOrder}}/">TEI element</a></th>
+      <th><a class="{{'active' if active.module}}" href="/tei-tags-2021/tag/{{moduleOrder}}/">TEI module</a></th>
+      <th><a class="{{'active' if active.count}}" href="/tei-tags-2021/count/{{countOrder}}/">Instances of element</a></th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for item in pagination.items %}
+  <tr>
+    <td><a href="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-{{item.tag}}.html" target="_blank">{{item.tag}}</a></td>
+    <td>{{item.module}}</td>
+    <td class="rtl">{{item.count}}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+  <tfoot>
+  </tfoot>
+</table>
