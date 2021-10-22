@@ -1,1 +1,1 @@
-{"date":1634848686983,"name":"ecds/readux","url":"https://github.com/ecds/readux","desc":"Django web application to display, annotate, and export digitized books.","files":["apps/iiif/canvases/fixtures/alto.xml","apps/iiif/canvases/fixtures/tei.xml"],"langs":[]}
+{"date":1634892099872,"name":"ecds/readux","url":"https://github.com/ecds/readux","desc":"Django web application to display, annotate, and export digitized books.","files":["apps/iiif/canvases/fixtures/alto.xml","apps/iiif/canvases/fixtures/tei.xml"],"langs":[]}
