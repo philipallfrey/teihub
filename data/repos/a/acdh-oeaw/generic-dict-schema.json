@@ -1,0 +1,1 @@
+{"date":1638581818997,"name":"acdh-oeaw/generic-dict-schema","url":"https://github.com/acdh-oeaw/generic-dict-schema","desc":"A TEI Lex0 customization employed as the base model in several dictionaries produced at ACDH-CH","files":["schema/out/acdh-ch-dicts.xsd","schema/acdh-ch-dicts.odd","schema/out/acdh-ch-dicts.rng"],"langs":[]}
