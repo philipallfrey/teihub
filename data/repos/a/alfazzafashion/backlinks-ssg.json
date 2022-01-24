@@ -1,0 +1,1 @@
+{"date":1643028895668,"name":"alfazzafashion/backlinks-ssg","url":"https://github.com/alfazzafashion/backlinks-ssg","desc":"A static site generator for markdown notes that also generates backlinks between files.","files":["pandoc/test/writer.tei","pandoc/data/templates/default.tei"],"langs":[]}
