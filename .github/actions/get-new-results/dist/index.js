@@ -1513,7 +1513,7 @@ async function run() {
   try {
     for(let i=1; i<=10; i++){
       //Delay to avoid hitting secondary rate limit warning from GitHub API
-      await sleep(40000);
+      await sleep(60000);
       const { data } = await octokit.search.code({
         q: 'teiheader+language:xml',
         sort: 'indexed',
