@@ -1510,10 +1510,12 @@ async function run() {
 
   //The Search Code API has a limit of 100 results per page and max 1000 results
   //Get the 1000 most recently indexed matches in batches of 100
+  // March 2022: Rate limits have got stricter and this approach regularly fails.
+  // Just get one batch of 100 results every hour
   try {
-    for(let i=1; i<=10; i++){
+    for(let i=1; i<2; i++){
       //Delay to avoid hitting secondary rate limit warning from GitHub API
-      await sleep(60000);
+      //await sleep(60000);
       const { data } = await octokit.search.code({
         q: 'teiheader+language:xml',
         sort: 'indexed',
