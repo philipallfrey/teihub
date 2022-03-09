@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1646815275999,"name":"erc-dharma/tfd-nusantara-philology","url":"https://github.com/erc-dharma/tfd-nusantara-philology","desc":"DHARMA project, task force D","files":["output/critical-edition/editedXML/EDITED_DHARMA_CritEdKakavinParthayajna.xml","editions/DHARMA_CritEdKakavinParthayajna.xml"],"langs":["san","kaw"]}];
