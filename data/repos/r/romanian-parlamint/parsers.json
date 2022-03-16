@@ -1,1 +1,1 @@
-{"date":1624164746516,"name":"romanian-parlamint/parsers","url":"https://github.com/romanian-parlamint/parsers","desc":"-","files":["corpus-root-template.xml","session-template.xml"],"langs":["ron"]}
+{"date":1647420089999,"name":"romanian-parlamint/parsers","url":"https://github.com/romanian-parlamint/parsers","desc":"-","files":["corpus-root-template.xml","session-template.xml","data/templates/session-template.xml","data/templates/corpus-root-template.xml"],"langs":["ron"]}
