@@ -1,1 +1,1 @@
-module.exports = [{"date":1647845380999,"name":"Handrit/Manuscripts","url":"https://github.com/Handrit/Manuscripts","desc":"Icelandic Manuscript descriptions using TEI P5 ","files":["Manuscripts/Den Arnamagnæanske Samling/AM/AM04/en/AM04-0866-en.xml","Manuscripts/Den Arnamagnæanske Samling/AM/AM04/da/AM04-0866-da.xml","Manuscripts/Den Arnamagnæanske Samling/AM/AM04/da/AM04-0867-da.xml","Manuscripts/Den Arnamagnæanske Samling/AM/AM04/en/AM04-0867-en.xml","Authority Files/class-decl.xml"],"langs":["deu"]}];
+module.exports = [];
