@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1648064415999,"name":"fihristorg/fihrist-mss","url":"https://github.com/fihristorg/fihrist-mss","desc":"Fihrist TEI Catalogue","files":["collections/the university of manchester/Persian_MS_51.xml","collections/the university of manchester/Persian_MS_795.xml"],"langs":["fas","zxx","ara"]}];
