@@ -1,1 +1,1 @@
-module.exports = [{"date":1648001788999,"name":"BetaMasaheft/Manuscripts","url":"https://github.com/BetaMasaheft/Manuscripts","desc":"Manuscripts descriptions","files":["AbbaGarima/AG00001.xml","Ham/DabraLibanosHamGG1/DabraLibanosHamGG1.xml"],"langs":["eng","gez"]}];
+module.exports = [];
