@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1648007481999,"name":"Brown-University-Library/iip-texts","url":"https://github.com/Brown-University-Library/iip-texts","desc":"IIP inscriptions encoded in Epidoc XML and supporting files","files":["epidoc-files/jeru0604.xml"],"langs":["lat"]},{"date":1648007481998,"name":"TEI-EAJ/koui","url":"https://github.com/TEI-EAJ/koui","desc":"校本風異文可視化ツール","files":["static/data/nakamura.xml","static/data/01_with_wit_images.xml","static/data/faith.xml","static/data/01_with_wit.xml"],"langs":[]}];
