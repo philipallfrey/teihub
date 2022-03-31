@@ -1,1 +1,1 @@
-module.exports = [{"date":1648712464999,"name":"srophe/syriacbibliography","url":"https://github.com/srophe/syriacbibliography","desc":"-","files":["repo-config.xml"],"langs":[]}];
+module.exports = [];
