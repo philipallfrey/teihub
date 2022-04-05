@@ -1,1 +1,1 @@
-module.exports = [{"date":1649115775999,"name":"84000/data-tei","url":"https://github.com/84000/data-tei","desc":"TEI files of the translations","files":["translations/kangyur/translations/059-014_toh171_questions_of_old_lady.xml"],"langs":["eng"]},{"date":1649115775998,"name":"radardenker/hp-online-edition","url":"https://github.com/radardenker/hp-online-edition","desc":"Static web rendering routine for the Haṭhapradīpikā-editing project.","files":["latex/HP1_OldMss-tei.xml","xml/HP1_OldMss-tei.xml"],"langs":["san"]}];
+module.exports = [];
