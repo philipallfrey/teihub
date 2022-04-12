@@ -1,1 +1,1 @@
-module.exports = [{"date":1649749322999,"name":"erc-dharma/project-documentation","url":"https://github.com/erc-dharma/project-documentation","desc":"DHARMA Project Documentation","files":["DHARMA_prosodicPatterns_v01.xml"],"langs":[]}];
+module.exports = [];
