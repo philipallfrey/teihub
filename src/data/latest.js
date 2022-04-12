@@ -1,1 +1,1 @@
-module.exports = [{"date":1649768791999,"name":"erc-dharma/tfb-telugu-epigraphy","url":"https://github.com/erc-dharma/tfb-telugu-epigraphy","desc":"DHARMA project Task Force B Telugu epigraphic corpus","files":["workflow-output/editedxml/EDITED_DHARMA_INSTelugu00101.xml","texts/DHARMA_INSTelugu00101.xml"],"langs":[]}];
+module.exports = [];
