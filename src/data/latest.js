@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1650358111999,"name":"kspicer80/henry_james","url":"https://github.com/kspicer80/henry_james","desc":"-","files":["tei/hj_tots_tei.xml"],"langs":["eng"]},{"date":1650358111998,"name":"leeannachen/Contextualizing-Dura-Europa","url":"https://github.com/leeannachen/Contextualizing-Dura-Europa","desc":"Using ancient graffiti to contextualize Dura Europa ","files":["XML/test.xml"],"langs":[]}];
