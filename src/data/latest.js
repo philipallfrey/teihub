@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1650408281999,"name":"ELTE-DH/gold-standard","url":"https://github.com/ELTE-DH/gold-standard","desc":"Digitális Örökség Nemzeti Laboratórium - Gold standard korpusz projekt","files":["corpus/Morph annotated/Informal/blog020.xml_annot1","corpus/Morph annotated/Informal/blog034_annot1.xml"],"langs":["hun"]},{"date":1650408281997,"name":"cmsmcq/Aparecium","url":"https://github.com/cmsmcq/Aparecium","desc":"An invisible-XML processor for XQuery and XSLT","files":["src/Aparecium.xml","src/test-harness.xml"],"langs":[]}];
