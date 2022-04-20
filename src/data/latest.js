@@ -1,1 +1,1 @@
-module.exports = [{"date":1650432139999,"name":"morethanbooks/XML-TEI-Bible","url":"https://github.com/morethanbooks/XML-TEI-Bible","desc":"Encoding the Bibel in TEI, starting with the Gospels","files":["sexual-annotation/EXO.xml"],"langs":[]}];
+module.exports = [{"date":1650434135999,"name":"morethanbooks/XML-TEI-Bible","url":"https://github.com/morethanbooks/XML-TEI-Bible","desc":"Encoding the Bibel in TEI, starting with the Gospels","files":["sexual-annotation/EXO.xml"],"langs":[]}];
