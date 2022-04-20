@@ -1,1 +1,1 @@
-module.exports = [{"date":1650474368999,"name":"helmadik/LewisShortLogeion","url":"https://github.com/helmadik/LewisShortLogeion","desc":"LewisShort from Perseus, edited at Chicago; needs your help! ","files":["latindico25.xml","latindico23.xml"],"langs":["eng","lat"]}];
+module.exports = [{"date":1650476970999,"name":"helmadik/LewisShortLogeion","url":"https://github.com/helmadik/LewisShortLogeion","desc":"LewisShort from Perseus, edited at Chicago; needs your help! ","files":["latindico25.xml","latindico23.xml"],"langs":["eng","lat"]}];
