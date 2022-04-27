@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1651059653999,"name":"freud-digital/frd-data","url":"https://github.com/freud-digital/frd-data","desc":"Repo to store XML/TEI Data fetched and processed from https://www.freud-edition.net/ ","files":["werke/drei-abhandlungen-zur-sexualtheorie/drei-abhandlungen-zur-sexualtheorie__druckversion-1.xml","werke/drei-abhandlungen-zur-sexualtheorie/drei-abhandlungen-zur-sexualtheorie__druckversion-0.xml"],"langs":[]}];
