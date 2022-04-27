@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1651070561999,"name":"BetaMasaheft/Manuscripts","url":"https://github.com/BetaMasaheft/Manuscripts","desc":"Manuscripts descriptions","files":["Berlin/BerOrQuart999.xml","Berlin/BerOrQuart992.xml","Berlin/BerOrQuart994.xml","Berlin/BerOrQuart989.xml","Berlin/BerOrQuart993.xml","Berlin/BerOrQuart995.xml","Berlin/BerOrQuart988.xml","Berlin/BerOrQuart990.xml","Berlin/BerOrQuart998.xml","Berlin/BerOrQuart991.xml","Berlin/BerOrQuart997.xml"],"langs":["eng"]}];
