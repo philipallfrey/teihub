@@ -1,1 +1,1 @@
-module.exports = [{"date":1651765631999,"name":"TST-Project/mss","url":"https://github.com/TST-Project/mss","desc":"Woking repository for the TST project","files":["Indien_0142.xml","Indien_0141.xml","Indien_0102.xml","Indien_0138.xml","Indien_0164.xml","Indien_0105.xml","Indien_0158.xml","Indien_0143.xml","Indien_0140.xml"],"langs":["fra","tam"]}];
+module.exports = [];
