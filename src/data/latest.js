@@ -1,1 +1,1 @@
-module.exports = [{"date":1651743945999,"name":"papyri/idp.data","url":"https://github.com/papyri/idp.data","desc":"Data from the Integrating Digital Papyrology project","files":["DCLP/61/60719.xml"],"langs":["eng","grc"]}];
+module.exports = [{"date":1651747620999,"name":"FiscalEstate/Fiscus","url":"https://github.com/FiscalEstate/Fiscus","desc":"Fiscal Estate in Medieval Italy: Continuity and Change (9th – 12th centuries)","files":["webapps/ROOT/content/xml/epidoc/doc5120.xml"],"langs":[]}];
