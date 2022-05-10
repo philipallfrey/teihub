@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1652175976999,"name":"eule123/letters","url":"https://github.com/eule123/letters","desc":"-","files":["03_briefe-gesamt.xml"],"langs":[]},{"date":1652175976998,"name":"acdh-oeaw/hanslick-vms","url":"https://github.com/acdh-oeaw/hanslick-vms","desc":"-","files":["102_derived_tei/102_02_tei-simple_refactored/04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml"],"langs":["deu"]}];
