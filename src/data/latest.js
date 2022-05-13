@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1652467909999,"name":"mrmxf/lmt-control-doc","url":"https://github.com/mrmxf/lmt-control-doc","desc":"-","files":["zmprc/core/inc/default/default.tei/core/template/default/default.tei"],"langs":[]}];
