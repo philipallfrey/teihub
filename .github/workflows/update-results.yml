@@ -33,7 +33,7 @@ jobs:
         token: ${{ secrets.WORKFLOW_TOKEN }}
     - name: Commit files
       run: |
-        message=`git log -n12 --oneline|grep -c 'skip ci'| sed -e's/12//' -e 's/[0-9]*/[skip ci]'/`
+        message=`git log -n12 --oneline|grep -c 'skip ci'| sed -e's/12//' -e 's/[0-9]\+/[skip ci]'/`
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add --all
