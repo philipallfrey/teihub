@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1653032587999,"name":"wellcomecollection/wellcome-collection-tei","url":"https://github.com/wellcomecollection/wellcome-collection-tei","desc":"Manuscript Descriptions encoded according to the Text Encoding Initiative","files":["Templates/Wellcome_TEI_MS_Ethiopian_SecondTemplate.xml"],"langs":["gez"]}];
