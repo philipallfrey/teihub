@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1654170194999,"name":"siglun/danish-sonnets","url":"https://github.com/siglun/danish-sonnets","desc":"A paper on the sonnets found in Archive for Danish Literature","files":["sonnet-analysis.xml"],"langs":[]}];
