@@ -1,1 +1,1 @@
-module.exports = [{"date":1654674211999,"name":"winnifredeatonarchive/wea_data","url":"https://github.com/winnifredeatonarchive/wea_data","desc":"The data for the WEA archive website","files":["data/texts/SunnySan6.xml","data/texts/SunnySan2.xml"],"langs":[]}];
+module.exports = [{"date":1654678252999,"name":"TST-Project/mss","url":"https://github.com/TST-Project/mss","desc":"Woking repository for the TST project","files":["Indien_0194.xml"],"langs":["fra"]}];
