@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1654674211999,"name":"winnifredeatonarchive/wea_data","url":"https://github.com/winnifredeatonarchive/wea_data","desc":"The data for the WEA archive website","files":["data/texts/SunnySan6.xml","data/texts/SunnySan2.xml"],"langs":[]}];
