@@ -1,1 +1,1 @@
-module.exports = [{"date":1654807501999,"name":"papyri/idp.data","url":"https://github.com/papyri/idp.data","desc":"Data from the Integrating Digital Papyrology project","files":["HGV_meta_EpiDoc/HGV958/957990.xml","DDB_EpiDoc_XML/jjp/jjp.50/jjp.50.131_4.xml"],"langs":["fra","eng","deu","ita","spa","lat","ell"]}];
+module.exports = [];
