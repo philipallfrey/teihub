@@ -33,8 +33,17 @@ async function run() {
     tweetedRepos = JSON.parse(tweetedReposContent);
   }
 
+  // Maintain a blacklist in case people request their repo not be tweeted
+  const blacklistPath = dataDir + 'tweet-blacklist.json';
+  let blacklistedRepos = [];
+  if(fs.existsSync(blacklistPath)){
+    const blacklistedReposContent = fs.readFileSync(blacklistPath, 'utf-8');
+    blacklistedRepos = JSON.parse(blacklistedReposContent);
+  }
+  const excludedRepos = tweetedRepos.concat(blacklistedRepos);
+
   // Remove from latest batch any repos tweeted in the past 30 days
-  const eligibleRepos = repos.filter(x => !tweetedRepos.includes(x.name));
+  const eligibleRepos = repos.filter(x => !excludedRepos.includes(x.name));
 
   // Don't tweet if there are no eligible repos
   if(eligibleRepos.length === 0) return;
@@ -48,12 +57,38 @@ async function run() {
     username: theOwner
   });
 
-  const theTwitterHandle = data.twitter_username != null ? ` by @${data.twitter_username}` : '';
+  let theTwitterHandle = data.twitter_username != null ? ` by @${data.twitter_username}` : '';
 
   // Construct the tweet
-  const intros = ['Check out', 'Have a look at', "Today's #TEI find:"];
+  let intros = [
+    { prefix: 'Check out'},
+    { prefix: 'Have a look at'},
+    { prefix: "Today's #TEI find:"}
+  ];
+  if(theRepo.langs.includes('deu')){
+    intros = [
+      { prefix:'Schauen Sie sich', suffix:' an'}
+    ];
+    theTwitterHandle = theTwitterHandle.replace(/^ by /,' von ');
+  } else if(theRepo.langs.includes('fra')){
+    intros = [
+      { prefix: 'Jeter un œil à'}
+    ];
+    theTwitterHandle = theTwitterHandle.replace(/^ by /,' par ');
+  } else if(theRepo.langs.includes('lat')){
+    intros = [
+      { prefix: 'Vide'},
+      { prefix: 'Inspice'}
+    ];
+    theTwitterHandle = theTwitterHandle.replace(/^ by /,' ab ');
+  } else if(theRepo.langs.includes('ces')) {
+    intros = [
+      { prefix: 'Podívejte se na'}
+    ];
+    theTwitterHandle = theTwitterHandle.replace(/^ by /,' od ');
+  }
   const random = Math.floor(Math.random() * intros.length);
-  let tweet = `${intros[random]} ${theRepo.url}${theTwitterHandle}: ${theRepo.desc}`;
+  let tweet = `${intros[random].prefix} ${theRepo.url}${intros[random].suffix || ''}${theTwitterHandle}: ${theRepo.desc}`;
 
   // Truncate tweet if it is longer than the max length
   const MAX_LENGTH = 280;
@@ -78,9 +113,9 @@ async function run() {
   });
 
   // Save this repo in the database, so we don't retweet too often
-  // max of 6 tweets/day * 30 days/month = 180 entries in tweetedRepos.
+  // max of 24 tweets/day * 30 days/month = 720 entries in tweetedRepos.
   tweetedRepos.unshift(theRepo.name);
-  fs.writeFileSync(filepath, JSON.stringify( tweetedRepos.slice(0,180) ))
+  fs.writeFileSync(filepath, JSON.stringify( tweetedRepos.slice(0,720) ))
 }
 
 run();
