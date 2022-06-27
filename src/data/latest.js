@@ -1,1 +1,1 @@
-module.exports = [{"date":1656308797999,"name":"abaevdict/abaevdict-tei","url":"https://github.com/abaevdict/abaevdict-tei","desc":"The TEI version of the Abaev dictionary","files":["abaev_biblio.xml","entries/abaev_mæq6q9ī.xml"],"langs":["rus","eng"]}];
+module.exports = [{"date":1656312956999,"name":"abaevdict/abaevdict-tei","url":"https://github.com/abaevdict/abaevdict-tei","desc":"The TEI version of the Abaev dictionary","files":["abaev_biblio.xml","entries/abaev_mæq6q9ī.xml"],"langs":["rus","eng"]}];
