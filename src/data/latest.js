@@ -1,1 +1,1 @@
-module.exports = [{"date":1656319841999,"name":"BetaMasaheft/Persons","url":"https://github.com/BetaMasaheft/Persons","desc":"Authority files for each person","files":["new/PRS13835Yosef.xml"],"langs":["eng","gez"]}];
+module.exports = [{"date":1656323092999,"name":"TST-Project/mss","url":"https://github.com/TST-Project/mss","desc":"Woking repository for the TST project","files":["Indien_0506.xml","Indien_0179.xml"],"langs":["tam"]}];
