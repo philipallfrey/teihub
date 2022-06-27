@@ -1,1 +1,1 @@
-module.exports = [{"date":1656323092999,"name":"TST-Project/mss","url":"https://github.com/TST-Project/mss","desc":"Woking repository for the TST project","files":["Indien_0506.xml","Indien_0179.xml"],"langs":["tam"]}];
+module.exports = [{"date":1656326887999,"name":"haoess/pitaval2tei","url":"https://github.com/haoess/pitaval2tei","desc":"Converts plain text files from the „Der neue Pitaval“ to TEI P5 XML","files":["template.xml"],"langs":["deu"]}];
