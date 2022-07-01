@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1656668778999,"name":"FiscalEstate/Fiscus","url":"https://github.com/FiscalEstate/Fiscus","desc":"Fiscal Estate in Medieval Italy: Continuity and Change (9th – 12th centuries)","files":["webapps/ROOT/content/xml/epidoc/doc5147.xml"],"langs":[]},{"date":1656668778998,"name":"digiMof/gbggold","url":"https://github.com/digiMof/gbggold","desc":"Final Project - Digital Text in the Humanities","files":["bassaniTei.xml"],"langs":[]}];
