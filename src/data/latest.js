@@ -1,1 +1,1 @@
-module.exports = [{"date":1657233939999,"name":"nakamura196/kanazawabunko","url":"https://github.com/nakamura196/kanazawabunko","desc":"-","files":["xml/5.xml"],"langs":[]}];
+module.exports = [{"date":1657237529999,"name":"nakamura196/kanazawabunko","url":"https://github.com/nakamura196/kanazawabunko","desc":"-","files":["xml/5.xml"],"langs":[]}];
