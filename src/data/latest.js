@@ -1,1 +1,1 @@
-module.exports = [{"date":1658163924999,"name":"erc-dharma/tfd-nusantara-philology","url":"https://github.com/erc-dharma/tfd-nusantara-philology","desc":"DHARMA project, task force D","files":["output/critical-edition/editedXML/EDITED_DHARMA_CritEdSiksaGuru.xml","editions/DHARMA_DiplEdCandrakiranaPerpusnasL631.xml","editions/DHARMA_CritEdSiksaGuru.xml"],"langs":["san","kaw"]}];
+module.exports = [];
