@@ -1,1 +1,1 @@
-module.exports = [{"date":1658293749999,"name":"conditor-project/co-xslt","url":"https://github.com/conditor-project/co-xslt","desc":"XSL transformation module","files":["test/dataset/hal/correct.xml"],"langs":["eng"]}];
+module.exports = [{"date":1658295978999,"name":"conditor-project/co-xslt","url":"https://github.com/conditor-project/co-xslt","desc":"XSL transformation module","files":["test/dataset/hal/correct.xml"],"langs":["eng"]}];
