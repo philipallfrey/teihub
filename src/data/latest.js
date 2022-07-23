@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1658549472999,"name":"erc-dharma/tfd-nusantara-philology","url":"https://github.com/erc-dharma/tfd-nusantara-philology","desc":"DHARMA project, task force D","files":["editions/DHARMA_CritEdSiksaGuru_transEng01.xml"],"langs":[]},{"date":1658549472998,"name":"haggis78/manuscripts","url":"https://github.com/haggis78/manuscripts","desc":"Forward-facing content created by students and professors in History of the Book","files":["tei/tei_ms.odd"],"langs":[]}];
