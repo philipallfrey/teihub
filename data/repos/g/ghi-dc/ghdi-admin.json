@@ -1,0 +1,1 @@
+{"date":1658691722995,"name":"ghi-dc/ghdi-admin","url":"https://github.com/ghi-dc/ghdi-admin","desc":"eXist-db-based Content Management System of German History in Documents and Images","files":["src/Utils/schema/tei_simplePrint.xsd","data/schema/basisformat.rng","data/tei/skeleton.tei.xml"],"langs":[]}
