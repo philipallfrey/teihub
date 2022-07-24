@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1658645540999,"name":"csae8092/whatever","url":"https://github.com/csae8092/whatever","desc":"-","files":["indices/listplace.xml","indices/listbibl.xml","indices/listperson.xml","indices/listorg.xml"],"langs":[]},{"date":1658645540995,"name":"HanaM288/Letters-from-1942-v2","url":"https://github.com/HanaM288/Letters-from-1942-v2","desc":"A series of correspondence between two young adults over several months in 1942.","files":["collection/tei/TEI letters from 1942.xml","collection/tei/DCHM_example.xml"],"langs":[]}];
