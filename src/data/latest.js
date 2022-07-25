@@ -1,1 +1,1 @@
-module.exports = [{"date":1658749431999,"name":"PeterDeVault/AlliterativePoetry","url":"https://github.com/PeterDeVault/AlliterativePoetry","desc":"-","files":["Juliana - transcription.xml"],"langs":[]},{"date":1658749431998,"name":"ebeshero/dh2022-XSLT-workshop","url":"https://github.com/ebeshero/dh2022-XSLT-workshop","desc":"code repository to support the DH2022 workshop Navigating and Processing Data from the TEI with XSLT","files":["xml/ja_soseki-letter-ex3.xml"],"langs":["jpn"]}];
+module.exports = [];
