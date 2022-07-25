@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1658760327999,"name":"FiscalEstate/Fiscus","url":"https://github.com/FiscalEstate/Fiscus","desc":"Fiscal Estate in Medieval Italy: Continuity and Change (9th – 12th centuries)","files":["webapps/ROOT/content/xml/epidoc/doc524.xml"],"langs":[]},{"date":1658760327998,"name":"TST-Project/mss","url":"https://github.com/TST-Project/mss","desc":"Woking repository for the TST project","files":["Indien_0406.xml","Indien_0945.xml","Indien_0305.xml","Indien_0735.xml","Indien_0300.xml"],"langs":["tam"]}];
