@@ -1,1 +1,1 @@
-module.exports = [{"date":1658951034999,"name":"MADStudioNU/the-pulter-project","url":"https://github.com/MADStudioNU/the-pulter-project","desc":"A digital edition of lady Hester Pulter’s poems.","files":["pulter-poems/pulter_099.xml","pulter-poems/pulter_006.xml"],"langs":["eng"]},{"date":1658951034998,"name":"dariobaldini98/tesi_db","url":"https://github.com/dariobaldini98/tesi_db","desc":"-","files":["tei/tesi_db.xml"],"langs":["ita"]}];
+module.exports = [];
