@@ -1,1 +1,1 @@
-module.exports = [{"date":1659323692999,"name":"scta-texts/xAbSeN","url":"https://github.com/scta-texts/xAbSeN","desc":"Abelard Sic et Non","files":["xAbSeN-1e2204/cod-ABEPKd_xAbSeN-1e2204.xml"],"langs":["lat"]}];
+module.exports = [{"date":1659329980999,"name":"cbeta-git/xml-p5a","url":"https://github.com/cbeta-git/xml-p5a","desc":"CBETA XML P5a 版本","files":["T/T20/T20n1153.xml","T/T85/T85n2827.xml","T/T12/T12n0360.xml","T/T08/T08n0240.xml","T/T45/T45n1858.xml","D/D51/D51n8948.xml","T/T20/T20n1066.xml","T/T31/T31n1593.xml","T/T37/T37n1757.xml"],"langs":["san","eng","zho"]}];
