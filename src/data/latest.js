@@ -1,1 +1,1 @@
-module.exports = [{"date":1659721920999,"name":"TheWWWasteLand/thewwwasteland.github.io","url":"https://github.com/TheWWWasteLand/thewwwasteland.github.io","desc":"-","files":["wasteland.xml"],"langs":[]}];
+module.exports = [{"date":1659725467999,"name":"Brown-University-Library/usep-data","url":"https://github.com/Brown-University-Library/usep-data","desc":"inscriptions and related data files for 'http://library.brown.edu/projects/usep/'","files":["xml_inscriptions/metadata_only/KY.Lou.SAM.L.1929.17.546.xml"],"langs":["lat"]}];
