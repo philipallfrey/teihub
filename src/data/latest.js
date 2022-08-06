@@ -1,1 +1,1 @@
-module.exports = [{"date":1659791135999,"name":"KfNGOe/ferdinand-I-data","url":"https://github.com/KfNGOe/ferdinand-I-data","desc":"-","files":["data/dtabf_id/band_001/A004.xml","data/tei/band_001/A004.xml","data/dtabf/band_001/A004.xml"],"langs":["deu","eng"]}];
+module.exports = [{"date":1659793618999,"name":"KfNGOe/ferdinand-I-data","url":"https://github.com/KfNGOe/ferdinand-I-data","desc":"-","files":["data/tei/band_001/A004.xml"],"langs":[]}];
