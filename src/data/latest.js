@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1659905142999,"name":"abaevdict/abaevdict-tei","url":"https://github.com/abaevdict/abaevdict-tei","desc":"The TEI version of the Abaev dictionary","files":["entries/abaev_najyn.xml","entries/abaev_nyfs.xml","entries/abaev_nana.xml","entries/abaev_nas.xml","entries/abaev_nostæ.xml","entries/abaev_nyg0ylyn.xml","entries/abaev_mes.xml"],"langs":["rus","eng","oss","ira","kho","inc","ine","fas","x-rushani","sgh","yah","sgy","isk","ydg","mnj","prc","yai","sog","zkh","ave","sga","mga","lat","xcl"]}];
