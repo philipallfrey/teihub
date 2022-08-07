@@ -1,1 +1,1 @@
-module.exports = [{"date":1659891438999,"name":"Helsingerunor/Helsingerunor-1921","url":"https://github.com/Helsingerunor/Helsingerunor-1921","desc":"-","files":["collection/tei/Helsingerunor electronic transcription.xml"],"langs":["swe"]},{"date":1659891438998,"name":"FiscalEstate/Fiscus","url":"https://github.com/FiscalEstate/Fiscus","desc":"Fiscal Estate in Medieval Italy: Continuity and Change (9th – 12th centuries)","files":["webapps/ROOT/content/xml/epidoc/doc1199.xml","webapps/ROOT/content/xml/epidoc/doc2186.xml"],"langs":[]}];
+module.exports = [];
