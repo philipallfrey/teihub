@@ -1,1 +1,1 @@
-module.exports = [{"date":1660207775999,"name":"cbeta-git/xml-p5a","url":"https://github.com/cbeta-git/xml-p5a","desc":"CBETA XML P5a 版本","files":["ZW/ZW01/ZW01n0007.xml"],"langs":["eng","zho"]}];
+module.exports = [];
