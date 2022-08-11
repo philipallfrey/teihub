@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1660250767999,"name":"DigitalMitford/DM_SiteIndex","url":"https://github.com/DigitalMitford/DM_SiteIndex","desc":"a repository for development of our prosopography \"site index\" file","files":["Template_si_Add/si-Add_Template.xml","si_Add_IP/si-Add_StubsIP_2022.xml"],"langs":[]}];
