@@ -1,1 +1,1 @@
-module.exports = [{"date":1660344421999,"name":"dracor-org/dracor-schema","url":"https://github.com/dracor-org/dracor-schema","desc":"Place for ODD/schema and central CSS for dracor.org files.","files":["odd/out/dracor.rng","odd/dracor.odd"],"langs":[]}];
+module.exports = [];
