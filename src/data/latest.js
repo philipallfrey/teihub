@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1660358276999,"name":"gmaterni/teimed","url":"https://github.com/gmaterni/teimed","desc":"python per tei","files":["teimcfg/tei.xml"],"langs":[]}];
