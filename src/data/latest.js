@@ -1,1 +1,1 @@
-module.exports = [{"date":1660423540999,"name":"BucknellDSC/suzette","url":"https://github.com/BucknellDSC/suzette","desc":"-","files":["SemanticXML/suzette_ch077.xml","SemanticXML/suzette_ch076.xml","SemanticXML/suzette_ch075.xml"],"langs":["fra","eng"]}];
+module.exports = [{"date":1660427012999,"name":"BucknellDSC/suzette","url":"https://github.com/BucknellDSC/suzette","desc":"-","files":["SemanticXML/suzette_ch077.xml","SemanticXML/suzette_ch076.xml","SemanticXML/suzette_ch075.xml"],"langs":["fra","eng"]}];
