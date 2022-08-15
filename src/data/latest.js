@@ -1,1 +1,1 @@
-module.exports = [{"date":1660578683999,"name":"fihristorg/fihrist-mss","url":"https://github.com/fihristorg/fihrist-mss","desc":"Fihrist TEI Catalogue","files":["collections/the university of manchester/Persian_MS_403.xml"],"langs":["fas"]}];
+module.exports = [{"date":1660583172999,"name":"BucknellDSC/suzette","url":"https://github.com/BucknellDSC/suzette","desc":"-","files":["SemanticXML/suzette_ch073.xml"],"langs":["fra","eng"]}];
