@@ -1,1 +1,1 @@
-module.exports = [{"date":1660722297999,"name":"TheWWWasteLand/The-Waste-Land-Original-Drafts","url":"https://github.com/TheWWWasteLand/The-Waste-Land-Original-Drafts","desc":"-","files":["wasteland.xml"],"langs":[]}];
+module.exports = [{"date":1660726254999,"name":"TheWWWasteLand/The-Waste-Land-Original-Drafts","url":"https://github.com/TheWWWasteLand/The-Waste-Land-Original-Drafts","desc":"-","files":["wasteland.xml"],"langs":[]}];
