@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1660914922999,"name":"Handrit/Manuscripts","url":"https://github.com/Handrit/Manuscripts","desc":"Icelandic Manuscript descriptions using TEI P5 ","files":["Manuscripts/Stofnun Árna Magnússonar/AM Dipl Isl/is/AMDI-F0040-0008-is.xml"],"langs":["isl"]}];
