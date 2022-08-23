@@ -1,1 +1,1 @@
-module.exports = [{"date":1661294801999,"name":"brucemiller/LaTeXML","url":"https://github.com/brucemiller/LaTeXML","desc":"LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.","files":["t/daemon/formats/tei.xml"],"langs":[]}];
+module.exports = [];
