@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1661471526999,"name":"nidiah/Primer-viaje-alrededor-del-mundo","url":"https://github.com/nidiah/Primer-viaje-alrededor-del-mundo","desc":"Files from digital edition of Primer viaje alrededor el mundo","files":["assets/downloads/pigafetta-primer-viaje.tei.xml"],"langs":["spa"]}];
