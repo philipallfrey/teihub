@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1661413640999,"name":"arthur-schnitzler/arthur-schnitzler-arbeit","url":"https://github.com/arthur-schnitzler/arthur-schnitzler-arbeit","desc":"Working Environment for the edition of the correspondences of Arthur Schnitzler. No documentation, not intended for a wider audience","files":["editions/L02735.xml"],"langs":["deu"]}];
