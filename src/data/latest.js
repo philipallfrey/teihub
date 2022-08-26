@@ -1,1 +1,1 @@
-module.exports = [{"date":1661546857999,"name":"Digital-Humanities-Quarterly/dhq-journal","url":"https://github.com/Digital-Humanities-Quarterly/dhq-journal","desc":"-","files":["articles/000396/000396.xml"],"langs":["eng"]}];
+module.exports = [{"date":1661550357999,"name":"MelissaBradshaw/ALLP","url":"https://github.com/MelissaBradshaw/ALLP","desc":"Work space for the Amy Lowell Letters Project","files":["encoding/letters/Aldington_Richard/AldingtonRichard19150227.xml","encoding/letters/Aldington_Richard/AldingtonRichard19150202.xml"],"langs":[]}];
