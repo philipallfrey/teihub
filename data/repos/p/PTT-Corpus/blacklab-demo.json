@@ -1,0 +1,1 @@
+{"date":1662470804975,"name":"PTT-Corpus/blacklab-demo","url":"https://github.com/PTT-Corpus/blacklab-demo","desc":"This is a demo repo to demonstrate how to build Blacklab corpus via Docker and Nginx.","files":["indexer/tei-data/dcard_mock_data.xml","indexer/tei-data/ptt_mock_data.xml"],"langs":[]}
