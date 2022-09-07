@@ -1,1 +1,1 @@
-module.exports = [{"date":1662533278999,"name":"cbeta-git/xml-p5a","url":"https://github.com/cbeta-git/xml-p5a","desc":"CBETA XML P5a 版本","files":["T/T15/T15n0620.xml","T/T85/T85n2813.xml","J/J39/J39nB458.xml","J/J27/J27nB199.xml","B/B17/B17n0094.xml","T/T51/T51n2097.xml","T/T51/T51n2090.xml"],"langs":["eng","zho"]},{"date":1662533278992,"name":"MEDEAEditions/DEPCHA","url":"https://github.com/MEDEAEditions/DEPCHA","desc":"Data for the DEPCHA project","files":["Collections/Template/template.xml"],"langs":[]}];
+module.exports = [];
