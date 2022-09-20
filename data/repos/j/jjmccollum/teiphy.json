@@ -1,1 +1,1 @@
-{"date":1662724026929,"name":"jjmccollum/teiphy","url":"https://github.com/jjmccollum/teiphy","desc":"General-purpose Python utility for converting TEI XML collations to NEXUS and other formats.","files":["example/ubs_ephesians.xml"],"langs":["grc"]}
+{"date":1663660461984,"name":"jjmccollum/teiphy","url":"https://github.com/jjmccollum/teiphy","desc":"General-purpose Python utility for converting TEI XML collations to NEXUS and other formats.","files":["example/ubs_ephesians.xml","tests/no_dates_example.xml","tests/some_dates_example.xml"],"langs":["grc"]}
