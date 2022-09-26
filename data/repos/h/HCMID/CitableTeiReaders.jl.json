@@ -1,1 +1,1 @@
-{"date":1623259476333,"name":"HCMID/CitableTeiReaders.jl","url":"https://github.com/HCMID/CitableTeiReaders.jl","desc":"A Julia module for converting TEI XML documents to instances of a CitableCorpus.","files":["test/data/groupedthree.xml"],"langs":[]}
+{"date":1664163174999,"name":"HCMID/CitableTeiReaders.jl","url":"https://github.com/HCMID/CitableTeiReaders.jl","desc":"A Julia module for reading documents in a variety of formats to instances of a CitableCorpus.","files":["test/data/groupedthree.xml","test/data/jerometable.xml"],"langs":[]}
