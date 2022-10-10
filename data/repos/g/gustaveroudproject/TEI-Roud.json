@@ -1,1 +1,1 @@
-{"date":1635410520634,"name":"gustaveroudproject/TEI-Roud","url":"https://github.com/gustaveroudproject/TEI-Roud","desc":"Create a TEI standoff mapping for Knora, import it and create a resource using it","files":["createStandoffMapping/TEIexampleODD.xml"],"langs":[]}
+{"date":1665409314999,"name":"gustaveroudproject/TEI-Roud","url":"https://github.com/gustaveroudproject/TEI-Roud","desc":"Create a TEI standoff mapping for Knora, import it and create a resource using it","files":["createStandoffMapping/TEIexampleODD.xml","TEI-texts/test/test.xml"],"langs":[]}
