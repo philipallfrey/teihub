@@ -1,1 +1,1 @@
-module.exports = [{"date":1666177408999,"name":"CDRH/data_teaa","url":"https://github.com/CDRH/data_teaa","desc":"Data Repository for To Enter Africa from America","files":["source/drafts/tei/teaa.en.letter.0954.xml","source/drafts/tei/teaa.en.letter.0951.xml","source/drafts/tei/teaa.en.letter.0955.xml","source/drafts/tei/teaa.en.letter.0944.xml","source/drafts/tei/teaa.en.letter.0952.xml","source/drafts/tei/teaa.en.letter.0953.xml","source/tei/teaa.en.letter.0208.xml","source/tei/teaa.en.periodical.0002.xml"],"langs":["eng"]}];
+module.exports = [];
