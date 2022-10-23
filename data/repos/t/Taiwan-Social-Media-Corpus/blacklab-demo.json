@@ -1,0 +1,1 @@
+{"date":1666515558998,"name":"Taiwan-Social-Media-Corpus/blacklab-demo","url":"https://github.com/Taiwan-Social-Media-Corpus/blacklab-demo","desc":"A repo that demonstrates how to build Blacklab corpus via Docker and Nginx.","files":["indexer/tei-data/ptt_mock_data.xml","indexer/tei-data/dcard_mock_data.xml"],"langs":[]}
