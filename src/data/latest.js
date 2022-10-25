@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1666685069999,"name":"cschuwey/labruyere_ubs","url":"https://github.com/cschuwey/labruyere_ubs","desc":"-","files":["Bernardi_Clotilde/De_La_Mode.xml"],"langs":["fra"]}];
