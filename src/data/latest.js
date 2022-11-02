@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1667372433999,"name":"abaevdict/abaevdict-tei","url":"https://github.com/abaevdict/abaevdict-tei","desc":"The TEI version of the Abaev dictionary","files":["entries/abaev_sakʼadax.xml","entries/abaev_sajyn.xml"],"langs":["rus","hun","oss"]}];
