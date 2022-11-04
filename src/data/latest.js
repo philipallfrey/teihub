@@ -1,1 +1,1 @@
-module.exports = [{"date":1667594904999,"name":"projectEndings/Endings","url":"https://github.com/projectEndings/Endings","desc":"Core repository for the project","files":["articles/dhq_holmes_takeda/holmes_takeda_dhq_1385.xml"],"langs":["eng"]}];
+module.exports = [{"date":1667598399999,"name":"abaevdict/abaevdict-tei","url":"https://github.com/abaevdict/abaevdict-tei","desc":"The TEI version of the Abaev dictionary","files":["entries/abaev_syf_1.xml"],"langs":["rus","inc","oss","ave","ine","grc","sla"]}];
