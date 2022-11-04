@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1667594904999,"name":"projectEndings/Endings","url":"https://github.com/projectEndings/Endings","desc":"Core repository for the project","files":["articles/dhq_holmes_takeda/holmes_takeda_dhq_1385.xml"],"langs":["eng"]}];
