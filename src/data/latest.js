@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1668070720999,"name":"ghi-dc/ghis-frontend","url":"https://github.com/ghi-dc/ghis-frontend","desc":"Solr/XSLT-based front-end of German History in Documents and Images (GHDI) and German History Intersections (GHIS)","files":["sites/ghdi/data/about/about-editors.eng.xml","sites/ghdi/data/about/about-editors.deu.xml"],"langs":["eng"]}];
