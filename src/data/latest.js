@@ -1,1 +1,1 @@
-module.exports = [{"date":1668246480999,"name":"morethanbooks/XML-TEI-Bible","url":"https://github.com/morethanbooks/XML-TEI-Bible","desc":"Encoding the Bibel in TEI, starting with the Gospels","files":["sexual-annotation/1KI.xml","sexual-annotation/HEB.xml"],"langs":[]},{"date":1668246480997,"name":"papyri/idp.data","url":"https://github.com/papyri/idp.data","desc":"Data from the Integrating Digital Papyrology project","files":["DDB_EpiDoc_XML/p.athen/p.athen.49.xml","DDB_EpiDoc_XML/p.bad/p.bad.4/p.bad.4.94.xml"],"langs":["eng","grc"]}];
+module.exports = [];
