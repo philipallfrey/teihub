@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1668253411999,"name":"FiscalEstate/Fiscus","url":"https://github.com/FiscalEstate/Fiscus","desc":"Fiscal Estate in Medieval Italy: Continuity and Change (9th – 12th centuries)","files":["webapps/ROOT/content/xml/epidoc/doc2433.xml","webapps/ROOT/content/xml/epidoc/doc2435.xml","webapps/ROOT/content/xml/epidoc/doc2434.xml","webapps/ROOT/content/xml/epidoc/doc2436.xml"],"langs":[]}];
