@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1668345052999,"name":"erc-dharma/tfd-nusantara-philology","url":"https://github.com/erc-dharma/tfd-nusantara-philology","desc":"DHARMA project, task force D","files":["editions/DHARMA_CritEdSiksaKandangKaresian.xml"],"langs":["san"]},{"date":1668345052998,"name":"papyri/idp.data","url":"https://github.com/papyri/idp.data","desc":"Data from the Integrating Digital Papyrology project","files":["DDB_EpiDoc_XML/p.cair.zen/p.cair.zen.3/p.cair.zen.3.59502.xml"],"langs":["eng","grc"]}];
