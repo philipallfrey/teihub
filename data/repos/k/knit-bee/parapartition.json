@@ -1,1 +1,1 @@
-{"date":1668435037984,"name":"knit-bee/parapartition","url":"https://github.com/knit-bee/parapartition","desc":"Split texts (.txt, .xml) into paragraphs","files":["tests/testdata/tei_with_empty_p.xml","tests/testdata/xml/tei2.xml","tests/testdata/tei_with_p_in_header.xml"],"langs":[]}
+{"date":1668437346967,"name":"knit-bee/parapartition","url":"https://github.com/knit-bee/parapartition","desc":"Split texts (.txt, .xml) into paragraphs","files":["tests/testdata/tei_with_empty_p.xml","tests/testdata/xml/tei2.xml","tests/testdata/tei_with_p_in_header.xml"],"langs":[]}
