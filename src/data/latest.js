@@ -1,1 +1,1 @@
-module.exports = [{"date":1669013678999,"name":"romanticcircles/rc-tei","url":"https://github.com/romanticcircles/rc-tei","desc":"-","files":["editions/2022/DW I/Poetry folder/editions.2022.DW.poems-14.xml","editions/2022/DW I/Poetry folder/editions.2022.DW.poems-13.xml","editions/2022/DW I/Poetry folder/editions.2022.DW.poems-12.xml"],"langs":[]}];
+module.exports = [{"date":1669016650999,"name":"cschuwey/labruyere_ubs","url":"https://github.com/cschuwey/labruyere_ubs","desc":"-","files":["Morin_Mathieu/Merite_20-40.xml"],"langs":["fra","lat"]}];
