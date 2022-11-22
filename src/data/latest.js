@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1669099976999,"name":"dQIOG/qiogSamples","url":"https://github.com/dQIOG/qiogSamples","desc":"-","files":["pez-48-mod-min.xml","generalisiert.xml","dqioeg.rng","dqioeg.odd"],"langs":[]}];
