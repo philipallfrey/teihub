@@ -1,1 +1,1 @@
-{"date":1651845197997,"name":"freud-digital/frd-entities","url":"https://github.com/freud-digital/frd-entities","desc":"repo to process and publish entities","files":["templates/template_person.xml","indices/listperson.xml"],"langs":[]}
+{"date":1669384045993,"name":"freud-digital/frd-entities","url":"https://github.com/freud-digital/frd-entities","desc":"-","files":["templates/template_person.xml","indices/listperson.xml","templates/dreams.xml","templates/keywords.xml","out/listkey.xml","out/listbibl.xml","out/listdream.xml"],"langs":[]}
