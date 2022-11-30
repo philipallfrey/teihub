@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1669780248999,"name":"romanticcircles/rc-tei","url":"https://github.com/romanticcircles/rc-tei","desc":"-","files":["editions/2022/DW I/editions.2022.DW.GJ-text.xml"],"langs":[]},{"date":1669780248998,"name":"FiscalEstate/Fiscus","url":"https://github.com/FiscalEstate/Fiscus","desc":"Fiscal Estate in Medieval Italy: Continuity and Change (9th – 12th centuries)","files":["webapps/ROOT/content/xml/epidoc/doc4525.xml"],"langs":[]}];
