@@ -1,1 +1,1 @@
-module.exports = [{"date":1669765561999,"name":"cschuwey/labruyere_ubs","url":"https://github.com/cschuwey/labruyere_ubs","desc":"-","files":["Mouillet_Julie/Usages_1-20.xml"],"langs":["fra","lat"]}];
+module.exports = [];
