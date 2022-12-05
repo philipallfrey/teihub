@@ -1,1 +1,1 @@
-module.exports = [{"date":1670209327999,"name":"Project-Cairo-Urban-News/CairoUrbanNews","url":"https://github.com/Project-Cairo-Urban-News/CairoUrbanNews","desc":"Al-Waqa'i' al-Misriyya Urban News","files":["articles/arabic/1282.xml"],"langs":["ara","eng","ota"]}];
+module.exports = [{"date":1670211942999,"name":"Project-Cairo-Urban-News/CairoUrbanNews","url":"https://github.com/Project-Cairo-Urban-News/CairoUrbanNews","desc":"Al-Waqa'i' al-Misriyya Urban News","files":["articles/arabic/1282.xml"],"langs":["ara","eng","ota"]}];
