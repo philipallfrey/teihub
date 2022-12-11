@@ -1,1 +1,1 @@
-{"date":1670637783999,"name":"oeuvres/teinte_php","url":"https://github.com/oeuvres/teinte_php","desc":"For teinte as a regular composer package","files":["src/xsl/docx/default.xml"],"langs":["fra"]}
+{"date":1670795146998,"name":"oeuvres/teinte_php","url":"https://github.com/oeuvres/teinte_php","desc":"For teinte as a regular composer package","files":["src/xsl/docx/default.xml","tests/out/test_4.xml"],"langs":["fra"]}
