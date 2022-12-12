@@ -1,1 +1,1 @@
-module.exports = [{"date":1670850483999,"name":"wibarab/featuredb","url":"https://github.com/wibarab/featuredb","desc":"WIBARAB is a project in the field of Arabic dialectology. It consists of various regional sub-projects (four PhD projects) and a large database about bedouin-type dialects of Arabic. The Feature Database will be the main point of integrating the results of the sub-projects. In this repository we collect the primary data of the database in TEI/XML.","files":["802_tei_odd/featuredb.xml"],"langs":["eng"]}];
+module.exports = [];
