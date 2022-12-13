@@ -1,1 +1,1 @@
-{"date":1634317119874,"name":"e-ditiones/Annotator","url":"https://github.com/e-ditiones/Annotator","desc":"Automatic annotation of XML encoded files.","files":["XML/test_segmented.xml","XML/test.xml"],"langs":[]}
+{"date":1670946463963,"name":"e-ditiones/Annotator","url":"https://github.com/e-ditiones/Annotator","desc":"Automatic annotation of XML encoded files.","files":["XML/test_segmented.xml","XML/test.xml","in_XML/Moreau430_GBOOKS.xml","out/XML/Moreau430_GBOOKS-annotated.xml","out/XML/Moreau2564_GBOOKS-annotated.xml","in_XML/Moreau2564_GBOOKS.xml"],"langs":["fra"]}
