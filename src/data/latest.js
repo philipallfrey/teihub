@@ -1,1 +1,1 @@
-module.exports = [{"date":1671023143999,"name":"arthur-schnitzler/arthur-schnitzler-arbeit","url":"https://github.com/arthur-schnitzler/arthur-schnitzler-arbeit","desc":"Working Environment for the edition of the correspondences of Arthur Schnitzler. No documentation, not intended for a wider audience","files":["editions/L02839.xml"],"langs":["deu"]}];
+module.exports = [{"date":1671025594999,"name":"cschuwey/labruyere_ubs","url":"https://github.com/cschuwey/labruyere_ubs","desc":"-","files":["Caous_Audrey/Ouvrages_de_l'Esprit_10-30.xml"],"langs":["fra"]}];
