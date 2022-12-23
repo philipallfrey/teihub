@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1671788668999,"name":"cwrc/CWRC-Schema","url":"https://github.com/cwrc/CWRC-Schema","desc":"CWRC Schemas and supporting documents","files":["schemas/orlando_event.rng"],"langs":[]}];
