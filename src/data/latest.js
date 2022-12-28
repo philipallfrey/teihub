@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1672232520999,"name":"Handrit/Manuscripts","url":"https://github.com/Handrit/Manuscripts","desc":"Icelandic Manuscript descriptions using TEI P5 ","files":["Manuscripts/Landsbókasafn Íslands - Háskólabókasafn/Lbs/Lbs04/is/Lbs04-5787-is.xml"],"langs":["isl"]}];
