@@ -1,1 +1,1 @@
-module.exports = [{"date":1672465459999,"name":"pletcher/ajax_speech_comparisons","url":"https://github.com/pletcher/ajax_speech_comparisons","desc":"-","files":["texts/tlg0011.tlg003.perseus-grc2.xml"],"langs":["grc"]}];
+module.exports = [{"date":1672469235999,"name":"pletcher/ajax_speech_comparisons","url":"https://github.com/pletcher/ajax_speech_comparisons","desc":"-","files":["texts/tlg0011.tlg003.perseus-grc2.xml"],"langs":["grc"]}];
