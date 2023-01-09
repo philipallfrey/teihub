@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1673257562999,"name":"benrox/aeteilab","url":"https://github.com/benrox/aeteilab","desc":"Répertoire du projet ÆTeiLab","files":["Journal_du_Renard.xml"],"langs":[]}];
