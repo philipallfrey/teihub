@@ -1,1 +1,1 @@
-module.exports = [{"date":1674809272999,"name":"romanticcircles/rc-tei","url":"https://github.com/romanticcircles/rc-tei","desc":"-","files":["editions/2022/DW I/RJ/editions.2022.DW.RJ-15-index.xml","editions/2022/DW I/RJ/editions.2022.DW.RJ-15-reading.xml","editions/2022/DW I/RJ/editions.2022.DW.RJ-1-index.xml"],"langs":[]}];
+module.exports = [];
