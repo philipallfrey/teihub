@@ -1,1 +1,1 @@
-module.exports = [{"date":1674974823999,"name":"revuedescolonies/revuedescolonies","url":"https://github.com/revuedescolonies/revuedescolonies","desc":"Revues des Colonies Project","files":["static/tei/RdCv1n1-fr.xml"],"langs":[]}];
+module.exports = [{"date":1674978245999,"name":"revuedescolonies/revuedescolonies","url":"https://github.com/revuedescolonies/revuedescolonies","desc":"Revues des Colonies Project","files":["static/tei/RdCv1n1-fr.xml"],"langs":[]}];
