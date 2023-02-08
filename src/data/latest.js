@@ -1,1 +1,1 @@
-module.exports = [{"date":1675842334999,"name":"hmteditors/vb-book4","url":"https://github.com/hmteditors/vb-book4","desc":"Edition of Iliad 4 in the Venetus B manuscript","files":["editions/msb_iliad.xml"],"langs":[]}];
+module.exports = [{"date":1675846164999,"name":"hmteditors/vb-book4","url":"https://github.com/hmteditors/vb-book4","desc":"Edition of Iliad 4 in the Venetus B manuscript","files":["editions/msb_iliad.xml"],"langs":[]}];
