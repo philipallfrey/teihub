@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1676022300999,"name":"likeanga/vicav_zotero","url":"https://github.com/likeanga/vicav_zotero","desc":"-","files":["listbibl_template.xml"],"langs":[]},{"date":1676022300998,"name":"Florian-Langele/XML-TEI-Rendu-2023","url":"https://github.com/Florian-Langele/XML-TEI-Rendu-2023","desc":"Répertoire Gut Hub créé pour accueillir les différents fichiers demandés dans le cadre du devoir du cours de XML-TEI.","files":["SHF_1-137.xml","ODD_SHF_1-137.xml","ODD_SHF_1-137.rng"],"langs":[]}];
