@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1676098106999,"name":"EricaAndreose/ACD-Letters-from-the-war","url":"https://github.com/EricaAndreose/ACD-Letters-from-the-war","desc":"Group project of SEDT ","files":["08.xml"],"langs":[]},{"date":1676098106998,"name":"hmteditors/vb-book4","url":"https://github.com/hmteditors/vb-book4","desc":"Edition of Iliad 4 in the Venetus B manuscript","files":["editions/msb_iliad.xml"],"langs":[]}];
