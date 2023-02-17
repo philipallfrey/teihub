@@ -1,1 +1,1 @@
-module.exports = [{"date":1676623819999,"name":"erc-dharma/tfd-nusantara-philology","url":"https://github.com/erc-dharma/tfd-nusantara-philology","desc":"DHARMA project, task force D","files":["editions/DHARMA_CritEdSiksaKandangKaresian.xml","output/critical-edition/editedXML/EDITED_DHARMA_CritEdSiksaKandangKaresian.xml"],"langs":["san"]}];
+module.exports = [{"date":1676627160999,"name":"siglun/bible-references","url":"https://github.com/siglun/bible-references","desc":"-","files":["article.xml"],"langs":[]}];
