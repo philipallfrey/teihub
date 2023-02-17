@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1676677568999,"name":"biusante/medict_xml","url":"https://github.com/biusante/medict_xml","desc":"Dictionnaires de médecine, sources XML","files":["schema/medict.rng"],"langs":[]},{"date":1676677568998,"name":"haggis78/parla","url":"https://github.com/haggis78/parla","desc":"Files for the NEH-funded Parlamentos project","files":["XML/negrete-1803-unified-1.xml"],"langs":[]}];
