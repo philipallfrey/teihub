@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1677102361999,"name":"sarique2003/Extractify","url":"https://github.com/sarique2003/Extractify","desc":"-","files":["2206.11900.tei.xml","resources/test_out/2108.10341.tei.xml","2108.10341.tei.xml","resources/test_out/test_1/0f318087-b211-4ace-8ac9-3d9372a73c1c.tei.xml","resources/test_out/2206.11900.tei.xml"],"langs":["eng"]},{"date":1677102361994,"name":"edadunashvili/KaFo","url":"https://github.com/edadunashvili/KaFo","desc":"-","files":["tost.xml","test.xml.bak","test.xml"],"langs":["ava","ttt"]}];
