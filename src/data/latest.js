@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1677840509999,"name":"enjotel/alibindu","url":"https://github.com/enjotel/alibindu","desc":"-","files":["bindu-tei.xml"],"langs":[]},{"date":1677840509998,"name":"BetaMasaheft/Manuscripts","url":"https://github.com/BetaMasaheft/Manuscripts","desc":"Manuscripts descriptions","files":["FlorenceBML/BMLacq679/BMLacq679.xml","FlorenceBML/BMLacq306/BMLacq306.xml","FlorenceBML/BMLsmarco741/BMLsmarco741.xml"],"langs":["eng"]}];
