@@ -1,1 +1,1 @@
-{"date":1677541581983,"name":"biusante/medict_xml","url":"https://github.com/biusante/medict_xml","desc":"Dictionnaires de médecine, sources XML","files":["schema/medict.rng","xml/medict00216x06~planches.xml","scripts/begin_tmpl.xml"],"langs":["fra"]}
+{"date":1677896200992,"name":"biusante/medict_xml","url":"https://github.com/biusante/medict_xml","desc":"Dictionnaires de médecine, sources XML","files":["schema/medict.rng","xml/medict00216x06~planches.xml","scripts/begin_tmpl.xml","schema/medict.xsd"],"langs":["fra"]}
