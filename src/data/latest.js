@@ -1,1 +1,1 @@
-module.exports = [{"date":1678348002999,"name":"Auden-Musulin-Papers/amp-entities","url":"https://github.com/Auden-Musulin-Papers/amp-entities","desc":"repo to download, process and publish entities from zotero, baserow, ...","files":["out/listperson.xml","out/listorg.xml","out/listplace.xml","out/listevent.xml"],"langs":[]},{"date":1678348002995,"name":"JCabeza99/UPM-AI-GROBID","url":"https://github.com/JCabeza99/UPM-AI-GROBID","desc":"Simple grobid client for report generation","files":["tests/test.xml"],"langs":["eng"]}];
+module.exports = [];
