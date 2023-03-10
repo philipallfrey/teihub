@@ -1,1 +1,1 @@
-module.exports = [{"date":1678415019999,"name":"utda/goethe","url":"https://github.com/utda/goethe","desc":"-","files":["public/data/xml/goethe0309.xml"],"langs":[]}];
+module.exports = [];
