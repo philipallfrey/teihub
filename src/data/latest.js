@@ -1,1 +1,1 @@
-module.exports = [{"date":1679003097999,"name":"scta-texts/Vn7Pel","url":"https://github.com/scta-texts/Vn7Pel","desc":"Pelbartus de Themeswar Aureum Rosarium Theologiae","files":["Vn7Pel-h17777/cod-PELth2_Vn7Pel-h17777.xml"],"langs":["lat"]}];
+module.exports = [];
