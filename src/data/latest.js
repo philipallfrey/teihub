@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1679269518999,"name":"erc-dharma/tfc-khmer-epigraphy","url":"https://github.com/erc-dharma/tfc-khmer-epigraphy","desc":"This repository assembles data produced by the project Corpus des inscriptions khmères (before and during the DHARMA project).","files":["texts/xml-provisional/Arlo/DHARMA_INSCIKthaiTest.xml"],"langs":[]}];
