@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1679320147999,"name":"Auden-Musulin-Papers/amp-entities","url":"https://github.com/Auden-Musulin-Papers/amp-entities","desc":"repo to download, process and publish entities from zotero, baserow, ...","files":["out/listevent.xml"],"langs":[]}];
