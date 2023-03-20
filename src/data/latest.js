@@ -1,1 +1,1 @@
-module.exports = [{"date":1679298311999,"name":"Project-Cairo-Urban-News/CairoUrbanNews","url":"https://github.com/Project-Cairo-Urban-News/CairoUrbanNews","desc":"Al-Waqa'i' al-Misriyya Urban News","files":["articles/arabic/1293.xml"],"langs":["ara","eng","ota"]},{"date":1679298311998,"name":"MADStudioNU/the-pulter-project","url":"https://github.com/MADStudioNU/the-pulter-project","desc":"A digital edition of lady Hester Pulter’s poems.","files":["pulter-poems/pulter_090.xml","pulter-poems/pulter_113.xml"],"langs":["eng"]}];
+module.exports = [];
