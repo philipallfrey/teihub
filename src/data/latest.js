@@ -1,1 +1,1 @@
-module.exports = [{"date":1679312710999,"name":"avh-bern-berlin/avh-texts","url":"https://github.com/avh-bern-berlin/avh-texts","desc":"AvH texts","files":["xml/1857-Ein_Schreiben_Humboldts-1-neu.xml","xml/1857-xxx_Dedicace_pour_Buchanan-1-neu.xml"],"langs":["deu"]}];
+module.exports = [];
