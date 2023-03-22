@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1679482047999,"name":"enricadirado/Progetto-Codifica-di-testi","url":"https://github.com/enricadirado/Progetto-Codifica-di-testi","desc":"Progetto d'esame di Codifica di testi (A.A. 22/23) - professor Angelo Mario del Grosso","files":["src/diario.xml"],"langs":[]},{"date":1679482047998,"name":"Handrit/Manuscripts","url":"https://github.com/Handrit/Manuscripts","desc":"Icelandic Manuscript descriptions using TEI P5 ","files":["Manuscripts/Landsbókasafn Íslands - Háskólabókasafn/Lbs/Lbs04/is/Lbs04-0954-is.xml"],"langs":["isl"]}];
