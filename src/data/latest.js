@@ -1,1 +1,1 @@
-module.exports = [{"date":1679582809999,"name":"KfNGOe/zinzendorf-page","url":"https://github.com/KfNGOe/zinzendorf-page","desc":"-","files":["data/meta/about.xml"],"langs":[]}];
+module.exports = [{"date":1679586376999,"name":"freud-digital/frd-entities","url":"https://github.com/freud-digital/frd-entities","desc":"-","files":["out/listperson.xml","out/listbibl.xml"],"langs":[]}];
