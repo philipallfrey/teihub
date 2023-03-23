@@ -1,1 +1,1 @@
-module.exports = [{"date":1679586376999,"name":"freud-digital/frd-entities","url":"https://github.com/freud-digital/frd-entities","desc":"-","files":["out/listperson.xml","out/listbibl.xml"],"langs":[]}];
+module.exports = [];
