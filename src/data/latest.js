@@ -1,1 +1,1 @@
-module.exports = [];
+module.exports = [{"date":1679683722999,"name":"winnifredeatonarchive/wea_data","url":"https://github.com/winnifredeatonarchive/wea_data","desc":"The data for the WEA archive website","files":["data/bibliography.xml","data/people.xml"],"langs":[]},{"date":1679683722997,"name":"FiscalEstate/Fiscus","url":"https://github.com/FiscalEstate/Fiscus","desc":"Fiscal Estate in Medieval Italy: Continuity and Change (9th – 12th centuries)","files":["webapps/ROOT/content/xml/epidoc/doc3374.xml","webapps/ROOT/content/xml/epidoc/doc3372.xml"],"langs":[]}];
