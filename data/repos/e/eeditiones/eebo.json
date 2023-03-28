@@ -1,1 +1,1 @@
-{"date":1590816598793,"name":"eeditiones/eebo","url":"https://github.com/eeditiones/eebo","desc":"Early English Books Demo for TEI Publisher 6","langs":[],"count":24,"created":"2020-05-27T08:34:39Z","files":["data/taxonomy.xml"]}
+{"date":1680036328993,"name":"eeditiones/eebo","url":"https://github.com/eeditiones/eebo","desc":"Early English Books Demo for TEI Publisher 6","files":["data/taxonomy.xml","resources/odd/teipublisher.odd","resources/odd/tei_simplePrint.odd","resources/odd/docx.odd","resources/odd/annotations.odd"],"langs":[]}
