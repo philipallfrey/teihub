@@ -1,1 +1,1 @@
-module.exports = [{"date":1680500721999,"name":"dchanson/Ruskin","url":"https://github.com/dchanson/Ruskin","desc":"-","files":["_xml/_Completed/apparatuses/time_blank_verse_apparatus.xml","_xml/_In_Process/figures/heights_of_wisdom_drawing_msi.xml","_xml/_In_Process/notes/new_years_poems_note.xml"],"langs":[]}];
+module.exports = [];
