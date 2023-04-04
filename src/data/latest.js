@@ -1,1 +1,1 @@
-module.exports = [{"date":1680590785999,"name":"Gronacia/DSE","url":"https://github.com/Gronacia/DSE","desc":"-","files":["DSE2.xml"],"langs":[]}];
+module.exports = [{"date":1680594303999,"name":"fihristorg/fihrist-mss","url":"https://github.com/fihristorg/fihrist-mss","desc":"Fihrist TEI Catalogue","files":["authority/persons_additions.xml"],"langs":[]},{"date":1680594303998,"name":"Gronacia/DSE","url":"https://github.com/Gronacia/DSE","desc":"-","files":["DSE2.xml"],"langs":[]}];
