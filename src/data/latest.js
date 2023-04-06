@@ -1,1 +1,1 @@
-module.exports = [{"date":1680788721999,"name":"SIstory/koticek","url":"https://github.com/SIstory/koticek","desc":"Raziskovalni kotiček na INZ","files":["Raziskovalni_koticek.xml","sources/3/Plakat koncna-TEI-P5.xml"],"langs":[]}];
+module.exports = [{"date":1680792323999,"name":"SIstory/koticek","url":"https://github.com/SIstory/koticek","desc":"Raziskovalni kotiček na INZ","files":["Raziskovalni_koticek.xml","sources/3/Plakat koncna-TEI-P5.xml"],"langs":[]}];
