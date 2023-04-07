@@ -1,1 +1,1 @@
-module.exports = [{"date":1680835910999,"name":"dh-nuigalway/EN6138-2023","url":"https://github.com/dh-nuigalway/EN6138-2023","desc":"EN6138: Digital Scholarly Editing 2022-23","files":["edition/data/text/ImageTextLinkingOutline.xml"],"langs":[]}];
+module.exports = [{"date":1680839287999,"name":"dh-nuigalway/EN6138-2023","url":"https://github.com/dh-nuigalway/EN6138-2023","desc":"EN6138: Digital Scholarly Editing 2022-23","files":["edition/data/text/ImageTextLinkingOutline.xml"],"langs":[]}];
