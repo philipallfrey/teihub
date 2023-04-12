@@ -1,1 +1,1 @@
-{"date":1681278377996,"name":"UoMResearchIT/eXegis","url":"https://github.com/UoMResearchIT/eXegis","desc":"A Python module to convert text files to EpiDoc compatible XML.","files":["exegis/template/xml_template.xml","exegis/template/xml_template_aphorisms.xml"],"langs":[]}
+{"date":1681282048998,"name":"UoMResearchIT/eXegis","url":"https://github.com/UoMResearchIT/eXegis","desc":"A Python module to convert text files to EpiDoc compatible XML.","files":["exegis/template/xml_template.xml","exegis/template/xml_template_aphorisms.xml"],"langs":[]}
