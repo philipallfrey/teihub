@@ -15,7 +15,7 @@
     "@11ty/eleventy": "^0.11.0"
   },
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.9.1",
     "@actions/github": "^3.0.0",
     "@cospired/i18n-iso-languages": "^2.1.2",
     "@octokit/plugin-throttling": "^3.2.2",
