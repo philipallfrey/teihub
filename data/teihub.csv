@@ -605,7 +605,7 @@
 1680695118999,"bodleian/medieval-mss","https://github.com/bodleian/medieval-mss","Medieval Manuscripts in Oxford Libraries: TEI catalogue descriptions","lat|eng|ita|deu|fra|nld|grc|spa|zxx|gle|cym|ell|cor|chu|cat|ces|heb|pro|por|cop|egy|ara|rus|isl|fry|und|cai|gmh|goh|ang|enm|xno",10595
 1787679133956,"BetaMasaheft/Works","https://github.com/BetaMasaheft/Works","Ethiopian Literature edited in TEI","eng|gez|ara|lat|grc|amh|syr|kat|pal|ita|heb|cop|tir|deu|fra",5023
 1680205600967,"BetaMasaheft/Persons","https://github.com/BetaMasaheft/Persons","Authority files for each person","eng|gez|fra|ara|heb|grc|cop|por|ita|rus|amh|deu|tir|lat|syr",13765
-1788041867904,"BetaMasaheft/Manuscripts","https://github.com/BetaMasaheft/Manuscripts","Manuscripts descriptions","eng|gez|amh|ara|tir|lat|ita|ces|deu|fra|heb|cop|grc|rus|syr|spa|hye",16275
+1788051445904,"BetaMasaheft/Manuscripts","https://github.com/BetaMasaheft/Manuscripts","Manuscripts descriptions","eng|gez|amh|ara|tir|lat|ita|ces|deu|fra|heb|cop|grc|rus|syr|spa|hye",16275
 1644641131588,"Beth-Mardutho/surayt-data","https://github.com/Beth-Mardutho/surayt-data","-","tru|ara|cop|chu|deu|eng|spa|fra|gez|grc|hye|ita|kat|lat|nld|por|rus|sog|syr",186
 1638420579304,"BucknellDSC/florentineCodex","https://github.com/BucknellDSC/florentineCodex","Florentine Codex Project","spa|nau|spn",84
 1675446346983,"BetaMasaheft/guidelines","https://github.com/BetaMasaheft/guidelines","source files of the new encoding guidelines edited in XML","gez|tir|eng|amh|rus|lat|ita",224
@@ -1890,7 +1890,7 @@
 1682614101959,"davidwengier/roslyn","https://github.com/davidwengier/roslyn","The .NET Compiler Platform (""Roslyn"") provides open-source C# and Visual Basic compilers with rich code analysis APIs.","",1
 1682614101978,"DEVBOX10/dotnet-roslyn","https://github.com/DEVBOX10/dotnet-roslyn","The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.","",2
 1682405259932,"DEVBOX10/mapeditor-tiled","https://github.com/DEVBOX10/mapeditor-tiled","Flexible level editor","",1
-1788041867913,"dotnet/roslyn","https://github.com/dotnet/roslyn","The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.","",3
+1788051445913,"dotnet/roslyn","https://github.com/dotnet/roslyn","The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.","",3
 1682488097981,"dbader/pandoc","https://github.com/dbader/pandoc","Universal markup converter","",1
 1717775396987,"dotnet/sdk","https://github.com/dotnet/sdk","Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI","",1
 1711482612981,"dotnet/dotnet","https://github.com/dotnet/dotnet","Home of .NET's Virtual Monolithic Repository which includes all the code needed to build the .NET SDK from source","",3
@@ -2947,7 +2947,7 @@
 1784476598934,"ghukill/wsudor-rebus-abc","https://github.com/ghukill/wsudor-rebus-abc","An annotated digital edition created with Readux","",1
 1783767985962,"gofilipa/qte","https://github.com/gofilipa/qte","Web app displaying the TEI encoding of manuscript revisions to Oscar Wilde's ""The Picture of Dorian Gray""","",1
 1741607643987,"gbv/dea_lod","https://github.com/gbv/dea_lod","Languages of Diplomacy Data","",1
-1788041867999,"grobidOrg/grobid","https://github.com/grobidOrg/grobid","A machine learning software for extracting information from scholarly documents","",71
+1788051445999,"grobidOrg/grobid","https://github.com/grobidOrg/grobid","A machine learning software for extracting information from scholarly documents","",71
 1616763479733,"hmteditors/iliad3-2021","https://github.com/hmteditors/iliad3-2021","Editing book 3 of the Iliad in 3 Homeric MSS","",4
 1669632492976,"helmadik/LewisShortLogeion","https://github.com/helmadik/LewisShortLogeion","LewisShort from Perseus, edited at Chicago; needs your help! ","eng|lat",24
 1606740170312,"hawc2/tei-boilerplate-flask","https://github.com/hawc2/tei-boilerplate-flask","Flask app for serving tei-boilerplate","eng",4
@@ -3438,7 +3438,7 @@
 1682405259937,"ipenywis/tiled","https://github.com/ipenywis/tiled","A generic tile map editor","",1
 1783732918901,"iangow/personality-1","https://github.com/iangow/personality-1","-","eng",1
 1787944750911,"ImanVandeVelde/textasdata","https://github.com/ImanVandeVelde/textasdata","sample project for text as data","",10
-1788041867905,"jhellingman/tei2html","https://github.com/jhellingman/tei2html","XSLT stylesheets to convert TEI to HTML and ePub format.","eng|deu|spa|lat|fra|ita|tgl|pag|bik|nor|grc|rus|nld",11
+1788051445905,"jhellingman/tei2html","https://github.com/jhellingman/tei2html","XSLT stylesheets to convert TEI to HTML and ePub format.","eng|deu|spa|lat|fra|ita|tgl|pag|bik|nor|grc|rus|nld",11
 1630414712752,"Jean-Baptiste-Camps/Geste","https://github.com/Jean-Baptiste-Camps/Geste","Un corpus de chansons de geste","fro|fra|xno|wln",41
 1624585283820,"jakub-simek/czech-georgica","https://github.com/jakub-simek/czech-georgica","New Czech verse translation of Virgil's Georgica","",2
 1633596084426,"jakub-simek/carmina","https://github.com/jakub-simek/carmina","Carmina de cultura hortorum minora","",2
@@ -3724,7 +3724,7 @@
 1787944750980,"jgoldsmidt/joyce-prototipo","https://github.com/jgoldsmidt/joyce-prototipo","-","",1
 1780395154951,"jawalsh/tei2html","https://github.com/jawalsh/tei2html","XSLT Stylesheets, etc. for TEI P5 to HTML transformations","",3
 1787944750998,"jdickie/TEILiteEditor","https://github.com/jdickie/TEILiteEditor","Using CKEditor and the TEI-Ann plugin to generate a schema-oriented XML editor","",1
-1788041867989,"jgm/pandoc-templates","https://github.com/jgm/pandoc-templates","Templates for pandoc, tagged to release","",1
+1788051445989,"jgm/pandoc-templates","https://github.com/jgm/pandoc-templates","Templates for pandoc, tagged to release","",1
 1662724026904,"KONDE-AT/thun-data","https://github.com/KONDE-AT/thun-data","XML/TEI encoded transcriptions of the correspondence of Leo Thun Hohenstein.","",871
 1597408328409,"krav-alina/Latin","https://github.com/krav-alina/Latin","-","lat|eng|deu|fra|ita",36
 1620809270257,"katabase/3_TaggedData","https://github.com/katabase/3_TaggedData","Tagged catalogues.","fra|eng",217
@@ -5167,7 +5167,7 @@ This software provides a convenient way to organizing information and making it 
 1754068331925,"openbible-io/tanach.us","https://github.com/openbible-io/tanach.us","Version control for https://www.tanach.us/Books/Tanach.xml.zip","heb",7
 1749470328965,"ouvroir/nucma-test","https://github.com/ouvroir/nucma-test","-","fra",1
 1785189812952,"OdysseusPolymetis/initiation_tei_2024","https://github.com/OdysseusPolymetis/initiation_tei_2024","A repository for publication of several files in XML TEI, by the students of the ""Initiation TEI"" course 4055-2024","fra",1
-1788041867957,"papyri/idp.data","https://github.com/papyri/idp.data","Data from the Integrating Digital Papyrology project","fra|eng|deu|ita|spa|lat|ell|grc|egy|sem|ara|fas|arc|und|heb|cop|syr|pal|syc|kat|got|gcr",186152
+1788051445957,"papyri/idp.data","https://github.com/papyri/idp.data","Data from the Integrating Digital Papyrology project","fra|eng|deu|ita|spa|lat|ell|grc|egy|sem|ara|fas|arc|und|heb|cop|syr|pal|syc|kat|got|gcr",186152
 1677606397987,"Petrarchive/The-Petrarchive","https://github.com/Petrarchive/The-Petrarchive","Petrarchive. An edition of Petrarch’s songbook Rerum vulgarium fragmenta","",116
 1614791769755,"pierre-amadio/packard","https://github.com/pierre-amadio/packard"," Packard's Morphological Analysis Codes module for the Sword engine.","",1
 1680490316941,"peterwebster/henson","https://github.com/peterwebster/henson","Master data store for the Hensley Henson Journals project, and issue tracker. The application code is kept elsewhere.","",5349
@@ -5671,7 +5671,7 @@ This software provides a convenient way to organizing information and making it 
 1670186639968,"RSLancs/CEEF","https://github.com/RSLancs/CEEF","Digitisation and classifier project","",44
 1670946463955,"RISE-UNIBAS/TEIworkshop","https://github.com/RISE-UNIBAS/TEIworkshop","RISE workshop on the Text Encoding Initiative (TEI)","",3
 1672681471998,"Retr0327/corpus-backend","https://github.com/Retr0327/corpus-backend","A simple corpus backend API built with KoaJs and Apache Lucene.","",9
-1788041867963,"rism-digital/verovio","https://github.com/rism-digital/verovio","🎵 Music notation engraving library for MEI with MusicXML and Humdrum support and various toolkits (JavaScript, Python)","eng",2
+1788051445963,"rism-digital/verovio","https://github.com/rism-digital/verovio","🎵 Music notation engraving library for MEI with MusicXML and Humdrum support and various toolkits (JavaScript, Python)","eng",2
 1681987583935,"rae1509/HIST-630","https://github.com/rae1509/HIST-630","Repository for HIST 630 ","",15
 1678052777998,"rubenixter/UPM_IA-OS","https://github.com/rubenixter/UPM_IA-OS","cosas upm","eng",3
 1678225601990,"raffazizzi/astro-tei","https://github.com/raffazizzi/astro-tei","Astro components for TEI as Custom Elements","deu",1
@@ -6408,7 +6408,7 @@ This software provides a convenient way to organizing information and making it 
 1614430164852,"TuftsUniversity-deprecated/tufts_models","https://github.com/TuftsUniversity-deprecated/tufts_models","Hydra models for Tufts","eng",4
 1614430164843,"TuftsUniversity-deprecated/tufts_hydra_admin","https://github.com/TuftsUniversity-deprecated/tufts_hydra_admin","-","eng|fra|ita|deu|lat",30
 1614430164822,"TuftsUniversity-deprecated/tuftsification-hydra","https://github.com/TuftsUniversity-deprecated/tuftsification-hydra","-","eng|fra|ita|deu|lat",33
-1788041867922,"TEIC/TEI","https://github.com/TEIC/TEI","The Text Encoding Initiative Guidelines","fra|eng|x-lap|zho|ita|por|jpn|lat|und|ell|mul|non|kor|spa|deu|grc|kau|isl|slv|hrv|srp|heb|cym|lit|fro|pol|ces|sqi",243
+1788051445922,"TEIC/TEI","https://github.com/TEIC/TEI","The Text Encoding Initiative Guidelines","fra|eng|x-lap|zho|ita|por|jpn|lat|und|ell|mul|non|kor|spa|deu|grc|kau|isl|slv|hrv|srp|heb|cym|lit|fro|pol|ces|sqi",243
 1717775396990,"TEIC/Stylesheets","https://github.com/TEIC/Stylesheets","TEI XSL Stylesheets","eng|jpn|fra|spa|ita|kor|zho|deu|und|pol|ang|por|lat|ell|srp|isl|cym|dan|lit|fro|heb|sqi|non|slv|ava|x-lap",101
 1658483241997,"thecdil/mancini_source","https://github.com/thecdil/mancini_source","-","fra|eng|ita",170
 1657421949952,"TST-Project/editor","https://github.com/TST-Project/editor","TEI XML editor for the TST Project","",1
